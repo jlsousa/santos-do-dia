@@ -63,9 +63,9 @@
       "fonte": "https://mail.liturgia.pt/martirologio/elogio.php?data=2026-10-26",
       "sepultura": "Lastingham, Yorkshire, Inglaterra; local de culto associado ao santo.",
       "imagem": {
-        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Saint_cedd.jpg",
         "descricao": "Ícone devocional de São Ceda, representação posterior",
-        "fonte": "https://commons.wikimedia.org/wiki/File:Saint_cedd.jpg"
+        "fonte": "https://commons.wikimedia.org/wiki/File:Saint_cedd.jpg",
+        "estado": "Não publicada: falta confirmar identidade, licença e funcionamento do ficheiro."
       }
     },
     {
@@ -165,5 +165,5 @@
     "https://www.liturgia.pt/liturgiadiaria/dia.php?data=2026-10-26",
     "https://www.liturgia.pt/liturgiadiaria/dia.php?data=2026-10-27"
   ],
-  "estado": "Versão ampliada com elenco do Martirológio; iconografia ainda por validar individualmente."
+  "estado": "Edição provisória em revisão editorial. A identificação e licença de cada imagem carecem de verificação; a cobertura histórica e litúrgica não foi integralmente auditada."
 }
