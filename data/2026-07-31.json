@@ -1,0 +1,113 @@
+{
+  "liturgia": "Sexta-feira da XVII semana do Tempo Comum, memória obrigatória de Santo Inácio de Loiola, presbítero, em Portugal. Branco. Leituras: Jr 26,1-9; Sl 68(69); Mt 13,54-58. Na Companhia de Jesus é solenidade.",
+  "introducao": "Santo Inácio de Loiola ocupa o centro da celebração litúrgica portuguesa deste dia. O Martirológio inclui outros santos e beatos, aqui identificados sem confundir a sua memória com a celebração principal.",
+  "santos": [
+    {
+      "nome": "Santo Inácio de Loiola",
+      "identificacao": "País Basco, Espanha, 1491–1556; sacerdote e fundador da Companhia de Jesus.",
+      "biografia": "Íñigo López de Loyola nasceu numa família nobre basca. Depois de uma juventude marcada pela vida cortesã e militar, ficou gravemente ferido em Pamplona em 1521. Durante a convalescença, a leitura de vidas de Cristo e de santos despertou uma profunda conversão. Viveu um período decisivo em Manresa, que inspirou os Exercícios Espirituais. Estudou em Paris, onde reuniu companheiros, entre eles Francisco Xavier e Pedro Fabro. Em 1540, o Papa Paulo III aprovou a Companhia de Jesus. Inácio governou a ordem a partir de Roma, dedicando-se à formação, ao discernimento espiritual e à missão. A espiritualidade inaciana marcou profundamente a educação e a evangelização, incluindo a história de Portugal através dos jesuítas e das suas missões.",
+      "ensinamento": "Discernir significa reconhecer com liberdade e responsabilidade o que mais aproxima a vida do amor e do serviço de Deus.",
+      "referencias_biblicas": "Rm 12,1-2; Lc 9,23; Mt 13,54-58",
+      "beatificacao": "27 de julho de 1609, pelo Papa Paulo V.",
+      "canonizacao": "12 de março de 1622, pelo Papa Gregório XV.",
+      "milagres": "A tradição jesuíta preserva relatos de graças e curas atribuídas à intercessão de Santo Inácio. Não é rigoroso apresentar casos concretos como milagres oficialmente reconhecidos sem identificar os respetivos decretos históricos.",
+      "sepultura": "Igreja do Gesù, Roma, Itália.",
+      "fontes": [
+        "https://www.liturgia.pt/liturgiadiaria/dia.php?data=2026-7-31",
+        "https://www.vaticannews.va/pt/santo-do-dia/07/31.html"
+      ],
+      "imagem": {
+        "pesquisa": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Ignatius%20of%20Loyola%20portrait",
+        "descricao": "Retratos e pinturas de Santo Inácio de Loiola"
+      }
+    },
+    {
+      "nome": "São Justino de Jacobis",
+      "identificacao": "Itália, 1800–1860; bispo e missionário vicentino na Etiópia.",
+      "biografia": "Sacerdote da Congregação da Missão, partiu para o Corno de África em 1839. Dedicou-se ao encontro com as comunidades cristãs locais, à formação de clero indígena e ao diálogo entre tradições. Foi consagrado bispo e enfrentou oposição e perseguições. A sua obra é lembrada pela adaptação cultural e pelo respeito pelas populações evangelizadas.",
+      "ensinamento": "A missão exige escuta, aprendizagem e respeito pela cultura dos outros.",
+      "referencias_biblicas": "1 Cor 9,19-23",
+      "canonizacao": "26 de outubro de 1975, pelo Papa Paulo VI.",
+      "fontes": [
+        "https://www.vaticannews.va/pt/santo-do-dia/07/31.html"
+      ],
+      "imagem": {
+        "pesquisa": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Justin%20de%20Jacobis",
+        "descricao": "Retratos de São Justino de Jacobis"
+      }
+    },
+    {
+      "nome": "São Calímero de Milão",
+      "identificacao": "Itália, Antiguidade cristã; bispo de Milão.",
+      "biografia": "A memória de Calímero pertence ao culto antigo da Igreja de Milão. A tradição local conserva narrativas sobre a sua atividade pastoral e martírio, mas a cronologia exata é incerta. A sua presença no Martirológio confirma a veneração, não todos os detalhes transmitidos em relatos posteriores.",
+      "ensinamento": "O serviço pastoral requer perseverança mesmo quando a memória histórica é fragmentária.",
+      "referencias_biblicas": "1 Pd 5,2-4",
+      "canonizacao": "Culto antigo, anterior aos processos modernos de canonização.",
+      "fontes": [
+        "https://www.liturgia.pt/liturgiadiaria/dia.php?data=2026-7-31"
+      ],
+      "imagem": {
+        "pesquisa": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Calimerius%20Milan",
+        "descricao": "Iconografia de São Calímero"
+      }
+    },
+    {
+      "nome": "Santos Demócrito, Segundo e Dionísio",
+      "identificacao": "Frígia, atual Turquia; mártires da Antiguidade cristã.",
+      "biografia": "O Martirológio Romano recorda este grupo de mártires em Sínada, na Frígia. Os elementos biográficos preservados são escassos, não permitindo fixar com segurança datas de nascimento, circunstâncias pessoais ou milagres. A sua memória testemunha a continuidade da veneração dos mártires orientais.",
+      "ensinamento": "A memória dos mártires convida a respeitar a liberdade de consciência.",
+      "referencias_biblicas": "Rm 8,35-39",
+      "canonizacao": "Culto antigo.",
+      "fontes": [
+        "https://www.liturgia.pt/liturgiadiaria/dia.php?data=2026-7-31"
+      ],
+      "imagem": {
+        "pesquisa": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=martyrs%20Synada%20Democritus%20Secundus%20Dionysius",
+        "descricao": "Iconografia do grupo de mártires, por confirmar"
+      }
+    },
+    {
+      "nome": "São Fábio, mártir",
+      "identificacao": "Cesareia da Mauritânia, atual Argélia; mártir da Antiguidade cristã.",
+      "biografia": "Segundo o Martirológio, foi detido por se recusar a transportar a insígnia do governador numa assembleia provincial. Perante o juiz manteve a sua confissão cristã e foi condenado à morte. A tradição preserva sobretudo o testemunho de consciência perante o poder político.",
+      "ensinamento": "A consciência e a dignidade humana não devem ser subordinadas à imposição injusta.",
+      "referencias_biblicas": "At 5,29",
+      "canonizacao": "Culto antigo.",
+      "fontes": [
+        "https://www.liturgia.pt/liturgiadiaria/dia.php?data=2026-7-31"
+      ],
+      "imagem": {
+        "pesquisa": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Saint%20Fabius%20martyr%20Caesarea",
+        "descricao": "Iconografia de São Fábio, por confirmar"
+      }
+    }
+  ],
+  "beatos": [
+    {
+      "nome": "Beatos Dionísio Vicente Ramos e Francisco Remon Játiva",
+      "identificacao": "Mártires franciscanos conventuais, mortos em Granollers, Espanha, durante a perseguição religiosa de 1936."
+    },
+    {
+      "nome": "Beato Jaime Buch Canals",
+      "identificacao": "Religioso salesiano, mártir em Valência durante a perseguição religiosa da Guerra Civil Espanhola."
+    },
+    {
+      "nome": "Beatas Esperança da Cruz e companheiras",
+      "identificacao": "Quatro religiosas carmelitas missionárias martirizadas perto de Barcelona, em 1936."
+    },
+    {
+      "nome": "Beato Miguel Ozieblowski",
+      "identificacao": "Sacerdote polaco, mártir no campo de concentração de Dachau."
+    },
+    {
+      "nome": "Beata Sidónia (Cecília Schelingova)",
+      "identificacao": "Religiosa eslovaca que sofreu perseguição por proteger um sacerdote."
+    }
+  ],
+  "reflexao": "O Evangelho (Mt 13,54-58) recorda a resistência que Jesus encontrou entre os seus. A conversão de Inácio convida a não aprisionar uma pessoa na imagem do seu passado e a permanecer aberto à transformação.",
+  "fontes": [
+    "https://www.liturgia.pt/liturgiadiaria/dia.php?data=2026-7-31",
+    "https://www.vaticannews.va/pt/santo-do-dia/07/31.html"
+  ],
+  "estado": "Edição em desenvolvimento: lista de beatos resumida e iconografia ainda não verificada."
+}
