@@ -1,0 +1,37 @@
+{
+  "liturgia": "XXX Domingo do Tempo Comum (Ano A). Em Portugal prevalece a celebração dominical; as memórias dos santos não substituem a Missa do domingo. Evangelho: Mt 22,34-40.",
+  "santos": [
+    {
+      "nome": "Santo António de Sant'Ana Galvão (Frei Galvão)",
+      "identificacao": "Brasil, 1739–1822; sacerdote franciscano, nascido em Guaratinguetá. Festa celebrada a 25 de outubro, sobretudo no Brasil.",
+      "biografia": "Religioso franciscano conhecido pelo acolhimento dos pobres, direção espiritual, reconciliação e devoção mariana. Em 1774 fundou o Recolhimento de Nossa Senhora da Conceição da Divina Providência, origem do Mosteiro da Luz, em São Paulo.",
+      "milagres": "Dois casos foram reconhecidos no processo canónico: a recuperação de Daniela Cristina da Silva, gravemente doente em 1990 (beatificação), e o nascimento de Enzo em 1999, após uma gravidez de elevado risco de Sandra Grossi de Almeida (canonização). A devoção popular associa ainda graças às chamadas «pílulas de Frei Galvão»; estas não substituem tratamentos médicos. Beatificado por João Paulo II em 1998 e canonizado por Bento XVI em 2007.",
+      "sepultura": "Mosteiro da Luz, São Paulo, Brasil, onde o seu túmulo é visitado por peregrinos.",
+      "ensinamento": "A santidade concretiza-se na caridade, no acolhimento e na reconciliação. Cf. Jo 15,12-13.",
+      "fontes": [
+        "https://www.mosteirodaluz.org.br/historico/",
+        "https://www.vatican.va/content/benedict-xvi/pt/homilies/2007/documents/hf_ben-xvi_hom_20070511_canonization-brazil.html"
+      ]
+    },
+    {
+      "nome": "Santos Crispim e Crispiniano",
+      "identificacao": "Mártires cristãos tradicionalmente situados na Gália, atual França, no final do século III.",
+      "biografia": "Segundo a tradição hagiográfica, eram sapateiros em Soissons e anunciavam o Evangelho enquanto trabalhavam. O seu martírio é associado às perseguições romanas; os pormenores biográficos antigos não podem ser todos confirmados historicamente.",
+      "ensinamento": "O trabalho quotidiano pode ser vivido como serviço e testemunho de fé. Cf. Cl 3,23.",
+      "fontes": [
+        "https://www.vaticannews.va/pt/santo-do-dia/10/25.html"
+      ]
+    },
+    {
+      "nome": "Santos Crisanto e Dária",
+      "identificacao": "Mártires venerados em Roma, tradicionalmente situados no século III.",
+      "biografia": "A tradição conta que Crisanto se converteu ao cristianismo em Roma e que Dária aderiu também à fé. Ambos são venerados como mártires; os pormenores da narrativa antiga pertencem sobretudo à tradição hagiográfica.",
+      "sepultura": "A sua memória está historicamente associada à Via Salária Nova, em Roma.",
+      "ensinamento": "A fidelidade à consciência e à fé pode exigir coragem perante a pressão social. Cf. Rm 8,35-39.",
+      "fontes": [
+        "https://www.vaticannews.va/pt/santo-do-dia/10/25.html"
+      ]
+    }
+  ],
+  "beatos": []
+}
