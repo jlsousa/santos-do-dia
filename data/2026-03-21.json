@@ -15,7 +15,7 @@
         "https://www.liturgia.pt/liturgiadiaria/dia.php?data=2026-3-21"
       ],
       "imagem": {
-        "pesquisa": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Saint%20Benedict%20of%20Nursia"
+        "estado": "Não publicada: iconografia por identificar e validar."
       }
     },
     {
@@ -30,7 +30,7 @@
         "https://www.vaticannews.va/pt/santo-do-dia/03/21.html"
       ],
       "imagem": {
-        "pesquisa": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Nicholas%20of%20Flue"
+        "estado": "Não publicada: iconografia por identificar e validar."
       }
     }
   ],
@@ -40,5 +40,5 @@
     "https://www.liturgia.pt/liturgiadiaria/dia.php?data=2026-3-21",
     "https://www.vaticannews.va/pt/santo-do-dia/03/21.html"
   ],
-  "estado": "Versão parcial: faltam completar os restantes elogios do Martirológio e validar individualmente as imagens."
+  "estado": "Edição provisória em revisão editorial. A identificação e licença de cada imagem carecem de verificação; a cobertura histórica e litúrgica não foi integralmente auditada."
 }
