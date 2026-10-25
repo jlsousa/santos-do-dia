@@ -25,7 +25,12 @@
       "ensinamento": "O serviço pastoral é uma responsabilidade de cuidado e perseverança. Cf. 1 Pd 5,2-3.",
       "fontes": [
         "https://www.vaticannews.va/pt/santo-do-dia/10/26.html"
-      ]
+      ],
+      "imagem": {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Saint_Bean.jpg",
+        "descricao": "Representação de São Beano",
+        "fonte": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Saint%20Bean%20bishop"
+      }
     },
     {
       "nome": "São Demétrio, mártir",
@@ -34,7 +39,12 @@
       "ensinamento": "A coragem cristã nasce da fidelidade a Cristo, não da procura do sofrimento. Cf. Mt 10,28.",
       "fontes": [
         "https://www.vaticannews.va/pt/santo-do-dia/10/26.html"
-      ]
+      ],
+      "imagem": {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Saint_Demetrius_of_Thessaloniki.jpg",
+        "descricao": "Ícone de São Demétrio, representação devocional",
+        "fonte": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Saint%20Demetrius%20Thessaloniki"
+      }
     }
   ],
   "beatos": [
