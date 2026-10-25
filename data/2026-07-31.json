@@ -17,10 +17,9 @@
         "https://www.vaticannews.va/pt/santo-do-dia/07/31.html"
       ],
       "imagem": {
-        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/St._Ignatius_of_Loyola_by_Peter_Paul_Rubens.jpg",
-        "fonte": "https://commons.wikimedia.org/wiki/File:St._Ignatius_of_Loyola_by_Peter_Paul_Rubens.jpg",
         "descricao": "Santo Inácio de Loyola, pintura de Peter Paul Rubens (século XVII), Norton Simon Museum; representação posterior à vida do santo.",
-        "verificada": true
+        "fonte": "https://commons.wikimedia.org/wiki/File:St._Ignatius_of_Loyola_by_Peter_Paul_Rubens.jpg",
+        "estado": "Não publicada: falta confirmar identidade, licença e funcionamento do ficheiro."
       }
     },
     {
@@ -34,8 +33,8 @@
         "https://www.vaticannews.va/pt/santo-do-dia/07/31.html"
       ],
       "imagem": {
-        "pesquisa": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Justin%20de%20Jacobis",
-        "descricao": "Retratos de São Justino de Jacobis"
+        "descricao": "Retratos de São Justino de Jacobis",
+        "estado": "Não publicada: iconografia por identificar e validar."
       }
     },
     {
@@ -49,8 +48,8 @@
         "https://www.liturgia.pt/liturgiadiaria/dia.php?data=2026-7-31"
       ],
       "imagem": {
-        "pesquisa": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Calimerius%20Milan",
-        "descricao": "Iconografia de São Calímero"
+        "descricao": "Iconografia de São Calímero",
+        "estado": "Não publicada: iconografia por identificar e validar."
       }
     },
     {
@@ -64,8 +63,8 @@
         "https://www.liturgia.pt/liturgiadiaria/dia.php?data=2026-7-31"
       ],
       "imagem": {
-        "pesquisa": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=martyrs%20Synada%20Democritus%20Secundus%20Dionysius",
-        "descricao": "Iconografia do grupo de mártires, por confirmar"
+        "descricao": "Iconografia do grupo de mártires, por confirmar",
+        "estado": "Não publicada: iconografia por identificar e validar."
       }
     },
     {
@@ -79,8 +78,8 @@
         "https://www.liturgia.pt/liturgiadiaria/dia.php?data=2026-7-31"
       ],
       "imagem": {
-        "pesquisa": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Saint%20Fabius%20martyr%20Caesarea",
-        "descricao": "Iconografia de São Fábio, por confirmar"
+        "descricao": "Iconografia de São Fábio, por confirmar",
+        "estado": "Não publicada: iconografia por identificar e validar."
       }
     }
   ],
@@ -111,5 +110,5 @@
     "https://www.liturgia.pt/liturgiadiaria/dia.php?data=2026-7-31",
     "https://www.vaticannews.va/pt/santo-do-dia/07/31.html"
   ],
-  "estado": "Edição em desenvolvimento: lista de beatos resumida e iconografia ainda não verificada."
+  "estado": "Edição provisória em revisão editorial. A identificação e licença de cada imagem carecem de verificação; a cobertura histórica e litúrgica não foi integralmente auditada."
 }
