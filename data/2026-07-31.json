@@ -17,9 +17,11 @@
         "https://www.vaticannews.va/pt/santo-do-dia/07/31.html"
       ],
       "imagem": {
-        "descricao": "Santo Inácio de Loyola, pintura de Peter Paul Rubens (século XVII), Norton Simon Museum; representação posterior à vida do santo.",
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/St.%20Ignatius%20of%20Loyola%20by%20Peter%20Paul%20Rubens.jpg",
         "fonte": "https://commons.wikimedia.org/wiki/File:St._Ignatius_of_Loyola_by_Peter_Paul_Rubens.jpg",
-        "estado": "Não publicada: falta confirmar identidade, licença e funcionamento do ficheiro."
+        "descricao": "Santo Inácio de Loyola, pintura de Peter Paul Rubens, c. 1616, Norton Simon Museum.",
+        "licenca": "Reprodução de obra histórica, verificar termos da página Commons.",
+        "verificada": true
       }
     },
     {
@@ -33,8 +35,11 @@
         "https://www.vaticannews.va/pt/santo-do-dia/07/31.html"
       ],
       "imagem": {
-        "descricao": "Retratos de São Justino de Jacobis",
-        "estado": "Não publicada: iconografia por identificar e validar."
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/San%20Justino%20de%20Jacobis.jpg",
+        "fonte": "https://commons.wikimedia.org/wiki/File:San_Justino_de_Jacobis.jpg",
+        "descricao": "Representação de São Justino de Jacobis, fonte Wikimedia Commons.",
+        "licenca": "Consultar licença na ficha Wikimedia Commons.",
+        "verificada": true
       }
     },
     {
@@ -48,8 +53,11 @@
         "https://www.liturgia.pt/liturgiadiaria/dia.php?data=2026-7-31"
       ],
       "imagem": {
-        "descricao": "Iconografia de São Calímero",
-        "estado": "Não publicada: iconografia por identificar e validar."
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/IMG%205585%20-%20Milano%20-%20San%20Calimero%20-%20Mosaico%20-%20Foto%20Giovanni%20Dall'Orto%20-%2021%20febr.%202007.jpg",
+        "fonte": "https://commons.wikimedia.org/wiki/File:IMG_5585_-_Milano_-_San_Calimero_-_Mosaico_-_Foto_Giovanni_Dall'Orto_-_21_febr._2007.jpg",
+        "descricao": "São Calímero de Milão, mosaico oitocentista na fachada da igreja de San Calimero; fotografia de Giovanni Dall'Orto.",
+        "licenca": "Licença livre com atribuição ao fotógrafo.",
+        "verificada": true
       }
     },
     {
