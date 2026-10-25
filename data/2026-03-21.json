@@ -40,13 +40,120 @@
         "licenca": "Domínio público (PD-Art).",
         "verificada": true
       }
+    },
+    {
+      "nome": "Santa Benedita Cambiágio Frassinello",
+      "identificacao": "Itália, 1791–1858; religiosa e fundadora das Irmãs Beneditinas da Providência.",
+      "biografia": "Nasceu em Langasco, na Ligúria, e casou com Giovanni Battista Frassinello. Após discernimento conjunto, o casal dedicou-se à educação de raparigas pobres e à assistência a crianças desprotegidas. Benedita fundou uma comunidade religiosa dedicada à formação e proteção de jovens, numa época de forte desigualdade educativa. Morreu em Ronco Scrivia em 1858. A sua santidade foi reconhecida pelo exercício heroico das virtudes e pelo impacto da sua obra social.",
+      "ensinamento": "A educação e a proteção de crianças vulneráveis são expressões concretas de caridade.",
+      "referencias_biblicas": "Mt 19,13-15",
+      "canonizacao": "19 de maio de 2002, pelo Papa João Paulo II.",
+      "fontes": [
+        "https://www.liturgia.pt/martirologio/elogio.php?data=2004-03-21"
+      ],
+      "beatificacao": "10 de maio de 1987, pelo Papa João Paulo II."
+    },
+    {
+      "nome": "Santo Agostinho Zhao Rong",
+      "identificacao": "China, c. 1746–1815; sacerdote e mártir.",
+      "biografia": "Antigo soldado imperial, converteu-se ao cristianismo após contactar com cristãos perseguidos. Foi ordenado sacerdote e dedicou-se ao serviço pastoral. Durante a perseguição religiosa na China, foi preso e morreu em consequência dos maus-tratos. É um dos 120 mártires da China canonizados conjuntamente.",
+      "ensinamento": "A liberdade religiosa e a fidelidade à consciência merecem proteção.",
+      "referencias_biblicas": "Mt 10,32-33",
+      "canonizacao": "1 de outubro de 2000, pelo Papa João Paulo II, com os mártires da China.",
+      "fontes": [
+        "https://www.liturgia.pt/martirologio/elogio.php?data=2004-03-21"
+      ]
+    },
+    {
+      "nome": "São João de Valence",
+      "identificacao": "França, falecido cerca de 1145; antigo abade de Bonnevaux e bispo de Valence.",
+      "biografia": "Passou da vida monástica ao episcopado, dedicando-se à defesa da justiça e à assistência aos camponeses, pobres e comerciantes atingidos por dívidas. A tradição recorda a sua resistência a injustiças locais, num contexto de fortes desigualdades feudais.",
+      "ensinamento": "O serviço pastoral exige atenção à justiça económica e social.",
+      "referencias_biblicas": "Is 58,6-7",
+      "canonizacao": "Culto antigo, anterior aos processos modernos de canonização.",
+      "fontes": [
+        "https://www.liturgia.pt/martirologio/elogio.php?data=2004-03-21"
+      ]
+    },
+    {
+      "nome": "São Tiago Confessor",
+      "identificacao": "Constantinopla, falecido cerca de 824; monge e defensor da veneração das imagens.",
+      "biografia": "Durante as controvérsias iconoclastas do Império Bizantino, resistiu às medidas que proibiam a veneração de ícones religiosos. A tradição relata perseguição e sofrimento em consequência dessa resistência. Os dados biográficos pessoais são escassos.",
+      "ensinamento": "Defender a consciência exige firmeza sem desprezo pelo próximo.",
+      "referencias_biblicas": "1 Pd 3,15-16",
+      "canonizacao": "Culto antigo, anterior aos processos modernos de canonização.",
+      "fontes": [
+        "https://www.liturgia.pt/martirologio/elogio.php?data=2004-03-21"
+      ]
+    },
+    {
+      "nome": "Santo Endeu de Aran",
+      "identificacao": "Irlanda, falecido cerca de 542; abade e fundador de comunidades monásticas.",
+      "biografia": "A tradição irlandesa atribui-lhe a fundação de uma comunidade monástica nas ilhas Aran, cuja influência contribuiu para a expansão da vida ascética e do estudo religioso na Irlanda. A ilha de Aran ficou associada à formação de numerosos monges.",
+      "ensinamento": "Uma comunidade simples pode ter influência espiritual e cultural duradoura.",
+      "referencias_biblicas": "At 2,42-47",
+      "canonizacao": "Culto antigo, anterior aos processos modernos de canonização.",
+      "fontes": [
+        "https://www.liturgia.pt/martirologio/elogio.php?data=2004-03-21"
+      ]
+    },
+    {
+      "nome": "São Lupicino do Jura",
+      "identificacao": "Gália, falecido cerca de 480; monge e abade.",
+      "biografia": "Juntamente com o irmão São Romão, organizou comunidades monásticas nas montanhas do Jura. A tradição apresenta Lupicino como defensor de disciplina rigorosa e de vida comum austera, equilibrada pela dimensão pastoral da obra monástica.",
+      "ensinamento": "A disciplina só é fecunda quando orientada para o bem comum.",
+      "referencias_biblicas": "Hb 12,11",
+      "canonizacao": "Culto antigo, anterior aos processos modernos de canonização.",
+      "fontes": [
+        "https://www.liturgia.pt/martirologio/elogio.php?data=2004-03-21"
+      ]
+    },
+    {
+      "nome": "São Serapião, anacoreta",
+      "identificacao": "Egito, Antiguidade cristã; eremita, data de morte desconhecida.",
+      "biografia": "Recordado pelo Martirológio como anacoreta no Egito. A tradição do monaquismo do deserto desenvolveu práticas de oração, pobreza e ascese. Não se conhecem dados suficientes para atribuir a este Serapião episódios particulares transmitidos sobre outros santos homónimos.",
+      "ensinamento": "O silêncio e a sobriedade podem ajudar a reconhecer o essencial.",
+      "referencias_biblicas": "Mc 1,35",
+      "canonizacao": "Culto antigo, anterior aos processos modernos de canonização.",
+      "fontes": [
+        "https://www.liturgia.pt/martirologio/elogio.php?data=2004-03-21"
+      ]
+    },
+    {
+      "nome": "Santos mártires de Alexandria",
+      "identificacao": "Alexandria, Egito; grupo de cristãos mortos em 339.",
+      "biografia": "Durante os conflitos entre comunidades cristãs no reinado de Constâncio, fiéis reunidos em igrejas foram mortos por grupos hostis, segundo o Martirológio. O episódio testemunha a violência religiosa da época, sem justificar qualquer perseguição em nome da fé.",
+      "ensinamento": "A dignidade e a liberdade de consciência são incompatíveis com a violência religiosa.",
+      "referencias_biblicas": "Rm 12,18-21",
+      "canonizacao": "Culto antigo, anterior aos processos modernos de canonização.",
+      "fontes": [
+        "https://www.liturgia.pt/martirologio/elogio.php?data=2004-03-21"
+      ]
     }
   ],
-  "beatos": [],
+  "beatos": [
+    {
+      "nome": "Beato Tomás Pilchard",
+      "identificacao": "Sacerdote inglês, mártir em Dorchester em 1591, executado durante o reinado de Isabel I por exercer o ministério católico."
+    },
+    {
+      "nome": "Guilherme Pike, mártir",
+      "identificacao": "Carpinteiro inglês, morto por se ter reconciliado com a Igreja Católica; recordado juntamente com o Beato Tomás Pilchard no Martirológio."
+    },
+    {
+      "nome": "Beato Mateus Flathers",
+      "identificacao": "Sacerdote inglês, mártir em York em 1608, durante o reinado de Jaime I, por fidelidade ao ministério católico."
+    },
+    {
+      "nome": "Beato Miguel Gómez Loza",
+      "identificacao": "México, 1888–1928; leigo, pai de família e advogado, morto durante a perseguição religiosa no México; beatificado em 2005."
+    }
+  ],
   "reflexao": "A divisão descrita em Jo 7,40-53 convida a examinar preconceitos e a procurar a verdade com humildade.",
   "fontes": [
     "https://www.liturgia.pt/liturgiadiaria/dia.php?data=2026-3-21",
-    "https://www.vaticannews.va/pt/santo-do-dia/03/21.html"
+    "https://www.vaticannews.va/pt/santo-do-dia/03/21.html",
+    "https://www.liturgia.pt/martirologio/elogio.php?data=2004-03-21"
   ],
-  "estado": "Edição provisória em revisão editorial. A identificação e licença de cada imagem carecem de verificação; a cobertura histórica e litúrgica não foi integralmente auditada."
+  "estado": "Cobertura revista a partir dos 13 elogios do Martirológio Romano (incluindo santos, grupos de mártires e beatos). Iconografia de várias fichas ainda pendente; biografias em aprofundamento."
 }
