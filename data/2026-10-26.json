@@ -133,14 +133,22 @@
     {
       "nome": "Santos Luciano e Marciano",
       "identificacao": "Nicomédia, atual Turquia, tradicionalmente cerca de 250; mártires.",
-      "biografia": "Segundo a tradição transmitida pelo Martirológio, foram condenados durante a perseguição do imperador Décio e mortos pelo fogo. Os detalhes da narrativa antiga não são todos historicamente verificáveis.",
+      "biografia": "Segundo a tradição transmitida pelo Martirológio, foram condenados durante a perseguição do imperador Décio e mortos pelo fogo. Os detalhes da narrativa antiga não são todos historicamente verificáveis. O culto dos dois mártires foi especialmente importante em Vic, na Catalunha, onde as relíquias são veneradas. A tradição de Vic identifica-os com os mártires de Nicomédia, mas os relatos antigos têm variantes.",
       "ensinamento": "A fé cristã recorda a dignidade da consciência humana perante a coerção.",
       "referencias_biblicas": "Mt 10,28",
       "canonizacao": "Culto antigo; não se aplica um processo moderno de canonização documentado.",
       "fontes": [
-        "https://mail.liturgia.pt/martirologio/elogio.php?data=2026-10-26"
+        "https://mail.liturgia.pt/martirologio/elogio.php?data=2026-10-26",
+        "https://www.santiebeati.it/dettaglio/75310"
       ],
-      "fonte": "https://mail.liturgia.pt/martirologio/elogio.php?data=2026-10-26"
+      "fonte": "https://mail.liturgia.pt/martirologio/elogio.php?data=2026-10-26",
+      "imagem": {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/199%20Esgl%C3%A9sia%20de%20la%20Pietat%20(Vic)%2C%20els%20sants%20m%C3%A0rtirs%20Lluci%C3%A0%20i%20Marci%C3%A0%2C%20de%20Carles%20Morat%C3%B3.jpg",
+        "fonte": "https://commons.wikimedia.org/wiki/File:199_Esgl%C3%A9sia_de_la_Pietat_(Vic)%2C_els_sants_m%C3%A0rtirs_Lluci%C3%A0_i_Marci%C3%A0%2C_de_Carles_Morat%C3%B3.jpg",
+        "descricao": "Santos Luciano e Marciano, representação escultórica de Carles Morató na Igreja da Pietat, Vic (Catalunha).",
+        "licenca": "Ver atribuição e licença do fotógrafo na ficha Wikimedia Commons.",
+        "verificada": true
+      }
     }
   ],
   "beatos": [
