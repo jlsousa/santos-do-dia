@@ -11,7 +11,14 @@
       "canonizacao": "Culto antigo; não se aplica um processo moderno de canonização documentado.",
       "fontes": [
         "https://mail.liturgia.pt/martirologio/elogio.php?data=2026-10-25"
-      ]
+      ],
+      "imagem": {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Bernat%20Calb%C3%B3.jpg",
+        "fonte": "https://commons.wikimedia.org/wiki/File:Bernat_Calb%C3%B3.jpg",
+        "descricao": "São Bernardo Calbó, xilogravura catalã do século XIX.",
+        "licenca": "Domínio público.",
+        "verificada": true
+      }
     },
     {
       "nome": "Santo Amaro, bispo",
@@ -33,7 +40,14 @@
       "canonizacao": "Culto antigo; não se aplica um processo moderno de canonização documentado.",
       "fontes": [
         "https://mail.liturgia.pt/martirologio/elogio.php?data=2026-10-25"
-      ]
+      ],
+      "imagem": {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/St.%20Frutos%20-%20Sts.%20Frutos%2C%20Valent%C3%ADn%20and%20Engracia%20Chapel%20-%20Cathedral%20of%20Segovia.JPG",
+        "fonte": "https://commons.wikimedia.org/wiki/File:St._Frutos_-_Sts._Frutos%2C_Valent%C3%ADn_and_Engracia_Chapel_-_Cathedral_of_Segovia.JPG",
+        "descricao": "Representação escultórica de São Fruto na Catedral de Segóvia, fotografia de José Luiz.",
+        "licenca": "Ver licença na página de origem; atribuição ao fotógrafo.",
+        "verificada": true
+      }
     },
     {
       "nome": "Santo Hilário de Mende",
