@@ -61,7 +61,12 @@
         "https://mail.liturgia.pt/martirologio/elogio.php?data=2026-10-26"
       ],
       "fonte": "https://mail.liturgia.pt/martirologio/elogio.php?data=2026-10-26",
-      "sepultura": "Lastingham, Yorkshire, Inglaterra; local de culto associado ao santo."
+      "sepultura": "Lastingham, Yorkshire, Inglaterra; local de culto associado ao santo.",
+      "imagem": {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Saint_cedd.jpg",
+        "descricao": "Ícone devocional de São Ceda, representação posterior",
+        "fonte": "https://commons.wikimedia.org/wiki/File:Saint_cedd.jpg"
+      }
     },
     {
       "nome": "Santo Eata de Hexham",
