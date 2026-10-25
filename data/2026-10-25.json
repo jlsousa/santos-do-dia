@@ -101,7 +101,14 @@
       "fontes": [
         "https://mail.liturgia.pt/martirologio/elogio.php?data=2026-10-25"
       ],
-      "sepultura": "Veneração antiga no cemitério de Trasão, na Via Salária Nova, Roma."
+      "sepultura": "Veneração antiga no cemitério de Trasão, na Via Salária Nova, Roma.",
+      "imagem": {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Chrysanthus%20and%20Daria%20of%20Rome.jpg",
+        "fonte": "https://commons.wikimedia.org/wiki/File:Chrysanthus_and_Daria_of_Rome.jpg",
+        "descricao": "Santos Crisanto e Dária, miniatura bizantina do Menológio de Basílio II, século X.",
+        "licenca": "Domínio público (obra medieval).",
+        "verificada": true
+      }
     },
     {
       "nome": "Santos Crispim e Crispiniano",
@@ -115,9 +122,11 @@
       ],
       "patronato": "Padroeiros tradicionais dos sapateiros e de ofícios ligados ao calçado.",
       "imagem": {
-        "descricao": "Gravura italiana do século XVIII, autores Remondini, domínio público",
-        "fonte": "https://commons.wikimedia.org/wiki/File:Crispino_e_Crispiniano.jpg",
-        "estado": "Não publicada: falta confirmar identidade, licença e funcionamento do ficheiro."
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Jan%20van%20der%20Venne%20-%20Saints%20Crispin%20and%20Crispinian.jpg",
+        "fonte": "https://commons.wikimedia.org/wiki/File:Jan_van_der_Venne_-_Saints_Crispin_and_Crispinian.jpg",
+        "descricao": "Santos Crispim e Crispiniano, pintura de Jan van der Venne (século XVII), Museu de Belas-Artes de Besançon.",
+        "licenca": "Domínio público (PD-Art).",
+        "verificada": true
       }
     },
     {
@@ -133,7 +142,14 @@
       ],
       "beatificacao": "25 de outubro de 1998, pelo Papa João Paulo II.",
       "milagres": "Para a beatificação, a Igreja reconheceu uma cura atribuída à sua intercessão. Para a canonização, reconheceu o caso da gravidez de Sandra Grossi de Almeida e nascimento do filho Enzo, em circunstâncias médicas consideradas extraordinárias. As chamadas «pílulas de Frei Galvão» pertencem à devoção popular; não se deve tratar cada testemunho associado como milagre canonicamente reconhecido.",
-      "sepultura": "Mosteiro da Luz, São Paulo, Brasil."
+      "sepultura": "Mosteiro da Luz, São Paulo, Brasil.",
+      "imagem": {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/An%C3%B4nimo%20-%20Frei%20Galv%C3%A3o.jpg",
+        "fonte": "https://commons.wikimedia.org/wiki/File:An%C3%B4nimo_-_Frei_Galv%C3%A3o.jpg",
+        "descricao": "Frei Galvão, pintura anónima de cerca de 1850, Museu de Arte Sacra de São Paulo.",
+        "licenca": "Domínio público (obra histórica).",
+        "verificada": true
+      }
     }
   ],
   "beatos": [
