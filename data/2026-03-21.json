@@ -15,7 +15,11 @@
         "https://www.liturgia.pt/liturgiadiaria/dia.php?data=2026-3-21"
       ],
       "imagem": {
-        "estado": "Não publicada: iconografia por identificar e validar."
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Benedict%20of%20Nursia.jpg",
+        "fonte": "https://commons.wikimedia.org/wiki/File:Benedict_of_Nursia.jpg",
+        "descricao": "São Bento de Núrsia, ícone de autor desconhecido, obra em domínio público.",
+        "licenca": "Domínio público (PD-Art).",
+        "verificada": true
       }
     },
     {
@@ -30,7 +34,11 @@
         "https://www.vaticannews.va/pt/santo-do-dia/03/21.html"
       ],
       "imagem": {
-        "estado": "Não publicada: iconografia por identificar e validar."
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Nicholas-Flue.jpg",
+        "fonte": "https://commons.wikimedia.org/wiki/File:Nicholas-Flue.jpg",
+        "descricao": "São Nicolau de Flüe, pintura de altar de Sachseln, hoje no Museum Bruder Klaus.",
+        "licenca": "Domínio público (PD-Art).",
+        "verificada": true
       }
     }
   ],
