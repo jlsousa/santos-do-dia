@@ -31,9 +31,8 @@
         "https://www.vaticannews.va/pt/santo-do-dia/10/25.html"
       ],
       "imagem": {
-        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Saints_Crispin_and_Crispinian.jpg",
-        "descricao": "Representação devocional dos santos mártires Crispim e Crispiniano",
-        "fonte": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Saints%20Crispin%20Crispinian"
+        "pesquisa": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Saints%20Crispin%20Crispinian",
+        "descricao": "Iconografia ainda por verificar; consultar imagens disponíveis no Wikimedia Commons."
       }
     },
     {
@@ -46,9 +45,8 @@
         "https://www.vaticannews.va/pt/santo-do-dia/10/25.html"
       ],
       "imagem": {
-        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Chrysanthus_and_Daria.jpg",
-        "descricao": "Representação devocional dos santos mártires Crisanto e Dária",
-        "fonte": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Chrysanthus%20Daria"
+        "pesquisa": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Chrysanthus%20Daria",
+        "descricao": "Iconografia ainda por verificar; consultar imagens disponíveis no Wikimedia Commons."
       }
     }
   ],
