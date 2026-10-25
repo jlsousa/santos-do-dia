@@ -63,9 +63,11 @@
       "fonte": "https://mail.liturgia.pt/martirologio/elogio.php?data=2026-10-26",
       "sepultura": "Lastingham, Yorkshire, Inglaterra; local de culto associado ao santo.",
       "imagem": {
-        "descricao": "Ícone devocional de São Ceda, representação posterior",
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Saint_cedd.jpg",
         "fonte": "https://commons.wikimedia.org/wiki/File:Saint_cedd.jpg",
-        "estado": "Não publicada: falta confirmar identidade, licença e funcionamento do ficheiro."
+        "descricao": "São Ceda (Cedd), ícone devocional de autor desconhecido, representação não contemporânea.",
+        "licenca": "PD-Art segundo ficha Wikimedia Commons; origem original pouco documentada.",
+        "verificada": true
       }
     },
     {
