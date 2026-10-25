@@ -115,9 +115,9 @@
       ],
       "patronato": "Padroeiros tradicionais dos sapateiros e de ofícios ligados ao calçado.",
       "imagem": {
-        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Crispino%20e%20Crispiniano.jpg",
         "descricao": "Gravura italiana do século XVIII, autores Remondini, domínio público",
-        "fonte": "https://commons.wikimedia.org/wiki/File:Crispino_e_Crispiniano.jpg"
+        "fonte": "https://commons.wikimedia.org/wiki/File:Crispino_e_Crispiniano.jpg",
+        "estado": "Não publicada: falta confirmar identidade, licença e funcionamento do ficheiro."
       }
     },
     {
@@ -155,5 +155,5 @@
     "https://mail.liturgia.pt/martirologio/elogio.php?data=2026-10-25",
     "https://mail.liturgia.pt/liturgiadiaria/dia.php?data=2026-10-25"
   ],
-  "estado": "Versão ampliada com elenco do Martirológio; iconografia ainda por validar individualmente."
+  "estado": "Edição provisória em revisão editorial. A identificação e licença de cada imagem carecem de verificação; a cobertura histórica e litúrgica não foi integralmente auditada."
 }
