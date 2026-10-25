@@ -1,52 +1,164 @@
 {
-  "liturgia": "Segunda-feira da XXX semana do Tempo Comum, em Portugal. Leituras: Ef 4,32–5,8 e Lc 13,10-17. Na Arquidiocese de Évora, memória facultativa do Beato Gonçalo de Lagos.",
+  "liturgia": "Segunda-feira da XXX semana do Tempo Comum (Portugal), Ano par. Leituras: Ef 4,32–5,8; Sl 1; Lc 13,10-17. Na Arquidiocese de Évora há memória facultativa do Beato Gonçalo de Lagos; a sua memória no calendário nacional é 27 de outubro.",
+  "introducao": "A leitura de Efésios convida a caminhar na caridade, enquanto Jesus cura uma mulher ao sábado. O serviço ao próximo não deve ser bloqueado por uma interpretação rígida das regras.",
   "santos": [
     {
-      "nome": "São Ceda (Cedd), bispo",
-      "identificacao": "Inglaterra, século VII; monge e bispo missionário, falecido em 664 segundo a cronologia histórica habitualmente aceite.",
-      "biografia": "Monge formado na tradição de Lindisfarne e irmão de São Chad, foi enviado como missionário aos anglo-saxões no século VII. Aprendeu a comunicar a fé em contextos culturais diversos, fundou comunidades cristãs e foi consagrado bispo dos saxões orientais. Participou no Sínodo de Whitby (664), onde serviu de intérprete entre diferentes tradições eclesiásticas. Fundou o mosteiro de Lastingham, no Yorkshire, onde morreu de peste em 664. A sua memória está ligada à evangelização do norte e leste de Inglaterra.",
-      "sepultura": "Mosteiro de Lastingham, Inglaterra, local ligado à sua morte e veneração.",
-      "ensinamento": "Anunciar a fé exige aprender a língua e a cultura daqueles a quem se serve. Cf. 1 Cor 9,22-23.",
+      "nome": "São Fulco de Pavia",
+      "identificacao": "Natural da Escócia, falecido em 1229; bispo de Pavia, Itália.",
+      "biografia": "Foi bispo numa época de conflitos e transformações políticas. O Martirológio recorda-o pela procura da paz, pelo zelo apostólico e pela caridade. O seu testemunho destaca a responsabilidade do pastor perante as divisões da comunidade.",
+      "ensinamento": "A autoridade religiosa deve construir pontes e promover a paz.",
+      "referencias_biblicas": "Mt 5,9",
+      "canonizacao": "Culto antigo; não se aplica um processo moderno de canonização documentado.",
       "fontes": [
-        "https://www.vaticannews.va/pt/santo-do-dia/10/26.html"
+        "https://mail.liturgia.pt/martirologio/elogio.php?data=2026-10-26"
       ],
-      "imagem": {
-        "pesquisa": "https://commons.wikimedia.org/wiki/File:Saint_cedd.jpg",
-        "descricao": "Iconografia ainda por verificar; consultar imagens disponíveis no Wikimedia Commons."
-      },
-      "referencias_biblicas": "1 Cor 9,19-23 (aproximação missionária); Mt 28,19-20 (missão evangelizadora).",
-      "canonizacao": "Culto antigo, anterior aos processos modernos de canonização; não existe ano ou Papa de canonização documentado."
+      "fonte": "https://mail.liturgia.pt/martirologio/elogio.php?data=2026-10-26"
     },
     {
-      "nome": "São Beano, bispo",
-      "identificacao": "Escócia, séculos X–XI; bispo tradicionalmente associado a Mortlach.",
-      "biografia": "A tradição eclesiástica escocesa liga-o à antiga sede episcopal de Mortlach, posteriormente associada à história da diocese de Aberdeen. Os dados biográficos são escassos, pelo que não é seguro fixar episódios particulares da sua vida.",
-      "ensinamento": "O serviço pastoral é uma responsabilidade de cuidado e perseverança. Cf. 1 Pd 5,2-3.",
+      "nome": "São Beano de Mortlach",
+      "identificacao": "Escócia, falecido cerca de 1032; bispo de Mortlach.",
+      "biografia": "É recordado no Martirológio como bispo de Mortlach, antiga sede episcopal escocesa. Sobrevive pouca informação biográfica segura; por isso, não se atribuem milagres ou episódios pormenorizados sem documentação.",
+      "ensinamento": "A memória de um serviço fiel pode sobreviver mesmo quando os pormenores biográficos se perdem.",
+      "referencias_biblicas": "1 Pd 5,2-3",
+      "canonizacao": "Culto antigo; não se aplica um processo moderno de canonização documentado.",
       "fontes": [
-        "https://www.vaticannews.va/pt/santo-do-dia/10/26.html"
+        "https://mail.liturgia.pt/martirologio/elogio.php?data=2026-10-26"
       ],
-      "imagem": {
-        "pesquisa": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Saint%20Bean%20bishop",
-        "descricao": "Iconografia ainda por verificar; consultar imagens disponíveis no Wikimedia Commons."
-      }
+      "fonte": "https://mail.liturgia.pt/martirologio/elogio.php?data=2026-10-26"
     },
     {
-      "nome": "São Demétrio, mártir",
-      "identificacao": "Mártir da Antiguidade cristã, ligado à região balcânica; a sua identidade e tradições locais apresentam variantes.",
-      "biografia": "A veneração de Demétrio tem raízes antigas no cristianismo oriental. Algumas tradições associam-no a Tessalónica, enquanto a síntese publicada pelo Vatican News o apresenta como diácono martirizado em Sirmium, na Panónia. A diversidade das fontes recomenda prudência quanto a datas e circunstâncias.",
-      "ensinamento": "A coragem cristã nasce da fidelidade a Cristo, não da procura do sofrimento. Cf. Mt 10,28.",
+      "nome": "São Vita ou Albuíno",
+      "identificacao": "Inglaterra e Alemanha, falecido cerca de 786; primeiro bispo de Bürberg.",
+      "biografia": "Oriundo de Inglaterra, foi chamado por São Bonifácio para colaborar na missão cristã em Hessen. É recordado como primeiro bispo de Bürberg e evangelizador da região. A sua atividade integra o movimento missionário anglo-saxónico na Europa continental.",
+      "ensinamento": "A missão exige disponibilidade para servir longe da terra natal.",
+      "referencias_biblicas": "Mt 28,19-20",
+      "canonizacao": "Culto antigo; não se aplica um processo moderno de canonização documentado.",
       "fontes": [
-        "https://www.vaticannews.va/pt/santo-do-dia/10/26.html"
+        "https://mail.liturgia.pt/martirologio/elogio.php?data=2026-10-26"
       ],
-      "imagem": {
-        "pesquisa": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Saint%20Demetrius%20Thessaloniki",
-        "descricao": "Iconografia ainda por verificar; consultar imagens disponíveis no Wikimedia Commons."
-      }
+      "fonte": "https://mail.liturgia.pt/martirologio/elogio.php?data=2026-10-26"
+    },
+    {
+      "nome": "São Sigebaldo de Metz",
+      "identificacao": "França atual, falecido em 741; bispo de Metz.",
+      "biografia": "Bispo da antiga região da Austrásia, ficou associado à fundação de vários mosteiros. Estas comunidades desempenharam funções espirituais, educativas e sociais na Europa medieval.",
+      "ensinamento": "Criar instituições duradouras é uma forma de cuidar das gerações futuras.",
+      "referencias_biblicas": "1 Cor 3,6-9",
+      "canonizacao": "Culto antigo; não se aplica um processo moderno de canonização documentado.",
+      "fontes": [
+        "https://mail.liturgia.pt/martirologio/elogio.php?data=2026-10-26"
+      ],
+      "fonte": "https://mail.liturgia.pt/martirologio/elogio.php?data=2026-10-26"
+    },
+    {
+      "nome": "São Ceda (Cedd)",
+      "identificacao": "Inglaterra, falecido em 664; monge e bispo missionário dos saxões orientais.",
+      "biografia": "Formado na tradição de Lindisfarne, foi enviado em missão entre os saxões orientais e ordenado bispo por São Finano. Fundou o mosteiro de Lastingham, onde morreu durante uma epidemia. Participou no Sínodo de Whitby, contribuindo para o diálogo entre tradições cristãs.",
+      "ensinamento": "A evangelização exige proximidade cultural, paciência e capacidade de diálogo.",
+      "referencias_biblicas": "1 Cor 9,19-23",
+      "canonizacao": "Culto antigo; não se aplica um processo moderno de canonização documentado.",
+      "fontes": [
+        "https://mail.liturgia.pt/martirologio/elogio.php?data=2026-10-26"
+      ],
+      "fonte": "https://mail.liturgia.pt/martirologio/elogio.php?data=2026-10-26",
+      "sepultura": "Lastingham, Yorkshire, Inglaterra; local de culto associado ao santo."
+    },
+    {
+      "nome": "Santo Eata de Hexham",
+      "identificacao": "Inglaterra, século VII; monge, abade e bispo de Hexham.",
+      "biografia": "Dirigiu mosteiros e comunidades eclesiais no norte de Inglaterra. O Martirológio salienta a sua simplicidade, afabilidade e perseverança na vida ascética, mesmo quando assumiu responsabilidades episcopais. Algumas cronologias medievais variam, pelo que se evita fixar um ano de morte não confirmado.",
+      "ensinamento": "A humildade deve acompanhar a responsabilidade.",
+      "referencias_biblicas": "Fl 2,3-5",
+      "canonizacao": "Culto antigo; não se aplica um processo moderno de canonização documentado.",
+      "fontes": [
+        "https://mail.liturgia.pt/martirologio/elogio.php?data=2026-10-26"
+      ],
+      "fonte": "https://mail.liturgia.pt/martirologio/elogio.php?data=2026-10-26"
+    },
+    {
+      "nome": "Santo Aptónio de Angoulême",
+      "identificacao": "Gália, falecido cerca de 567; bispo de Angoulême.",
+      "biografia": "Venerado como bispo de Angoulême na Aquitânia. As fontes conservadas não permitem reconstruir com segurança muitos episódios da sua vida. A sua memória testemunha a continuidade das comunidades cristãs no período pós-romano.",
+      "ensinamento": "A perseverança na vida comunitária é também uma forma de santidade.",
+      "referencias_biblicas": "At 2,42-47",
+      "canonizacao": "Culto antigo; não se aplica um processo moderno de canonização documentado.",
+      "fontes": [
+        "https://mail.liturgia.pt/martirologio/elogio.php?data=2026-10-26"
+      ],
+      "fonte": "https://mail.liturgia.pt/martirologio/elogio.php?data=2026-10-26"
+    },
+    {
+      "nome": "São Rústico de Narbona",
+      "identificacao": "Gália, falecido cerca de 461; bispo de Narbona.",
+      "biografia": "Pensou abandonar o ministério episcopal para se dedicar ao recolhimento. Segundo o Martirológio, foi encorajado pelo Papa São Leão Magno a perseverar nas responsabilidades pastorais. A tradição apresenta-o como exemplo de discernimento entre o desejo pessoal de silêncio e o serviço à comunidade.",
+      "ensinamento": "O discernimento procura equilibrar a vida interior com as responsabilidades assumidas.",
+      "referencias_biblicas": "Gl 6,9",
+      "canonizacao": "Culto antigo; não se aplica um processo moderno de canonização documentado.",
+      "fontes": [
+        "https://mail.liturgia.pt/martirologio/elogio.php?data=2026-10-26"
+      ],
+      "fonte": "https://mail.liturgia.pt/martirologio/elogio.php?data=2026-10-26"
+    },
+    {
+      "nome": "Santo Amando de Estrasburgo",
+      "identificacao": "Gália, século IV; considerado o primeiro bispo de Estrasburgo.",
+      "biografia": "É venerado como um dos primeiros responsáveis cristãos da cidade de Estrasburgo. O testemunho histórico é limitado e não autoriza narrativas detalhadas sobre o seu episcopado. A sua memória representa as origens do cristianismo na região.",
+      "ensinamento": "A construção de uma comunidade começa muitas vezes por esforços pouco visíveis.",
+      "referencias_biblicas": "Ef 2,19-22",
+      "canonizacao": "Culto antigo; não se aplica um processo moderno de canonização documentado.",
+      "fontes": [
+        "https://mail.liturgia.pt/martirologio/elogio.php?data=2026-10-26"
+      ],
+      "fonte": "https://mail.liturgia.pt/martirologio/elogio.php?data=2026-10-26"
+    },
+    {
+      "nome": "São Rogaciano de Cartago",
+      "identificacao": "Cartago, século III; presbítero e confessor da fé.",
+      "biografia": "Durante a perseguição do imperador Décio, São Cipriano confiou-lhe a administração da comunidade cristã de Cartago. Sofreu prisão e maus-tratos por causa da fé, juntamente com São Felicíssimo. A sua memória é a de um confessor da fé, não necessariamente a de um mártir morto durante a perseguição.",
+      "ensinamento": "A firmeza perante a adversidade deve caminhar com a responsabilidade pelos outros.",
+      "referencias_biblicas": "2 Cor 4,8-10",
+      "canonizacao": "Culto antigo; não se aplica um processo moderno de canonização documentado.",
+      "fontes": [
+        "https://mail.liturgia.pt/martirologio/elogio.php?data=2026-10-26"
+      ],
+      "fonte": "https://mail.liturgia.pt/martirologio/elogio.php?data=2026-10-26"
+    },
+    {
+      "nome": "Santos Luciano e Marciano",
+      "identificacao": "Nicomédia, atual Turquia, tradicionalmente cerca de 250; mártires.",
+      "biografia": "Segundo a tradição transmitida pelo Martirológio, foram condenados durante a perseguição do imperador Décio e mortos pelo fogo. Os detalhes da narrativa antiga não são todos historicamente verificáveis.",
+      "ensinamento": "A fé cristã recorda a dignidade da consciência humana perante a coerção.",
+      "referencias_biblicas": "Mt 10,28",
+      "canonizacao": "Culto antigo; não se aplica um processo moderno de canonização documentado.",
+      "fontes": [
+        "https://mail.liturgia.pt/martirologio/elogio.php?data=2026-10-26"
+      ],
+      "fonte": "https://mail.liturgia.pt/martirologio/elogio.php?data=2026-10-26"
     }
   ],
   "beatos": [
     {
-      "nome": "Beato Gonçalo de Lagos — português; sacerdote agostiniano, falecido em Torres Vedras em 1422. Memória facultativa na Arquidiocese de Évora a 26 de outubro; a data do elogio no Martirológio pode diferir."
+      "nome": "Beata Celina Chludzińska Borzęcka",
+      "identificacao": "Polónia, 1833–1913; viúva, religiosa e fundadora da Congregação das Irmãs da Ressurreição de Nosso Senhor Jesus Cristo; beatificada por Bento XVI em 2007."
+    },
+    {
+      "nome": "Beato Boaventura de Potenza",
+      "identificacao": "Itália, 1651–1711; sacerdote franciscano conventual, conhecido pela obediência e caridade; beatificado por Pio VI em 1775."
+    },
+    {
+      "nome": "Beato Damião Furchéri",
+      "identificacao": "Itália, falecido em 1484; sacerdote dominicano e pregador do Evangelho."
+    },
+    {
+      "nome": "Beato Gonçalo de Lagos — memória local em Évora",
+      "identificacao": "Português, natural de Lagos, falecido em Torres Vedras em 1422; sacerdote agostiniano, educador e prior. Memória facultativa na Arquidiocese de Évora a 26 de outubro; celebração do calendário português e do Martirológio a 27 de outubro. Não integra o elenco universal do Martirológio de 26 de outubro."
     }
-  ]
+  ],
+  "reflexao": "Em Lc 13,10-17, Jesus liberta uma mulher da enfermidade apesar da oposição legalista. Os santos do dia convidam a colocar a misericórdia e o bem das pessoas no centro da ação cristã.",
+  "fontes": [
+    "https://mail.liturgia.pt/martirologio/elogio.php?data=2026-10-26",
+    "https://www.liturgia.pt/liturgiadiaria/dia.php?data=2026-10-26",
+    "https://www.liturgia.pt/liturgiadiaria/dia.php?data=2026-10-27"
+  ],
+  "estado": "Versão ampliada com elenco do Martirológio; iconografia ainda por validar individualmente."
 }
