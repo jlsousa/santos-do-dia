@@ -21,10 +21,19 @@
 // A Wikimedia Commons search supplies candidate iconography where no verified image is stored.
 // Candidates are explicitly identified as automatic selections, not authenticated portraits.
 function imagePlaceholder(name){const initial=Array.from(name).filter(c=>/[A-ZÁÉÍÓÚ]/.test(c)).slice(0,2).join('')||'✝';const svg='<svg xmlns="http://www.w3.org/2000/svg" width="290" height="240" viewBox="0 0 290 240"><rect width="290" height="240" fill="#e8e0ce"/><circle cx="145" cy="90" r="60" fill="none" stroke="#b79b62" stroke-width="3"/><text x="145" y="111" text-anchor="middle" font-size="57" font-family="Georgia" fill="#77643e">'+initial+'</text><text x="145" y="199" text-anchor="middle" font-size="13" fill="#665f50" font-family="Georgia">Iconografia em pesquisa</text></svg>';return 'data:image/svg+xml;charset=utf-8,'+encodeURIComponent(svg)}
-async function loadSaintImage(saint,img,caption){img.src=imagePlaceholder(saint.nome);caption.textContent='A procurar representação iconográfica…';if(saint.imagem?.url){img.src=saint.imagem.url;caption.textContent=saint.imagem.descricao||'Representação religiosa';img.onerror=()=>{img.src=imagePlaceholder(saint.nome);caption.textContent='Imagem não disponível; iconografia por confirmar.'};return}
-const translations={'São Bernardo Calbó':'Bernard Calvo','Santo Amaro, bispo':'Amarus bishop','São Fruto, eremita':'Saint Fructus Segovia','Santo Hilário de Mende':'Saint Hilary Mende','São Gaudêncio de Bréscia':'Gaudentius Brescia','Santos Martírio e Marciano':'Martirius Marcianus','São Frontão de Périgueux':'Saint Front Perigueux','São Miniato de Florença':'Saint Minias Florence','Santos Crisanto e Dária':'Saints Chrysanthus Daria','Santos Crispim e Crispiniano':'Saints Crispin Crispinian','Santo António de Sant\'Ana Galvão (Frei Galvão)':'Frei Galvao','São Fulco de Pavia':'Fulco Pavia bishop','São Beano de Mortlach':'Saint Bean Mortlach','São Vita ou Albuíno':'Witta Buraburg','São Sigebaldo de Metz':'Sigebald Metz','São Ceda (Cedd)':'Saint Cedd','Santo Eata de Hexham':'Saint Eata Hexham','Santo Aptónio de Angoulême':'Aptonius Angouleme','São Rústico de Narbona':'Rusticus Narbonne','Santo Amando de Estrasburgo':'Amandus Strasbourg','São Rogaciano de Cartago':'Rogatianus Carthage','Santos Luciano e Marciano':'Lucian Marcian martyrs'};
-const q=translations[saint.nome]||saint.nome.replace(/São |Santo |Santa |Santos /g,'');
-try{const url='https://commons.wikimedia.org/w/api.php?action=query&generator=search&gsrsearch='+encodeURIComponent('filetype:bitmap '+q)+'&gsrnamespace=6&gsrlimit=5&prop=imageinfo&iiprop=url|extmetadata&iiurlwidth=600&format=json&origin=*';const response=await fetch(url);if(!response.ok)throw Error('api');const json=await response.json();const pages=Object.values(json.query?.pages||{}).filter(p=>p.imageinfo?.[0]?.thumburl);if(!pages.length)throw Error('empty');const page=pages[0], info=page.imageinfo[0];img.src=info.thumburl;img.alt='Imagem iconográfica associada à pesquisa por '+saint.nome+' (correspondência não verificada)';caption.replaceChildren();caption.append(document.createTextNode('Imagem sugerida automaticamente — identificação por verificar. '));const a=document.createElement('a');a.href=info.descriptionurl||'https://commons.wikimedia.org/wiki/'+encodeURIComponent(page.title);a.target='_blank';a.rel='noopener noreferrer';a.textContent='Origem e licença';caption.append(a);img.onerror=()=>{img.src=imagePlaceholder(saint.nome);caption.textContent='Não foi possível carregar a imagem.'}}catch(e){caption.textContent='Não foi encontrada uma imagem verificada.'}}
+async function loadSaintImage(saint,img,caption){
+  const placeholder=imagePlaceholder(saint.nome);
+  img.src=placeholder;
+  caption.textContent='Imagem não disponível: identidade e direitos ainda por verificar.';
+  const item=saint.imagem;
+  if(!item||item.verificada!==true||!item.url||!item.fonte)return;
+  img.alt=item.descricao||('Representação de '+saint.nome);
+  img.src=item.url;
+  caption.replaceChildren();
+  caption.append(document.createTextNode((item.descricao||'Representação iconográfica verificada')+' · '));
+  const link=document.createElement('a');link.href=item.fonte;link.target='_blank';link.rel='noopener noreferrer';link.textContent='Fonte e licença';caption.append(link);
+  img.onerror=()=>{img.src=placeholder;caption.textContent='Imagem indisponível; ligação não funcional.'};
+}
 
 const dateInput=document.getElementById('date'),heading=document.getElementById('heading'),content=document.getElementById('content'),status=document.getElementById('status');
 const pad=n=>String(n).padStart(2,'0');
