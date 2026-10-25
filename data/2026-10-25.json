@@ -29,7 +29,12 @@
       "ensinamento": "O trabalho quotidiano pode ser vivido como serviço e testemunho de fé. Cf. Cl 3,23.",
       "fontes": [
         "https://www.vaticannews.va/pt/santo-do-dia/10/25.html"
-      ]
+      ],
+      "imagem": {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Saints_Crispin_and_Crispinian.jpg",
+        "descricao": "Representação devocional dos santos mártires Crispim e Crispiniano",
+        "fonte": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Saints%20Crispin%20Crispinian"
+      }
     },
     {
       "nome": "Santos Crisanto e Dária",
@@ -39,7 +44,12 @@
       "ensinamento": "A fidelidade à consciência e à fé pode exigir coragem perante a pressão social. Cf. Rm 8,35-39.",
       "fontes": [
         "https://www.vaticannews.va/pt/santo-do-dia/10/25.html"
-      ]
+      ],
+      "imagem": {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Chrysanthus_and_Daria.jpg",
+        "descricao": "Representação devocional dos santos mártires Crisanto e Dária",
+        "fonte": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Chrysanthus%20Daria"
+      }
     }
   ],
   "beatos": []
