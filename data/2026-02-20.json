@@ -16,7 +16,14 @@
         "https://www.liturgia.pt/santos/santo_v.php?cod_santo=38",
         "https://www.santuario-fatima.pt/pt/pages/biografias-dos-pastorinhos",
         "https://liturgia.pt/liturgiadiaria/dia.php?data=2026-2-20"
-      ]
+      ],
+      "imagem": {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Francesco%20Marto.jpg",
+        "fonte": "https://commons.wikimedia.org/wiki/File:Francesco_Marto.jpg",
+        "descricao": "Fotografia histórica de Francisco Marto (1917), atribuída a Joshua Benoliel; original publicado em Ilustração Portuguesa.",
+        "licenca": "Domínio público; fotógrafo falecido em 1932.",
+        "verificada": true
+      }
     },
     {
       "nome": "Santa Jacinta Marto",
@@ -32,7 +39,14 @@
         "https://www.liturgia.pt/santos/santo_v.php?cod_santo=38",
         "https://www.santuario-fatima.pt/pt/pages/biografias-dos-pastorinhos",
         "https://liturgia.pt/liturgiadiaria/dia.php?data=2026-2-20"
-      ]
+      ],
+      "imagem": {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Jacinta-marto-fatima-portugal-1917.jpg",
+        "fonte": "https://commons.wikimedia.org/wiki/File:Jacinta-marto-fatima-portugal-1917.jpg",
+        "descricao": "Fotografia histórica de Jacinta Marto, 1917; autor desconhecido, proveniente do Santuário de Fátima.",
+        "licenca": "Domínio público em Portugal (fotografia anterior a 1970).",
+        "verificada": true
+      }
     },
     {
       "nome": "São Leão de Catânia",
@@ -45,7 +59,14 @@
       "fontes": [
         "https://liturgia.pt/liturgiadiaria/dia.php?data=2026-2-20",
         "https://www.vaticannews.va/pt/santo-do-dia/02/20.html"
-      ]
+      ],
+      "imagem": {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Leo%20of%20Catania.jpg",
+        "fonte": "https://commons.wikimedia.org/wiki/File:Leo_of_Catania.jpg",
+        "descricao": "São Leão de Catânia, ícone ortodoxo tradicional de autor desconhecido.",
+        "licenca": "Domínio público, reprodução PD-Art.",
+        "verificada": true
+      }
     },
     {
       "nome": "Santo Euquério de Orleães",
