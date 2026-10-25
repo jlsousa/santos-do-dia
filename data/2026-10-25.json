@@ -69,7 +69,14 @@
       "canonizacao": "Culto antigo; não se aplica um processo moderno de canonização documentado.",
       "fontes": [
         "https://mail.liturgia.pt/martirologio/elogio.php?data=2026-10-25"
-      ]
+      ],
+      "imagem": {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Statua%20di%20Antonio%20Caligari%20presbiterio%20duomo%20nuovo%20Brescia.jpg",
+        "fonte": "https://commons.wikimedia.org/wiki/File:Statua_di_Antonio_Caligari_presbiterio_duomo_nuovo_Brescia.jpg",
+        "descricao": "São Gaudêncio de Bréscia, escultura de Antonio Calegari na Catedral Nova de Bréscia; fotografia de Wolfgang Moroder.",
+        "licenca": "CC BY-SA 2.5, atribuição: Wolfgang Moroder.",
+        "verificada": true
+      }
     },
     {
       "nome": "Santos Martírio e Marciano",
@@ -103,7 +110,14 @@
       "fontes": [
         "https://mail.liturgia.pt/martirologio/elogio.php?data=2026-10-25"
       ],
-      "sepultura": "A basílica de San Miniato al Monte, em Florença, conserva a memória e a tradição sepulcral do santo."
+      "sepultura": "A basílica de San Miniato al Monte, em Florença, conserva a memória e a tradição sepulcral do santo.",
+      "imagem": {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/1449%20del%20Castagno%20Die%20Himmelfahrt%20Mariae%20Gem%C3%A4ldegalerie%20Berlin%20anagoria.jpg",
+        "fonte": "https://commons.wikimedia.org/wiki/File:1449_del_Castagno_Die_Himmelfahrt_Mariae_Gem%C3%A4ldegalerie_Berlin_anagoria.jpg",
+        "descricao": "São Miniato de Florença representado juntamente com a Virgem Maria e São Juliano na pintura de Andrea del Castagno, século XV.",
+        "licenca": "Obra em domínio público; reprodução Wikimedia Commons.",
+        "verificada": true
+      }
     },
     {
       "nome": "Santos Crisanto e Dária",
