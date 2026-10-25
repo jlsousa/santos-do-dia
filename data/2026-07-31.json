@@ -17,8 +17,10 @@
         "https://www.vaticannews.va/pt/santo-do-dia/07/31.html"
       ],
       "imagem": {
-        "pesquisa": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Ignatius%20of%20Loyola%20portrait",
-        "descricao": "Retratos e pinturas de Santo Inácio de Loiola"
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/St._Ignatius_of_Loyola_by_Peter_Paul_Rubens.jpg",
+        "fonte": "https://commons.wikimedia.org/wiki/File:St._Ignatius_of_Loyola_by_Peter_Paul_Rubens.jpg",
+        "descricao": "Santo Inácio de Loyola, pintura de Peter Paul Rubens (século XVII), Norton Simon Museum; representação posterior à vida do santo.",
+        "verificada": true
       }
     },
     {
