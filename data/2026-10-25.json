@@ -3,15 +3,24 @@
   "santos": [
     {
       "nome": "Santo António de Sant'Ana Galvão (Frei Galvão)",
-      "identificacao": "Brasil, 1739–1822; sacerdote franciscano, nascido em Guaratinguetá. Festa celebrada a 25 de outubro, sobretudo no Brasil.",
-      "biografia": "Religioso franciscano conhecido pelo acolhimento dos pobres, direção espiritual, reconciliação e devoção mariana. Em 1774 fundou o Recolhimento de Nossa Senhora da Conceição da Divina Providência, origem do Mosteiro da Luz, em São Paulo.",
-      "milagres": "Dois casos foram reconhecidos no processo canónico: a recuperação de Daniela Cristina da Silva, gravemente doente em 1990 (beatificação), e o nascimento de Enzo em 1999, após uma gravidez de elevado risco de Sandra Grossi de Almeida (canonização). A devoção popular associa ainda graças às chamadas «pílulas de Frei Galvão»; estas não substituem tratamentos médicos. Beatificado por João Paulo II em 1998 e canonizado por Bento XVI em 2007.",
-      "sepultura": "Mosteiro da Luz, São Paulo, Brasil, onde o seu túmulo é visitado por peregrinos.",
-      "ensinamento": "A santidade concretiza-se na caridade, no acolhimento e na reconciliação. Cf. Jo 15,12-13.",
+      "identificacao": "António de Sant'Ana Galvão (1739–1822), natural de Guaratinguetá, no Brasil colonial português; morreu em São Paulo a 23 de dezembro de 1822, com 83 anos. Sacerdote da Ordem dos Frades Menores; conhecido como Frei Galvão. A origem no Brasil colonial não equivale a nacionalidade portuguesa atual.",
+      "biografia": "Nascido numa família cristã, recebeu educação religiosa e ingressou na vida franciscana. Foi sacerdote, confessor, diretor espiritual e homem de profunda devoção à Imaculada Conceição. Em 1774 ajudou a estabelecer o Recolhimento de Nossa Senhora da Conceição da Divina Providência, que deu origem ao Mosteiro da Luz, em São Paulo. A sua atividade pastoral destacou-se pelo acompanhamento de pessoas vulneráveis, reconciliação de conflitos e dedicação às religiosas e aos fiéis. A Igreja reconheceu nele o exercício heroico das virtudes cristãs; a sua memória é especialmente relevante no Brasil.",
+      "milagres": "1) Cura de Daniela Cristina da Silva (1990): a menina, de quatro anos, estava hospitalizada com hepatite A fulminante e múltiplas complicações. A família invocou a intercessão de Frei Galvão; a recuperação foi considerada inexplicável e reconhecida pela Igreja para a beatificação (decreto de 1998). 2) Gravidez de Sandra Grossi de Almeida e nascimento de Enzo (1999): após abortos espontâneos associados a malformação uterina, Sandra conseguiu levar uma gravidez de alto risco até ao nascimento do filho. A Igreja reconheceu o caso como milagre atribuído à intercessão do beato, para a canonização (decreto de 2006). 3) As «pílulas de Frei Galvão»: pequenos papéis com uma oração mariana, tradicionalmente distribuídos a fiéis, estão ligados a inúmeros testemunhos devocionais. Esses relatos não equivalem, por si só, a milagres oficialmente reconhecidos e não substituem cuidados médicos.",
+      "sepultura": "Faleceu em 1822 e foi sepultado na igreja do Recolhimento de Nossa Senhora da Luz, atual Mosteiro da Luz, em São Paulo. O túmulo, junto do altar-mor, é um lugar de peregrinação e oração.",
+      "ensinamento": "A santidade manifesta-se em gestos concretos de serviço, na escuta paciente, na reconciliação e no cuidado dos mais frágeis. Prática sugerida: procurar hoje uma pessoa que precise de apoio e ajudá-la discretamente.",
       "fontes": [
-        "https://www.mosteirodaluz.org.br/historico/",
+        "https://www.vatican.va/news_services/liturgy/saints/index_canoniz-beat_po.html",
+        "https://www.saofreigalvao.com.br/historico/",
         "https://www.vatican.va/content/benedict-xvi/pt/homilies/2007/documents/hf_ben-xvi_hom_20070511_canonization-brazil.html"
-      ]
+      ],
+      "imagem": {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/An%C3%B4nimo_-_Frei_Galv%C3%A3o.jpg",
+        "descricao": "Retrato histórico de Frei Galvão, pintura anónima de cerca de 1850, Museu de Arte Sacra de São Paulo",
+        "fonte": "https://commons.wikimedia.org/wiki/File:An%C3%B4nimo_-_Frei_Galv%C3%A3o.jpg"
+      },
+      "beatificacao": "25 de outubro de 1998, pelo Papa São João Paulo II, em Roma.",
+      "canonizacao": "11 de maio de 2007, pelo Papa Bento XVI, em São Paulo; primeiro santo nascido no Brasil a ser canonizado.",
+      "referencias_biblicas": "Mt 25,35-40 (serviço aos mais pequenos); Jo 15,12-13 (amor fraterno); 2 Cor 5,18-20 (ministério da reconciliação)."
     },
     {
       "nome": "Santos Crispim e Crispiniano",
