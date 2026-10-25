@@ -4,12 +4,19 @@
     {
       "nome": "São Ceda (Cedd), bispo",
       "identificacao": "Inglaterra, século VII; monge e bispo missionário, falecido em 664 segundo a cronologia histórica habitualmente aceite.",
-      "biografia": "Formado na tradição monástica de Lindisfarne, evangelizou comunidades anglo-saxónicas e exerceu o episcopado entre os saxões orientais. Fundou o mosteiro de Lastingham, no Yorkshire, onde morreu durante uma epidemia. A santidade é reconhecida por culto antigo, não por um processo moderno de canonização.",
+      "biografia": "Monge formado na tradição de Lindisfarne e irmão de São Chad, foi enviado como missionário aos anglo-saxões no século VII. Aprendeu a comunicar a fé em contextos culturais diversos, fundou comunidades cristãs e foi consagrado bispo dos saxões orientais. Participou no Sínodo de Whitby (664), onde serviu de intérprete entre diferentes tradições eclesiásticas. Fundou o mosteiro de Lastingham, no Yorkshire, onde morreu de peste em 664. A sua memória está ligada à evangelização do norte e leste de Inglaterra.",
       "sepultura": "Mosteiro de Lastingham, Inglaterra, local ligado à sua morte e veneração.",
       "ensinamento": "Anunciar a fé exige aprender a língua e a cultura daqueles a quem se serve. Cf. 1 Cor 9,22-23.",
       "fontes": [
         "https://www.vaticannews.va/pt/santo-do-dia/10/26.html"
-      ]
+      ],
+      "imagem": {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Saint_cedd.jpg",
+        "descricao": "Ícone de São Ceda (Cedd), representação devocional, não retrato contemporâneo",
+        "fonte": "https://commons.wikimedia.org/wiki/File:Saint_cedd.jpg"
+      },
+      "referencias_biblicas": "1 Cor 9,19-23 (aproximação missionária); Mt 28,19-20 (missão evangelizadora).",
+      "canonizacao": "Culto antigo, anterior aos processos modernos de canonização; não existe ano ou Papa de canonização documentado."
     },
     {
       "nome": "São Beano, bispo",
