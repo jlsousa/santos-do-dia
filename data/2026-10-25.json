@@ -1,54 +1,154 @@
 {
-  "liturgia": "XXX Domingo do Tempo Comum (Ano A). Em Portugal prevalece a celebração dominical; as memórias dos santos não substituem a Missa do domingo. Evangelho: Mt 22,34-40.",
+  "liturgia": "XXX Domingo do Tempo Comum, Ano A (Portugal). Celebração dominical prevalecente; cor verde. Leituras: Ex 22,20-26; Sl 17(18); 1 Ts 1,5c-10; Mt 22,34-40. No Patriarcado de Lisboa, a dedicação da Sé é solenidade na própria catedral.",
+  "introducao": "A liturgia de hoje apresenta o amor a Deus e ao próximo como núcleo da vida cristã. O Martirológio Romano regista santos e beatos, mas isso não significa que as suas memórias substituam a celebração dominical.",
   "santos": [
     {
-      "nome": "Santo António de Sant'Ana Galvão (Frei Galvão)",
-      "identificacao": "António de Sant'Ana Galvão (1739–1822), natural de Guaratinguetá, no Brasil colonial português; morreu em São Paulo a 23 de dezembro de 1822, com 83 anos. Sacerdote da Ordem dos Frades Menores; conhecido como Frei Galvão. A origem no Brasil colonial não equivale a nacionalidade portuguesa atual.",
-      "biografia": "Nascido numa família cristã, recebeu educação religiosa e ingressou na vida franciscana. Foi sacerdote, confessor, diretor espiritual e homem de profunda devoção à Imaculada Conceição. Em 1774 ajudou a estabelecer o Recolhimento de Nossa Senhora da Conceição da Divina Providência, que deu origem ao Mosteiro da Luz, em São Paulo. A sua atividade pastoral destacou-se pelo acompanhamento de pessoas vulneráveis, reconciliação de conflitos e dedicação às religiosas e aos fiéis. A Igreja reconheceu nele o exercício heroico das virtudes cristãs; a sua memória é especialmente relevante no Brasil.",
-      "milagres": "1) Cura de Daniela Cristina da Silva (1990): a menina, de quatro anos, estava hospitalizada com hepatite A fulminante e múltiplas complicações. A família invocou a intercessão de Frei Galvão; a recuperação foi considerada inexplicável e reconhecida pela Igreja para a beatificação (decreto de 1998). 2) Gravidez de Sandra Grossi de Almeida e nascimento de Enzo (1999): após abortos espontâneos associados a malformação uterina, Sandra conseguiu levar uma gravidez de alto risco até ao nascimento do filho. A Igreja reconheceu o caso como milagre atribuído à intercessão do beato, para a canonização (decreto de 2006). 3) As «pílulas de Frei Galvão»: pequenos papéis com uma oração mariana, tradicionalmente distribuídos a fiéis, estão ligados a inúmeros testemunhos devocionais. Esses relatos não equivalem, por si só, a milagres oficialmente reconhecidos e não substituem cuidados médicos.",
-      "sepultura": "Faleceu em 1822 e foi sepultado na igreja do Recolhimento de Nossa Senhora da Luz, atual Mosteiro da Luz, em São Paulo. O túmulo, junto do altar-mor, é um lugar de peregrinação e oração.",
-      "ensinamento": "A santidade manifesta-se em gestos concretos de serviço, na escuta paciente, na reconciliação e no cuidado dos mais frágeis. Prática sugerida: procurar hoje uma pessoa que precise de apoio e ajudá-la discretamente.",
+      "nome": "São Bernardo Calbó",
+      "identificacao": "Catalunha, c. 1180–1243; bispo de Vic, antigo juiz e monge cisterciense.",
+      "biografia": "Exerceu inicialmente funções jurídicas e abandonou a carreira para ingressar na vida cisterciense. Foi abade e, mais tarde, bispo de Vic, dedicando-se à formação do clero e à defesa da doutrina cristã. O Martirológio assinala a sua morte em 1243; a veneração resulta de culto histórico.",
+      "ensinamento": "A responsabilidade pública deve ser exercida com consciência e serviço.",
+      "referencias_biblicas": "Mt 20,25-28",
+      "canonizacao": "Culto antigo; não se aplica um processo moderno de canonização documentado.",
       "fontes": [
-        "https://www.vatican.va/news_services/liturgy/saints/index_canoniz-beat_po.html",
-        "https://www.saofreigalvao.com.br/historico/",
-        "https://www.vatican.va/content/benedict-xvi/pt/homilies/2007/documents/hf_ben-xvi_hom_20070511_canonization-brazil.html"
-      ],
-      "imagem": {
-        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/An%C3%B4nimo_-_Frei_Galv%C3%A3o.jpg",
-        "descricao": "Retrato histórico de Frei Galvão, pintura anónima de cerca de 1850, Museu de Arte Sacra de São Paulo",
-        "fonte": "https://commons.wikimedia.org/wiki/File:An%C3%B4nimo_-_Frei_Galv%C3%A3o.jpg"
-      },
-      "beatificacao": "25 de outubro de 1998, pelo Papa São João Paulo II, em Roma.",
-      "canonizacao": "11 de maio de 2007, pelo Papa Bento XVI, em São Paulo; primeiro santo nascido no Brasil a ser canonizado.",
-      "referencias_biblicas": "Mt 25,35-40 (serviço aos mais pequenos); Jo 15,12-13 (amor fraterno); 2 Cor 5,18-20 (ministério da reconciliação)."
+        "https://mail.liturgia.pt/martirologio/elogio.php?data=2026-10-25"
+      ]
     },
     {
-      "nome": "Santos Crispim e Crispiniano",
-      "identificacao": "Mártires cristãos tradicionalmente situados na Gália, atual França, no final do século III.",
-      "biografia": "Segundo a tradição hagiográfica, eram sapateiros em Soissons e anunciavam o Evangelho enquanto trabalhavam. O seu martírio é associado às perseguições romanas; os pormenores biográficos antigos não podem ser todos confirmados historicamente.",
-      "ensinamento": "O trabalho quotidiano pode ser vivido como serviço e testemunho de fé. Cf. Cl 3,23.",
+      "nome": "Santo Amaro, bispo",
+      "identificacao": "Hungria, falecido em 1070; mestre de retórica, monge, abade e bispo.",
+      "biografia": "Depois de uma longa carreira no ensino da retórica, abraçou a vida monástica. Foi abade do mosteiro de São Martinho e posteriormente bispo. A passagem do ensino para a vida religiosa recorda que a procura da verdade pode orientar diferentes etapas da existência.",
+      "ensinamento": "Conhecimento e humildade não são opostos; a sabedoria pode conduzir ao serviço.",
+      "referencias_biblicas": "Pr 2,1-6",
+      "canonizacao": "Culto antigo; não se aplica um processo moderno de canonização documentado.",
       "fontes": [
-        "https://www.vaticannews.va/pt/santo-do-dia/10/25.html"
+        "https://mail.liturgia.pt/martirologio/elogio.php?data=2026-10-25"
+      ]
+    },
+    {
+      "nome": "São Fruto, eremita",
+      "identificacao": "Região de Segóvia, Hispânia, c. 715; eremita.",
+      "biografia": "A tradição apresenta-o como homem de oração e recolhimento em região rochosa próxima de Segóvia. O seu culto permanece associado à paisagem e às comunidades cristãs locais. Algumas narrativas milagrosas são tradições devocionais, não relatos verificados por um processo canónico moderno.",
+      "ensinamento": "O silêncio e a simplicidade podem abrir espaço à oração e à solidariedade.",
+      "referencias_biblicas": "Mc 1,35",
+      "canonizacao": "Culto antigo; não se aplica um processo moderno de canonização documentado.",
+      "fontes": [
+        "https://mail.liturgia.pt/martirologio/elogio.php?data=2026-10-25"
+      ]
+    },
+    {
+      "nome": "Santo Hilário de Mende",
+      "identificacao": "Gália, século VI; bispo de Mende.",
+      "biografia": "O Martirológio Romano conserva a sua memória como bispo da região de Javols, na atual França. Os dados pessoais são limitados, não sendo prudente atribuir-lhe feitos ou milagres específicos sem fontes adicionais.",
+      "ensinamento": "A fidelidade pastoral também se exprime em serviços discretos.",
+      "referencias_biblicas": "1 Pd 5,2-3",
+      "canonizacao": "Culto antigo; não se aplica um processo moderno de canonização documentado.",
+      "fontes": [
+        "https://mail.liturgia.pt/martirologio/elogio.php?data=2026-10-25"
+      ]
+    },
+    {
+      "nome": "São Gaudêncio de Bréscia",
+      "identificacao": "Itália, falecido cerca de 410; bispo de Bréscia.",
+      "biografia": "Foi ordenado bispo por Santo Ambrósio de Milão. Destacou-se pelo ensino, pela pregação e por escritos que testemunham a teologia da sua época. Mandou construir uma basílica designada «Concílio dos Santos». O seu legado é sobretudo pastoral e doutrinal.",
+      "ensinamento": "A transmissão da fé exige estudo, clareza e coerência de vida.",
+      "referencias_biblicas": "2 Tm 4,1-5",
+      "canonizacao": "Culto antigo; não se aplica um processo moderno de canonização documentado.",
+      "fontes": [
+        "https://mail.liturgia.pt/martirologio/elogio.php?data=2026-10-25"
+      ]
+    },
+    {
+      "nome": "Santos Martírio e Marciano",
+      "identificacao": "Constantinopla, falecidos cerca de 351; subdiácono e cantor, mártires.",
+      "biografia": "Segundo o Martirológio, foram assassinados por arianos durante o reinado do imperador Constâncio. A sua memória está associada às tensões religiosas do século IV e à perseverança perante a violência. A informação individual conservada é escassa.",
+      "ensinamento": "A divergência religiosa nunca legitima a violência contra as pessoas.",
+      "referencias_biblicas": "Rm 12,17-21",
+      "canonizacao": "Culto antigo; não se aplica um processo moderno de canonização documentado.",
+      "fontes": [
+        "https://mail.liturgia.pt/martirologio/elogio.php?data=2026-10-25"
+      ]
+    },
+    {
+      "nome": "São Frontão de Périgueux",
+      "identificacao": "Gália, tradicionalmente século III; evangelizador de Périgueux.",
+      "biografia": "É venerado como primeiro anunciador do Evangelho na região de Périgueux. A tradição local desenvolveu narrativas sobre a sua missão, mas a cronologia e os pormenores biográficos antigos não estão inteiramente estabelecidos.",
+      "ensinamento": "O anúncio da fé deve começar pelo encontro e pela escuta.",
+      "referencias_biblicas": "Mt 28,19-20",
+      "canonizacao": "Culto antigo; não se aplica um processo moderno de canonização documentado.",
+      "fontes": [
+        "https://mail.liturgia.pt/martirologio/elogio.php?data=2026-10-25"
+      ]
+    },
+    {
+      "nome": "São Miniato de Florença",
+      "identificacao": "Toscana, tradicionalmente século III; mártir.",
+      "biografia": "O seu culto é muito antigo e está ligado à colina florentina onde se ergue a basílica de San Miniato al Monte. As narrativas pormenorizadas do martírio pertencem em parte à tradição hagiográfica; a veneração histórica não comprova todos os episódios narrados.",
+      "ensinamento": "A coragem e a esperança cristãs ultrapassam o medo.",
+      "referencias_biblicas": "Rm 8,35-39",
+      "canonizacao": "Culto antigo; não se aplica um processo moderno de canonização documentado.",
+      "fontes": [
+        "https://mail.liturgia.pt/martirologio/elogio.php?data=2026-10-25"
       ],
-      "imagem": {
-        "pesquisa": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Saints%20Crispin%20Crispinian",
-        "descricao": "Iconografia ainda por verificar; consultar imagens disponíveis no Wikimedia Commons."
-      }
+      "sepultura": "A basílica de San Miniato al Monte, em Florença, conserva a memória e a tradição sepulcral do santo."
     },
     {
       "nome": "Santos Crisanto e Dária",
-      "identificacao": "Mártires venerados em Roma, tradicionalmente situados no século III.",
-      "biografia": "A tradição conta que Crisanto se converteu ao cristianismo em Roma e que Dária aderiu também à fé. Ambos são venerados como mártires; os pormenores da narrativa antiga pertencem sobretudo à tradição hagiográfica.",
-      "sepultura": "A sua memória está historicamente associada à Via Salária Nova, em Roma.",
-      "ensinamento": "A fidelidade à consciência e à fé pode exigir coragem perante a pressão social. Cf. Rm 8,35-39.",
+      "identificacao": "Roma, falecidos tradicionalmente cerca de 253; mártires.",
+      "biografia": "O Martirológio situa a sua veneração no cemitério de Trasão, junto da Via Salária Nova, e recorda o elogio do Papa São Dâmaso. As histórias da conversão e do casamento dos dois santos foram transmitidas em narrativas hagiográficas tardias, que exigem leitura crítica.",
+      "ensinamento": "A fidelidade à consciência e o respeito mútuo são centrais no testemunho cristão.",
+      "referencias_biblicas": "Rm 8,38-39",
+      "canonizacao": "Culto antigo; não se aplica um processo moderno de canonização documentado.",
       "fontes": [
-        "https://www.vaticannews.va/pt/santo-do-dia/10/25.html"
+        "https://mail.liturgia.pt/martirologio/elogio.php?data=2026-10-25"
       ],
-      "imagem": {
-        "pesquisa": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Chrysanthus%20Daria",
-        "descricao": "Iconografia ainda por verificar; consultar imagens disponíveis no Wikimedia Commons."
-      }
+      "sepultura": "Veneração antiga no cemitério de Trasão, na Via Salária Nova, Roma."
+    },
+    {
+      "nome": "Santos Crispim e Crispiniano",
+      "identificacao": "Soissons, Gália, tradicionalmente século III; mártires, associados ao ofício de sapateiros.",
+      "biografia": "Segundo a tradição, exerciam o ofício de sapateiros e partilhavam a fé cristã. Foram venerados como mártires de Soissons. A associação aos sapateiros fez deles padroeiros tradicionais de profissões ligadas ao calçado e ao couro. A historicidade de episódios particulares da sua vida é incerta.",
+      "ensinamento": "O trabalho manual possui dignidade e pode ser expressão de serviço.",
+      "referencias_biblicas": "Cl 3,23-24",
+      "canonizacao": "Culto antigo; não se aplica um processo moderno de canonização documentado.",
+      "fontes": [
+        "https://mail.liturgia.pt/martirologio/elogio.php?data=2026-10-25"
+      ],
+      "patronato": "Padroeiros tradicionais dos sapateiros e de ofícios ligados ao calçado."
+    },
+    {
+      "nome": "Santo António de Sant'Ana Galvão (Frei Galvão)",
+      "identificacao": "Brasil colonial português, 1739–1822; sacerdote franciscano; memória própria a 25 de outubro sobretudo no Brasil.",
+      "biografia": "Nascido em Guaratinguetá, ingressou na Ordem Franciscana e dedicou-se à confissão, à direção espiritual e à assistência a pessoas necessitadas. Participou na fundação do Recolhimento da Luz, em São Paulo, que se tornou o Mosteiro da Luz. Embora nascido no Brasil colonial, não é um santo português no sentido de nacionalidade contemporânea; inclui-se pela importância da sua celebração brasileira.",
+      "ensinamento": "A caridade concretiza-se na reconciliação, na escuta e na ajuda discreta.",
+      "referencias_biblicas": "Mt 25,35-40; 2 Cor 5,18-20",
+      "canonizacao": "11 de maio de 2007, pelo Papa Bento XVI, em São Paulo.",
+      "fontes": [
+        "https://www.vatican.va/content/benedict-xvi/pt/homilies/2007/documents/hf_ben-xvi_hom_20070511_canonization-brazil.html",
+        "https://mail.liturgia.pt/martirologio/elogio.php?data=2026-10-25"
+      ],
+      "beatificacao": "25 de outubro de 1998, pelo Papa João Paulo II.",
+      "milagres": "Para a beatificação, a Igreja reconheceu uma cura atribuída à sua intercessão. Para a canonização, reconheceu o caso da gravidez de Sandra Grossi de Almeida e nascimento do filho Enzo, em circunstâncias médicas consideradas extraordinárias. As chamadas «pílulas de Frei Galvão» pertencem à devoção popular; não se deve tratar cada testemunho associado como milagre canonicamente reconhecido.",
+      "sepultura": "Mosteiro da Luz, São Paulo, Brasil."
     }
   ],
-  "beatos": []
+  "beatos": [
+    {
+      "nome": "Beato Tadeu Machar",
+      "identificacao": "Bispo irlandês de Cork e Cloyne, falecido em 1492 no Piemonte, durante viagem a Roma; sofreu exílio por conflitos com poderosos."
+    },
+    {
+      "nome": "Beato Recaredo Centelles Abad",
+      "identificacao": "Presbítero espanhol, mártir de 1936 em Nules, durante a perseguição religiosa da Guerra Civil Espanhola."
+    },
+    {
+      "nome": "Beata Maria Teresa Ferragud Roig e suas quatro filhas",
+      "identificacao": "Maria de Jesus, Maria Verónica, Maria Felicidade e Josefa da Purificação; religiosas e leigas espanholas martirizadas em Alcira, em 1936. A família é recordada conjuntamente no Martirológio."
+    }
+  ],
+  "reflexao": "O Evangelho deste domingo (Mt 22,34-40) resume os mandamentos no amor a Deus e ao próximo. As vidas dos mártires, dos pastores e dos trabalhadores recordam que esse amor não é apenas sentimento: transforma decisões, profissões e relações.",
+  "fontes": [
+    "https://mail.liturgia.pt/martirologio/elogio.php?data=2026-10-25",
+    "https://mail.liturgia.pt/liturgiadiaria/dia.php?data=2026-10-25"
+  ],
+  "estado": "Versão ampliada com elenco do Martirológio; iconografia ainda por validar individualmente."
 }
