@@ -113,7 +113,12 @@
       "fontes": [
         "https://mail.liturgia.pt/martirologio/elogio.php?data=2026-10-25"
       ],
-      "patronato": "Padroeiros tradicionais dos sapateiros e de ofícios ligados ao calçado."
+      "patronato": "Padroeiros tradicionais dos sapateiros e de ofícios ligados ao calçado.",
+      "imagem": {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Crispino%20e%20Crispiniano.jpg",
+        "descricao": "Gravura italiana do século XVIII, autores Remondini, domínio público",
+        "fonte": "https://commons.wikimedia.org/wiki/File:Crispino_e_Crispiniano.jpg"
+      }
     },
     {
       "nome": "Santo António de Sant'Ana Galvão (Frei Galvão)",
