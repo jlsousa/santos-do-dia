@@ -19,7 +19,8 @@
         "fonte": "https://commons.wikimedia.org/wiki/File:Benedict_of_Nursia.jpg",
         "descricao": "São Bento de Núrsia, ícone de autor desconhecido, obra em domínio público.",
         "licenca": "Domínio público (PD-Art).",
-        "verificada": true
+        "verificada": false,
+        "estado": "Por validar: URL, correspondência iconográfica e licença precisam de confirmação independente"
       }
     },
     {
@@ -38,7 +39,8 @@
         "fonte": "https://commons.wikimedia.org/wiki/File:Nicholas-Flue.jpg",
         "descricao": "São Nicolau de Flüe, pintura de altar de Sachseln, hoje no Museum Bruder Klaus.",
         "licenca": "Domínio público (PD-Art).",
-        "verificada": true
+        "verificada": false,
+        "estado": "Por validar: URL, correspondência iconográfica e licença precisam de confirmação independente"
       }
     },
     {
@@ -155,5 +157,15 @@
     "https://www.vaticannews.va/pt/santo-do-dia/03/21.html",
     "https://www.liturgia.pt/martirologio/elogio.php?data=2004-03-21"
   ],
-  "estado": "Cobertura revista a partir dos 13 elogios do Martirológio Romano (incluindo santos, grupos de mártires e beatos). Iconografia de várias fichas ainda pendente; biografias em aprofundamento."
+  "estado": "EDIÇÃO EM REVISÃO — não cumpre ainda todos os requisitos editoriais: verificar integralidade do Martirológio, biografias, milagres e imagens. As imagens sem verificação independente não são publicadas.",
+  "revisao": {
+    "estado": "revisao",
+    "criterios_pendentes": [
+      "confronto integral com Martirológio e calendário de Portugal",
+      "auditoria factual individual de biografias e processos",
+      "imagem individual de qualidade, identidade e licença verificadas para cada santo",
+      "teste visual e funcional do site publicado"
+    ],
+    "imagens_que_exigem_revalidacao": 2
+  }
 }
