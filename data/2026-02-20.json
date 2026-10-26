@@ -65,13 +65,12 @@
         "https://www.vaticannews.va/pt/santo-do-dia/02/20.html"
       ],
       "imagem": {
-        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Leo%20of%20Catania.jpg",
-        "fonte": "https://commons.wikimedia.org/wiki/File:Leo%20of%20Catania.jpg",
-        "descricao": "Ícone ortodoxo tradicional de São Leão de Catânia; artista desconhecido.",
-        "licenca": "Domínio público, reprodução de obra bidimensional tradicional (PD-Art); verificar contexto específico da obra.",
-        "dimensoes": "498×600",
-        "verificada": true,
-        "estado": "Ficheiro e identificação encontrados no Wikimedia Commons; teste de carregamento no GitHub Pages ainda pendente."
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Leo%20of%20Catania%2C%20Menologion%20of%20Basil%20II.png",
+        "fonte": "https://commons.wikimedia.org/wiki/File:Leo_of_Catania%2C_Menologion_of_Basil_II.png",
+        "descricao": "Representação de São Leão de Catânia no Menológio de Basílio II, manuscrito bizantino do século XI.",
+        "licenca": "Domínio público — obra do século XI; confirmar os termos da reprodução no Wikimedia Commons.",
+        "verificada": false,
+        "estado": "Identidade e ficheiro encontrados em fonte pública; aguarda teste real de carregamento e revisão da licença."
       }
     },
     {
