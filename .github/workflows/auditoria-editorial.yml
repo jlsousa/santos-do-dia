@@ -1,0 +1,17 @@
+name: Auditoria editorial e imagens
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '20 7 * * *'
+permissions:
+  contents: read
+jobs:
+  audit:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Verificar todas as datas e imagens
+        run: python scripts/auditar_imagens.py
