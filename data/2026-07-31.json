@@ -21,7 +21,8 @@
         "fonte": "https://commons.wikimedia.org/wiki/File:St._Ignatius_of_Loyola_by_Peter_Paul_Rubens.jpg",
         "descricao": "Santo Inácio de Loyola, pintura de Peter Paul Rubens, c. 1616, Norton Simon Museum.",
         "licenca": "Reprodução de obra histórica, verificar termos da página Commons.",
-        "verificada": true
+        "verificada": false,
+        "estado": "Licença e proveniência por confirmar"
       }
     },
     {
@@ -39,7 +40,8 @@
         "fonte": "https://commons.wikimedia.org/wiki/File:San_Justino_de_Jacobis.jpg",
         "descricao": "Representação de São Justino de Jacobis, fonte Wikimedia Commons.",
         "licenca": "Consultar licença na ficha Wikimedia Commons.",
-        "verificada": true
+        "verificada": false,
+        "estado": "Licença e proveniência por confirmar"
       }
     },
     {
@@ -57,7 +59,8 @@
         "fonte": "https://commons.wikimedia.org/wiki/File:IMG_5585_-_Milano_-_San_Calimero_-_Mosaico_-_Foto_Giovanni_Dall'Orto_-_21_febr._2007.jpg",
         "descricao": "São Calímero de Milão, mosaico oitocentista na fachada da igreja de San Calimero; fotografia de Giovanni Dall'Orto.",
         "licenca": "Licença livre com atribuição ao fotógrafo.",
-        "verificada": true
+        "verificada": false,
+        "estado": "Por validar: URL, correspondência iconográfica e licença precisam de confirmação independente"
       }
     },
     {
@@ -118,5 +121,15 @@
     "https://www.liturgia.pt/liturgiadiaria/dia.php?data=2026-7-31",
     "https://www.vaticannews.va/pt/santo-do-dia/07/31.html"
   ],
-  "estado": "Edição provisória em revisão editorial. A identificação e licença de cada imagem carecem de verificação; a cobertura histórica e litúrgica não foi integralmente auditada."
+  "estado": "EDIÇÃO EM REVISÃO — não cumpre ainda todos os requisitos editoriais: verificar integralidade do Martirológio, biografias, milagres e imagens. As imagens sem verificação independente não são publicadas.",
+  "revisao": {
+    "estado": "revisao",
+    "criterios_pendentes": [
+      "confronto integral com Martirológio e calendário de Portugal",
+      "auditoria factual individual de biografias e processos",
+      "imagem individual de qualidade, identidade e licença verificadas para cada santo",
+      "teste visual e funcional do site publicado"
+    ],
+    "imagens_que_exigem_revalidacao": 3
+  }
 }
