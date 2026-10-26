@@ -67,7 +67,8 @@
         "fonte": "https://commons.wikimedia.org/wiki/File:Saint_cedd.jpg",
         "descricao": "São Ceda (Cedd), ícone devocional de autor desconhecido, representação não contemporânea.",
         "licenca": "PD-Art segundo ficha Wikimedia Commons; origem original pouco documentada.",
-        "verificada": true
+        "verificada": false,
+        "estado": "Licença e proveniência por confirmar"
       }
     },
     {
@@ -147,7 +148,8 @@
         "fonte": "https://commons.wikimedia.org/wiki/File:199_Esgl%C3%A9sia_de_la_Pietat_(Vic)%2C_els_sants_m%C3%A0rtirs_Lluci%C3%A0_i_Marci%C3%A0%2C_de_Carles_Morat%C3%B3.jpg",
         "descricao": "Santos Luciano e Marciano, representação escultórica de Carles Morató na Igreja da Pietat, Vic (Catalunha).",
         "licenca": "Ver atribuição e licença do fotógrafo na ficha Wikimedia Commons.",
-        "verificada": true
+        "verificada": false,
+        "estado": "Por validar: URL, correspondência iconográfica e licença precisam de confirmação independente"
       }
     }
   ],
@@ -175,5 +177,15 @@
     "https://www.liturgia.pt/liturgiadiaria/dia.php?data=2026-10-26",
     "https://www.liturgia.pt/liturgiadiaria/dia.php?data=2026-10-27"
   ],
-  "estado": "Edição provisória em revisão editorial. A identificação e licença de cada imagem carecem de verificação; a cobertura histórica e litúrgica não foi integralmente auditada."
+  "estado": "EDIÇÃO EM REVISÃO — não cumpre ainda todos os requisitos editoriais: verificar integralidade do Martirológio, biografias, milagres e imagens. As imagens sem verificação independente não são publicadas.",
+  "revisao": {
+    "estado": "revisao",
+    "criterios_pendentes": [
+      "confronto integral com Martirológio e calendário de Portugal",
+      "auditoria factual individual de biografias e processos",
+      "imagem individual de qualidade, identidade e licença verificadas para cada santo",
+      "teste visual e funcional do site publicado"
+    ],
+    "imagens_que_exigem_revalidacao": 2
+  }
 }
