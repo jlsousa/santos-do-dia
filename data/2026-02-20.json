@@ -22,7 +22,8 @@
         "fonte": "https://commons.wikimedia.org/wiki/File:Francesco_Marto.jpg",
         "descricao": "Fotografia histórica de Francisco Marto (1917), atribuída a Joshua Benoliel; original publicado em Ilustração Portuguesa.",
         "licenca": "Domínio público; fotógrafo falecido em 1932.",
-        "verificada": true
+        "verificada": false,
+        "estado": "Por validar: URL, correspondência iconográfica e licença precisam de confirmação independente"
       }
     },
     {
@@ -45,7 +46,8 @@
         "fonte": "https://commons.wikimedia.org/wiki/File:Jacinta-marto-fatima-portugal-1917.jpg",
         "descricao": "Fotografia histórica de Jacinta Marto, 1917; autor desconhecido, proveniente do Santuário de Fátima.",
         "licenca": "Domínio público em Portugal (fotografia anterior a 1970).",
-        "verificada": true
+        "verificada": false,
+        "estado": "Por validar: URL, correspondência iconográfica e licença precisam de confirmação independente"
       }
     },
     {
@@ -65,7 +67,8 @@
         "fonte": "https://commons.wikimedia.org/wiki/File:Leo_of_Catania.jpg",
         "descricao": "São Leão de Catânia, ícone ortodoxo tradicional de autor desconhecido.",
         "licenca": "Domínio público, reprodução PD-Art.",
-        "verificada": true
+        "verificada": false,
+        "estado": "Por validar: URL, correspondência iconográfica e licença precisam de confirmação independente"
       }
     },
     {
@@ -129,5 +132,15 @@
     "https://www.liturgia.pt/santos/santo_v.php?cod_santo=38",
     "https://www.vaticannews.va/pt/santo-do-dia/02/20.html"
   ],
-  "estado": "Versão editorial em revisão: cobertura dos elogios principais do Martirológio; faltam identificar e validar as imagens individuais e ampliar alguns elementos biográficos."
+  "estado": "EDIÇÃO EM REVISÃO — não cumpre ainda todos os requisitos editoriais: verificar integralidade do Martirológio, biografias, milagres e imagens. As imagens sem verificação independente não são publicadas.",
+  "revisao": {
+    "estado": "revisao",
+    "criterios_pendentes": [
+      "confronto integral com Martirológio e calendário de Portugal",
+      "auditoria factual individual de biografias e processos",
+      "imagem individual de qualidade, identidade e licença verificadas para cada santo",
+      "teste visual e funcional do site publicado"
+    ],
+    "imagens_que_exigem_revalidacao": 3
+  }
 }
