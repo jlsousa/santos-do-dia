@@ -20,7 +20,7 @@
         "descricao": "Escultura de São Carlo Acutis na igreja de Pallikkara, Índia; fotografia de Joncrisvv, 11 de setembro de 2025. Não é fotografia do santo em vida.",
         "licenca": "CC BY-SA 4.0; autor Joncrisvv; https://creativecommons.org/licenses/by-sa/4.0/",
         "verificada": false,
-        "estado": "Por validar: URL, correspondência iconográfica e licença precisam de confirmação independente"
+        "estado": "Imagem de escultura corretamente identificada, mas não é fotografia de Carlo em vida; manter como candidata, não como solução editorial final."
       },
       "fontes": [
         "https://www.causesanti.va/it/santi-e-beati/carlo-acutis.html",
@@ -30,6 +30,16 @@
         "https://www.vaticannews.va/pt/vaticano/news/2020-10/beatificacao-carlos-acutis-conversao-frade-brasileiro-assis.html",
         "https://www.assisisantuariospogliazione.it/carlo-acutis/",
         "https://www.aciprensa.com/noticias/84003/que-trabajos-se-hicieron-en-el-rostro-de-carlo-acutis-postulador-responde"
+      ],
+      "imagens_complementares": [
+        {
+          "tipo": "sepultura",
+          "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Tomba_Carlo_Acutis.jpg",
+          "fonte": "https://commons.wikimedia.org/wiki/File:Tomba_Carlo_Acutis.jpg",
+          "descricao": "Túmulo de Carlo Acutis, igreja de Santa Maria Maior, Assis. Fotografia de Dulceridentem (2022). Não é prova de incorruptibilidade.",
+          "licenca": "CC BY-SA 4.0; aviso de elementos escultóricos de minimis: evitar recortes centrados nas esculturas.",
+          "estado": "Fonte, identificação e licença documentadas; teste de carregamento no portal pendente."
+        }
       ]
     },
     {
@@ -160,7 +170,7 @@
     "https://www.fondazionecarloacutis.org/en/the-saint/",
     "https://www.diocese-braga.pt/noticia/2025-09-10-paroquia-de-duas-igrejas-arciprestado-de-vila-verde-celebrou-a-canonizacao-do-carlo-acutis-68c18d5ec52fd"
   ],
-  "estado": "Edição em revisão editorial. A informação sobre o estado do corpo foi confrontada com Vatican News, Diocese/Santuário de Assis e postulador da causa. As imagens e restantes fichas continuam pendentes de validação completa.",
+  "estado": "EDIÇÃO EM REVISÃO: a fotografia do túmulo de Carlo está documentada como material complementar; a imagem principal ainda não corresponde ao retrato fotográfico autêntico desejado. Restantes santos e validação visual pendentes.",
   "revisao": {
     "estado": "revisao",
     "criterios_pendentes": [
