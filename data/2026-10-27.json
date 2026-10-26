@@ -1,0 +1,220 @@
+{
+  "data": "2026-10-27",
+  "liturgia": "Terça-feira da XXX semana do Tempo Comum (ano par), Portugal. Memória facultativa do Beato Gonçalo de Lagos no calendário nacional; memória obrigatória no Algarve e no Patriarcado de Lisboa, festa em Lagos. Em Évora, solenidade local dos Santos Vicente, Sabina e Cristeta (memória obrigatória no restante território da arquidiocese). Leituras feriais: Ef 5,21-33; Sl 127(128); Lc 13,18-21. Cor verde ou branca conforme celebração.",
+  "introducao": "A Igreja em Portugal destaca hoje o Beato Gonçalo de Lagos, religioso agostiniano e educador, e a tradição de Évora honra os mártires Vicente, Sabina e Cristeta. A parábola do grão de mostarda e do fermento convida a reconhecer o crescimento discreto do Reino de Deus.",
+  "santos": [
+    {
+      "nome": "São Evaristo, papa",
+      "identificacao": "Bispo de Roma, pontificado situado entre c. 96/99 e 108; a Santa Sé apresenta-o como quinto papa. Memória no Martirológio português de 27 de outubro.",
+      "biografia": "Evaristo presidiu à comunidade cristã de Roma quando a Igreja ainda vivia no contexto do Império Romano e antes da existência de estruturas administrativas comparáveis às atuais. A sucessão episcopal antiga conserva o seu nome entre Clemente e Alexandre I. A documentação contemporânea é escassa: pormenores tradicionais sobre a origem familiar, organização das paróquias romanas e decretos litúrgicos atribuídos ao seu pontificado não podem ser tratados como factos demonstrados. A sua memória testemunha a continuidade da Igreja romana durante a geração que se seguiu aos apóstolos. A representação renascentista da Capela Sistina é uma imagem devocional tardia, não um retrato contemporâneo.",
+      "canonizacao": "Culto antigo anterior aos processos modernos de canonização; não foi identificado decreto moderno nem processo de reconhecimento de milagres.",
+      "milagres": "Milagres reconhecidos por decreto: não documentados nas fontes consultadas. Tradição: a sua veneração como santo não comprova episódios milagrosos específicos.",
+      "sepultura": "A tradição associa os primeiros bispos de Roma aos antigos lugares de sepultura cristã; não se identificou localização material das suas relíquias com prova suficiente.",
+      "ensinamento": "A continuidade da fé exige responsabilidade e fidelidade mesmo quando as fontes conservam poucos detalhes biográficos.",
+      "referencias_biblicas": "1 Pd 5,1-4; Ef 2,19-22 (textos de reflexão, não testemunhos biográficos).",
+      "fontes": [
+        "https://mail.liturgia.pt/martirologio/elogio.php?data=2026-10-27",
+        "https://www.vatican.va/content/vatican/pt/holy-father/evaristo.html"
+      ],
+      "imagem": {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Pope%20Saint%20Evaristus%20(by%20Sandro%20Botticelli)%20%E2%80%93%20Sistine%20Chapel.jpg",
+        "fonte": "https://commons.wikimedia.org/wiki/File:Pope%20Saint%20Evaristus%20(by%20Sandro%20Botticelli)%20%E2%80%93%20Sistine%20Chapel.jpg",
+        "descricao": "São Evaristo em representação atribuída a Sandro Botticelli, Capela Sistina, 1481; imagem histórica, não retrato em vida.",
+        "autor": "Sandro Botticelli (1445–1510)",
+        "licenca": "Domínio público (PD-Art; PD-old)",
+        "ligacao_licenca": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "dimensoes": "350 × 875",
+        "verificada": true,
+        "verificada_em": "2026-10-26",
+        "validacao": "Página da obra, licença e imagem original abertas; identidade iconográfica conferida visualmente; apresentação no GitHub Pages ainda por testar.",
+        "tipo": "pintura mural histórica",
+        "instituicao": "Capela Sistina, Museus Vaticanos",
+        "motivo_escolha": "Representação nominalmente identificada em contexto artístico vaticano, com licença pública; preferida a retratos genéricos.",
+        "candidatos_rejeitados": [
+          "Miniatura de 243×374 px da mesma obra, menos nítida."
+        ]
+      }
+    },
+    {
+      "nome": "São Tráseas de Euménia, bispo e mártir",
+      "identificacao": "Bispo de Euménia, na Frígia (Ásia Menor), martirizado em Esmirna na segunda metade do século II; grafias Traseias, Thraseas e Tráseas.",
+      "biografia": "É uma das figuras da Igreja asiática antiga de que existem referências históricas, embora não uma biografia contínua. Polícrates de Éfeso, numa carta sobre a data da Páscoa preservada por Eusébio de Cesareia (História Eclesiástica V,24), inclui Tráseas entre os bispos e mártires da Ásia, referindo a sua sepultura em Esmirna. O seu nome surge também no contexto da resistência a movimentos proféticos que a Igreja antiga discutiu, mas não é possível reconstruir os seus discursos, família ou as circunstâncias exatas da execução. O Martirológio português situa a sua morte aproximadamente entre 170 e 180. A história do santo deve ser lida à luz da diversidade de tradições litúrgicas das comunidades cristãs do século II, sem projetar sobre ele controvérsias posteriores.",
+      "canonizacao": "Reconhecimento por culto antigo, sem processo formal moderno.",
+      "milagres": "Milagres reconhecidos por decreto: não identificados. Narrativas de prodígios pessoais: sem documentação segura nas fontes consultadas.",
+      "sepultura": "Esmirna, atual Izmir, Turquia, segundo a carta de Polícrates transmitida por Eusébio; não foi identificado túmulo individual autenticado.",
+      "ensinamento": "Fidelidade à fé e respeito pela documentação histórica quando os detalhes se perderam.",
+      "referencias_biblicas": "Ap 2,8-11 (mensagem à Igreja de Esmirna); 2 Tm 4,7-8 (associação espiritual, não prova de relação direta).",
+      "fontes": [
+        "https://mail.liturgia.pt/martirologio/elogio.php?data=2026-10-27",
+        "https://christearlychurch.co.uk/person/thraseas-of-eumenia/",
+        "https://en.wikipedia.org/wiki/Thraseas"
+      ],
+      "revisao_iconografica": "Não foi encontrada imagem atribuível com segurança a Tráseas; manter sem imagem em vez de usar outro mártir."
+    },
+    {
+      "nome": "São Namácio de Clermont, bispo",
+      "identificacao": "Bispo de Clermont (Arverna), na Gália, século V; falecido aproximadamente em 460. Também chamado Namace ou Namacius.",
+      "biografia": "A sua importância histórica é sobretudo arquitetónica e pastoral. Gregório de Tours, escrevendo no século VI, recorda a construção de uma grande igreja no interior das muralhas de Clermont, associada ao episcopado de Namácio. A basílica possuía planta em cruz e rica decoração; a descrição de Gregório menciona numerosas colunas, janelas e portas. O projeto levou a comunidade cristã para o centro da cidade numa época de profundas mudanças políticas após o declínio do Império Romano do Ocidente. A tradição relaciona o templo com a veneração dos mártires Vital e Agrícola e com a obtenção de relíquias em Itália. A igreja original não sobreviveu; a catedral atual ocupa a continuidade do lugar de culto. Sobre a infância, a formação e a vida privada do bispo, a documentação segura é muito reduzida.",
+      "canonizacao": "Culto antigo, sem processo moderno documentado.",
+      "milagres": "Não foram identificados milagres pessoais reconhecidos por decreto. As notícias sobre relíquias e a dedicação da igreja são história do culto, não provas de curas.",
+      "sepultura": "Local exato da sepultura não confirmado; a memória permanece ligada à Igreja de Clermont-Ferrand.",
+      "ensinamento": "A fé também se transmite por obras e instituições que servem as gerações futuras.",
+      "referencias_biblicas": "1 Cor 3,9-11; 1 Pd 2,4-5.",
+      "fontes": [
+        "https://mail.liturgia.pt/martirologio/elogio.php?data=2026-10-27",
+        "https://www.saintspedia.com/en/saints/saint-namatius-of-clermont/",
+        "https://en.wikipedia.org/wiki/Namatius"
+      ],
+      "imagem": {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Namacius%20Cl-Fd%20St-Eutrope.jpg",
+        "fonte": "https://commons.wikimedia.org/wiki/File:Namacius%20Cl-Fd%20St-Eutrope.jpg",
+        "descricao": "São Namácio representado em vitral da igreja de Saint-Eutrope, Clermont-Ferrand.",
+        "autor": "Romary (fotografia, 2007)",
+        "licenca": "CC BY-SA 3.0 Unported",
+        "ligacao_licenca": "https://creativecommons.org/licenses/by-sa/3.0/",
+        "dimensoes": "1210 × 3240",
+        "verificada": true,
+        "verificada_em": "2026-10-26",
+        "validacao": "Página da obra, licença e imagem original abertas; identidade iconográfica conferida visualmente; apresentação no GitHub Pages ainda por testar.",
+        "tipo": "vitral",
+        "instituicao": "Igreja de Saint-Eutrope, Clermont-Ferrand",
+        "motivo_escolha": "Vitral identificado pelo nome do santo, fotografia de alta resolução e licença verificável."
+      }
+    },
+    {
+      "nome": "São Gaudioso de Abitina, bispo",
+      "identificacao": "Bispo norte-africano, oriundo de Abitina (África romana), exilado em consequência das perseguições vândalas; morreu em Nápoles entre os séculos V e VI. Não confundir com o bispo homónimo de Salerno.",
+      "biografia": "O Martirológio assinala que, devido à perseguição dos Vândalos no Norte de África, Gaudioso passou à Campânia e concluiu a vida em paz num mosteiro. O quadro histórico é o da conquista de Cartago por Genserico, em 439, e do exílio de bispos católicos que recusaram a pressão ariana. A tradição napolitana associa Gaudioso a outros eclesiásticos africanos refugiados, à vida monástica e às catacumbas que receberam o seu nome. O relato de uma viagem num barco sem velas nem remos deve ser apresentado como tradição hagiográfica, não como episódio confirmado por documentação contemporânea. O ano exato da morte e o grau de participação na fundação monástica não estão estabelecidos. As catacumbas de San Gaudioso, sob a basílica de Santa Maria della Sanità, testemunham a permanência da sua veneração.",
+      "canonizacao": "Culto antigo anterior aos processos modernos.",
+      "milagres": "Reconhecidos por decreto: não identificados. Tradição: chegada providencial a Nápoles numa embarcação sem meios de navegação, sem comprovação histórica independente.",
+      "sepultura": "Catacumbas de San Gaudioso, Nápoles, local tradicional de sepultura e veneração; autenticidade material das relíquias não reavaliada nesta edição.",
+      "ensinamento": "A fidelidade à consciência e o acolhimento de exilados são dimensões da vida cristã.",
+      "referencias_biblicas": "Mt 5,10-12; Hb 13,1-3.",
+      "fontes": [
+        "https://mail.liturgia.pt/martirologio/elogio.php?data=2026-10-27",
+        "https://www.santodelgiorno.it/san-gaudioso-di-abitine/",
+        "https://www.santiebeati.it/index.php/dettaglio/90237"
+      ],
+      "revisao_iconografica": "Foram encontradas fotografias das catacumbas e imagens de outros santos homónimos; não equivalem a retrato de Gaudioso de Abitina e não foram usadas como imagem principal."
+    },
+    {
+      "nome": "Santo Oterano de Iona, monge",
+      "identificacao": "Monge ligado à comunidade de São Columba na ilha escocesa de Iona, século VI. Variantes Odran, Odhrán, Oran e Otteranus.",
+      "biografia": "A memória de Oterano pertence à primeira expansão do monaquismo irlandês para a costa ocidental da Escócia. O Martirológio coloca-o entre os primeiros discípulos de São Columba em Iona. A tradição associa-o ao primeiro cemitério da ilha e à capela que conserva o seu nome, embora o edifício atualmente existente seja medieval e muito posterior à sua vida. Certas narrativas populares descrevem um suposto enterramento vivo como sacrifício para a fundação do mosteiro; essa história é uma lenda, não um acontecimento histórico comprovado, e não deve ser narrada como milagre. A escassez de testemunhos contemporâneos não permite precisar a sua origem, as datas ou o papel efetivo na organização monástica. O culto continua associado à paisagem espiritual de Iona.",
+      "canonizacao": "Culto antigo, sem processo moderno.",
+      "milagres": "Milagres reconhecidos por decreto: não documentados. Tradição do enterramento nas fundações: lenda não comprovada; não apresentada como facto.",
+      "sepultura": "Cemitério de Reilig Odhráin, em Iona, por tradição; a capela medieval de Santo Oran não é uma imagem do santo.",
+      "ensinamento": "A vida monástica constrói comunidades de oração cuja memória pode perdurar por séculos.",
+      "referencias_biblicas": "Cl 3,12-17; At 2,42-47.",
+      "fontes": [
+        "https://mail.liturgia.pt/martirologio/elogio.php?data=2026-10-27",
+        "https://nominis.cef.fr/contenus/saint/10056/Saint-Odran.html",
+        "https://commons.wikimedia.org/wiki/Category:St_Oran%27s_Chapel"
+      ],
+      "revisao_iconografica": "Existe fotografia licenciada da capela (Wikimedia Commons: St Oran's Chapel Iona.jpg), mas não é retrato do santo; ficou apenas como referência documental."
+    },
+    {
+      "nome": "Santos Vicente, Sabina e Cristeta, mártires (memória própria de Évora)",
+      "identificacao": "Três irmãos venerados como mártires em Ávila, Espanha, início do século IV, segundo a tradição; padroeiros principais da cidade de Évora, com solenidade local a 27 de outubro de 2026.",
+      "biografia": "O culto destes três mártires desenvolveu-se em Ávila e atravessou a Península Ibérica. Segundo a tradição hagiográfica, Vicente e as suas irmãs Sabina e Cristeta recusaram abandonar a fé cristã durante a perseguição de Diocleciano e sofreram o martírio em Ávila. A narrativa atribui-lhes uma origem em Évora dos Carpetanos, topónimo relacionado com a região de Talavera de la Reina, e não automaticamente com a cidade portuguesa de Évora. As 'passiones' medievais incluem episódios de tortura e prodígios que não podem ser confirmados historicamente. A basílica de São Vicente de Ávila conserva um célebre cenotáfio românico com cenas do seu martírio. Em Évora, o culto adquiriu expressão litúrgica própria e há uma pintura portuguesa do século XVI no Museu de Arte Sacra da Sé que os representa com Santo António. O calendário oficial português assinala a sua solenidade na cidade de Évora e memória obrigatória no resto da arquidiocese; não se trata de celebração universal da mesma categoria.",
+      "canonizacao": "Culto martirial antigo, anterior aos procedimentos modernos de canonização.",
+      "milagres": "Reconhecidos por decreto: não documentados. Tradição: narrativas de prodígios associados ao martírio e à memória dos corpos; não comprovadas por documentação contemporânea.",
+      "sepultura": "Basílica de São Vicente, Ávila, local do cenotáfio e de culto das relíquias; o itinerário e repartição histórica das relíquias requerem estudo específico.",
+      "ensinamento": "A coragem da consciência cristã é recordada pela memória dos mártires; distinguir história e lenda honra essa memória.",
+      "referencias_biblicas": "Mt 10,32-39; Rm 8,35-39; Ap 7,13-17.",
+      "fontes": [
+        "https://mail.liturgia.pt/liturgiadiaria/dia.php?data=2026-10-27",
+        "https://nominis.cef.fr/contenus/saint/8734/Saints-Vincent--Sabine-et-Christ%C3%A8te.html",
+        "https://www.santiebeati.it/index.php/dettaglio/75460"
+      ],
+      "imagem": {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/S%C3%A3o%20Vicente%2C%20suas%20irm%C3%A3s%20Sabina%20e%20Cristeta%2C%20e%20Santo%20Ant%C3%B3nio%20(c.%201575-1580)%20-%20Ant%C3%B3nio%20de%20Oliveira%20(%3F)%2C%20Museu%20de%20Arte%20Sacra%20da%20S%C3%A9%20de%20%C3%89vora.png",
+        "fonte": "https://commons.wikimedia.org/wiki/File:S%C3%A3o%20Vicente%2C%20suas%20irm%C3%A3s%20Sabina%20e%20Cristeta%2C%20e%20Santo%20Ant%C3%B3nio%20(c.%201575-1580)%20-%20Ant%C3%B3nio%20de%20Oliveira%20(%3F)%2C%20Museu%20de%20Arte%20Sacra%20da%20S%C3%A9%20de%20%C3%89vora.png",
+        "descricao": "Os mártires Vicente, Sabina e Cristeta com Santo António, pintura portuguesa c. 1575–1580, Museu de Arte Sacra da Sé de Évora.",
+        "autor": "António de Oliveira (?) — atribuição incerta",
+        "licenca": "Domínio público (PD-Art; PD-old-100)",
+        "ligacao_licenca": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "dimensoes": "707 × 915",
+        "verificada": true,
+        "verificada_em": "2026-10-26",
+        "validacao": "Página da obra, licença e imagem original abertas; identidade iconográfica conferida visualmente; apresentação no GitHub Pages ainda por testar.",
+        "tipo": "pintura portuguesa histórica",
+        "instituicao": "Museu de Arte Sacra da Sé de Évora",
+        "motivo_escolha": "Obra histórica conservada em Évora e dedicada nominalmente aos três mártires; pertinência litúrgica local superior a representações genéricas.",
+        "nota": "A pintura inclui Santo António, identificado como figura adicional."
+      }
+    }
+  ],
+  "beatos": [
+    {
+      "nome": "Beato Gonçalo de Lagos, presbítero — memória facultativa nacional",
+      "identificacao": "Português, natural de Lagos, c. 1360–15 de outubro de 1422; religioso agostiniano, prior e educador; culto confirmado por Pio VI em 1778. Memória facultativa nacional a 27 de outubro; obrigatória no Algarve e em Lisboa, festa na cidade de Lagos.",
+      "biografia": "Entrou na Ordem dos Eremitas de Santo Agostinho ainda jovem, em Lisboa. Foi superior de comunidades agostinianas, terminando a vida no convento de Nossa Senhora da Graça de Torres Vedras, onde exerceu funções de prior entre 1412 e 1422. A tradição e os testemunhos do culto sublinham a atenção às crianças, aos trabalhadores e às pessoas com menos instrução, a quem transmitia a doutrina cristã de modo acessível. A ligação aos pescadores do Algarve e a devoção nas cidades de Lagos e Torres Vedras são traços relevantes da sua receção popular. Torres Vedras reconheceu-o como padroeiro em 1495 e Lagos em 1760; a confirmação pontifícia do culto, em 1778, reconheceu a veneração preexistente. A data de 27 de outubro é litúrgica; a sua morte ocorreu a 15 de outubro de 1422.",
+      "beatificacao": "Confirmação do culto por Pio VI em 1778, forma histórica de reconhecimento equiparável à beatificação.",
+      "milagres": "Reconhecidos por decreto: não se identificou, nesta pesquisa, decreto individual de milagre de cura. Tradições devocionais: proteção dos pescadores e graças atribuídas à sua intercessão, sem confirmação canónica específica nesta edição.",
+      "sepultura": "Ligado à igreja/convento de Nossa Senhora da Graça de Torres Vedras; localização atual e autenticidade das relíquias exigem verificação documental.",
+      "fontes": [
+        "https://mail.liturgia.pt/martirologio/elogio.php?data=2026-10-27",
+        "https://mail.liturgia.pt/liturgiadiaria/dia.php?data=2026-10-27",
+        "https://www.cm-tvedras.pt/agenda/detalhes/200714",
+        "https://www.cm-tvedras.pt/agenda/detalhes/145049"
+      ],
+      "referencias_biblicas": "Mc 10,13-16; Mt 11,25.",
+      "imagem_referencia": "https://commons.wikimedia.org/wiki/File:Beato_Gon%C3%A7alo_de_Lagos_(Frei_Manuel_de_Figueiredo%2C_Ecco_da_Santidade_Continuado_no_Immemorial_Culto_do_Beato_Gon%C3%A7alo_de_Lagos%2C_1765).png"
+    },
+    {
+      "nome": "Beato Bartolomeu de Breganze, bispo",
+      "identificacao": "Dominicano italiano, c. 1200–1270, bispo de Vicenza; comemoração no Martirológio de 27 de outubro.",
+      "biografia": "Pertenceu à primeira geração dominicana, viveu as tensões políticas e religiosas do século XIII e assumiu missões eclesiais em vários territórios. Foi bispo de Limassol, em Chipre, e depois de Vicenza. O Martirológio destaca a fundação da Milícia de Jesus Cristo, destinada à defesa da fé católica e da liberdade da Igreja num contexto de conflitos civis. O seu culto foi confirmado por Pio VI em 1793. As narrativas posteriores sobre as suas atividades políticas devem ser confrontadas com documentos medievais antes de serem apresentadas como factos minuciosos.",
+      "beatificacao": "Confirmação do culto por Pio VI, 11 de setembro de 1793, segundo fontes hagiográficas; requer confronto com o decreto original.",
+      "milagres": "Não se identificaram decretos de milagres individuais nesta pesquisa.",
+      "sepultura": "Vicenza, Itália; localização precisa e autenticidade de relíquias por confirmar.",
+      "fontes": [
+        "https://mail.liturgia.pt/martirologio/elogio.php?data=2026-10-27",
+        "https://www.santiebeati.it/dettaglio/90462",
+        "https://it.cathopedia.org/wiki/Beato_Bartolomeo_di_Breganze"
+      ],
+      "referencias_biblicas": "Ef 4,1-6."
+    },
+    {
+      "nome": "Beato Salvador Mollar Ventura, religioso e mártir",
+      "identificacao": "Franciscano espanhol, nascido em Manises a 27 de março de 1896; morto em Paterna a 27 de outubro de 1936 durante a Guerra Civil de Espanha; beatificado em 2001.",
+      "biografia": "Desde jovem participou em atividades religiosas e no ensino da catequese. Ingressou na Ordem dos Frades Menores, professou solenemente em 1925 e desempenhou funções de sacristão. Após o início da Guerra Civil de Espanha refugiou-se em casa de familiares, foi detido e acabou executado em Paterna. O reconhecimento do martírio insere-se na beatificação de um grupo de mártires da perseguição religiosa em Espanha. Importa não confundir a memória do seu martírio com juízos políticos generalizantes sobre todas as vítimas do conflito. Nota de crítica de fontes: a página portuguesa do Martirológio apresenta «† 1711», data incompatível com a identidade deste religioso; fontes eclesiais espanholas documentam 1936.",
+      "beatificacao": "Beatificado por São João Paulo II em 11 de março de 2001, integrado no grupo dos mártires de Valência.",
+      "milagres": "Para a beatificação por martírio, a exigência de milagre não é idêntica à de um processo por virtudes heroicas. Não foi identificado decreto de milagre individual nesta pesquisa.",
+      "sepultura": "Restos trasladados em 1939 para Manises, segundo a Arquidiocese de Granada; confirmar local atual.",
+      "fontes": [
+        "https://mail.liturgia.pt/martirologio/elogio.php?data=2026-10-27",
+        "https://archidiocesisgranada.es/noticias/beato-salvador-mollar-ventura/",
+        "https://nominis.cef.fr/contenus/saint/12318/Bienheureux-Sauveur-Mollar-Ventura.html"
+      ],
+      "referencias_biblicas": "Mt 5,10-12; Ap 7,13-17."
+    }
+  ],
+  "reflexao": "No Evangelho, Jesus compara o Reino a uma semente de mostarda e ao fermento que transforma a massa. A vida de Gonçalo de Lagos, feita de ensino e serviço quotidiano, e a persistência da memória dos primeiros cristãos ilustram como gestos discretos podem deixar frutos duradouros. A memória dos mártires convida a defender a liberdade de consciência sem transformar tradições em certezas históricas.",
+  "fontes": [
+    "https://mail.liturgia.pt/liturgiadiaria/dia.php?data=2026-10-27",
+    "https://mail.liturgia.pt/martirologio/elogio.php?data=2026-10-27",
+    "https://www.vatican.va/content/vatican/pt/holy-father/evaristo.html",
+    "https://www.cm-tvedras.pt/agenda/detalhes/145049",
+    "https://archidiocesisgranada.es/noticias/beato-salvador-mollar-ventura/"
+  ],
+  "estado": "EDIÇÃO EM REVISÃO — inventário de 27/10 confrontado com o Martirológio português (5 santos individuais e 3 beatos) e calendário litúrgico (3 santos adicionais com celebração local em Évora). Três fichas principais têm imagens de obras identificadas e abertas na origem; faltam retratos específicos dos outros três grupos/fichas, testes no GitHub Pages e revisão editorial final. O documento integral de instruções v2.0 ainda não está disponível no repositório.",
+  "revisao": {
+    "estado": "revisao",
+    "criterios_pendentes": [
+      "Confirmar a integridade da versão v2.0 de instruções do proprietário num documento persistente",
+      "Rever pormenores históricos e milagres em fontes primárias",
+      "Pesquisar mais candidatos iconográficos para Tráseas, Gaudioso e Oterano sem usar representações de outros santos",
+      "Testar as imagens no GitHub Pages, incluindo dispositivos móveis",
+      "Rever legibilidade, acessibilidade e adequação de todos os campos do portal",
+      "Corrigir/assinalar a incongruência †1711 para Salvador Mollar Ventura no Martirológio português sem alterar a fonte"
+    ],
+    "santos_individuais": 8,
+    "grupos_de_fichas_santos": 6,
+    "beatos": 3,
+    "imagens_de_santos_com_fonte_e_ficheiro_verificados": 3,
+    "imagens_de_santos_pendentes": 3,
+    "nota": "As três imagens validadas são pinturas/vitrais, não fotografias dos santos em vida; a apresentação final no portal não foi testada."
+  }
+}
