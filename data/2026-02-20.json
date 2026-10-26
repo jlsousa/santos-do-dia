@@ -19,11 +19,12 @@
       ],
       "imagem": {
         "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Francesco%20Marto.jpg",
-        "fonte": "https://commons.wikimedia.org/wiki/File:Francesco_Marto.jpg",
-        "descricao": "Fotografia histórica de Francisco Marto (1917), atribuída a Joshua Benoliel; original publicado em Ilustração Portuguesa.",
-        "licenca": "Domínio público; fotógrafo falecido em 1932.",
-        "verificada": false,
-        "estado": "Por validar: URL, correspondência iconográfica e licença precisam de confirmação independente"
+        "fonte": "https://commons.wikimedia.org/wiki/File:Francesco%20Marto.jpg",
+        "descricao": "Fotografia de Francisco Marto, extraída de retrato dos pastorinhos de Fátima, c. 1917; atribuída a Joshua Benoliel.",
+        "licenca": "Domínio público; fotografia publicada em 1917, atribuída a Joshua Benoliel (1873–1932).",
+        "dimensoes": "399×743",
+        "verificada": true,
+        "estado": "Ficheiro e identificação encontrados no Wikimedia Commons; teste de carregamento no GitHub Pages ainda pendente."
       }
     },
     {
@@ -44,10 +45,11 @@
       "imagem": {
         "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Jacinta-marto-fatima-portugal-1917.jpg",
         "fonte": "https://commons.wikimedia.org/wiki/File:Jacinta-marto-fatima-portugal-1917.jpg",
-        "descricao": "Fotografia histórica de Jacinta Marto, 1917; autor desconhecido, proveniente do Santuário de Fátima.",
-        "licenca": "Domínio público em Portugal (fotografia anterior a 1970).",
-        "verificada": false,
-        "estado": "Por validar: URL, correspondência iconográfica e licença precisam de confirmação independente"
+        "descricao": "Retrato fotográfico de Jacinta Marto, 1917, autor desconhecido, proveniente do Santuário de Fátima.",
+        "licenca": "Domínio público em Portugal; fotografia de 1917.",
+        "dimensoes": "398×606",
+        "verificada": true,
+        "estado": "Ficheiro e identificação encontrados no Wikimedia Commons; teste de carregamento no GitHub Pages ainda pendente."
       }
     },
     {
@@ -64,11 +66,12 @@
       ],
       "imagem": {
         "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Leo%20of%20Catania.jpg",
-        "fonte": "https://commons.wikimedia.org/wiki/File:Leo_of_Catania.jpg",
-        "descricao": "São Leão de Catânia, ícone ortodoxo tradicional de autor desconhecido.",
-        "licenca": "Domínio público, reprodução PD-Art.",
-        "verificada": false,
-        "estado": "Por validar: URL, correspondência iconográfica e licença precisam de confirmação independente"
+        "fonte": "https://commons.wikimedia.org/wiki/File:Leo%20of%20Catania.jpg",
+        "descricao": "Ícone ortodoxo tradicional de São Leão de Catânia; artista desconhecido.",
+        "licenca": "Domínio público, reprodução de obra bidimensional tradicional (PD-Art); verificar contexto específico da obra.",
+        "dimensoes": "498×600",
+        "verificada": true,
+        "estado": "Ficheiro e identificação encontrados no Wikimedia Commons; teste de carregamento no GitHub Pages ainda pendente."
       }
     },
     {
@@ -80,7 +83,16 @@
       "canonizacao": "Culto antigo.",
       "fontes": [
         "https://liturgia.pt/liturgiadiaria/dia.php?data=2026-2-20"
-      ]
+      ],
+      "imagem": {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/St.%20Eucherius%2C%20Bishop%20of%20Orleans%20Met%20DP890846.jpg",
+        "fonte": "https://commons.wikimedia.org/wiki/File:St.%20Eucherius%2C%20Bishop%20of%20Orleans%20Met%20DP890846.jpg",
+        "descricao": "São Euquério, bispo de Orleães, gravura histórica da série de santos conservada no Metropolitan Museum of Art.",
+        "licenca": "Domínio público, gravura histórica; fonte: Metropolitan Museum of Art via Wikimedia Commons.",
+        "dimensoes": "1676×2185",
+        "verificada": true,
+        "estado": "Ficheiro e identificação encontrados no Wikimedia Commons; teste de carregamento no GitHub Pages ainda pendente."
+      }
     },
     {
       "nome": "Santo Eleutério de Tournai",
@@ -91,7 +103,16 @@
       "canonizacao": "Culto antigo.",
       "fontes": [
         "https://liturgia.pt/liturgiadiaria/dia.php?data=2026-2-20"
-      ]
+      ],
+      "imagem": {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/St%20Eleutherius%20of%20Tournai%20Baptizing%20Converts%20(detail)%2C%20workshop%20of%20Arnold%20of%20Nijmegen%2C%20Flemish%2C%20c.%201500-1525%20-%20Nelson-Atkins%20Museum%20of%20Art%20-%20DSC08491.JPG",
+        "fonte": "https://commons.wikimedia.org/wiki/File:St%20Eleutherius%20of%20Tournai%20Baptizing%20Converts%20(detail)%2C%20workshop%20of%20Arnold%20of%20Nijmegen%2C%20Flemish%2C%20c.%201500-1525%20-%20Nelson-Atkins%20Museum%20of%20Art%20-%20DSC08491.JPG",
+        "descricao": "São Eleutério de Tournai a batizar convertidos, vitral flamengo de c. 1500–1525, oficina de Arnold de Nijmegen, Nelson-Atkins Museum of Art; fotografia de Daderot.",
+        "licenca": "Domínio público (vitral histórico e fotografia dedicada ao domínio público pelo autor Daderot).",
+        "dimensoes": "4320×3240",
+        "verificada": true,
+        "estado": "Ficheiro e identificação encontrados no Wikimedia Commons; teste de carregamento no GitHub Pages ainda pendente."
+      }
     },
     {
       "nome": "São Tirânio de Tiro",
@@ -132,7 +153,7 @@
     "https://www.liturgia.pt/santos/santo_v.php?cod_santo=38",
     "https://www.vaticannews.va/pt/santo-do-dia/02/20.html"
   ],
-  "estado": "EDIÇÃO EM REVISÃO — não cumpre ainda todos os requisitos editoriais: verificar integralidade do Martirológio, biografias, milagres e imagens. As imagens sem verificação independente não são publicadas.",
+  "estado": "REVISÃO EDITORIAL — 5 de 7 santos com imagens de origem identificada; Tirânio e Serapião aguardam imagem que corresponda comprovadamente a cada santo. Testes visuais e revisão do elenco por concluir.",
   "revisao": {
     "estado": "revisao",
     "criterios_pendentes": [
