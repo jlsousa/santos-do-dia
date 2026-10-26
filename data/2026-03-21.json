@@ -17,10 +17,10 @@
       "imagem": {
         "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Benedict%20of%20Nursia.jpg",
         "fonte": "https://commons.wikimedia.org/wiki/File:Benedict_of_Nursia.jpg",
-        "descricao": "São Bento de Núrsia, ícone de autor desconhecido, obra em domínio público.",
-        "licenca": "Domínio público (PD-Art).",
-        "verificada": false,
-        "estado": "Por validar: URL, correspondência iconográfica e licença precisam de confirmação independente"
+        "descricao": "São Bento de Núrsia representado em ícone ortodoxo tradicional; autor desconhecido.",
+        "licenca": "Domínio público (PD-Art / PD-old).",
+        "verificada": true,
+        "estado": "Identidade, ficheiro e licença consultados na página do Wikimedia Commons; apresentação no site ainda por testar."
       }
     },
     {
