@@ -19,7 +19,8 @@
         "fonte": "https://commons.wikimedia.org/wiki/File:St._Carlo_Acutis.jpg",
         "descricao": "Escultura de São Carlo Acutis na igreja de Pallikkara, Índia; fotografia de Joncrisvv, 11 de setembro de 2025. Não é fotografia do santo em vida.",
         "licenca": "CC BY-SA 4.0; autor Joncrisvv; https://creativecommons.org/licenses/by-sa/4.0/",
-        "verificada": true
+        "verificada": false,
+        "estado": "Por validar: URL, correspondência iconográfica e licença precisam de confirmação independente"
       },
       "fontes": [
         "https://www.causesanti.va/it/santi-e-beati/carlo-acutis.html",
@@ -148,5 +149,15 @@
     "https://www.fondazionecarloacutis.org/en/the-saint/",
     "https://www.diocese-braga.pt/noticia/2025-09-10-paroquia-de-duas-igrejas-arciprestado-de-vila-verde-celebrou-a-canonizacao-do-carlo-acutis-68c18d5ec52fd"
   ],
-  "estado": "Versão em revisão editorial: imagem de São Carlo Acutis identificada e licenciada (escultura); iconografia dos restantes santos e alguns pormenores biográficos continuam pendentes."
+  "estado": "EDIÇÃO EM REVISÃO — não cumpre ainda todos os requisitos editoriais: verificar integralidade do Martirológio, biografias, milagres e imagens. As imagens sem verificação independente não são publicadas.",
+  "revisao": {
+    "estado": "revisao",
+    "criterios_pendentes": [
+      "confronto integral com Martirológio e calendário de Portugal",
+      "auditoria factual individual de biografias e processos",
+      "imagem individual de qualidade, identidade e licença verificadas para cada santo",
+      "teste visual e funcional do site publicado"
+    ],
+    "imagens_que_exigem_revalidacao": 1
+  }
 }
