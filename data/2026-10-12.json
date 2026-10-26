@@ -41,7 +41,15 @@
       "canonizacao": "16 de julho de 1767, pelo Papa Clemente XIII.",
       "fontes": [
         "https://mail.liturgia.pt/martirologio/elogio.php?data=2026-10-12"
-      ]
+      ],
+      "imagem": {
+        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Saint%20Seraphinus.%20Etching%20by%20J.E.%20Mansfeld.%20Wellcome%20V0033345.jpg",
+        "fonte": "https://commons.wikimedia.org/wiki/File:Saint_Seraphinus._Etching_by_J.E._Mansfeld._Wellcome_V0033345.jpg",
+        "descricao": "Gravura histórica de São Serafim de Montegranaro, J. E. Mansfeld, Wellcome Collection.",
+        "licenca": "CC BY 4.0 — Wellcome Collection; atribuição: J. E. Mansfeld / Wellcome Collection.",
+        "verificada": false,
+        "estado": "Identidade e ficheiro encontrados em fonte pública; aguarda teste real de carregamento e revisão da licença."
+      }
     },
     {
       "nome": "São Rotobaldo de Pavia",
