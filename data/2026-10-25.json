@@ -17,7 +17,8 @@
         "fonte": "https://commons.wikimedia.org/wiki/File:Bernat_Calb%C3%B3.jpg",
         "descricao": "São Bernardo Calbó, xilogravura catalã do século XIX.",
         "licenca": "Domínio público.",
-        "verificada": true
+        "verificada": false,
+        "estado": "Por validar: URL, correspondência iconográfica e licença precisam de confirmação independente"
       }
     },
     {
@@ -46,7 +47,8 @@
         "fonte": "https://commons.wikimedia.org/wiki/File:St._Frutos_-_Sts._Frutos%2C_Valent%C3%ADn_and_Engracia_Chapel_-_Cathedral_of_Segovia.JPG",
         "descricao": "Representação escultórica de São Fruto na Catedral de Segóvia, fotografia de José Luiz.",
         "licenca": "Ver licença na página de origem; atribuição ao fotógrafo.",
-        "verificada": true
+        "verificada": false,
+        "estado": "Por validar: URL, correspondência iconográfica e licença precisam de confirmação independente"
       }
     },
     {
@@ -75,7 +77,8 @@
         "fonte": "https://commons.wikimedia.org/wiki/File:Statua_di_Antonio_Caligari_presbiterio_duomo_nuovo_Brescia.jpg",
         "descricao": "São Gaudêncio de Bréscia, escultura de Antonio Calegari na Catedral Nova de Bréscia; fotografia de Wolfgang Moroder.",
         "licenca": "CC BY-SA 2.5, atribuição: Wolfgang Moroder.",
-        "verificada": true
+        "verificada": false,
+        "estado": "Por validar: URL, correspondência iconográfica e licença precisam de confirmação independente"
       }
     },
     {
@@ -116,7 +119,8 @@
         "fonte": "https://commons.wikimedia.org/wiki/File:1449_del_Castagno_Die_Himmelfahrt_Mariae_Gem%C3%A4ldegalerie_Berlin_anagoria.jpg",
         "descricao": "São Miniato de Florença representado juntamente com a Virgem Maria e São Juliano na pintura de Andrea del Castagno, século XV.",
         "licenca": "Obra em domínio público; reprodução Wikimedia Commons.",
-        "verificada": true
+        "verificada": false,
+        "estado": "Por validar: URL, correspondência iconográfica e licença precisam de confirmação independente"
       }
     },
     {
@@ -135,7 +139,8 @@
         "fonte": "https://commons.wikimedia.org/wiki/File:Chrysanthus_and_Daria_of_Rome.jpg",
         "descricao": "Santos Crisanto e Dária, miniatura bizantina do Menológio de Basílio II, século X.",
         "licenca": "Domínio público (obra medieval).",
-        "verificada": true
+        "verificada": false,
+        "estado": "Por validar: URL, correspondência iconográfica e licença precisam de confirmação independente"
       }
     },
     {
@@ -154,7 +159,8 @@
         "fonte": "https://commons.wikimedia.org/wiki/File:Jan_van_der_Venne_-_Saints_Crispin_and_Crispinian.jpg",
         "descricao": "Santos Crispim e Crispiniano, pintura de Jan van der Venne (século XVII), Museu de Belas-Artes de Besançon.",
         "licenca": "Domínio público (PD-Art).",
-        "verificada": true
+        "verificada": false,
+        "estado": "Por validar: URL, correspondência iconográfica e licença precisam de confirmação independente"
       }
     },
     {
@@ -176,7 +182,8 @@
         "fonte": "https://commons.wikimedia.org/wiki/File:An%C3%B4nimo_-_Frei_Galv%C3%A3o.jpg",
         "descricao": "Frei Galvão, pintura anónima de cerca de 1850, Museu de Arte Sacra de São Paulo.",
         "licenca": "Domínio público (obra histórica).",
-        "verificada": true
+        "verificada": false,
+        "estado": "Por validar: URL, correspondência iconográfica e licença precisam de confirmação independente"
       }
     }
   ],
@@ -199,5 +206,15 @@
     "https://mail.liturgia.pt/martirologio/elogio.php?data=2026-10-25",
     "https://mail.liturgia.pt/liturgiadiaria/dia.php?data=2026-10-25"
   ],
-  "estado": "Edição provisória em revisão editorial. A identificação e licença de cada imagem carecem de verificação; a cobertura histórica e litúrgica não foi integralmente auditada."
+  "estado": "EDIÇÃO EM REVISÃO — não cumpre ainda todos os requisitos editoriais: verificar integralidade do Martirológio, biografias, milagres e imagens. As imagens sem verificação independente não são publicadas.",
+  "revisao": {
+    "estado": "revisao",
+    "criterios_pendentes": [
+      "confronto integral com Martirológio e calendário de Portugal",
+      "auditoria factual individual de biografias e processos",
+      "imagem individual de qualidade, identidade e licença verificadas para cada santo",
+      "teste visual e funcional do site publicado"
+    ],
+    "imagens_que_exigem_revalidacao": 7
+  }
 }
