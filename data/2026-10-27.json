@@ -326,7 +326,7 @@
     "nota": "As três imagens validadas são pinturas/vitrais, não fotografias dos santos em vida; a apresentação final no portal não foi testada.",
     "ultima_auditoria": "2026-10-27",
     "auditoria_imagens": "Três imagens históricas abertas e conferidas visualmente nas páginas e ficheiros originais Wikimedia; URLs diretas dos ficheiros adicionadas. Não se comprovou apresentação no GitHub Pages. Três santos continuam sem retrato verificável; foram registados candidatos rejeitados por homonímia e licença.",
-    "novos_relates_tradicionais": 10,
-    "nota_milagres": "Dez episódios atribuídos ao Beato Gonçalo classificados individualmente: oito tradições de prodígios/intercessão e dois exemplos de virtude sem natureza milagrosa. Não se apresentam como milagres canonicamente reconhecidos."
+    "nota_milagres": "Dez episódios atribuídos ao Beato Gonçalo classificados individualmente: oito tradições de prodígios/intercessão e dois exemplos de virtude sem natureza milagrosa. Não se apresentam como milagres canonicamente reconhecidos.",
+    "novos_relatos_tradicionais": 10
   }
 }
