@@ -188,19 +188,83 @@
   "beatos": [
     {
       "nome": "Beato Gonçalo de Lagos, presbítero — memória facultativa nacional",
-      "identificacao": "Português, natural de Lagos, c. 1360–15 de outubro de 1422; religioso agostiniano, prior e educador; culto confirmado por Pio VI em 1778. Memória facultativa nacional a 27 de outubro; obrigatória no Algarve e em Lisboa, festa na cidade de Lagos.",
-      "biografia": "Entrou na Ordem dos Eremitas de Santo Agostinho ainda jovem, em Lisboa. Foi superior de comunidades agostinianas, terminando a vida no convento de Nossa Senhora da Graça de Torres Vedras, onde exerceu funções de prior entre 1412 e 1422. A tradição e os testemunhos do culto sublinham a atenção às crianças, aos trabalhadores e às pessoas com menos instrução, a quem transmitia a doutrina cristã de modo acessível. A ligação aos pescadores do Algarve e a devoção nas cidades de Lagos e Torres Vedras são traços relevantes da sua receção popular. Torres Vedras reconheceu-o como padroeiro em 1495 e Lagos em 1760; a confirmação pontifícia do culto, em 1778, reconheceu a veneração preexistente. A data de 27 de outubro é litúrgica; a sua morte ocorreu a 15 de outubro de 1422.",
+      "identificacao": "Português, natural de Lagos, c. 1360; religioso agostiniano, prior e catequista. Morte tradicionalmente datada de 15/10/1422 pelo Martirológio português; investigação histórica divulgada em 2025 propõe 1445, ainda por confrontar com fontes documentais. Culto confirmado por Pio VI em 1778.",
+      "biografia": "Entrou na Ordem dos Eremitas de Santo Agostinho ainda jovem, em Lisboa. Foi superior de comunidades agostinianas, terminando a vida no convento de Nossa Senhora da Graça de Torres Vedras, onde exerceu funções de prior entre 1412 e 1422. A tradição e os testemunhos do culto sublinham a atenção às crianças, aos trabalhadores e às pessoas com menos instrução, a quem transmitia a doutrina cristã de modo acessível. A ligação aos pescadores do Algarve e a devoção nas cidades de Lagos e Torres Vedras são traços relevantes da sua receção popular. Torres Vedras reconheceu-o como padroeiro em 1495 e Lagos em 1760; a confirmação pontifícia do culto, em 1778, reconheceu a veneração preexistente. A data de 27 de outubro é litúrgica; a sua morte ocorreu a 15 de outubro de 1422. A Diocese do Algarve recorda o percurso pelos conventos da Lourinhã, Lisboa, Santarém e Torres Vedras, a ligação à pesca do atum e a representação iconográfica com uma caravela. Uma notícia de 2025 sobre a investigação de José António de Jesus Martins contesta o ano tradicional de 1422 e propõe 1445 para a morte; o Martirológio oficial continua a indicar 1422, pelo que esta edição assinala a divergência em vez de escolher uma data nova sem acesso à fundamentação documental. O mesmo boletim paroquial recorda o seu serviço humilde como cozinheiro, porteiro e enfermeiro, bem como a catequese dada a trabalhadores e crianças junto ao convento.",
       "beatificacao": "Confirmação do culto por Pio VI em 1778, forma histórica de reconhecimento equiparável à beatificação.",
-      "milagres": "Reconhecidos por decreto: não se identificou, nesta pesquisa, decreto individual de milagre de cura. Tradições devocionais: proteção dos pescadores e graças atribuídas à sua intercessão, sem confirmação canónica específica nesta edição.",
-      "sepultura": "Ligado à igreja/convento de Nossa Senhora da Graça de Torres Vedras; localização atual e autenticidade das relíquias exigem verificação documental.",
+      "milagres": "Não foi localizado decreto individual de reconhecimento canónico de cura. A tradição de Lagos e Torres Vedras transmite relatos de curas, proteção de náufragos, livros recuperados e acontecimentos extraordinários, alguns recolhidos por cronistas e por um boletim interparoquial de 2025. A confirmação do culto por Pio VI em 1778 não constitui, por si só, certificação histórica de cada relato. Os dez episódios abaixo incluem dois exemplos de virtude sem conteúdo propriamente milagroso.",
+      "sepultura": "Morreu no convento de Nossa Senhora da Graça de Torres Vedras, segundo a tradição e o Martirológio. O túmulo antigo foi objeto de devoção e de relatos de curas. A Diocese do Algarve refere uma relíquia associada ao beato que estará à guarda da Paróquia de Santa Maria de Lagos; localização e autenticidade material atuais carecem de confirmação documental.",
       "fontes": [
         "https://mail.liturgia.pt/martirologio/elogio.php?data=2026-10-27",
         "https://mail.liturgia.pt/liturgiadiaria/dia.php?data=2026-10-27",
         "https://www.cm-tvedras.pt/agenda/detalhes/200714",
-        "https://www.cm-tvedras.pt/agenda/detalhes/145049"
+        "https://www.cm-tvedras.pt/agenda/detalhes/145049",
+        "https://turismo.diocese-algarve.pt/tradicoes-do-algarve/item/696-beato-goncalo-de-lagos",
+        "https://litoralgarve.pt/lagos-presta-homenagem-a-sao-goncalo-seu-padroeiro-e-a-igreja-catolica-destaca-dez-dos-milagres-atribuidos-ao-santo-beatificado-pelo-papa-pio-vi-em-roma-no-ano-de-1778/"
       ],
       "referencias_biblicas": "Mc 10,13-16; Mt 11,25.",
-      "imagem_referencia": "https://commons.wikimedia.org/wiki/File:Beato_Gon%C3%A7alo_de_Lagos_(Frei_Manuel_de_Figueiredo%2C_Ecco_da_Santidade_Continuado_no_Immemorial_Culto_do_Beato_Gon%C3%A7alo_de_Lagos%2C_1765).png"
+      "imagem_referencia": "https://commons.wikimedia.org/wiki/File:Beato_Gon%C3%A7alo_de_Lagos_(Frei_Manuel_de_Figueiredo%2C_Ecco_da_Santidade_Continuado_no_Immemorial_Culto_do_Beato_Gon%C3%A7alo_de_Lagos%2C_1765).png",
+      "milagres_detalhados": [
+        {
+          "titulo": "O peixe inesgotável",
+          "descricao": "A partilha do atum familiar com os pobres teria deixado as dornas misteriosamente cheias.",
+          "classificacao": "Tradição devocional, sem decreto individual identificado",
+          "fonte": "https://litoralgarve.pt/lagos-presta-homenagem-a-sao-goncalo-seu-padroeiro-e-a-igreja-catolica-destaca-dez-dos-milagres-atribuidos-ao-santo-beatificado-pelo-papa-pio-vi-em-roma-no-ano-de-1778/"
+        },
+        {
+          "titulo": "O livro reaparecido",
+          "descricao": "Um livro litúrgico levado de Lisboa teria regressado inexplicavelmente ao coro; conta-se episódio semelhante em Santarém.",
+          "classificacao": "Tradição hagiográfica, sem confirmação independente",
+          "fonte": "https://litoralgarve.pt/lagos-presta-homenagem-a-sao-goncalo-seu-padroeiro-e-a-igreja-catolica-destaca-dez-dos-milagres-atribuidos-ao-santo-beatificado-pelo-papa-pio-vi-em-roma-no-ano-de-1778/"
+        },
+        {
+          "titulo": "A humildade recompensada",
+          "descricao": "Em 1413, teria pedido apenas os alimentos que conseguia transportar; o arcebispo enviou mais mantimentos.",
+          "classificacao": "Exemplo moral tradicional; não é milagre",
+          "fonte": "https://litoralgarve.pt/lagos-presta-homenagem-a-sao-goncalo-seu-padroeiro-e-a-igreja-catolica-destaca-dez-dos-milagres-atribuidos-ao-santo-beatificado-pelo-papa-pio-vi-em-roma-no-ano-de-1778/"
+        },
+        {
+          "titulo": "A tentação superada",
+          "descricao": "Segundo narrativa tardia, acolheu uma mulher enviada para o comprometer e manteve a conduta religiosa.",
+          "classificacao": "Exemplo moral tradicional; não é milagre",
+          "fonte": "https://litoralgarve.pt/lagos-presta-homenagem-a-sao-goncalo-seu-padroeiro-e-a-igreja-catolica-destaca-dez-dos-milagres-atribuidos-ao-santo-beatificado-pelo-papa-pio-vi-em-roma-no-ano-de-1778/"
+        },
+        {
+          "titulo": "A cura da mulher cega",
+          "descricao": "Uma trabalhadora do convento teria recuperado a visão após lavar os olhos com água usada nas sardinhas.",
+          "classificacao": "Cura atribuída pela tradição; sem decreto identificado",
+          "fonte": "https://litoralgarve.pt/lagos-presta-homenagem-a-sao-goncalo-seu-padroeiro-e-a-igreja-catolica-destaca-dez-dos-milagres-atribuidos-ao-santo-beatificado-pelo-papa-pio-vi-em-roma-no-ano-de-1778/"
+        },
+        {
+          "titulo": "A terra do túmulo",
+          "descricao": "Peregrinos atribuíram curas à terra recolhida junto do túmulo de Torres Vedras.",
+          "classificacao": "Tradição de curas associadas a relíquias; sem verificação clínica",
+          "fonte": "https://litoralgarve.pt/lagos-presta-homenagem-a-sao-goncalo-seu-padroeiro-e-a-igreja-catolica-destaca-dez-dos-milagres-atribuidos-ao-santo-beatificado-pelo-papa-pio-vi-em-roma-no-ano-de-1778/"
+        },
+        {
+          "titulo": "O sobrinho salvo do naufrágio",
+          "descricao": "Após naufrágio, um sobrinho teria invocado o beato, sobrevivido e recuperado das feridas em Torres Vedras.",
+          "classificacao": "Relato de intercessão pós-morte; tradição registada",
+          "fonte": "https://litoralgarve.pt/lagos-presta-homenagem-a-sao-goncalo-seu-padroeiro-e-a-igreja-catolica-destaca-dez-dos-milagres-atribuidos-ao-santo-beatificado-pelo-papa-pio-vi-em-roma-no-ano-de-1778/"
+        },
+        {
+          "titulo": "A tempestade acalmada",
+          "descricao": "Mareantes de Lagos afirmaram ter sido salvos após invocarem o beato e Nossa Senhora da Graça.",
+          "classificacao": "Tradição marítima; sem comprovação histórica independente",
+          "fonte": "https://litoralgarve.pt/lagos-presta-homenagem-a-sao-goncalo-seu-padroeiro-e-a-igreja-catolica-destaca-dez-dos-milagres-atribuidos-ao-santo-beatificado-pelo-papa-pio-vi-em-roma-no-ano-de-1778/"
+        },
+        {
+          "titulo": "A cura durante a peste",
+          "descricao": "Em 1579, Paio Chão teria recuperado de enfermidade ao ajudar a transportar o antigo sepulcro.",
+          "classificacao": "Relato tradicional com alegado testemunho da época; decreto não identificado",
+          "fonte": "https://litoralgarve.pt/lagos-presta-homenagem-a-sao-goncalo-seu-padroeiro-e-a-igreja-catolica-destaca-dez-dos-milagres-atribuidos-ao-santo-beatificado-pelo-papa-pio-vi-em-roma-no-ano-de-1778/"
+        },
+        {
+          "titulo": "A proteção durante a peste",
+          "descricao": "João de França de Brito teria sonhado com proteção espiritual e escapado a uma epidemia.",
+          "classificacao": "Relato de sonho e proteção atribuído à tradição; não prova causalidade",
+          "fonte": "https://litoralgarve.pt/lagos-presta-homenagem-a-sao-goncalo-seu-padroeiro-e-a-igreja-catolica-destaca-dez-dos-milagres-atribuidos-ao-santo-beatificado-pelo-papa-pio-vi-em-roma-no-ano-de-1778/"
+        }
+      ]
     },
     {
       "nome": "Beato Bartolomeu de Breganze, bispo",
@@ -237,9 +301,10 @@
     "https://mail.liturgia.pt/martirologio/elogio.php?data=2026-10-27",
     "https://www.vatican.va/content/vatican/pt/holy-father/evaristo.html",
     "https://www.cm-tvedras.pt/agenda/detalhes/145049",
-    "https://archidiocesisgranada.es/noticias/beato-salvador-mollar-ventura/"
+    "https://archidiocesisgranada.es/noticias/beato-salvador-mollar-ventura/",
+    "https://turismo.diocese-algarve.pt/tradicoes-do-algarve/item/696-beato-goncalo-de-lagos"
   ],
-  "estado": "EDIÇÃO EM REVISÃO — calendário e elenco martirológico confirmados nas fontes oficiais portuguesas (8 santos individuais: 5 do Martirológio e 3 de celebração própria de Évora; 3 beatos). Imagens originais de 3 das 6 fichas de santos abertas e conferidas; 3 sem iconografia do santo comprovadamente utilizável. URLs originais, atribuições e fontes atualizadas em 27/10/2026. Não foi possível confirmar o carregamento no GitHub Pages, testar dispositivos móveis ou consultar a versão integral v2.0 das instruções.",
+  "estado": "EDIÇÃO EM REVISÃO — calendário e elenco martirológico confirmados nas fontes oficiais portuguesas (8 santos individuais: 5 do Martirológio e 3 de celebração própria de Évora; 3 beatos). Imagens originais de 3 das 6 fichas de santos abertas e conferidas; 3 sem iconografia do santo comprovadamente utilizável. URLs originais, atribuições e fontes atualizadas em 27/10/2026. Não foi possível confirmar o carregamento no GitHub Pages, testar dispositivos móveis ou consultar a versão integral v2.0 das instruções. A ficha do Beato Gonçalo de Lagos inclui agora dez relatos tradicionais classificados e assinala a divergência historiográfica sobre o ano da morte.",
   "revisao": {
     "estado": "revisao",
     "criterios_pendentes": [
@@ -250,7 +315,8 @@
       "Rever legibilidade, acessibilidade e adequação de todos os campos do portal",
       "Corrigir/assinalar a incongruência †1711 para Salvador Mollar Ventura no Martirológio português sem alterar a fonte",
       "Confirmar licenças para imagem do São Gaudioso da Abitina no portal oficial das Catacumbas de Nápoles",
-      "Confirmar carregamento das imagens através da URL pública GitHub Pages; acesso direto ao site indisponível nesta execução"
+      "Confirmar carregamento das imagens através da URL pública GitHub Pages; acesso direto ao site indisponível nesta execução",
+      "Investigar documentalmente a divergência sobre a morte do Beato Gonçalo de Lagos (1422 no Martirológio; 1445 segundo investigação divulgada em 2025)."
     ],
     "santos_individuais": 8,
     "grupos_de_fichas_santos": 6,
@@ -259,6 +325,8 @@
     "imagens_de_santos_pendentes": 3,
     "nota": "As três imagens validadas são pinturas/vitrais, não fotografias dos santos em vida; a apresentação final no portal não foi testada.",
     "ultima_auditoria": "2026-10-27",
-    "auditoria_imagens": "Três imagens históricas abertas e conferidas visualmente nas páginas e ficheiros originais Wikimedia; URLs diretas dos ficheiros adicionadas. Não se comprovou apresentação no GitHub Pages. Três santos continuam sem retrato verificável; foram registados candidatos rejeitados por homonímia e licença."
+    "auditoria_imagens": "Três imagens históricas abertas e conferidas visualmente nas páginas e ficheiros originais Wikimedia; URLs diretas dos ficheiros adicionadas. Não se comprovou apresentação no GitHub Pages. Três santos continuam sem retrato verificável; foram registados candidatos rejeitados por homonímia e licença.",
+    "novos_relates_tradicionais": 10,
+    "nota_milagres": "Dez episódios atribuídos ao Beato Gonçalo classificados individualmente: oito tradições de prodígios/intercessão e dois exemplos de virtude sem natureza milagrosa. Não se apresentam como milagres canonicamente reconhecidos."
   }
 }
