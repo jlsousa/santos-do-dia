@@ -17,7 +17,7 @@
         "https://www.vatican.va/content/vatican/pt/holy-father/evaristo.html"
       ],
       "imagem": {
-        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Pope%20Saint%20Evaristus%20(by%20Sandro%20Botticelli)%20%E2%80%93%20Sistine%20Chapel.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Pope_Saint_Evaristus_%28by_Sandro_Botticelli%29_%E2%80%93_Sistine_Chapel.jpg",
         "fonte": "https://commons.wikimedia.org/wiki/File:Pope%20Saint%20Evaristus%20(by%20Sandro%20Botticelli)%20%E2%80%93%20Sistine%20Chapel.jpg",
         "descricao": "São Evaristo em representação atribuída a Sandro Botticelli, Capela Sistina, 1481; imagem histórica, não retrato em vida.",
         "autor": "Sandro Botticelli (1445–1510)",
@@ -25,14 +25,16 @@
         "ligacao_licenca": "https://creativecommons.org/publicdomain/mark/1.0/",
         "dimensoes": "350 × 875",
         "verificada": true,
-        "verificada_em": "2026-10-26",
-        "validacao": "Página da obra, licença e imagem original abertas; identidade iconográfica conferida visualmente; apresentação no GitHub Pages ainda por testar.",
+        "verificada_em": "2026-10-27",
+        "validacao": "Página da obra, identificação e licença consultadas; ficheiro original aberto e imagem visualmente conferida em 27/10/2026. Teste no GitHub Pages e em dispositivos móveis ainda pendente.",
         "tipo": "pintura mural histórica",
         "instituicao": "Capela Sistina, Museus Vaticanos",
         "motivo_escolha": "Representação nominalmente identificada em contexto artístico vaticano, com licença pública; preferida a retratos genéricos.",
         "candidatos_rejeitados": [
           "Miniatura de 243×374 px da mesma obra, menos nítida."
-        ]
+        ],
+        "url_ficheiro_original": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Pope_Saint_Evaristus_%28by_Sandro_Botticelli%29_%E2%80%93_Sistine_Chapel.jpg",
+        "condicoes_atribuicao": "Obra em domínio público; manter identificação do artista, instituição e fonte."
       }
     },
     {
@@ -49,7 +51,14 @@
         "https://christearlychurch.co.uk/person/thraseas-of-eumenia/",
         "https://en.wikipedia.org/wiki/Thraseas"
       ],
-      "revisao_iconografica": "Não foi encontrada imagem atribuível com segurança a Tráseas; manter sem imagem em vez de usar outro mártir."
+      "revisao_iconografica": "Não se identificou representação do bispo mártir Tráseas de Euménia com atribuição e licença demonstradas. As fotografias da estela funerária de Thraseas e Euandria (século IV a.C.) representam homónimo grego, não o santo cristão do século II, e foram excluídas.",
+      "iconografia_candidatos": [
+        {
+          "tipo": "estela funerária de Thraseas e Euandria",
+          "fonte": "https://commons.wikimedia.org/wiki/Category:Thraseas_and_Euandria_funerary_stela",
+          "decisao": "Excluída: homónimo de época anterior ao cristianismo."
+        }
+      ]
     },
     {
       "nome": "São Namácio de Clermont, bispo",
@@ -66,7 +75,7 @@
         "https://en.wikipedia.org/wiki/Namatius"
       ],
       "imagem": {
-        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Namacius%20Cl-Fd%20St-Eutrope.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Namacius_Cl-Fd_St-Eutrope.jpg",
         "fonte": "https://commons.wikimedia.org/wiki/File:Namacius%20Cl-Fd%20St-Eutrope.jpg",
         "descricao": "São Namácio representado em vitral da igreja de Saint-Eutrope, Clermont-Ferrand.",
         "autor": "Romary (fotografia, 2007)",
@@ -74,11 +83,14 @@
         "ligacao_licenca": "https://creativecommons.org/licenses/by-sa/3.0/",
         "dimensoes": "1210 × 3240",
         "verificada": true,
-        "verificada_em": "2026-10-26",
-        "validacao": "Página da obra, licença e imagem original abertas; identidade iconográfica conferida visualmente; apresentação no GitHub Pages ainda por testar.",
+        "verificada_em": "2026-10-27",
+        "validacao": "Página da obra, identificação e licença consultadas; ficheiro original aberto e imagem visualmente conferida em 27/10/2026. Teste no GitHub Pages e em dispositivos móveis ainda pendente.",
         "tipo": "vitral",
         "instituicao": "Igreja de Saint-Eutrope, Clermont-Ferrand",
-        "motivo_escolha": "Vitral identificado pelo nome do santo, fotografia de alta resolução e licença verificável."
+        "motivo_escolha": "Vitral identificado pelo nome do santo, fotografia de alta resolução e licença verificável.",
+        "url_ficheiro_original": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Namacius_Cl-Fd_St-Eutrope.jpg",
+        "condicoes_atribuicao": "Atribuir ao fotógrafo Romary, indicar licença CC BY-SA 3.0 e ligação à obra; assinalar adaptações.",
+        "candidatos_rejeitados": []
       }
     },
     {
@@ -93,9 +105,22 @@
       "fontes": [
         "https://mail.liturgia.pt/martirologio/elogio.php?data=2026-10-27",
         "https://www.santodelgiorno.it/san-gaudioso-di-abitine/",
-        "https://www.santiebeati.it/index.php/dettaglio/90237"
+        "https://www.santiebeati.it/index.php/dettaglio/90237",
+        "https://catacombedinapoli.it/it/luoghi/catacombe-di-san-gaudioso-napoli/"
       ],
-      "revisao_iconografica": "Foram encontradas fotografias das catacumbas e imagens de outros santos homónimos; não equivalem a retrato de Gaudioso de Abitina e não foram usadas como imagem principal."
+      "revisao_iconografica": "O gestor oficial das Catacumbas de Nápoles identifica uma representação de São Gaudioso da Abitina numa pintura da Basílica de Santa Maria della Sanità; a fotografia não foi utilizada porque a licença de reprodução não está demonstrada. As imagens de catacumbas são apenas documentais, não retratos do santo. A imagem de São Gaudioso de Salerno é de outra pessoa.",
+      "iconografia_candidatos": [
+        {
+          "tipo": "pintura na Basílica Santa Maria della Sanità",
+          "fonte": "https://catacombedinapoli.it/it/luoghi/catacombe-di-san-gaudioso-napoli/",
+          "decisao": "Não publicar sem autorização ou licença inequívoca."
+        },
+        {
+          "tipo": "fotografia das catacumbas",
+          "fonte": "https://commons.wikimedia.org/wiki/Category:Catacombs_of_San_Gaudioso",
+          "decisao": "Não representa o santo; apenas contexto documental."
+        }
+      ]
     },
     {
       "nome": "Santo Oterano de Iona, monge",
@@ -111,7 +136,19 @@
         "https://nominis.cef.fr/contenus/saint/10056/Saint-Odran.html",
         "https://commons.wikimedia.org/wiki/Category:St_Oran%27s_Chapel"
       ],
-      "revisao_iconografica": "Existe fotografia licenciada da capela (Wikimedia Commons: St Oran's Chapel Iona.jpg), mas não é retrato do santo; ficou apenas como referência documental."
+      "revisao_iconografica": "A imagem intitulada «Saint Odhran or Oran, Martyr.png» retrata o cocheiro de São Patrício, um santo homónimo, NÃO Oterano de Iona, e foi rejeitada apesar de ter licença CC0. A capela e o cemitério de Iona são locais associados ao santo, não retratos dele.",
+      "iconografia_candidatos": [
+        {
+          "tipo": "ilustração de São Odhran mártir",
+          "fonte": "https://commons.wikimedia.org/wiki/File:Saint_Odhran_or_Oran,_Martyr.png",
+          "decisao": "Excluída: representa outro santo homónimo."
+        },
+        {
+          "tipo": "capela de Santo Oran em Iona",
+          "fonte": "https://commons.wikimedia.org/wiki/Category:St_Oran%27s_Chapel",
+          "decisao": "Apenas imagem de contexto; não representa o monge."
+        }
+      ]
     },
     {
       "nome": "Santos Vicente, Sabina e Cristeta, mártires (memória própria de Évora)",
@@ -128,7 +165,7 @@
         "https://www.santiebeati.it/index.php/dettaglio/75460"
       ],
       "imagem": {
-        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/S%C3%A3o%20Vicente%2C%20suas%20irm%C3%A3s%20Sabina%20e%20Cristeta%2C%20e%20Santo%20Ant%C3%B3nio%20(c.%201575-1580)%20-%20Ant%C3%B3nio%20de%20Oliveira%20(%3F)%2C%20Museu%20de%20Arte%20Sacra%20da%20S%C3%A9%20de%20%C3%89vora.png",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/86/S%C3%A3o_Vicente%2C_suas_irm%C3%A3s_Sabina_e_Cristeta%2C_e_Santo_Ant%C3%B3nio_%28c._1575-1580%29_-_Ant%C3%B3nio_de_Oliveira_%28%3F%29%2C_Museu_de_Arte_Sacra_da_S%C3%A9_de_%C3%89vora.png",
         "fonte": "https://commons.wikimedia.org/wiki/File:S%C3%A3o%20Vicente%2C%20suas%20irm%C3%A3s%20Sabina%20e%20Cristeta%2C%20e%20Santo%20Ant%C3%B3nio%20(c.%201575-1580)%20-%20Ant%C3%B3nio%20de%20Oliveira%20(%3F)%2C%20Museu%20de%20Arte%20Sacra%20da%20S%C3%A9%20de%20%C3%89vora.png",
         "descricao": "Os mártires Vicente, Sabina e Cristeta com Santo António, pintura portuguesa c. 1575–1580, Museu de Arte Sacra da Sé de Évora.",
         "autor": "António de Oliveira (?) — atribuição incerta",
@@ -136,12 +173,15 @@
         "ligacao_licenca": "https://creativecommons.org/publicdomain/mark/1.0/",
         "dimensoes": "707 × 915",
         "verificada": true,
-        "verificada_em": "2026-10-26",
-        "validacao": "Página da obra, licença e imagem original abertas; identidade iconográfica conferida visualmente; apresentação no GitHub Pages ainda por testar.",
+        "verificada_em": "2026-10-27",
+        "validacao": "Página da obra, identificação e licença consultadas; ficheiro original aberto e imagem visualmente conferida em 27/10/2026. Teste no GitHub Pages e em dispositivos móveis ainda pendente.",
         "tipo": "pintura portuguesa histórica",
         "instituicao": "Museu de Arte Sacra da Sé de Évora",
         "motivo_escolha": "Obra histórica conservada em Évora e dedicada nominalmente aos três mártires; pertinência litúrgica local superior a representações genéricas.",
-        "nota": "A pintura inclui Santo António, identificado como figura adicional."
+        "nota": "A pintura inclui Santo António, identificado como figura adicional.",
+        "url_ficheiro_original": "https://upload.wikimedia.org/wikipedia/commons/8/86/S%C3%A3o_Vicente%2C_suas_irm%C3%A3s_Sabina_e_Cristeta%2C_e_Santo_Ant%C3%B3nio_%28c._1575-1580%29_-_Ant%C3%B3nio_de_Oliveira_%28%3F%29%2C_Museu_de_Arte_Sacra_da_S%C3%A9_de_%C3%89vora.png",
+        "condicoes_atribuicao": "Obra em domínio público; manter identificação do artista, instituição e fonte.",
+        "candidatos_rejeitados": []
       }
     }
   ],
@@ -199,7 +239,7 @@
     "https://www.cm-tvedras.pt/agenda/detalhes/145049",
     "https://archidiocesisgranada.es/noticias/beato-salvador-mollar-ventura/"
   ],
-  "estado": "EDIÇÃO EM REVISÃO — inventário de 27/10 confrontado com o Martirológio português (5 santos individuais e 3 beatos) e calendário litúrgico (3 santos adicionais com celebração local em Évora). Três fichas principais têm imagens de obras identificadas e abertas na origem; faltam retratos específicos dos outros três grupos/fichas, testes no GitHub Pages e revisão editorial final. O documento integral de instruções v2.0 ainda não está disponível no repositório.",
+  "estado": "EDIÇÃO EM REVISÃO — calendário e elenco martirológico confirmados nas fontes oficiais portuguesas (8 santos individuais: 5 do Martirológio e 3 de celebração própria de Évora; 3 beatos). Imagens originais de 3 das 6 fichas de santos abertas e conferidas; 3 sem iconografia do santo comprovadamente utilizável. URLs originais, atribuições e fontes atualizadas em 27/10/2026. Não foi possível confirmar o carregamento no GitHub Pages, testar dispositivos móveis ou consultar a versão integral v2.0 das instruções.",
   "revisao": {
     "estado": "revisao",
     "criterios_pendentes": [
@@ -208,13 +248,17 @@
       "Pesquisar mais candidatos iconográficos para Tráseas, Gaudioso e Oterano sem usar representações de outros santos",
       "Testar as imagens no GitHub Pages, incluindo dispositivos móveis",
       "Rever legibilidade, acessibilidade e adequação de todos os campos do portal",
-      "Corrigir/assinalar a incongruência †1711 para Salvador Mollar Ventura no Martirológio português sem alterar a fonte"
+      "Corrigir/assinalar a incongruência †1711 para Salvador Mollar Ventura no Martirológio português sem alterar a fonte",
+      "Confirmar licenças para imagem do São Gaudioso da Abitina no portal oficial das Catacumbas de Nápoles",
+      "Confirmar carregamento das imagens através da URL pública GitHub Pages; acesso direto ao site indisponível nesta execução"
     ],
     "santos_individuais": 8,
     "grupos_de_fichas_santos": 6,
     "beatos": 3,
     "imagens_de_santos_com_fonte_e_ficheiro_verificados": 3,
     "imagens_de_santos_pendentes": 3,
-    "nota": "As três imagens validadas são pinturas/vitrais, não fotografias dos santos em vida; a apresentação final no portal não foi testada."
+    "nota": "As três imagens validadas são pinturas/vitrais, não fotografias dos santos em vida; a apresentação final no portal não foi testada.",
+    "ultima_auditoria": "2026-10-27",
+    "auditoria_imagens": "Três imagens históricas abertas e conferidas visualmente nas páginas e ficheiros originais Wikimedia; URLs diretas dos ficheiros adicionadas. Não se comprovou apresentação no GitHub Pages. Três santos continuam sem retrato verificável; foram registados candidatos rejeitados por homonímia e licença."
   }
 }
