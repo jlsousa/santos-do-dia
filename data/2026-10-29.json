@@ -1,6 +1,6 @@
 {
   "data": "2026-10-29",
-  "estado": "EM REVISÃO — 9 santos inventariados segundo o Martirológio português; 2 beatos em calendários próprios. Apenas 2 imagens têm original aberto, licença identificada e verificação visual da origem; 7 fichas sem imagem principal validada. Página pública, visualização móvel e versão integral das instruções v2.0 ainda não verificadas.",
+  "estado": "EM REVISÃO — 9 santos do Martirológio português e 2 beatos de calendários próprios. Três imagens de origem identificada e visualmente conferida (Narciso, Abraão de Edessa, Teodário); seis fichas de santos sem imagem validada. GitHub Pages, apresentação móvel e instruções v2.0 integrais ainda pendentes.",
   "liturgia": "Quinta-feira da XXX semana do Tempo Comum, ano par (II), Portugal. Féria, cor verde. Leituras: Ef 6,10-20; Sl 143(144),1.2.9-10; Lc 13,31-35. Na Congregação Salesiana e no Instituto das Filhas de Maria Auxiliadora: memória obrigatória do Beato Miguel Rua. No Movimento dos Focolares: memória própria da Beata Chiara Luce Badano, não incluída no calendário geral português.",
   "introducao": "A Palavra de Deus convida à perseverança na fé e à coragem de seguir o caminho de Cristo. Entre os testemunhos de 29 de outubro, São Narciso de Jerusalém representa a fidelidade da Igreja antiga, enquanto São Caetano Errico recorda a misericórdia vivida no ensino e no confessionário.",
   "inventario_martirologio": [
@@ -108,13 +108,35 @@
         "https://mail.liturgia.pt/martirologio/elogio.php?data=2026-10-29",
         "https://www.oca.org/saints/lives/2026/10/29/103099-venerable-abramius-the-recluse-and-his-niece-the-blessed-mary"
       ],
-      "revisao_iconografica": "Miniatura de Abraão de Kiduna no Menológio de Basílio II, século X, identificada no Wikimedia Commons e em domínio público; ligação ao ficheiro original não testada nesta execução, pelo que não foi marcada como verificada.",
+      "revisao_iconografica": "Miniatura histórica do Menológio de Basílio II selecionada e visualmente conferida na origem; falta confirmar carregamento no site publicado.",
       "iconografia_candidatos": [
         {
           "fonte": "https://commons.wikimedia.org/wiki/File:Abraham_Kidunaia_(Menologion_of_Basil_II).jpg",
-          "decisao": "Candidata prioritária; identidade e direitos descritos na fonte; aguarda abertura do original e teste de apresentação."
+          "decisao": "Selecionada, com fonte, identidade, direitos e imagem original confirmados; carregamento no portal pendente."
         }
-      ]
+      ],
+      "imagem": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/2/28/Abraham_Kidunaia_%28Menologion_of_Basil_II%29.jpg",
+        "fonte": "https://commons.wikimedia.org/wiki/File:Abraham_Kidunaia_(Menologion_of_Basil_II).jpg",
+        "descricao": "Santo Abraão de Kiduna (Abraão de Edessa), iluminura bizantina do Menológio de Basílio II, c. 985; não é retrato em vida.",
+        "autor": "Oficina de iluminadores do Menológio de Basílio II; artista individual não identificado nesta imagem",
+        "data_obra": "c. 985",
+        "instituicao": "Biblioteca Apostólica Vaticana, manuscrito Vat. gr. 1613",
+        "tipo": "miniatura de manuscrito medieval",
+        "licenca": "Domínio público (PD-Art / PD-old-100-expired)",
+        "ligacao_licenca": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "condicoes_atribuicao": "Obra em domínio público; manter crédito ao manuscrito, à Biblioteca Apostólica Vaticana e à fonte Commons.",
+        "dimensoes": "1949 × 1316",
+        "url_ficheiro_original": "https://upload.wikimedia.org/wikipedia/commons/2/28/Abraham_Kidunaia_%28Menologion_of_Basil_II%29.jpg",
+        "motivo_escolha": "Representação especificamente identificada de Abraão de Kiduna, datada do século X, de elevado valor histórico e com ficheiro de boa resolução; escolhida em vez de iconografia de Abraão bíblico ou de Abraão de Rostóvia.",
+        "candidatos_rejeitados": [
+          "Representações de Abraão bíblico: pessoa diferente.",
+          "Imagens de Abraão de Rostóvia: homónimo distinto."
+        ],
+        "verificada": true,
+        "verificada_em": "2026-10-29",
+        "validacao": "Identidade, miniatura e licença confirmadas na ficha Wikimedia Commons; imagem da URL upload.wikimedia.org apresentada visualmente no resultado de pesquisa de imagens. Ainda não testada a apresentação no GitHub Pages nem no dispositivo móvel."
+      }
     },
     {
       "nome": "São Teodário de Vienne, abade",
@@ -249,8 +271,8 @@
     "inventario_santos": 9,
     "numero_fichas_santos": 9,
     "numero_beatos": 2,
-    "imagens_verificadas_na_origem": 2,
-    "imagens_sem_validacao": 7,
+    "imagens_verificadas_na_origem": 3,
+    "imagens_sem_validacao": 6,
     "imagens_testadas_no_site": 0,
     "teste_mobile": "pendente",
     "teste_publicacao": "pendente",
@@ -263,10 +285,12 @@
     ],
     "lacunas": [
       "Versão 2.0 integral das instruções de 25/10/2026 não localizada em fonte persistente no repositório; INSTRUCOES.md é v2.1 complementar.",
-      "Apenas 2 imagens selecionadas e testadas visualmente na origem; 7 santos carecem de imagem legal e identificada.",
+      "3 imagens de santos identificadas e conferidas na origem; 6 santos carecem de imagem legal e individualmente identificada.",
       "Não foi possível realizar teste de apresentação móvel/desktop nem verificar versão final servida por GitHub Pages.",
       "Milagres de canonização/beatificação sem acesso aos decretos individuais foram deixados sem identificação de casos.",
-      "A cobertura das tradições locais e dos calendários próprios fora dos verificados pode não ser exaustiva."
-    ]
+      "A cobertura das tradições locais e dos calendários próprios fora dos verificados pode não ser exaustiva.",
+      "Em 29/10/2026, a página de 28/10/2026 continua ausente do repositório; recuperar numa execução de manutenção separada."
+    ],
+    "ultima_intervencao": "2026-10-29: miniatura de Santo Abraão de Kiduna documentada e associada à ficha; Martirológio português de 29/10 reconfirmado com 9 elogios; GitHub Pages e visualização móvel ainda pendentes."
   }
 }
