@@ -1,0 +1,272 @@
+{
+  "data": "2026-10-29",
+  "estado": "EM REVISÃO — 9 santos inventariados segundo o Martirológio português; 2 beatos em calendários próprios. Apenas 2 imagens têm original aberto, licença identificada e verificação visual da origem; 7 fichas sem imagem principal validada. Página pública, visualização móvel e versão integral das instruções v2.0 ainda não verificadas.",
+  "liturgia": "Quinta-feira da XXX semana do Tempo Comum, ano par (II), Portugal. Féria, cor verde. Leituras: Ef 6,10-20; Sl 143(144),1.2.9-10; Lc 13,31-35. Na Congregação Salesiana e no Instituto das Filhas de Maria Auxiliadora: memória obrigatória do Beato Miguel Rua. No Movimento dos Focolares: memória própria da Beata Chiara Luce Badano, não incluída no calendário geral português.",
+  "introducao": "A Palavra de Deus convida à perseverança na fé e à coragem de seguir o caminho de Cristo. Entre os testemunhos de 29 de outubro, São Narciso de Jerusalém representa a fidelidade da Igreja antiga, enquanto São Caetano Errico recorda a misericórdia vivida no ensino e no confessionário.",
+  "inventario_martirologio": [
+    "São Feliciano, mártir (Cartago)",
+    "São Narciso, bispo (Jerusalém)",
+    "Santo Honorato, bispo (Vercelas)",
+    "São Zenóbio, presbítero e mártir (Sídon)",
+    "Santo Abraão, anacoreta (Edessa)",
+    "São Teodário, abade (Vienne)",
+    "São Colmano, bispo (Galway)",
+    "São Dodão, abade (Wallers)",
+    "São Caetano Errico, presbítero e fundador (Secondigliano)"
+  ],
+  "santos": [
+    {
+      "nome": "São Feliciano de Cartago, mártir",
+      "identificacao": "Mártir venerado em Cartago, Norte de África; século III aproximado, segundo o Martirológio Romano.",
+      "biografia": "O Martirológio Romano conserva o nome de Feliciano entre os mártires de Cartago, mas não fornece atas do processo, nome dos magistrados, data exata nem narrativa contemporânea da sua vida. Cartago era um importante centro do cristianismo latino, marcado por testemunhos de fé em épocas de perseguição. Não é possível afirmar com segurança que Feliciano tenha sido catequista, soldado ou clérigo, nem reconstruir a sua conversão. A escassez documental recomenda apresentar a sua memória sem lendas acrescentadas; o testemunho martirial permanece o elemento reconhecido pela tradição litúrgica.",
+      "canonizacao": "Culto martirial antigo; sem processo de canonização moderno conhecido.",
+      "milagres": "Não há milagres pessoais comprovados ou relatos específicos verificáveis nas fontes consultadas.",
+      "sepultura": "Sepultura e relíquias não localizadas com documentação suficiente.",
+      "ensinamento": "A fidelidade pode deixar memória duradoura mesmo quando os pormenores da vida se perderam.",
+      "referencias_biblicas": "Mt 10,28-33; Ap 7,13-17 (meditação, não prova biográfica).",
+      "fontes": [
+        "https://mail.liturgia.pt/martirologio/elogio.php?data=2026-10-29",
+        "https://www.vaticannews.va/pt/santo-do-dia/10/29.html"
+      ],
+      "revisao_iconografica": "Nenhuma imagem individual identificada com autoria, direitos e representação segura; não usar imagens de outros mártires cartagineses."
+    },
+    {
+      "nome": "São Narciso de Jerusalém, bispo",
+      "identificacao": "Bispo de Jerusalém entre o final do século II e o início do século III; o Martirológio português indica morte cerca de 222 e idade tradicional de 116 anos.",
+      "biografia": "Eusébio de Cesareia preservou notícias importantes sobre Narciso, incluindo a participação nas discussões eclesiais acerca da data da Páscoa, em sintonia com a celebração dominical da Ressurreição. A comunidade de Jerusalém viveu sob domínio romano, num ambiente de reorganização após as guerras judaicas. Segundo a História Eclesiástica, Narciso foi alvo de acusações, afastou-se durante algum tempo e voltou a ser associado ao governo da Igreja com Alexandre. A extraordinária idade que a tradição lhe atribui é transmitida pela historiografia e pelo Martirológio, mas não pode ser comprovada por registos civis. Não deve ser confundido com Narciso de Girona nem com homónimos dos primeiros séculos.",
+      "canonizacao": "Veneração desde a Igreja antiga, anterior aos procedimentos modernos de canonização.",
+      "milagres": "Tradição antiga transmitida por Eusébio: numa vigília pascal, a água teria sido utilizada nas lâmpadas e transformada em óleo. Trata-se de relato eclesiástico antigo, não de milagre sujeito a decreto canónico moderno.",
+      "sepultura": "Não há identificação material segura da sua sepultura ou relíquias.",
+      "ensinamento": "A perseverança na fé, mesmo perante acusações injustas, e a centralidade do domingo pascal.",
+      "referencias_biblicas": "Jo 20,1-9; 1 Cor 15,12-20; 1 Pd 3,14-17.",
+      "fontes": [
+        "https://mail.liturgia.pt/martirologio/elogio.php?data=2026-10-29",
+        "https://www.newadvent.org/fathers/250106.htm",
+        "https://www.catholicdb.net/saints/narcissus/"
+      ],
+      "imagem": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/c/c8/B%C3%A9n%C3%A9vent-l%E2%80%99Abbaye_Saint-Barth%C3%A9l%C3%A9my_Vitrail_Narcissus_of_Jerusalem_%28cropped%29.jpg",
+        "fonte": "https://commons.wikimedia.org/wiki/File:B%C3%A9n%C3%A9vent-l%E2%80%99Abbaye_Saint-Barth%C3%A9l%C3%A9my_Vitrail_Narcissus_of_Jerusalem_(cropped).jpg",
+        "descricao": "São Narciso de Jerusalém em vitral oitocentista da igreja de Saint-Barthélémy de Bénévent-l'Abbaye; reprodução histórica, não retrato em vida.",
+        "autor": "GFreihalter (fotografia de 2018); vitral assinado Didron Paris, década de 1870",
+        "licenca": "CC BY-SA 3.0 Unported",
+        "ligacao_licenca": "https://creativecommons.org/licenses/by-sa/3.0/",
+        "dimensoes": "975 × 1385",
+        "tipo": "vitral do século XIX",
+        "instituicao": "Igreja de Saint-Barthélémy, Bénévent-l'Abbaye, França",
+        "motivo_escolha": "Representação identificada do bispo, pormenor legível, boa composição vertical e licença explícita.",
+        "verificada": true,
+        "verificada_em": "2026-10-29",
+        "url_ficheiro_original": "https://upload.wikimedia.org/wikipedia/commons/c/c8/B%C3%A9n%C3%A9vent-l%E2%80%99Abbaye_Saint-Barth%C3%A9l%C3%A9my_Vitrail_Narcissus_of_Jerusalem_%28cropped%29.jpg",
+        "validacao": "Ficheiro original aberto e imagem visualmente examinada; fonte e licença consultadas no Wikimedia Commons em 29/10/2026. Funcionamento no GitHub Pages e dispositivos móveis ainda não verificado.",
+        "condicoes_atribuicao": "Crédito ao fotógrafo, ligação à fonte e licença CC BY-SA 3.0; indicar adaptações e respeitar partilha nos mesmos termos.",
+        "candidatos_rejeitados": [
+          "Fotografias de flores Narcissus: homonímia botânica, não representam o santo.",
+          "Fotografia do vitral completo: menos legível no espaço reduzido da ficha."
+        ]
+      }
+    },
+    {
+      "nome": "Santo Honorato de Vercelas, bispo",
+      "identificacao": "Terceiro bispo de Vercelas, no Piemonte; discípulo de Santo Eusébio e sucessor de Liménio; morreu em 29 de outubro de 415 segundo a tradição diocesana.",
+      "biografia": "Formado no ambiente ascético de Santo Eusébio de Vercelas, Honorato acompanhou as tensões teológicas do século IV e manteve a fidelidade à fé nicena. Foi escolhido para a sé episcopal por volta de 396, após um período de dificuldades internas. Santo Ambrósio de Milão teve papel importante na reconciliação da comunidade e na escolha do novo bispo. Segundo a tradição documentada pelo biógrafo Paulino, Honorato administrou o viático a Ambrósio quando este se encontrava moribundo, em abril de 397. Uma inscrição funerária encontrada em Vercelas no século XVI testemunha a memória do seu ministério. As fontes não permitem detalhar todos os anos do episcopado ou os episódios pessoais de exílio.",
+      "canonizacao": "Culto episcopal antigo, sem canonização moderna.",
+      "milagres": "Não foram identificados milagres pessoais sujeitos a reconhecimento canónico; o viático dado a Ambrósio é acontecimento pastoral, não milagre.",
+      "sepultura": "Tradição funerária associada à igreja de Santo Eusébio, Vercelas; inscrição descoberta em 1575, segundo o Governatorato Vaticano.",
+      "ensinamento": "A unidade da Igreja requer discernimento, fidelidade doutrinal e caridade pastoral.",
+      "referencias_biblicas": "Ef 4,1-6; 2 Tm 4,1-5.",
+      "fontes": [
+        "https://mail.liturgia.pt/martirologio/elogio.php?data=2026-10-29",
+        "https://vaticanstate.va/en/state-and-government/general-informations/saint-of-the-day/2910-october-29-saint-honoratus-of-vercelli-bishop.html"
+      ],
+      "revisao_iconografica": "A imagem exibida no artigo do Governatorato Vaticano não foi reutilizada por falta de licença de reprodução identificada."
+    },
+    {
+      "nome": "São Zenóbio de Sídon, presbítero e mártir",
+      "identificacao": "Presbítero da cidade fenícia de Sídon, no atual Líbano; martirizado durante a perseguição de Diocleciano, início do século IV.",
+      "biografia": "O Martirológio Romano recorda Zenóbio como sacerdote que exortava os cristãos à firmeza durante a perseguição desencadeada no Império Romano sob Diocleciano. O texto litúrgico afirma que acabou por partilhar o destino dos mártires a quem dava coragem. Não foram encontradas atas judiciais autênticas, identificação segura de familiares, data exata da execução ou escritos próprios. É importante não o confundir com santos homónimos, designadamente Zenóbio de Florença ou o médico mártir associado à Cilícia. A sua memória situa-se no testemunho das comunidades cristãs do Mediterrâneo oriental.",
+      "canonizacao": "Culto antigo, sem decreto moderno.",
+      "milagres": "Não se identificaram milagres atribuíveis com segurança a este presbítero.",
+      "sepultura": "Sepultura e relíquias não confirmadas.",
+      "ensinamento": "A coragem de apoiar os outros quando a própria vida está ameaçada.",
+      "referencias_biblicas": "Jo 15,18-21; 2 Tm 1,6-8.",
+      "fontes": [
+        "https://mail.liturgia.pt/martirologio/elogio.php?data=2026-10-29"
+      ],
+      "revisao_iconografica": "Sem imagem identificada de Zenóbio de Sídon; rejeitar imagens de Zenóbio de Florença ou de outros homónimos."
+    },
+    {
+      "nome": "Santo Abraão de Edessa, anacoreta",
+      "identificacao": "Asceta de Edessa, na antiga região de Osroene, hoje Şanlıurfa (Turquia); morreu cerca de 366 segundo o Martirológio português; também conhecido como Abraão de Kiduna.",
+      "biografia": "Abraão é uma figura da tradição ascética siríaca do século IV. A sua vida foi transmitida em relatos associados a Santo Efrém, embora a autoria e a forma final dos textos devam ser avaliadas criticamente. Segundo a tradição, renunciou a uma vida familiar confortável para se dedicar à oração e à penitência; teria também exercido uma missão de evangelização junto de uma população rural. A narrativa mais difundida refere a sobrinha Maria, que abandonou a vida religiosa e a quem Abraão procurou ajudar a regressar à comunidade. O valor espiritual desta história reside na misericórdia e no acolhimento, não na possibilidade de confirmar todos os diálogos ou pormenores narrados. A sua memória é preservada nas tradições cristãs orientais e no Martirológio.",
+      "canonizacao": "Culto anterior aos processos modernos de canonização.",
+      "milagres": "Tradições hagiográficas atribuem-lhe curas e conversões; sem decreto moderno ou documentação clínica independente. A história da sobrinha é narrativa de reconciliação, não um milagre formalmente reconhecido.",
+      "sepultura": "Região de Edessa; não foi identificado túmulo individual autenticado.",
+      "ensinamento": "A oração e a misericórdia não devem ser separadas.",
+      "referencias_biblicas": "Lc 15,11-32; Mt 18,12-14.",
+      "fontes": [
+        "https://mail.liturgia.pt/martirologio/elogio.php?data=2026-10-29",
+        "https://www.oca.org/saints/lives/2026/10/29/103099-venerable-abramius-the-recluse-and-his-niece-the-blessed-mary"
+      ],
+      "revisao_iconografica": "Miniatura de Abraão de Kiduna no Menológio de Basílio II, século X, identificada no Wikimedia Commons e em domínio público; ligação ao ficheiro original não testada nesta execução, pelo que não foi marcada como verificada.",
+      "iconografia_candidatos": [
+        {
+          "fonte": "https://commons.wikimedia.org/wiki/File:Abraham_Kidunaia_(Menologion_of_Basil_II).jpg",
+          "decisao": "Candidata prioritária; identidade e direitos descritos na fonte; aguarda abertura do original e teste de apresentação."
+        }
+      ]
+    },
+    {
+      "nome": "São Teodário de Vienne, abade",
+      "identificacao": "Monge e abade da Gália do século VI, associado à região de Vienne; também Theuderius, Theudère ou Teodero; morte cerca de 575.",
+      "biografia": "A tradição situa Teodário no desenvolvimento das comunidades monásticas da Gália meridional. O Martirológio português apresenta-o como discípulo de Santo Eusébio de Arles, fundador de celas monásticas e presbítero penitenciário designado para a cidade de Vienne. Outras biografias posteriores associam a sua formação a São Cesário de Arles; esta diferença de nomes exige cotejo histórico e não foi resolvida nesta edição. É recordado pela vida de oração e pelo acompanhamento espiritual dos penitentes. A sua memória ficou especialmente ligada a Saint-Chef, cuja igreja conserva um vitral com a sua representação e nome. Não existem dados seguros para reconstruir todos os pormenores da sua origem, obras e morte.",
+      "canonizacao": "Culto local antigo.",
+      "milagres": "Fontes hagiográficas atribuem-lhe fama de taumaturgo, mas não foram encontrados relatos contemporâneos verificáveis ou decretos canónicos de milagres.",
+      "sepultura": "Ligação tradicional a Vienne e Saint-Chef; a identificação de relíquias concretas carece de verificação.",
+      "ensinamento": "O acompanhamento espiritual requer escuta e perseverança.",
+      "referencias_biblicas": "Tg 5,13-16; Mt 6,5-8.",
+      "fontes": [
+        "https://mail.liturgia.pt/martirologio/elogio.php?data=2026-10-29",
+        "https://en.wikipedia.org/wiki/Theuderius"
+      ],
+      "imagem": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/77/Saint-Chef_Saint-Theud%C3%A8re_150305.JPG",
+        "fonte": "https://commons.wikimedia.org/wiki/File:Saint-Chef_Saint-Theud%C3%A8re_150305.JPG",
+        "descricao": "São Teodário (Theuderius) representado em vitral na igreja de Saint-Theudère, Saint-Chef.",
+        "autor": "Reinhardhauke (fotografia de 2011)",
+        "licenca": "CC BY-SA 3.0 Unported",
+        "ligacao_licenca": "https://creativecommons.org/licenses/by-sa/3.0/",
+        "dimensoes": "2520 × 3776",
+        "tipo": "vitral",
+        "instituicao": "Igreja de Saint-Theudère, Saint-Chef, França",
+        "motivo_escolha": "Identificação escrita no próprio vitral, grande resolução, relevância local e licença clara.",
+        "verificada": true,
+        "verificada_em": "2026-10-29",
+        "url_ficheiro_original": "https://upload.wikimedia.org/wikipedia/commons/7/77/Saint-Chef_Saint-Theud%C3%A8re_150305.JPG",
+        "validacao": "Ficheiro original aberto e imagem visualmente examinada; fonte e licença consultadas no Wikimedia Commons em 29/10/2026. Funcionamento no GitHub Pages e dispositivos móveis ainda não verificado.",
+        "condicoes_atribuicao": "Crédito ao fotógrafo, ligação à fonte e licença CC BY-SA 3.0; indicar adaptações e respeitar partilha nos mesmos termos.",
+        "candidatos_rejeitados": [
+          "Fotografias exteriores da igreja: documentam o lugar, mas não representam o santo."
+        ]
+      }
+    },
+    {
+      "nome": "São Colmano de Kilmacduagh, bispo",
+      "identificacao": "Bispo e fundador monástico irlandês, conhecido como Colmán mac Duagh, na região de Galway; morreu em 632.",
+      "biografia": "Nascido, segundo a tradição, em Kiltartan, Colmano iniciou a vida religiosa em ambientes eremíticos ligados às ilhas de Aran e à região calcária do Burren. Por volta de 610 é-lhe atribuída a fundação de Kilmacduagh, centro monástico que se tornou referência da organização eclesiástica de Aidhne. O seu exemplo combina retiro, oração e serviço episcopal. As narrativas sobre a convivência com animais e os encontros com o rei Guaire pertencem sobretudo à tradição hagiográfica, não podendo ser lidas como crónicas contemporâneas. A Enciclopédia Católica assinala divergências entre antigos calendários irlandeses sobre o dia da sua festa, mas confirma a forte tradição local de 29 de outubro, posteriormente reconhecida. Não confundir com os numerosos santos irlandeses homónimos.",
+      "canonizacao": "Culto irlandês antigo; não há canonização moderna; festa local tradicionalmente reconhecida.",
+      "milagres": "Tradições locais de proteção providencial e auxílio aos necessitados, sem decretos modernos identificados. Episódios de animais auxiliares são lendas hagiográficas.",
+      "sepultura": "Kilmacduagh, condado de Galway, lugar da tradição monástica e funerária; atribuições materiais exigem confirmação.",
+      "ensinamento": "A contemplação e a responsabilidade pastoral podem coexistir.",
+      "referencias_biblicas": "Mc 6,30-34; 1 Pd 5,2-4.",
+      "fontes": [
+        "https://mail.liturgia.pt/martirologio/elogio.php?data=2026-10-29",
+        "https://www.newadvent.org/cathen/04114b.htm"
+      ],
+      "revisao_iconografica": "Existe referência a vitral de Colman mac Duagh de Wilhelmina Geddes, mas não foi localizada fotografia com licença inequívoca e ficheiro testado; pendente."
+    },
+    {
+      "nome": "São Dodão de Wallers, abade e eremita",
+      "identificacao": "Monge e abade da região de Wallers-en-Fagne, na atual fronteira franco-belga, século VIII; também Dodon ou Dodo.",
+      "biografia": "Segundo tradições monásticas de Hainaut, Dodão foi educado no ambiente da abadia de Lobbes, associado a Santo Ursmaro. Teria sido encarregado de dirigir a comunidade de Wallers, antes de procurar a vida de silêncio numa ermida perto de Moustier-en-Fagne. O seu percurso reflete a alternância, frequente no monaquismo medieval, entre responsabilidades comunitárias e retiro espiritual. A sua veneração permanece ligada a pequenos santuários da região. Os dados cronológicos são aproximados e a documentação disponível é sobretudo hagiográfica, pelo que não se devem tratar os episódios lendários como registos de testemunhas contemporâneas.",
+      "canonizacao": "Culto monástico imemorial, anterior à formalização dos processos de canonização.",
+      "milagres": "Relatos tardios atribuem à sua oração curas de cegueira e dificuldades motoras; não existem decretos canónicos modernos identificados.",
+      "sepultura": "Tradição de sepultura perto da ermida e posterior veneração em Wallers; autenticidade atual das relíquias não verificada.",
+      "ensinamento": "O serviço e o silêncio são dimensões complementares da vocação.",
+      "referencias_biblicas": "Sl 62(63),2-9; Mc 1,35.",
+      "fontes": [
+        "https://mail.liturgia.pt/martirologio/elogio.php?data=2026-10-29",
+        "https://www.saintspedia.com/en/saints/saint-dodo-of-wallers/"
+      ],
+      "revisao_iconografica": "Nenhuma representação individual com proveniência e licença suficientes foi encontrada; não usar fotografias genéricas de monges."
+    },
+    {
+      "nome": "São Caetano Errico, presbítero e fundador",
+      "identificacao": "Nascido em Secondigliano, Nápoles, em 19 de outubro de 1791; morreu em 29 de outubro de 1860; fundador dos Missionários dos Sagrados Corações de Jesus e Maria.",
+      "biografia": "Terceiro de dez filhos de uma família trabalhadora, Caetano estudou para o sacerdócio em condições modestas e foi ordenado em 23 de setembro de 1815. Dedicou-se à catequese, ao ensino, aos doentes, à confissão e às pessoas economicamente vulneráveis. Inspirado pela espiritualidade de Santo Afonso Maria de Ligório, promoveu a construção de uma igreja dedicada à Senhora das Dores em Secondigliano, benzida em 1830, e desenvolveu a congregação dos Missionários dos Sagrados Corações. A espiritualidade do perdão tornou-se o centro do seu ministério. Os relatos de visões de Santo Afonso e de inspiração sobrenatural da fundação pertencem ao testemunho religioso recolhido na biografia oficial e devem ser distinguidos de acontecimentos documentalmente demonstrados. João Paulo II beatificou-o em 2002 e Bento XVI canonizou-o em 12 de outubro de 2008.",
+      "canonizacao": "Beatificado em 14 de abril de 2002 por São João Paulo II; canonizado em 12 de outubro de 2008 por Bento XVI.",
+      "milagres": "A canonização pressupôs o reconhecimento eclesiástico dos requisitos canónicos do processo, incluindo um milagre atribuído à intercessão; nesta edição não foi localizado o decreto individual nem o dossiê médico, pelo que não se descreve uma cura concreta como verificada. Visões narradas na biografia oficial são experiências espirituais relatadas, não curas demonstradas.",
+      "sepultura": "Morreu em Secondigliano; localização atual precisa das relíquias carece de confirmação documental nesta edição.",
+      "ensinamento": "A misericórdia do sacramento da reconciliação e a educação dos mais pobres.",
+      "referencias_biblicas": "Lc 15,1-7; 2 Cor 5,18-20.",
+      "fontes": [
+        "https://mail.liturgia.pt/martirologio/elogio.php?data=2026-10-29",
+        "https://www.causesanti.va/it/santi-e-beati/gaetano-errico.html",
+        "https://press.vatican.va/news_services/liturgy/saints/2008/ns_lit_doc_20081012_errico_it.html",
+        "https://www.vatican.va/content/benedict-xvi/en/homilies/2008/documents/hf_ben-xvi_hom_20081012_canonizzazioni.html"
+      ],
+      "revisao_iconografica": "Fotografia do estandarte da canonização em 2008, com retrato do santo, disponível sob CC BY-SA 3.0 como fotografia; não escolhida por baixa resolução e direitos do retrato incorporado não esclarecidos.",
+      "iconografia_candidatos": [
+        {
+          "fonte": "https://commons.wikimedia.org/wiki/File:Canonizzazione_San_Gaetano_Errico.JPG",
+          "decisao": "Rejeitada para imagem principal: composição fraca e direitos subjacentes ao retrato não demonstrados."
+        }
+      ]
+    }
+  ],
+  "beatos": [
+    {
+      "nome": "Beato Miguel Rua, presbítero — memória própria salesiana",
+      "identificacao": "Turim, 9/06/1837–6/04/1910; primeiro sucessor de São João Bosco; memória obrigatória a 29 de outubro no calendário salesiano em Portugal.",
+      "biografia": "Conheceu Dom Bosco ainda criança e integrou as primeiras gerações da obra de Valdocco. Ordenado sacerdote em 1860, foi colaborador próximo do fundador e assumiu a direção da congregação em 1888. Consolidou escolas, formação profissional, casas religiosas e missões. Visitou Portugal em 1899 e 1906, acompanhando obras em Braga, Lisboa e Porto; a sua ação foi decisiva para a implantação salesiana portuguesa. A sua liderança combinou continuidade do carisma educativo e adaptação às necessidades sociais.",
+      "beatificacao": "Beatificado por São Paulo VI em 29 de outubro de 1972. A Congregação para as Causas dos Santos apresenta 6 de abril como memória litúrgica geral da causa; o calendário próprio salesiano português celebra-o em 29 de outubro.",
+      "milagres": "A beatificação pressupôs processo canónico; não foi identificado nesta pesquisa o decreto individual de milagre, pelo que nenhum episódio concreto é afirmado como reconhecido.",
+      "sepultura": "Cripta da Basílica de Maria Auxiliadora, Turim, segundo a Congregação para as Causas dos Santos.",
+      "referencias_biblicas": "Mt 18,1-5; Jo 15,9-17.",
+      "fontes": [
+        "https://www.liturgia.pt/liturgiadiaria/dia.php?data=2026-10-29",
+        "https://www.salesianos.pt/biografia/b-miguel-rua/",
+        "https://www.salesianos.pt/noticias/primeira-visita-do-pe-miguel-rua-a-portugal/",
+        "https://www.causesanti.va/it/santi-e-beati/michele-rua.html"
+      ]
+    },
+    {
+      "nome": "Beata Chiara Luce Badano — memória própria do Movimento dos Focolares",
+      "identificacao": "Sassello, Itália, 29/10/1971–7/10/1990; jovem leiga do Movimento dos Focolares, beatificada em 2010; memória celebrada a 29 de outubro pelo movimento e em locais autorizados.",
+      "biografia": "Chiara Badano cresceu em Sassello, integrou ainda criança o Movimento dos Focolares e participou nas atividades juvenis dos Gen. A sua vida foi marcada pela amizade, pelo serviço e pela espiritualidade da unidade. Na adolescência foi-lhe diagnosticado um tumor ósseo grave; viveu os tratamentos e a fase terminal da doença procurando manter a confiança em Deus e a atenção às pessoas próximas. O testemunho transmitido pela família e pelo movimento sublinha a sua alegria e a recusa de reduzir a vida à doença. Faleceu aos 18 anos. O dia da memória coincide com o seu aniversário, não com a data da morte.",
+      "beatificacao": "Beatificada em 25 de setembro de 2010 em Roma, durante o pontificado de Bento XVI.",
+      "milagres": "O processo de beatificação incluiu reconhecimento canónico de milagre; o decreto e o caso clínico não foram consultados nesta edição, pelo que não se apresenta um episódio específico como comprovado.",
+      "sepultura": "Sepultura familiar em Sassello, segundo a tradição e a documentação biográfica do movimento; localização exata e acesso não revalidados.",
+      "referencias_biblicas": "Jo 17,20-23; Rm 8,35-39.",
+      "fontes": [
+        "https://www.focolare.org/29-ottobre-festa-liturgica-beata-chiara-badano/",
+        "https://www.focolare.org/una-beata-per-i-nostri-tempi/"
+      ]
+    }
+  ],
+  "reflexao": "Em Ef 6, São Paulo descreve a fé, a verdade e a oração como proteção para o combate espiritual. Em Lc 13, Jesus prossegue a missão apesar das ameaças e lamenta a recusa de Jerusalém em acolher o seu amor. A firmeza não exclui a ternura: a santidade testemunha ambas.",
+  "fontes": [
+    "https://www.liturgia.pt/liturgiadiaria/dia.php?data=2026-10-29",
+    "https://mail.liturgia.pt/martirologio/elogio.php?data=2026-10-29",
+    "https://www.vaticannews.va/pt/santo-do-dia/10/29.html",
+    "https://www.causesanti.va/it/santi-e-beati/gaetano-errico.html",
+    "https://www.salesianos.pt/biografia/b-miguel-rua/",
+    "https://www.focolare.org/29-ottobre-festa-liturgica-beata-chiara-badano/"
+  ],
+  "auditoria": {
+    "data": "2026-10-29",
+    "estado": "revisao",
+    "inventario_santos": 9,
+    "numero_fichas_santos": 9,
+    "numero_beatos": 2,
+    "imagens_verificadas_na_origem": 2,
+    "imagens_sem_validacao": 7,
+    "imagens_testadas_no_site": 0,
+    "teste_mobile": "pendente",
+    "teste_publicacao": "pendente",
+    "fontes_primarias": [
+      "Secretariado Nacional de Liturgia",
+      "Dicastério para as Causas dos Santos",
+      "Governatorato do Vaticano",
+      "Salesianos Portugal",
+      "Movimento dos Focolares"
+    ],
+    "lacunas": [
+      "Versão 2.0 integral das instruções de 25/10/2026 não localizada em fonte persistente no repositório; INSTRUCOES.md é v2.1 complementar.",
+      "Apenas 2 imagens selecionadas e testadas visualmente na origem; 7 santos carecem de imagem legal e identificada.",
+      "Não foi possível realizar teste de apresentação móvel/desktop nem verificar versão final servida por GitHub Pages.",
+      "Milagres de canonização/beatificação sem acesso aos decretos individuais foram deixados sem identificação de casos.",
+      "A cobertura das tradições locais e dos calendários próprios fora dos verificados pode não ser exaustiva."
+    ]
+  }
+}
