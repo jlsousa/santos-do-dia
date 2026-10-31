@@ -1,0 +1,424 @@
+{
+  "data": "2026-11-01",
+  "estado": "EM REVISÃO — edição parcial. Inventário integral dos 18 elogios (solenidade e 17 entradas individuais ou coletivas) do Martirológio português: 15 santos e 7 beatos individualizados. Não existem imagens principais integralmente validadas para publicação: a litografia de São Nuno foi examinada, mas faltam testes do portal e dispositivos. A versão integral das instruções 2.0 não está disponível no repositório. Esta página NÃO está validada.",
+  "liturgia": "Domingo, 1 de novembro de 2026 — Solenidade de Todos os Santos, em Portugal (branco), com precedência sobre o domingo XXXI do Tempo Comum. Leituras: Ap 7,2-4.9-14; Sl 23(24),1-6; 1 Jo 3,1-3; Mt 5,1-12a. A solenidade celebra todos os santos, conhecidos e desconhecidos; os elogios seguintes são recordações martirológicas e não substituem a missa da solenidade.",
+  "introducao": "Todos os Santos celebra a multidão dos que participam da vida de Deus. As bem-aventuranças revelam que a santidade não é reservada a figuras célebres: inclui mártires, pastores, religiosos e fiéis cuja memória humana é quase desconhecida. Entre os santos recordados neste dia encontra-se São Nuno de Santa Maria, português cuja memória própria se celebra a 6 de novembro.",
+  "inventario_martirologio": [
+    "1. Solenidade de Todos os Santos — celebração litúrgica universal, não pessoa individual.",
+    "2. São Cesário, mártir — Terracina, Lácio (data desconhecida).",
+    "3. São Benigno, presbítero e mártir — Dijon, Gália (data desconhecida).",
+    "4. Santo Austremónio, bispo — Clermont-Ferrand, Gália (séc. III segundo o Martirológio).",
+    "5. São Marcelo, bispo — Paris (fins do séc. IV).",
+    "6. São Rómulo, presbítero e abade — Bourges (séc. V).",
+    "7. São Severino, monge — Tívoli (c. séc. VI).",
+    "8. São Magno, bispo — Milão (séc. VI).",
+    "9. São Vigor, bispo — Bayeux (antes de 538).",
+    "10. São Licínio, bispo — Angers (c. 606).",
+    "11. São Maturino, presbítero — Larchant (c. séc. VII no Martirológio).",
+    "12. Santo Audemaro, bispo — Thérouanne (c. 670).",
+    "13. Beato Rainério de Arezzo, franciscano — Sansepolcro (1304).",
+    "14. São Nuno de Santa Maria, carmelita português — Lisboa (1431); memória própria portuguesa a 6/11.",
+    "15. Beatos Pedro Paulo Navarro, Dionísio Fujishima, Pedro Onizuka Sandayu e Clemente Kyuemon — mártires, Shimabara (1622).",
+    "16. Santos Jerónimo Hermosilla, Valentim Bérrio Ochoa e Pedro Almató Ribeira — mártires, Hải Dương (1861).",
+    "17. Beato Ruperto Mayer, jesuíta — Munique (1945).",
+    "18. Beato Teodoro Jorge Romzsa, bispo e mártir — Mukacevo (1947)."
+  ],
+  "santos": [
+    {
+      "nome": "São Cesário de Terracina, mártir",
+      "identificacao": "Mártir venerado em Terracina, no Lácio; cronologia histórica incerta.",
+      "biografia": "O culto de Cesário, tradicionalmente apresentado como diácono, está ligado à antiga cidade portuária de Terracina. A narrativa posterior descreve a sua oposição a um sacrifício humano praticado em honra de uma divindade pagã, seguida de prisão e martírio. O relato contém elementos lendários e não equivale a uma ata contemporânea. A permanência da memória do mártir em Terracina e em igrejas de Roma é historicamente mais segura do que os pormenores do suplício. A tradição distingue-o de outros santos chamados Cesário.",
+      "canonizacao": "Culto antigo reconhecido no Martirológio Romano; não foi identificado processo formal moderno de canonização.",
+      "milagres": "Não foi localizado milagre individual reconhecido por decreto. Episódios da paixão e favores atribuídos ao culto pertencem à tradição hagiográfica.",
+      "sepultura": "Terracina é o centro tradicional da sua veneração; atribuições de relíquias a igrejas de Roma exigem confirmação documental.",
+      "ensinamento": "A defesa da dignidade humana e a fidelidade à consciência cristã.",
+      "referencias_biblicas": "Ap 7,9-14; Mt 10,28-33.",
+      "fontes": [
+        "https://mail.liturgia.pt/martirologio/elogio.php?data=2026-11-01",
+        "https://www.vaticannews.va/pt/feriados-liturgicos/solenidade-de-todos-os-santos-.html"
+      ],
+      "revisao_iconografica": "Imagem individual pendente de seleção, verificação de identidade, direitos e testes de carregamento; não usar representações genéricas."
+    },
+    {
+      "nome": "São Benigno de Dijon, presbítero e mártir",
+      "identificacao": "Mártir antigo, patrono de Dijon, na Gália; documentação biográfica escassa.",
+      "biografia": "A veneração de Benigno está documentada em Dijon e foi estudada por São Gregório de Tours. O bispo Gregório de Langres, inicialmente desconfiado da identificação do túmulo, acabou por favorecer o culto, que se tornou central na vida religiosa da cidade. Uma paixão tardia apresenta Benigno como missionário vindo do Oriente, associado à evangelização da Borgonha; essa genealogia missionária não pode ser afirmada como facto histórico demonstrado. A catedral de Dijon conserva o seu nome e testemunha a continuidade da memória local.",
+      "canonizacao": "Culto antigo reconhecido no Martirológio Romano; não foi identificado processo formal moderno de canonização.",
+      "milagres": "A tradição relata sinais junto do túmulo e episódios da paixão; não foram encontrados decretos de milagres individuais. A notícia da veneração antiga não valida automaticamente as narrativas tardias.",
+      "sepultura": "O túmulo tradicional é associado à cripta da catedral de Saint-Bénigne, em Dijon; autenticidade dos restos não auditada.",
+      "ensinamento": "A fé pode ser transmitida pela memória de comunidades mesmo quando faltam dados biográficos.",
+      "referencias_biblicas": "Jo 12,24-26; 2 Tm 4,6-8.",
+      "fontes": [
+        "https://mail.liturgia.pt/martirologio/elogio.php?data=2026-11-01",
+        "https://www.catholic.com/encyclopedia/benignus-of-dijon-saint"
+      ],
+      "revisao_iconografica": "Imagem individual pendente de seleção, verificação de identidade, direitos e testes de carregamento; não usar representações genéricas."
+    },
+    {
+      "nome": "Santo Austremónio de Clermont, bispo",
+      "identificacao": "Primeiro bispo tradicional de Clermont, evangelizador da Auvérnia, Gália, entre os séculos III e IV.",
+      "biografia": "São Gregório de Tours recorda Austremónio, também chamado Stremonius ou Austremoine, entre os missionários associados à expansão do cristianismo na Gália. A tradição situa a sua missão no século III, mas as listas episcopais permitem discutir uma cronologia mais tardia. O testemunho mais antigo apresenta-o como bispo que morreu em paz, não como mártir. Os relatos posteriores que o fazem discípulo direto dos Apóstolos ou mártir devem ser considerados desenvolvimentos lendários. A igreja de Issoire e a tradição de Clermont preservaram o seu culto.",
+      "canonizacao": "Culto antigo reconhecido no Martirológio Romano; não foi identificado processo formal moderno de canonização.",
+      "milagres": "Segundo narrativa transmitida por Gregório de Tours, foram referidos sinais junto do seu túmulo em Issoire; são testemunhos hagiográficos antigos, não decretos modernos.",
+      "sepultura": "Tradição de sepultura em Issoire, com translações de relíquias para Volvic e Mozac; pormenores materiais não revalidados.",
+      "ensinamento": "Evangelização paciente, fidelidade episcopal e crítica das tradições.",
+      "referencias_biblicas": "Mt 28,18-20; Rm 10,14-15.",
+      "fontes": [
+        "https://mail.liturgia.pt/martirologio/elogio.php?data=2026-11-01",
+        "https://www.catholic.com/encyclopedia/austremonius-saint",
+        "https://www.saintspedia.com/en/saints/saint-austremonius/"
+      ],
+      "revisao_iconografica": "Imagem individual pendente de seleção, verificação de identidade, direitos e testes de carregamento; não usar representações genéricas."
+    },
+    {
+      "nome": "São Marcelo de Paris, bispo",
+      "identificacao": "Bispo de Paris no fim do século IV ou início do V, de culto antigo.",
+      "biografia": "Marcelo, ou Marcel, foi um dos primeiros pastores conhecidos da Igreja parisiense. A sua biografia foi transmitida sobretudo por Venâncio Fortunato, autor do século VI, que lhe atribuiu feitos maravilhosos. O episódio mais famoso é o de um dragão vencido pelo bispo, imagem que se tornou símbolo da proteção da cidade e foi representada na arte da catedral de Notre-Dame. O valor espiritual do episódio é evidente, mas não constitui prova zoológica ou histórica de um acontecimento literal. O culto desenvolveu-se em torno do local tradicional da sua sepultura, dando nome ao bairro de Saint-Marcel.",
+      "canonizacao": "Culto antigo reconhecido no Martirológio Romano; não foi identificado processo formal moderno de canonização.",
+      "milagres": "Dragão, transformação de água e curas pertencem à hagiografia medieval; nenhum foi verificado como milagre por decreto canónico contemporâneo.",
+      "sepultura": "Tradição de sepultura na região do antigo faubourg Saint-Marcel, Paris; relíquias atribuídas à catedral e a igrejas locais carecem de inventário atualizado.",
+      "ensinamento": "O ministério episcopal como cuidado concreto de uma cidade.",
+      "referencias_biblicas": "Jo 10,11-16; Ef 6,10-17.",
+      "fontes": [
+        "https://mail.liturgia.pt/martirologio/elogio.php?data=2026-11-01",
+        "https://www.saintspedia.com/en/saints/saint-marcellus-of-paris/"
+      ],
+      "revisao_iconografica": "Imagem individual pendente de seleção, verificação de identidade, direitos e testes de carregamento; não usar representações genéricas."
+    },
+    {
+      "nome": "São Rómulo, presbítero e abade",
+      "identificacao": "Abade recordado no território de Bourges, Aquitânia, no século V.",
+      "biografia": "O Martirológio Romano identifica Rómulo como presbítero e abade, mas não fornece pormenores seguros sobre nascimento, comunidade monástica, fundações ou morte. A referência testemunha a memória de uma liderança religiosa no período de consolidação das comunidades cristãs da Gália. Não seria rigoroso atribuir-lhe episódios encontrados em biografias de outros Rómulos, incluindo bispos ou mártires homónimos. A ausência de documentação acessível nesta edição obriga a manter a biografia limitada ao elogio oficial.",
+      "canonizacao": "Culto antigo reconhecido no Martirológio Romano; não foi identificado processo formal moderno de canonização.",
+      "milagres": "Não se conhecem nesta pesquisa milagres individualizados com fonte histórica suficiente; nenhum decreto identificado.",
+      "sepultura": "Lugar exato da sepultura e existência de relíquias não confirmados.",
+      "ensinamento": "A importância da fidelidade anónima na vida comunitária.",
+      "referencias_biblicas": "At 2,42-47; 1 Pd 5,2-4.",
+      "fontes": [
+        "https://mail.liturgia.pt/martirologio/elogio.php?data=2026-11-01"
+      ],
+      "revisao_iconografica": "Imagem individual pendente de seleção, verificação de identidade, direitos e testes de carregamento; não usar representações genéricas."
+    },
+    {
+      "nome": "São Severino de Tívoli, monge",
+      "identificacao": "Monge venerado em Tívoli, Lácio, com morte situada aproximadamente no século VI.",
+      "biografia": "O elogio romano conserva o nome de Severino entre os monges associados a Tívoli, nos arredores de Roma. Não apresenta mosteiro, superior, obras ou acontecimentos biográficos concretos. A identidade deve ser mantida distinta de São Severino do Nórico, de São Severino de Agaune e de outros homónimos. Esta ficha regista o dado litúrgico comprovado e assinala a necessidade de pesquisa em arquivos e calendários diocesanos italianos para uma história mais desenvolvida.",
+      "canonizacao": "Culto antigo reconhecido no Martirológio Romano; não foi identificado processo formal moderno de canonização.",
+      "milagres": "Sem relatos individuais comprovados ou decretos de milagres identificados.",
+      "sepultura": "Sepultura e relíquias não localizadas em documentação confirmada nesta edição.",
+      "ensinamento": "A oração e o serviço monástico, mesmo sem notoriedade histórica.",
+      "referencias_biblicas": "Cl 3,12-17; Sl 62(63),2-9.",
+      "fontes": [
+        "https://mail.liturgia.pt/martirologio/elogio.php?data=2026-11-01"
+      ],
+      "revisao_iconografica": "Imagem individual pendente de seleção, verificação de identidade, direitos e testes de carregamento; não usar representações genéricas."
+    },
+    {
+      "nome": "São Magno de Milão, bispo",
+      "identificacao": "Bispo da sede ambrosiana de Milão, falecido no século VI segundo o Martirológio.",
+      "biografia": "Magno é recordado na sucessão episcopal milanesa do período posterior à desagregação do Império Romano do Ocidente. O Martirológio atesta o seu culto, mas não descreve atos de governo, escritos ou milagres. Algumas tradições locais associam-lhe igrejas e relíquias, que precisam de cotejo com documentação da arquidiocese. É essencial não o confundir com outros bispos e santos chamados Magno, de regiões e épocas diferentes.",
+      "canonizacao": "Culto antigo reconhecido no Martirológio Romano; não foi identificado processo formal moderno de canonização.",
+      "milagres": "Não foi possível documentar qualquer milagre pessoal concreto nem decreto.",
+      "sepultura": "Local de sepultura e relíquias necessitam de verificação em fonte diocesana.",
+      "ensinamento": "A continuidade do serviço pastoral em tempos de mudança.",
+      "referencias_biblicas": "2 Tm 4,1-5; Jo 21,15-17.",
+      "fontes": [
+        "https://mail.liturgia.pt/martirologio/elogio.php?data=2026-11-01"
+      ],
+      "revisao_iconografica": "Imagem individual pendente de seleção, verificação de identidade, direitos e testes de carregamento; não usar representações genéricas."
+    },
+    {
+      "nome": "São Vigor de Bayeux, bispo",
+      "identificacao": "Bispo de Bayeux, na Normandia, discípulo de São Vedasto; falecido antes de 538.",
+      "biografia": "Vigor é associado à evangelização do Bessin e à organização da vida cristã na região de Bayeux. As tradições biográficas apresentam-no como discípulo de Vedasto, formado na espiritualidade da Gália setentrional, e atribuem-lhe a fundação de um estabelecimento monástico na zona que viria a chamar-se Saint-Vigor-le-Grand. Relatos sobre a destruição de templos pagãos devem ser contextualizados como hagiografia missionária e não como narrativa documental exata. A sua memória episcopal foi conservada nas igrejas normandas.",
+      "canonizacao": "Culto antigo reconhecido no Martirológio Romano; não foi identificado processo formal moderno de canonização.",
+      "milagres": "Lendas locais de curas e vitórias sobre práticas pagãs, sem decreto moderno individual verificado.",
+      "sepultura": "O culto é ligado à região de Bayeux e a igrejas dedicadas ao santo; sepultura e relíquias atuais por confirmar.",
+      "ensinamento": "O anúncio do Evangelho exige educação, perseverança e cuidado pastoral.",
+      "referencias_biblicas": "Mt 28,18-20; 1 Pd 5,1-4.",
+      "fontes": [
+        "https://mail.liturgia.pt/martirologio/elogio.php?data=2026-11-01",
+        "https://en.wikipedia.org/wiki/Saint_Vigor"
+      ],
+      "revisao_iconografica": "Imagem individual pendente de seleção, verificação de identidade, direitos e testes de carregamento; não usar representações genéricas."
+    },
+    {
+      "nome": "São Licínio de Angers, bispo",
+      "identificacao": "Bispo de Angers, na antiga Nêustria; falecido cerca de 606.",
+      "biografia": "O Martirológio recorda Licínio, ou Lézin, como bispo de Angers e associa-o à solicitude missionária de São Gregório Magno, que lhe confiou monges destinados à Inglaterra. Essa menção coloca-o no horizonte das relações entre as Igrejas da Gália e a missão gregoriana entre os anglo-saxões. A tradição local apresenta-o também como homem de responsabilidades civis que escolheu o ministério eclesiástico, mas a cronologia e os pormenores necessitam de exame de fontes medievais. A sua memória integra a história religiosa de Angers.",
+      "canonizacao": "Culto antigo reconhecido no Martirológio Romano; não foi identificado processo formal moderno de canonização.",
+      "milagres": "Relatos devocionais locais não foram cotejados com fontes primárias; sem decreto individual de milagre identificado.",
+      "sepultura": "Culto histórico em Angers; sepultura e atribuição de relíquias não confirmadas nesta edição.",
+      "ensinamento": "Cooperação entre comunidades e disponibilidade para a missão.",
+      "referencias_biblicas": "Mt 9,35-38; Rm 10,14-17.",
+      "fontes": [
+        "https://mail.liturgia.pt/martirologio/elogio.php?data=2026-11-01"
+      ],
+      "revisao_iconografica": "Imagem individual pendente de seleção, verificação de identidade, direitos e testes de carregamento; não usar representações genéricas."
+    },
+    {
+      "nome": "São Maturino de Larchant, presbítero",
+      "identificacao": "Presbítero de veneração antiga em Larchant, Gâtinais, com cronologia incerta.",
+      "biografia": "Maturino, chamado Mathurin em francês, tornou-se um santo muito invocado em França, sobretudo na Idade Média. A sua vida é conhecida por narrativas tardias que o fazem evangelizador, sacerdote e libertador de uma jovem atormentada em Roma. Os nomes, a cronologia e os pormenores dessa história não têm confirmação documental contemporânea. A igreja de Saint-Mathurin em Larchant testemunha, porém, a importância histórica do seu culto e das peregrinações. Deve evitar-se apresentar os exorcismos lendários como episódios clínicos verificáveis.",
+      "canonizacao": "Culto antigo reconhecido no Martirológio Romano; não foi identificado processo formal moderno de canonização.",
+      "milagres": "Exorcismos e curas atribuídos ao santo são tradições hagiográficas; não existe decreto moderno identificado.",
+      "sepultura": "Larchant é o principal centro de veneração; tradições de translação das relíquias exigem verificação.",
+      "ensinamento": "A oração pelos que sofrem e a prudência perante narrativas de fenómenos extraordinários.",
+      "referencias_biblicas": "Mc 1,32-39; Tg 5,13-16.",
+      "fontes": [
+        "https://mail.liturgia.pt/martirologio/elogio.php?data=2026-11-01",
+        "https://www.santiebeati.it/index.php/dettaglio/93121"
+      ],
+      "revisao_iconografica": "Imagem individual pendente de seleção, verificação de identidade, direitos e testes de carregamento; não usar representações genéricas."
+    },
+    {
+      "nome": "Santo Audemaro (São Omer), bispo de Thérouanne",
+      "identificacao": "Monge de Luxeuil e bispo dos Morinos, no norte da Gália, falecido cerca de 670.",
+      "biografia": "Audemaro, ou Audomarus, recebeu formação no mosteiro de Luxeuil, no ambiente espiritual ligado à regra de São Columbano e ao abade Eustásio. Eleito bispo de Thérouanne, dedicou-se à renovação das comunidades cristãs dos Morinos e apoiou monges como Bertino no desenvolvimento do mosteiro de Sithiu. O centro religioso cresceu e deu origem à cidade de Saint-Omer, que conserva o seu nome. A tradição recorda a perda de visão nos últimos anos; os detalhes dependem de biografias medievais. A sua influência é historicamente reconhecível no património eclesial regional.",
+      "canonizacao": "Culto antigo reconhecido no Martirológio Romano; não foi identificado processo formal moderno de canonização.",
+      "milagres": "Tradições sobre curas e assistência providencial não foram documentadas como milagres decretados.",
+      "sepultura": "Sithiu/Saint-Omer conserva o centro tradicional do culto; localização exata e autenticidade de relíquias por confirmar.",
+      "ensinamento": "A formação monástica ao serviço de uma Igreja missionária.",
+      "referencias_biblicas": "1 Cor 3,5-9; Jo 15,1-8.",
+      "fontes": [
+        "https://mail.liturgia.pt/martirologio/elogio.php?data=2026-11-01",
+        "https://www.treccani.it/enciclopedia/santo-audomaro/"
+      ],
+      "revisao_iconografica": "Imagem individual pendente de seleção, verificação de identidade, direitos e testes de carregamento; não usar representações genéricas."
+    },
+    {
+      "nome": "São Nuno de Santa Maria (Nuno Álvares Pereira), carmelita português",
+      "identificacao": "Nascido em 24 de junho de 1360, provavelmente em Cernache do Bonjardim; condestável do reino e irmão leigo carmelita, falecido em Lisboa em 1431.",
+      "biografia": "Nuno Álvares Pereira desempenhou papel decisivo na defesa da independência portuguesa durante a crise de 1383–1385, nomeadamente nas campanhas que culminaram em Aljubarrota, a 14 de agosto de 1385. Casado com Leonor de Alvim, foi pai de três filhos, tendo sobrevivido a filha Beatriz. A espiritualidade mariana, a oração e a devoção eucarística acompanharam a sua vida militar. Mandou erguer o Convento do Carmo, em Lisboa, e apoiou outras fundações religiosas. Depois de consolidada a paz, renunciou a privilégios e a grande parte dos bens, ingressando em 1423 no convento carmelita como irmão Nuno de Santa Maria. Escolheu tarefas humildes e organizou ajuda alimentar diária aos pobres. A sua memória deve integrar simultaneamente o contexto militar medieval e a conversão pessoal para uma vida de serviço. O Martirológio inclui-o a 1 de novembro, mas a memória própria em Portugal é celebrada a 6 de novembro. Quanto à morte, a biografia oficial vaticana indica 1 de abril de 1431, enquanto outras referências portuguesas indicam 1 de novembro: divergência histórica explicitamente por resolver, sem escolher arbitrariamente uma data.",
+      "canonizacao": "Culto imemorial reconhecido por decreto de Bento XV em 23 de dezembro de 1918; canonizado por Bento XVI em 26 de abril de 2009. A memória litúrgica própria em Portugal é a 6 de novembro.",
+      "milagres": "Milagre reconhecido oficialmente: o decreto para a canonização foi autorizado em 3 de julho de 2008, referente a um acontecimento de 2000, conforme a biografia vaticana; esta fonte não descreve nesta consulta o caso médico, pelo que não se inventam diagnóstico, identidade ou circunstâncias. Tradições: favores, curas e proteção atribuídos à sua intercessão ao longo dos séculos, de estatuto devocional e não automaticamente decretados. A fama de santidade após a morte e os relatos de graças explicam a continuidade do culto; falta auditoria crítica a cada testemunho histórico.",
+      "sepultura": "Sepultado inicialmente no Convento do Carmo, Lisboa. As relíquias sofreram translações; o relicário de prata foi roubado após uma peregrinação de 1961. Em 1996 foram encontrados vestígios no local do túmulo primitivo, com fragmentos ósseos autenticados segundo a biografia oficial vaticana. Fontes portuguesas referem a Igreja do Santo Condestável como local de veneração atual; inventário material completo por atualizar.",
+      "ensinamento": "A santidade cristã pode transformar a relação com o poder em serviço humilde aos pobres.",
+      "referencias_biblicas": "Mt 5,1-12a; Mt 25,31-40; Fl 2,3-8.",
+      "fontes": [
+        "https://mail.liturgia.pt/martirologio/elogio.php?data=2026-11-01",
+        "https://www.vatican.va/news_services/liturgy/saints/2009/ns_lit_doc_20090426_nuno_en.html",
+        "https://www.vatican.va/content/benedict-xvi/it/homilies/2009/documents/hf_ben-xvi_hom_20090426_canonizzazioni.html",
+        "https://www.e-cultura.pt/efemeride/532"
+      ],
+      "revisao_iconografica": "Imagem individual pendente de seleção, verificação de identidade, direitos e testes de carregamento; não usar representações genéricas.",
+      "milagres_detalhados": [
+        {
+          "titulo": "Milagre reconhecido para a canonização",
+          "descricao": "A Santa Sé autorizou a promulgação do decreto de 3 de julho de 2008 relativo a um milagre ocorrido em 2000; sem identificação clínica nesta fonte consultada.",
+          "classificacao": "Reconhecimento canónico documentado; detalhes médicos pendentes",
+          "fonte": "https://www.vatican.va/news_services/liturgy/saints/2009/ns_lit_doc_20090426_nuno_en.html"
+        },
+        {
+          "titulo": "Fama de curas e graças",
+          "descricao": "Relatos de graças junto do culto e das relíquias, sem inventário crítico de casos individuais nesta edição.",
+          "classificacao": "Tradição e testemunhos; não equivalentes a decreto",
+          "fonte": "https://www.vatican.va/news_services/liturgy/saints/2009/ns_lit_doc_20090426_nuno_en.html"
+        }
+      ],
+      "iconografia_candidatos": [
+        {
+          "fonte": "https://commons.wikimedia.org/wiki/File:S%C3%A3o_nun%27alvares_pereira.jpg",
+          "descricao": "Litografia de D. Nuno Álvares Pereira, Charles Legrand, 1841, coleção da Biblioteca Nacional de Portugal.",
+          "licenca_declarada": "Domínio público (PD-self na ficha Commons; obra do século XIX)",
+          "decisao": "Preferida à fotografia de estátua pelo valor histórico e retrato individual. Ficheiro original aberto e inspecionado; apresentação no site e dispositivos ainda não testada."
+        },
+        {
+          "fonte": "https://commons.wikimedia.org/wiki/File:Nuno_Alvares_Pereira.jpg",
+          "descricao": "Fotografia de estátua do Condestável no Mosteiro da Batalha.",
+          "licenca_declarada": "CC BY-SA 4.0",
+          "decisao": "Alternativa rejeitada para imagem principal: representação escultórica fotografada, menos expressiva."
+        }
+      ],
+      "imagem": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/b/b2/S%C3%A3o_nun%27alvares_pereira.jpg",
+        "url_ficheiro_original": "https://upload.wikimedia.org/wikipedia/commons/b/b2/S%C3%A3o_nun%27alvares_pereira.jpg",
+        "fonte": "https://commons.wikimedia.org/wiki/File:S%C3%A3o_nun%27alvares_pereira.jpg",
+        "descricao": "São Nuno de Santa Maria, litografia de Charles Legrand (1841); retrato póstumo, não fotografia em vida.",
+        "autor": "Charles Legrand; digitalização disponibilizada por Semmartins",
+        "data_obra": "1841",
+        "instituicao": "Biblioteca Nacional de Portugal",
+        "tipo": "litografia histórica",
+        "licenca": "Domínio público (declaração PD-self no Commons)",
+        "ligacao_licenca": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "condicoes_atribuicao": "Atribuir Charles Legrand, Biblioteca Nacional de Portugal e Wikimedia Commons; confirmar metadados da obra original.",
+        "dimensoes": "608 × 660",
+        "motivo_escolha": "Representação individual de elevado valor documental e artístico, mais adequada do que fotografia de estátua.",
+        "candidatos_rejeitados": [
+          "Estátua equestre da Batalha: fotografia contemporânea com enquadramento menos adequado."
+        ],
+        "verificada": false,
+        "validacao": "Página Commons, licença e imagem original abertos e examinados; não testada ainda a apresentação em GitHub Pages e em dispositivo móvel."
+      }
+    },
+    {
+      "nome": "São Jerónimo Hermosilla, bispo e mártir do Vietname",
+      "identificacao": "Dominicano espanhol, bispo missionário no Tonquim, decapitado em Hải Dương em 1 de novembro de 1861.",
+      "biografia": "Jerónimo Hermosilla exerceu o ministério missionário num período de perseguição à comunidade católica do Tonquim sob o imperador Tự Đức. Como bispo dominicano, procurou sustentar a vida sacramental e a formação de cristãos locais num ambiente de clandestinidade e repressão. Foi preso e executado em Hải Dương juntamente com o bispo Valentim Bérrio Ochoa e o presbítero Pedro Almató. A sua história pertence ao conjunto dos 117 mártires do Vietname canonizados por São João Paulo II em 19 de junho de 1988. Os detalhes biográficos não presentes nas fontes consultadas ficam por confirmar.",
+      "canonizacao": "Culto antigo reconhecido no Martirológio Romano; não foi identificado processo formal moderno de canonização.",
+      "milagres": "O martírio é o fundamento do reconhecimento eclesial; não se descreve qualquer cura individual como milagre decretado sem consulta ao processo.",
+      "sepultura": "Relíquias e sepultura não confirmadas nesta edição.",
+      "ensinamento": "A fidelidade da comunidade cristã em situação de perseguição.",
+      "referencias_biblicas": "Ap 7,13-17; Jo 15,18-21.",
+      "fontes": [
+        "https://mail.liturgia.pt/martirologio/elogio.php?data=2026-11-01",
+        "https://nominis.cef.fr/contenus/saint/29/Saint-J%C3%A9r%C3%B4me--Valentin-et-Pierre.html"
+      ],
+      "revisao_iconografica": "Imagem individual pendente de seleção, verificação de identidade, direitos e testes de carregamento; não usar representações genéricas."
+    },
+    {
+      "nome": "São Valentim Bérrio Ochoa, bispo e mártir do Vietname",
+      "identificacao": "Dominicano basco, nascido em Elorrio em 1827, bispo missionário, morto em Hải Dương em 1861.",
+      "biografia": "Valentim Bérrio Ochoa ingressou na Ordem dos Pregadores depois da formação sacerdotal e partiu para as missões asiáticas. Chegou ao Tonquim num contexto de severa repressão contra os cristãos e assumiu responsabilidades episcopais quando outros missionários já tinham sido mortos. Durante anos deslocou-se entre comunidades escondidas, procurando manter o ministério pastoral. Foi detido e decapitado com Jerónimo Hermosilla e Pedro Almató em 1 de novembro de 1861. Beatificado por Pio X em 1906, integrou a canonização dos mártires do Vietname em 1988. A sua vida recorda também a ação e os sofrimentos dos cristãos vietnamitas, não apenas dos missionários europeus.",
+      "canonizacao": "Culto antigo reconhecido no Martirológio Romano; não foi identificado processo formal moderno de canonização.",
+      "milagres": "O testemunho de martírio foi reconhecido pela Igreja; não foram verificados decretos relativos a curas individuais nesta edição.",
+      "sepultura": "A tradição local situa relíquias em Elorrio, Biscaia; traslado e inventário por confirmar em fonte diocesana.",
+      "ensinamento": "A coragem pastoral e a solidariedade com comunidades perseguidas.",
+      "referencias_biblicas": "Mt 5,10-12; 2 Cor 4,7-12.",
+      "fontes": [
+        "https://mail.liturgia.pt/martirologio/elogio.php?data=2026-11-01",
+        "https://nominis.cef.fr/contenus/saint/29/Saint-J%C3%A9r%C3%B4me--Valentin-et-Pierre.html",
+        "https://www.saintspedia.com/en/saints/saint-valentine-berrio-ochoa/"
+      ],
+      "revisao_iconografica": "Imagem individual pendente de seleção, verificação de identidade, direitos e testes de carregamento; não usar representações genéricas."
+    },
+    {
+      "nome": "São Pedro Almató Ribeira, presbítero e mártir do Vietname",
+      "identificacao": "Presbítero dominicano espanhol, missionário no Tonquim, decapitado em Hải Dương em 1861.",
+      "biografia": "Pedro Almató Ribeira dedicou-se à missão dominicana no Vietname, onde a vida cristã era ameaçada por perseguições e prisões. Partilhou com os bispos Jerónimo Hermosilla e Valentim Bérrio Ochoa o destino de prisão e execução em Hải Dương no dia de Todos os Santos de 1861. A sua canonização ocorreu em 19 de junho de 1988, juntamente com os restantes mártires do Vietname. A ficha mantém-se prudente quanto a datas de nascimento, percursos de formação e episódios particulares não comprovados pelas fontes consultadas.",
+      "canonizacao": "Culto antigo reconhecido no Martirológio Romano; não foi identificado processo formal moderno de canonização.",
+      "milagres": "Martírio reconhecido; não há nesta edição um milagre médico individual comprovado por decreto.",
+      "sepultura": "Sepultura e relíquias carecem de confirmação documental atual.",
+      "ensinamento": "A missão e a fraternidade cristã perante a violência.",
+      "referencias_biblicas": "Rm 8,35-39; Ap 7,9-14.",
+      "fontes": [
+        "https://mail.liturgia.pt/martirologio/elogio.php?data=2026-11-01",
+        "https://nominis.cef.fr/contenus/saint/29/Saint-J%C3%A9r%C3%B4me--Valentin-et-Pierre.html"
+      ],
+      "revisao_iconografica": "Imagem individual pendente de seleção, verificação de identidade, direitos e testes de carregamento; não usar representações genéricas."
+    }
+  ],
+  "beatos": [
+    {
+      "nome": "Beato Rainério de Arezzo (Rainério de Sansepolcro), franciscano",
+      "identificacao": "Irmão leigo franciscano, falecido em Sansepolcro a 1 de novembro de 1304.",
+      "biografia": "Viveu em Sansepolcro, onde serviu a comunidade como porteiro e esmoler, distribuindo ajuda aos necessitados. A diocese local conserva a memória da sua morte enquanto realizava tarefas domésticas no convento. A veneração popular começou imediatamente e a cidade promoveu um altar em sua honra. A memória litúrgica própria local é atualmente a 31 de outubro, para não coincidir com a solenidade de Todos os Santos.",
+      "beatificacao": "Culto confirmado por Pio VII em 1802, segundo a diocese de Arezzo-Cortona-Sansepolcro.",
+      "milagres": "A diocese regista relatos antigos da ressurreição de duas crianças e testemunhos de graças recolhidos em 1304. São tradições hagiográficas e testemunhos antigos, não casos modernos confirmados por decreto de canonização.",
+      "sepultura": "Igreja de São Francisco em Sansepolcro, onde se conserva o altar histórico associado ao beato.",
+      "referencias_biblicas": "Mt 25,34-40; 1 Cor 1,26-29.",
+      "fontes": [
+        "https://mail.liturgia.pt/martirologio/elogio.php?data=2026-11-01",
+        "https://diocesi.arezzo.it/la-diocesi/beati-della-diocesi/ranieri/"
+      ]
+    },
+    {
+      "nome": "Beato Pedro Paulo Navarro, presbítero jesuíta e mártir",
+      "identificacao": "Missionário jesuíta italiano, morto em Shimabara, Japão, em 1 de novembro de 1622.",
+      "biografia": "Atuou nas missões cristãs do Japão durante a perseguição promovida pelo governo Tokugawa. Foi preso com três colaboradores japoneses e condenado à fogueira em Shimabara. A sua memória deve ser narrada juntamente com a dos cristãos locais que assumiram os mesmos riscos e a mesma fidelidade à fé.",
+      "beatificacao": "Incluído entre os mártires do Japão beatificados por Pio IX em 1867.",
+      "milagres": "O reconhecimento é de martírio; não foram identificados milagres individuais decretados.",
+      "sepultura": "Local exato das relíquias não confirmado.",
+      "referencias_biblicas": "Mt 5,10-12; Ap 7,9-14.",
+      "fontes": [
+        "https://mail.liturgia.pt/martirologio/elogio.php?data=2026-11-01",
+        "https://www.santiebeati.it/index.php/dettaglio/75970"
+      ]
+    },
+    {
+      "nome": "Beato Dionísio Fujishima, jesuíta e mártir",
+      "identificacao": "Religioso japonês da Companhia de Jesus, morto em Shimabara em 1622.",
+      "biografia": "Acompanhou a missão cristã clandestina no Japão e partilhou a prisão e execução de Pedro Paulo Navarro, Pedro Onizuka Sandayu e Clemente Kyuemon. O Martirológio identifica-o expressamente entre os religiosos jesuítas. Não se acrescentam episódios pessoais não documentados, preservando a identidade distinta de cada mártir.",
+      "beatificacao": "Beatificado com o grupo dos mártires do Japão por Pio IX em 1867.",
+      "milagres": "Martírio reconhecido; não foi verificado milagre médico individual.",
+      "sepultura": "Sepultura e relíquias não confirmadas.",
+      "referencias_biblicas": "Jo 15,18-21; 2 Tm 1,8-12.",
+      "fontes": [
+        "https://mail.liturgia.pt/martirologio/elogio.php?data=2026-11-01",
+        "https://www.santiebeati.it/index.php/dettaglio/75970"
+      ]
+    },
+    {
+      "nome": "Beato Pedro Onizuka Sandayu, jesuíta e mártir",
+      "identificacao": "Religioso japonês da Companhia de Jesus, executado em Shimabara em 1622.",
+      "biografia": "Partilhou a atividade missionária e a perseguição do grupo de Pedro Paulo Navarro. Foi condenado à fogueira em ódio à fé cristã. A documentação disponível nesta edição não permite descrever com segurança a sua origem familiar, formação ou intervenções particulares; a sua memória permanece individualizada no Martirológio.",
+      "beatificacao": "Beatificado com o grupo dos mártires do Japão por Pio IX em 1867.",
+      "milagres": "Reconhecimento do martírio; não foi identificado milagre individual decretado.",
+      "sepultura": "Sepultura e relíquias não confirmadas.",
+      "referencias_biblicas": "Mt 10,16-22; Ap 12,11.",
+      "fontes": [
+        "https://mail.liturgia.pt/martirologio/elogio.php?data=2026-11-01",
+        "https://www.santiebeati.it/index.php/dettaglio/75970"
+      ]
+    },
+    {
+      "nome": "Beato Clemente Kyuemon, mártir japonês",
+      "identificacao": "Cristão japonês morto em Shimabara a 1 de novembro de 1622.",
+      "biografia": "O Martirológio apresenta Clemente Kyuemon como mártir juntamente com os três membros da Companhia de Jesus. A sua inclusão recorda que a história do cristianismo no Japão foi sustentada também por leigos e colaboradores locais, frequentemente menos documentados do que os missionários. Foi executado na fogueira por fidelidade à fé.",
+      "beatificacao": "Beatificado com os mártires do Japão por Pio IX em 1867.",
+      "milagres": "Martírio reconhecido; nenhum milagre individual verificado.",
+      "sepultura": "Sepultura e relíquias não confirmadas.",
+      "referencias_biblicas": "Mt 5,10-12; 1 Pd 4,12-16.",
+      "fontes": [
+        "https://mail.liturgia.pt/martirologio/elogio.php?data=2026-11-01",
+        "https://www.santiebeati.it/index.php/dettaglio/75970"
+      ]
+    },
+    {
+      "nome": "Beato Ruperto Mayer, presbítero jesuíta",
+      "identificacao": "Jesuíta alemão (1876–1945), defensor dos pobres e opositor do nazismo em Munique.",
+      "biografia": "Depois de servir como capelão militar na Primeira Guerra Mundial, perdeu uma perna em consequência de ferimentos de combate. Dedicou-se aos trabalhadores e pessoas sem recursos em Munique. Denunciou publicamente a perseguição nazi à Igreja e foi detido várias vezes pela Gestapo, tendo passado pelo campo de Sachsenhausen e por confinamento no mosteiro de Ettal. Libertado em 1945, retomou o ministério. Morreu em 1 de novembro de 1945, depois de sofrer um ataque cardíaco durante a celebração da missa na igreja de São Miguel.",
+      "beatificacao": "Beatificado por São João Paulo II em Munique, a 3 de maio de 1987.",
+      "milagres": "Não foi identificado nesta consulta um milagre individual reconhecido para a beatificação; os seus sofrimentos durante a perseguição estão historicamente documentados.",
+      "sepultura": "Igreja de São Miguel, Munique, centro do seu culto; localização exata de relíquias não auditada.",
+      "referencias_biblicas": "Mt 25,35-40; Ef 6,10-18.",
+      "fontes": [
+        "https://mail.liturgia.pt/martirologio/elogio.php?data=2026-11-01",
+        "https://www.jesuits.global/saint-blessed/blessed-rupert-mayer/"
+      ]
+    },
+    {
+      "nome": "Beato Teodoro Jorge Romzsa, bispo e mártir",
+      "identificacao": "Bispo greco-católico de Mukacevo, nascido em 1911, assassinado em 1 de novembro de 1947.",
+      "biografia": "Formado em Roma, foi ordenado sacerdote em 1936 e bispo em 1944. Na Transcarpátia, resistiu às pressões soviéticas para suprimir a Igreja greco-católica e romper a comunhão com Roma. Segundo o Dicastério das Causas dos Santos, sofreu um atentado encenado como acidente rodoviário durante uma visita pastoral; internado no hospital de Mukacevo, foi envenenado por agentes da polícia política em 1 de novembro de 1947. A sua morte foi reconhecida como martírio.",
+      "beatificacao": "Beatificado por São João Paulo II em Lviv, em 27 de junho de 2001.",
+      "milagres": "Martírio reconhecido pela Igreja; não há necessidade de apresentar um milagre clínico como condição da beatificação de mártir.",
+      "sepultura": "As relíquias são associadas à catedral greco-católica da Santa Cruz em Uzhhorod; inventário e transladação por confirmar nesta edição.",
+      "referencias_biblicas": "Jo 15,18-21; Rm 8,35-39.",
+      "fontes": [
+        "https://mail.liturgia.pt/martirologio/elogio.php?data=2026-11-01",
+        "https://www.causesanti.va/it/santi-e-beati/teodor-romza.html"
+      ]
+    }
+  ],
+  "reflexao": "A visão de Apocalipse 7 fala de uma multidão de todas as nações diante do Cordeiro; a primeira carta de São João recorda a dignidade de filhos de Deus; Jesus apresenta nas bem-aventuranças um programa de misericórdia, paz e justiça. O dia reúne o martírio de cristãos no Japão e no Vietname, o serviço dos bispos da antiga Gália e a conversão do poder em caridade vivida por São Nuno. As histórias de vida e os relatos extraordinários são apresentados com graus diferentes de certeza, sem confundir devoção com prova histórica.",
+  "fontes": [
+    "https://mail.liturgia.pt/martirologio/elogio.php?data=2026-11-01",
+    "https://paroquiasaoluis-faro.org/1-de-novembro-de-2026-liturgia-da-solenidade-de-todos-os-santos/",
+    "https://www.vaticannews.va/pt/feriados-liturgicos/solenidade-de-todos-os-santos-.html",
+    "https://www.vatican.va/news_services/liturgy/saints/2009/ns_lit_doc_20090426_nuno_en.html",
+    "https://diocesi.arezzo.it/la-diocesi/beati-della-diocesi/ranieri/",
+    "https://www.causesanti.va/it/santi-e-beati/teodor-romza.html",
+    "https://www.jesuits.global/saint-blessed/blessed-rupert-mayer/"
+  ],
+  "auditoria": {
+    "data": "2026-11-01",
+    "inventario_elogios": 18,
+    "elogios_individuais_ou_coletivos": 17,
+    "santos": 15,
+    "beatos": 7,
+    "imagens_verificadas": 0,
+    "imagens_pendentes": 15,
+    "estado": "revisao",
+    "fontes": "Martirológio do Secretariado Nacional de Liturgia consultado diretamente; liturgia da solenidade conferida em paróquia portuguesa e Vatican News; fontes adicionais por santo registadas nas fichas.",
+    "pendencias": [
+      "Instruções editoriais integrais v2.0 indisponíveis no repositório; INSTRUCOES.md v2.1 remete para documento externo.",
+      "Pesquisa comparativa de 5–10 imagens por cada santo ainda não concluída. A litografia de São Nuno tem identidade, proveniência e licença examinadas, mas falta validação no portal.",
+      "Biografias de santos antigos com documentação escassa permanecem limitadas ao que é verificável; aprofundamento em fontes primárias e dioceses por concluir.",
+      "Confrontar em fontes portuguesas a divergência entre 1 de abril e 1 de novembro de 1431 para a morte de São Nuno, sem alterar a data da memória própria.",
+      "Testar URL pública após publicação, carregamento efetivo de imagens e responsividade em computador e telemóvel.",
+      "Auditar calendários diocesanos e próprios adicionais, para além do Martirológio português."
+    ],
+    "nota": "A criação do ficheiro no GitHub não prova que o GitHub Pages o esteja a servir; sem teste público, o estado mantém-se em revisão."
+  }
+}
