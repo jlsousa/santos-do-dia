@@ -1,0 +1,260 @@
+{
+  "data": "2026-10-31",
+  "estado": "EM REVISÃO — edição parcial. Inventário dos 11 elogios do Martirológio português (7 santos e 4 beatos) conferido em 31/10/2026. Sete fichas principais redigidas, mas nenhuma imagem individual marcada como validada: candidatos documentados, sem teste técnico completo do ficheiro e apresentação no site. Não comprovada a disponibilidade da página no GitHub Pages, nem os testes em dispositivos móveis. A versão integral das instruções editoriais 2.0 continua indisponível no repositório. Esta edição NÃO está validada.",
+  "liturgia": "Sábado da XXX semana do Tempo Comum (ano par/II), Portugal; cor verde, podendo celebrar-se a memória facultativa de Santa Maria no sábado quando permitido. Leituras da missa do dia: Fl 1,18b-26; Sl 41(42),2-3.5; Lc 14,1.7-11. A solenidade de Todos os Santos é a 1 de novembro; a sua celebração vespertina na véspera não altera a data dos elogios martirológicos.",
+  "introducao": "No último dia de outubro, a Palavra recorda a humildade de Cristo: não procurar o primeiro lugar, mas servir. A santidade do dia percorre a coragem dos mártires, a reforma pastoral de um bispo, o acolhimento de um porteiro jesuíta e a entrega de uma religiosa aos pobres.",
+  "inventario_martirologio": [
+    "Santo Epimáquio de Pelúsio, mártir — Alexandria (c. 250)",
+    "São Quintino, mártir — Vermand/Saint-Quentin (séc. III)",
+    "São Felano (Foillan), presbítero e abade — Fosses (c. 655)",
+    "Santo Antonino, bispo — Milão (c. 661 no Martirológio)",
+    "São Volfgango (Wolfgang), bispo — Ratisbona (994)",
+    "Beato Cristóvão de Romanha, franciscano — Cahors (1272)",
+    "Beato Tomás de Florença Belláci, franciscano — Rieti (1447)",
+    "Beato Domingos Collins, jesuíta e mártir — Youghal (1602)",
+    "Santo Afonso Rodríguez, irmão jesuíta — Palma de Maiorca (1617)",
+    "Beato Leão Nowakowski, presbítero e mártir — Piotrków Kujawski (1939)",
+    "Santa Maria da Imaculada Conceição (Maria Isabel Salvat y Romero), fundadora/superiora religiosa — Sevilha (1998)"
+  ],
+  "santos": [
+    {
+      "nome": "Santo Epimáquio de Pelúsio, mártir",
+      "identificacao": "Mártir egípcio associado a Pelúsio, recordado em Alexandria; morte situada pelo Martirológio por volta de 250, sob Décio.",
+      "biografia": "O elogio litúrgico apresenta Epimáquio como cristão que resistiu à imposição do culto aos deuses romanos em Alexandria. Segundo a tradição, ao ver o prefeito obrigar outros fiéis a sacrificar, tentou derrubar o altar; foi preso, torturado e decapitado. A fórmula «segundo a tradição» é essencial: não possuímos uma ata judicial contemporânea que permita confirmar os diálogos ou a sequência dos tormentos. As tradições coptas e gregas preservam narrativas divergentes e há outros mártires homónimos, pelo que não se deve confundir este santo com Epimáquio venerado em Roma juntamente com Gordiano. O testemunho conservado é o de resistência à coerção religiosa.",
+      "canonizacao": "Veneração martirial antiga, anterior aos procedimentos modernos; sem decreto de canonização identificável.",
+      "milagres": "Tradições orientais relatam curas e conversões associadas ao martírio e às relíquias, mas não foram confirmados milagres individuais por documentação contemporânea ou decreto canónico. Não os apresentar como factos clínicos.",
+      "sepultura": "A tradição oriental liga a trasladação dos restos a Pelúsio e a Constantinopla; localização e autenticidade atuais não confirmadas.",
+      "ensinamento": "A liberdade de consciência e a fidelidade à fé, sem transformar episódios lendários em história demonstrada.",
+      "referencias_biblicas": "Mt 10,28-33; Ap 12,11 (meditação, não prova biográfica).",
+      "fontes": [
+        "https://mail.liturgia.pt/martirologio/elogio.php?data=2026-10-31",
+        "https://calendariodesantos.com/santoral/octubre/31/san-epimaco-de-pelusio"
+      ],
+      "revisao_iconografica": "Sem representação individual identificada, legalmente autorizada e tecnicamente testada; não usar imagens de outros Epimáquios."
+    },
+    {
+      "nome": "São Quintino, mártir",
+      "identificacao": "Mártir da região de Vermand, na Gália Bélgica, atual Saint-Quentin (França); tradição situa-o no século III e na perseguição do imperador Maximiano.",
+      "biografia": "A cidade de Saint-Quentin tomou o nome deste mártir, cuja veneração se tornou especialmente importante na Picardia. O Martirológio refere a sua origem de ordem senatorial e a morte pela fé; outros relatos posteriores acrescentam a sua missão evangelizadora, o encarceramento e pormenores do suplício. Não existem elementos contemporâneos suficientes para confirmar cada detalhe dessas paixões medievais. O desenvolvimento de igrejas e de uma grande basílica sobre o centro do seu culto documenta a permanência da sua memória. A sua história deve ser distinguida da do santo homónimo venerado em outros lugares.",
+      "canonizacao": "Culto martirial anterior aos processos formais modernos de canonização.",
+      "milagres": "Relatos tardios de descobertas providenciais do corpo e de favores atribuídos à sua intercessão pertencem à tradição devocional; nenhum episódio foi aqui confirmado como milagre por decreto.",
+      "sepultura": "O seu culto e as relíquias são historicamente associados à basílica de Saint-Quentin, em França; o inventário e a autenticidade material de cada relíquia não foram revalidados.",
+      "ensinamento": "A memória da coragem pode atravessar séculos mesmo quando a documentação biográfica é escassa.",
+      "referencias_biblicas": "2 Tm 1,6-12; Jo 15,18-21.",
+      "fontes": [
+        "https://mail.liturgia.pt/martirologio/elogio.php?data=2026-10-31",
+        "https://www.newadvent.org/cathen/14130c.htm",
+        "https://commons.wikimedia.org/wiki/File:Quentin_martyrdom.jpg"
+      ],
+      "iconografia_candidatos": [
+        {
+          "fonte": "https://commons.wikimedia.org/wiki/File:Quentin_martyrdom.jpg",
+          "descricao": "Martírio de São Quintino, iluminura parisiense do século XIV, manuscrito Français 185, fol. 266.",
+          "licenca_declarada": "Domínio público segundo a ficha Commons",
+          "decisao": "Candidato histórico promissor; imagem principal pendente de abertura do ficheiro original, verificação visual e teste no site."
+        },
+        {
+          "fonte": "https://commons.wikimedia.org/wiki/File:Pieter_Jozef_Verhaghen_-_The_martyrdom_of_Saint_Quentin.jpg",
+          "descricao": "Pintura de Pieter Jozef Verhaghen sobre o martírio de Quintino.",
+          "decisao": "Alternativa histórica; confirmar origem e direitos da reprodução."
+        }
+      ],
+      "revisao_iconografica": "Duas obras identificadas, nenhuma tecnicamente validada."
+    },
+    {
+      "nome": "São Felano de Fosses (São Foillan), presbítero e abade",
+      "identificacao": "Monge missionário irlandês do século VII, irmão de São Furseu; fundador e abade associado a Fosses, na atual Bélgica; assassinado por salteadores por volta de 655.",
+      "biografia": "Felano, também conhecido por Foillan ou Feuillen, participou no movimento monástico irlandês que levou a vida religiosa à Inglaterra anglo-saxónica e à Gália. A tradição associa-o ao mosteiro de Cnobheresburg, na Ânglia Oriental, e depois à região de Nivelles, onde foi acolhido por Santa Gertrudes. A partir desse ambiente estabeleceu a comunidade de Fosses. O Martirológio liga-lhe fundações em Fosses e Nivelles; a história institucional de Nivelles envolve igualmente a iniciativa de Santa Gertrudes, pelo que as atribuições fundacionais exigem distinção. No percurso entre as comunidades, Felano e companheiros foram mortos por assaltantes. O seu culto perdura na região belga, onde a memória monástica e as procissões locais mantêm viva a tradição.",
+      "canonizacao": "Culto antigo de santo abade, sem processo moderno de canonização.",
+      "milagres": "Os relatos medievais sobre a descoberta dos corpos após o assassínio são tradição hagiográfica; não foi identificado decreto canónico de milagre.",
+      "sepultura": "A igreja colegiada de Saint-Feuillen, em Fosses-la-Ville, é centro tradicional do culto e da conservação de relíquias atribuídas ao santo; não foi realizada auditoria material às relíquias.",
+      "ensinamento": "A fidelidade à missão e o acolhimento entre comunidades de diferentes terras.",
+      "referencias_biblicas": "Hb 13,1-3; Mt 25,34-40.",
+      "fontes": [
+        "https://mail.liturgia.pt/martirologio/elogio.php?data=2026-10-31",
+        "https://www.saintspedia.com/en/saints/saint-foillan-of-fosses/",
+        "https://commons.wikimedia.org/wiki/File:Fosses-la-ville_JPG00.jpg"
+      ],
+      "revisao_iconografica": "A fotografia da colegiada de Fosses documenta o local de culto, mas NÃO é retrato do santo; não a usar como imagem principal."
+    },
+    {
+      "nome": "Santo Antonino de Milão, bispo",
+      "identificacao": "Bispo de Milão na Lombardia no século VII, associado à superação do arianismo entre os Lombardos; o Martirológio indica morte cerca de 661.",
+      "biografia": "Antonino pertence à fase em que a Igreja milanesa recuperava a sua presença na cidade após décadas de instabilidade ligadas à conquista lombarda. O elogio litúrgico destaca a sua ação contra a doutrina ariana e a defesa da fé professada no Concílio de Niceia. As listas episcopais e biografias secundárias apresentam cronologias divergentes: algumas situam o episcopado entre 669 e 671, enquanto o Martirológio português regista a morte cerca de 661. Esta discrepância não foi resolvida e impede a afirmação de datas exatas. A documentação disponível não permite reconstituir sermões, escritos ou ações pastorais específicas; a memória principal é a da continuidade da sede ambrosiana e da sua defesa da fé católica.",
+      "canonizacao": "Culto episcopal antigo, sem processo de canonização moderno documentado.",
+      "milagres": "Não foram identificados milagres pessoais com relatos específicos sustentados por fontes primárias.",
+      "sepultura": "Há referências secundárias à conservação de restos na igreja de São Simplício, em Milão, mas a localização e a trasladação necessitam de confirmação em fonte diocesana.",
+      "ensinamento": "A defesa da unidade e da integridade da fé deve ser acompanhada de rigor histórico.",
+      "referencias_biblicas": "Ef 4,1-6; 2 Tm 4,1-5.",
+      "fontes": [
+        "https://mail.liturgia.pt/martirologio/elogio.php?data=2026-10-31",
+        "https://fr.wikipedia.org/wiki/Antonin_de_Milan",
+        "https://www.saintspedia.com/en/saints/saint-antoninus-of-milan/"
+      ],
+      "revisao_iconografica": "Sem retrato individual seguro e legalmente reutilizável; não confundir com outros Antoninos."
+    },
+    {
+      "nome": "São Volfgango de Ratisbona (São Wolfgang), bispo",
+      "identificacao": "Bispo de Ratisbona (Regensburg), na Baviera, de 972 a 994; morreu em Pupping, Áustria, em 31 de outubro de 994.",
+      "biografia": "Educado no ambiente das escolas monásticas de Reichenau e Würzburg, Volfgango ensinou em Tréveris antes de abraçar a vida beneditina em Einsiedeln. Foi ordenado presbítero em 968 e desenvolveu trabalho missionário entre os magiares, antes de ser chamado ao episcopado de Ratisbona em 972. A sua governação foi marcada pela reforma do clero, pela renovação da abadia de Santo Emerano e pela promoção de comunidades religiosas femininas. Apoiou a reorganização territorial que permitiu a formação da diocese de Praga, aceitando uma redução da própria jurisdição. Morreu em Pupping durante uma viagem pastoral. O culto desenvolveu-se intensamente nos países de língua alemã e influenciou a arte sacra medieval, nomeadamente o retábulo de Michael Pacher em St. Wolfgang.",
+      "canonizacao": "O culto foi solenemente confirmado em 1052, associado à elevação das relíquias sob o pontificado de Leão IX; não equiparar mecanicamente o rito medieval a um processo canónico contemporâneo.",
+      "milagres": "Fontes hagiográficas relatam curas junto do túmulo e lendas do machado lançado para indicar o local de uma capela e da ajuda de um demónio na construção. São tradições devocionais, não milagres sujeitos a decreto moderno; a cronologia e autenticidade de cada relato carecem de crítica histórica.",
+      "sepultura": "Sepultado na cripta de Santo Emerano, em Ratisbona; a cripta de São Volfgango conserva o centro do seu culto.",
+      "ensinamento": "A reforma pastoral, a educação e a generosidade de renunciar ao poder institucional em favor da missão.",
+      "referencias_biblicas": "1 Pd 5,1-4; Fl 2,3-8.",
+      "fontes": [
+        "https://mail.liturgia.pt/martirologio/elogio.php?data=2026-10-31",
+        "https://www.catholic.com/encyclopedia/wolfgang-saint",
+        "https://www.heiligenlexikon.de/BiographienW/Wolfgang.html",
+        "https://commons.wikimedia.org/wiki/File:Saint_Wolfgang_and_the_Devil.jpg"
+      ],
+      "iconografia_candidatos": [
+        {
+          "fonte": "https://commons.wikimedia.org/wiki/File:Saint_Wolfgang_and_the_Devil.jpg",
+          "descricao": "São Volfgango e o demónio, pintura de Michael Pacher, século XV.",
+          "licenca_declarada": "Domínio público (reprodução de obra bidimensional antiga), conforme Commons",
+          "decisao": "Candidato preferido pela ligação direta ao santo e valor artístico; falta teste do ficheiro real e da página."
+        },
+        {
+          "fonte": "https://commons.wikimedia.org/wiki/File:Tyrolean_16th_Century_-_Saint_Wolfgang_-_1972.73.2_-_National_Gallery_of_Art.jpg",
+          "descricao": "São Volfgango, obra tirolesa do século XVI, National Gallery of Art.",
+          "decisao": "Alternativa histórica para avaliação de composição e licença."
+        }
+      ],
+      "revisao_iconografica": "Duas obras específicas identificadas, sem validação técnica completa."
+    },
+    {
+      "nome": "Santo Afonso Rodríguez, irmão jesuíta",
+      "identificacao": "Religioso leigo da Companhia de Jesus, nascido em Segóvia em 1532 ou 1533, falecido em Palma de Maiorca em 31 de outubro de 1617.",
+      "biografia": "Filho de uma família dedicada ao comércio de tecidos, Afonso conheceu cedo os jesuítas, incluindo o padre Pedro Fabro. Assumiu responsabilidades no negócio familiar, casou e foi pai. A morte da esposa e dos filhos e as dificuldades económicas marcaram profundamente a sua vida. Entrou na Companhia de Jesus como irmão leigo em 1571 e passou grande parte das décadas seguintes como porteiro do colégio de Montesión, em Maiorca. A sua santidade foi reconhecida no acolhimento quotidiano, na oração e no aconselhamento espiritual. Entre aqueles que influenciou esteve São Pedro Claver, futuro missionário entre os africanos escravizados em Cartagena das Índias. Deixou escritos espirituais, redigidos por obediência aos superiores. É distinto do jesuíta homónimo autor de um conhecido manual de perfeição cristã.",
+      "canonizacao": "Beatificado por Leão XII em 1825; canonizado por Leão XIII em 15 de janeiro de 1888.",
+      "milagres": "As suas biografias referem experiências místicas, visões e graças atribuídas à sua intercessão. Essas narrativas devem ser distinguidas de milagres aprovados em processos; nesta edição não foi localizado o decreto e a documentação de um caso individual.",
+      "sepultura": "A igreja do antigo colégio de Montesión, em Palma de Maiorca, conserva o centro do culto e o túmulo associado ao santo; condições de acesso não verificadas.",
+      "ensinamento": "Reconhecer Cristo em quem chega à porta e fazer do serviço discreto um caminho de santidade.",
+      "referencias_biblicas": "Mt 25,35-40; Lc 14,7-11.",
+      "fontes": [
+        "https://mail.liturgia.pt/martirologio/elogio.php?data=2026-10-31",
+        "https://www.jesuit.org.sg/oct-alphonsus-rodriguez-sj/",
+        "https://www.vaticannews.va/pt/santo-do-dia/10/31.html",
+        "https://commons.wikimedia.org/wiki/File:Francisco_de_Zurbar%C3%A1n_-_Visi%C3%B3n_del_Beato_Alonso_Rodr%C3%ADguez_-_Google_Art_Project.jpg"
+      ],
+      "iconografia_candidatos": [
+        {
+          "fonte": "https://commons.wikimedia.org/wiki/File:Francisco_de_Zurbar%C3%A1n_-_Visi%C3%B3n_del_Beato_Alonso_Rodr%C3%ADguez_-_Google_Art_Project.jpg",
+          "descricao": "A Visão de Santo Afonso Rodríguez, Francisco de Zurbarán, 1630; Real Academia de Bellas Artes de San Fernando, Madrid.",
+          "licenca_declarada": "Domínio público, ficha Commons com reprodução Google Art Project",
+          "dimensoes_declaradas": "2008 × 3281",
+          "decisao": "Candidato prioritário pela identificação inequívoca, valor artístico e resolução; falta abrir e testar o ficheiro final."
+        },
+        {
+          "fonte": "https://commons.wikimedia.org/wiki/File:Francisco_de_Zurbar%C3%A1n_069.jpg",
+          "descricao": "Reprodução alternativa da mesma pintura de Zurbarán.",
+          "decisao": "Alternativa com resolução inferior e regime de atribuição diferente; preferir original Google Art Project após teste."
+        }
+      ],
+      "revisao_iconografica": "Pintura do santo identificada e com direitos descritos; sem validação do carregamento real."
+    },
+    {
+      "nome": "Santa Maria da Imaculada Conceição (Maria Isabel Salvat y Romero)",
+      "identificacao": "Religiosa espanhola, nascida em Madrid em 20 de fevereiro de 1926 e falecida em Sevilha em 31 de outubro de 1998; superiora-geral da Companhia da Cruz.",
+      "biografia": "Maria Isabel Salvat Romero recebeu educação cristã em Madrid e, segundo a biografia oficial preparada para a canonização, a família refugiou-se temporariamente em Portugal durante a Guerra Civil de Espanha, regressando depois a Madrid. Ingressou em 1944 na Companhia da Cruz, congregação fundada por Santa Ângela da Cruz para cuidar de doentes e pobres, e recebeu o nome religioso de Maria da Imaculada Conceição da Cruz. Desempenhou funções de formação e governo, sendo repetidamente eleita superiora-geral. Durante as mudanças e dificuldades posteriores ao Concílio Vaticano II, procurou manter a vida de oração e o serviço concreto às famílias necessitadas. Enfrentou doença oncológica nos últimos anos e morreu na casa-mãe em Sevilha. A sua ligação biográfica a Portugal é real, mas não a torna santa portuguesa.",
+      "canonizacao": "Beatificada em Sevilha em 18 de setembro de 2010; canonizada pelo Papa Francisco em 18 de outubro de 2015. O Martirológio recorda-a em 31 de outubro, data da morte; a celebração própria da congregação foi transferida para 18 de setembro.",
+      "milagres": "O processo de canonização incluiu reconhecimento eclesiástico de milagres atribuídos à sua intercessão. O caso médico individual e o decreto específico não foram consultados nesta edição, pelo que não se apresenta uma cura concreta como documentalmente verificada.",
+      "sepultura": "Falecida na casa-mãe da Companhia da Cruz, em Sevilha; fontes secundárias situam ali a veneração das suas relíquias, mas a identificação precisa e o acesso requerem confirmação junto da congregação.",
+      "ensinamento": "A caridade perseverante, a formação das religiosas e o serviço aos mais frágeis.",
+      "referencias_biblicas": "Mt 25,31-46; 1 Jo 3,16-18.",
+      "fontes": [
+        "https://mail.liturgia.pt/martirologio/elogio.php?data=2026-10-31",
+        "https://www.vatican.va/news_services/liturgy/libretti/2015/20151018-libretto-canonizzazione.pdf",
+        "https://www.sancteo.org/en/saints/5116-maria-de-la-purisima-salvat-romero"
+      ],
+      "ligacao_portugal": "A biografia oficial da canonização menciona a permanência da família em Portugal durante a Guerra Civil de Espanha; não confundir com origem portuguesa.",
+      "revisao_iconografica": "Fotografias contemporâneas existem, mas nenhuma foi selecionada por ausência de autorização de reprodução e teste de direitos; não reutilizar automaticamente imagem promocional."
+    }
+  ],
+  "beatos": [
+    {
+      "nome": "Beato Cristóvão de Romanha, presbítero franciscano",
+      "identificacao": "Franciscano de origem romanhola, associado à expansão da Ordem dos Menores em Cahors, Aquitânia; morreu em 1272.",
+      "biografia": "A tradição franciscana descreve-o como sacerdote secular que entrou na jovem Ordem dos Menores ainda durante a vida de São Francisco de Assis. Foi enviado para a Aquitânia, onde desenvolveu missão pastoral, cuidou de pessoas marginalizadas e contribuiu para fundações franciscanas, sobretudo em Cahors. Um relato antigo de Frei Bernardo de Bessa, transmitido na literatura franciscana, sublinha a sua austeridade, a compaixão e a oração. A idade centenária é uma tradição preservada no Martirológio, não um dado civil comprovado. A existência de um culto contínuo foi discutida por historiadores; o reconhecimento eclesial foi confirmado no início do século XX.",
+      "beatificacao": "Culto aprovado ou confirmado por São Pio X em 1905, segundo fontes hagiográficas franciscanas; modalidade jurídica e decreto original não consultados.",
+      "milagres": "A antiga narrativa franciscana menciona uma vela que se teria acendido durante a missa e uma pomba vista junto dele, bem como uma aparição mariana. Classificação: relatos hagiográficos antigos, não milagres modernos reconhecidos por decreto. Atribuição textual deve ser cotejada com a edição crítica.",
+      "sepultura": "Tradição de sepultura no convento franciscano de Cahors; fontes secundárias referem perda das relíquias num incêndio em 1580.",
+      "referencias_biblicas": "Mt 5,1-12; 2 Cor 4,7-12.",
+      "fontes": [
+        "https://mail.liturgia.pt/martirologio/elogio.php?data=2026-10-31",
+        "https://nominis.cef.fr/contenus/saint/8808/Saint-Christophe-de-Romagnola.html",
+        "https://franciscanstudies.com/wp-content/uploads/2018/10/chronica_final.pdf",
+        "https://www.santiebeati.it/dettaglio/92973"
+      ]
+    },
+    {
+      "nome": "Beato Tomás de Florença Belláci, religioso franciscano",
+      "identificacao": "Religioso franciscano italiano, nascido em Florença por volta de 1370 e falecido em Rieti em 31 de outubro de 1447.",
+      "biografia": "Tomás Belláci, conhecido como Tommaso Bellacci, teve uma juventude ligada a ofícios manuais e abraçou posteriormente a penitência franciscana. Tornou-se frade leigo e participou na renovação observante da Ordem dos Menores. Exerceu tarefas de formação e missão, percorrendo regiões italianas e acompanhando expedições religiosas ao Oriente. A tradição e o Martirológio recordam a sua passagem pela Terra Santa e pela Etiópia, bem como situações de cativeiro e maus-tratos. Importa não o apresentar como sacerdote: o Martirológio português identifica-o expressamente como religioso. A sua memória é particularmente cultivada na família franciscana.",
+      "beatificacao": "Beatificação ou confirmação do culto atribuída ao Papa Clemente XIV em 1771; decreto original não consultado.",
+      "milagres": "São narradas graças e favores em hagiografias posteriores; não foi identificado milagre específico com decreto e documentação verificável.",
+      "sepultura": "Tradição de sepultura e veneração na região de Rieti; algumas fontes referem o santuário de Fonte Colombo, mas a trasladação exata carece de validação documental.",
+      "referencias_biblicas": "2 Cor 11,23-28; Mt 10,16-22.",
+      "fontes": [
+        "https://mail.liturgia.pt/martirologio/elogio.php?data=2026-10-31",
+        "https://nominis.cef.fr/contenus/saint/8833/Saint-Thomas-de-Florence.html",
+        "https://www.santiebeati.it/dettaglio/90089"
+      ]
+    },
+    {
+      "nome": "Beato Domingos Collins, religioso jesuíta e mártir",
+      "identificacao": "Irlandês de Youghal, nascido cerca de 1566, executado em 31 de outubro de 1602.",
+      "biografia": "Domingos Collins começou a vida adulta como soldado na Europa continental, servindo em França antes de procurar a vida religiosa. Entrou na Companhia de Jesus como irmão, não como sacerdote. Regressou à Irlanda num contexto de guerra e de forte conflito entre a Coroa inglesa e grupos católicos irlandeses. Durante o cerco de Dunboy, acompanhou os feridos sem participar no combate, segundo a biografia da própria Companhia de Jesus. Preso em junho de 1602, foi interrogado e pressionado a abandonar a fé católica. Recusou renunciar à sua profissão religiosa e foi enforcado em Youghal. A memória do martírio exige distinguir o testemunho religioso das interpretações políticas da guerra.",
+      "beatificacao": "Beatificado por São João Paulo II em 27 de setembro de 1992 com outros mártires irlandeses, segundo a tradição documental jesuíta; data do decreto individual não revista nesta edição.",
+      "milagres": "Não se exige milagre para o reconhecimento de martírio na beatificação; não foram encontrados relatos individuais de milagres comprovados.",
+      "sepultura": "Local da execução em Youghal; destino dos restos mortais não confirmado.",
+      "referencias_biblicas": "Mt 10,32-39; Rm 8,35-39.",
+      "fontes": [
+        "https://mail.liturgia.pt/martirologio/elogio.php?data=2026-10-31",
+        "https://www.jesuits.global/saint-blessed/blessed-dominic-collins/"
+      ]
+    },
+    {
+      "nome": "Beato Leão Nowakowski, presbítero e mártir",
+      "identificacao": "Padre diocesano polaco, nascido em Bytoń em 28 de junho de 1913, morto em Piotrków Kujawski em 31 de outubro de 1939.",
+      "biografia": "Leão Nowakowski servia como sacerdote na Polónia quando a invasão alemã de setembro de 1939 desencadeou perseguições contra parte do clero e das elites polacas. Foi preso no contexto da ocupação nazi e fuzilado em Piotrków Kujawski, segundo o Martirológio e fontes hagiográficas. A sua memória integra a dos 108 mártires polacos da Segunda Guerra Mundial, beatificados conjuntamente. A cronologia exata da detenção varia entre fontes secundárias e deve ser verificada antes de se afirmar um dia concreto. O testemunho do sacerdote é recordado pela permanência junto dos fiéis em condições de violência e repressão.",
+      "beatificacao": "Beatificado por São João Paulo II em Varsóvia em 13 de junho de 1999, entre os 108 mártires polacos.",
+      "milagres": "O reconhecimento canónico do martírio não depende de um milagre individual para a beatificação; não foi documentada cura específica atribuída à sua intercessão.",
+      "sepultura": "Local da morte identificado em Piotrków Kujawski; sepultura e relíquias não verificadas.",
+      "referencias_biblicas": "Jo 15,18-21; 2 Tm 4,6-8.",
+      "fontes": [
+        "https://mail.liturgia.pt/martirologio/elogio.php?data=2026-10-31",
+        "https://nominis.cef.fr/contenus/saint/10559/Bienheureux-L%C3%A9on-Nowakowski.html",
+        "https://www.heiligenlexikon.de/BiographienL/Leo_Nowakowski.html"
+      ]
+    }
+  ],
+  "reflexao": "Na carta aos Filipenses, São Paulo coloca Cristo no centro da vida e da morte. No Evangelho, Jesus recusa a procura dos lugares de honra e ensina a humildade. Santo Afonso Rodríguez viveu esta palavra numa portaria; Santa Maria da Imaculada Conceição, no cuidado aos pobres; os mártires, na fidelidade diante da violência. A santidade não depende da notoriedade, mas da caridade com que se vive a missão recebida.",
+  "fontes": [
+    "https://mail.liturgia.pt/martirologio/elogio.php?data=2026-10-31",
+    "https://www.paroquias.org/liturgia/2026-10-31",
+    "https://www.vaticannews.va/pt/santo-do-dia/10/31.html",
+    "https://www.vatican.va/news_services/liturgy/libretti/2015/20151018-libretto-canonizzazione.pdf",
+    "https://www.jesuits.global/saint-blessed/blessed-dominic-collins/",
+    "https://www.catholic.com/encyclopedia/wolfgang-saint"
+  ],
+  "auditoria": {
+    "data": "2026-10-31",
+    "inventario_elogios": 11,
+    "santos": 7,
+    "beatos": 4,
+    "imagens_verificadas": 0,
+    "imagens_pendentes": 7,
+    "estado": "revisao",
+    "fontes": "Martirológio português consultado; leituras conferidas em Paroquias.org, que identifica o Secretariado Nacional de Liturgia como fonte. Fonte direta liturgia.pt devolveu 403 na consulta web.",
+    "pendencias": [
+      "Versão integral das instruções 2.0 não presente em INSTRUCOES.md v2.1.",
+      "Abrir e verificar tecnicamente ficheiros e direitos das imagens, selecionar imagem principal de cada santo.",
+      "Confirmar os detalhes canónicos e funerários que não têm fonte primária.",
+      "Testar resposta GitHub Pages para esta data e verificar o carregamento das imagens e responsividade em telemóvel/computador.",
+      "Validar exaustividade de eventuais calendários diocesanos e próprios locais adicionais."
+    ],
+    "nota": "A existência do ficheiro no GitHub não comprova a sua distribuição pelo GitHub Pages."
+  }
+}
