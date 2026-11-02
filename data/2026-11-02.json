@@ -1,0 +1,432 @@
+{
+  "data": "2026-11-02",
+  "estado": "EM REVISÃO — edição parcial. Inventário dos 14 elogios do Martirológio português (1 comemoração universal e 13 entradas individuais/coletivas). Identificados nominalmente 18 santos e 3 beatos, além de companheiros mártires não individualizados. Quatro candidatos iconográficos têm identidade, licença e ficheiro original confirmados, mas nenhuma imagem foi aprovada para publicação por falta de testes no portal e em dispositivos. A versão integral das instruções v2.0 continua indisponível. NÃO VALIDADO.",
+  "liturgia": "Segunda-feira, 2 de novembro de 2026 — Comemoração de Todos os Fiéis Defuntos (roxo, podendo usar-se outras cores previstas nas normas). A comemoração tem precedência sobre a segunda-feira da XXXI semana do Tempo Comum. O Lecionário prevê várias escolhas: exemplo português — Job 19,1.23-27a; Sl 26(27); 2 Cor 4,14–5,1; Mt 11,25-30. Outras leituras são legítimas; não existe uma única combinação obrigatória. Os santos abaixo são elogios do Martirológio, não celebrações que substituam a comemoração dos defuntos.",
+  "introducao": "A Igreja reza hoje por todos os fiéis defuntos na esperança da ressurreição. A comemoração é distinta da Solenidade de Todos os Santos, celebrada a 1 de novembro: recorda aqueles por quem a comunidade cristã intercede, sem presumir o estado individual de cada pessoa. A tradição monástica de Cluny, associada a Santo Odilo, contribuiu para a difusão da data de 2 de novembro. O Martirológio recorda também mártires, pastores, eremitas e religiosos de épocas muito diferentes.",
+  "inventario_martirologio": [
+    "1. Comemoração de Todos os Fiéis Defuntos — celebração universal, não santo individual.",
+    "2. São Vitorino, bispo e mártir — Poetóvio (c. 303).",
+    "3. São Justo, mártir — Trieste (c. séc. IV).",
+    "4. Santos Cartério, Estiríaco, Tobias, Eudóxio, Agápio e companheiros — soldados mártires em Sebaste (c. 320); cinco nomes expressos.",
+    "5. Santos Acindino, Pegásio, Aftónio, Elpidíforo, Anempodisto e numerosos companheiros — mártires persas (séc. IV); cinco nomes expressos.",
+    "6. São Donino, bispo — Vienne (c. 538).",
+    "7. São Marciano, eremita — região de Ciro/Calcedónia (fim do séc. IV).",
+    "8. Santo Ambrósio, abade — Agaune (c. 520).",
+    "9. Santa Vinfreda, virgem — Holywell (c. séc. VII).",
+    "10. São Jorge, bispo — Vienne (c. 670).",
+    "11. São Malaquias, bispo — Claraval (1148).",
+    "12. Beata Margarida de Lorena, duquesa e clarissa — Mortagne (1521).",
+    "13. Beato João Bodey, leigo e mártir — Andover (1583).",
+    "14. Beato Pio de São Luís (Luís Campidelli), passionista — Casale (1889)."
+  ],
+  "santos": [
+    {
+      "nome": "São Vitorino de Poetóvio (Ptuj), bispo e mártir",
+      "identificacao": "Bispo da antiga Poetovio, Panónia (atual Ptuj, Eslovénia); martírio situado cerca de 303.",
+      "biografia": "Vitorino foi um dos primeiros exegetas cristãos a escrever em latim. Governou a comunidade de Poetóvio num ambiente romano plurilingue e dedicou-se à interpretação da Sagrada Escritura. O seu Comentário ao Apocalipse é a obra mais conhecida e constitui um testemunho precioso da leitura cristã do fim do século III. São Jerónimo conservou e reviu parte da tradição textual. O pensamento de Vitorino inclui uma interpretação milenarista que deve ser lida no seu contexto, sem a atribuir à doutrina atual da Igreja. A perseguição de Diocleciano é o enquadramento do martírio indicado pelo Martirológio; não dispomos de ata contemporânea da execução.",
+      "canonizacao": "Culto antigo consignado no Martirológio Romano; sem processo moderno de canonização identificado.",
+      "milagres": "Não foi encontrado decreto de milagre individual; não se deve confundir a interpretação bíblica com relatos miraculosos.",
+      "sepultura": "Local de sepultura e autenticidade de relíquias não documentados nas fontes examinadas.",
+      "ensinamento": "Estudar a Escritura com rigor e dar testemunho mesmo em tempo de perseguição.",
+      "referencias_biblicas": "Ap 1,1-8; 2 Tm 3,14-17",
+      "fontes": [
+        "https://mail.liturgia.pt/martirologio/elogio.php?data=2026-11-02",
+        "https://czasopisma.kul.pl/index.php/vp/article/view/12613",
+        "https://christearlychurch.co.uk/text/the-commentary-on-the-apocalypse/"
+      ],
+      "revisao_iconografica": "Candidato identificado, licença confirmada e ficheiro original aberto; publicação pendente de teste no portal e dispositivos. Não marcar verificada=true.",
+      "imagem": {
+        "fonte": "https://commons.wikimedia.org/wiki/File:Victorinus_(cropped).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/2/23/Victorinus_%28cropped%29.jpg",
+        "descricao": "Fresco de São Vitorino na igreja de Nova Cerkev, obra de Jakob Brollo (séc. XIX)",
+        "autor": "Jakob Brollo; fotografia de Urharec",
+        "licenca": "CC BY-SA 3.0",
+        "ligacao_licenca": "https://creativecommons.org/licenses/by-sa/3.0/",
+        "dimensoes": "860 × 1115",
+        "verificada": false,
+        "origem_verificada": true,
+        "data_verificacao": "2026-11-02",
+        "pendente": "Testes de apresentação e pesquisa comparativa alargada"
+      }
+    },
+    {
+      "nome": "São Justo de Trieste, mártir",
+      "identificacao": "Cristão venerado em Trieste, Ístria, morto aproximadamente no final do século III ou início do IV; patrono da cidade.",
+      "biografia": "O culto de Justo está intimamente ligado à cidade de Trieste. A Passio, transmitida em manuscritos medievais, apresenta-o como homem de caridade que recusou sacrificar às divindades romanas e foi condenado a morrer no mar com pesos. A data precisa do martírio é discutida: aparecem 293 e 303 nas tradições, enquanto o Martirológio português indica aproximadamente o século IV. O núcleo seguro é a antiguidade do culto, visível também na catedral de San Giusto. A celebração local pode ocorrer a 3 de novembro por causa da Comemoração dos Fiéis Defuntos.",
+      "canonizacao": "Culto antigo consignado no Martirológio Romano; sem processo moderno de canonização identificado.",
+      "milagres": "A descoberta do corpo e os pormenores do suplício pertencem à tradição da Passio; não foram identificados decretos modernos de milagres.",
+      "sepultura": "A catedral de San Giusto em Trieste guarda a memória cultual e relíquias atribuídas ao mártir; a autenticidade material não foi reexaminada.",
+      "ensinamento": "Fidelidade religiosa sem confundir oposição ao culto imperial com rebelião civil.",
+      "referencias_biblicas": "Mt 5,10-12; Ap 7,9-17",
+      "fontes": [
+        "https://mail.liturgia.pt/martirologio/elogio.php?data=2026-11-02",
+        "https://www.katolsk.no/biografier/historisk/jtrieste"
+      ],
+      "revisao_iconografica": "Candidato identificado, licença confirmada e ficheiro original aberto; publicação pendente de teste no portal e dispositivos. Não marcar verificada=true.",
+      "imagem": {
+        "fonte": "https://commons.wikimedia.org/wiki/File:Triest_Kathedrale_-_St.Justus_Apsis_2.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Triest_Kathedrale_-_St.Justus_Apsis_2.jpg",
+        "descricao": "Mosaico medieval de São Justo na catedral de Trieste (século XIII)",
+        "autor": "Fotografia de Wolfgang Sauber",
+        "licenca": "CC BY-SA 3.0",
+        "ligacao_licenca": "https://creativecommons.org/licenses/by-sa/3.0/",
+        "dimensoes": "1712 × 2560",
+        "verificada": false,
+        "origem_verificada": true,
+        "data_verificacao": "2026-11-02",
+        "pendente": "Testes de apresentação e pesquisa comparativa alargada"
+      }
+    },
+    {
+      "nome": "São Cartério de Sebaste, mártir",
+      "identificacao": "Soldado cristão associado ao grupo de mártires de Sebaste, Arménia romana (atual Sivas), c. 320.",
+      "biografia": "O Martirológio português inclui Cartério entre os soldados cristãos venerados conjuntamente em Sebaste, durante o governo de Licínio. A tradição hagiográfica oriental descreve a recusa de abandonar a fé e uma condenação ao fogo. O Menológio de Basílio II apresenta uma versão ampliada, com nomes adicionais e variantes; não é seguro atribuir a Cartério acontecimentos ou cargos específicos para além do testemunho coletivo. As fontes não fornecem biografia pessoal independente, nascimento, família ou atos próprios. A identidade deve manter-se ligada ao grupo, sem o confundir com outros mártires homónimos.",
+      "canonizacao": "Culto antigo consignado no Martirológio Romano; sem processo moderno de canonização identificado.",
+      "milagres": "A sobrevivência ao fogo e outros sinais aparecem em tradições de martírio, não em documentação judicial contemporânea; não há milagre individual aprovado conhecido.",
+      "sepultura": "Sepultura e relíquias individualizadas não verificadas.",
+      "ensinamento": "A perseverança partilhada dos cristãos perseguidos.",
+      "referencias_biblicas": "Dn 3,16-25; Ap 2,10",
+      "fontes": [
+        "https://mail.liturgia.pt/martirologio/elogio.php?data=2026-11-02",
+        "https://www.santiebeati.it/index.php/dettaglio/93404",
+        "https://tobi.heiligenlexikon.de/ActaSanctorum/2.November.html"
+      ],
+      "revisao_iconografica": "Sem imagem principal integralmente validada. Pesquisa comparativa e testes de apresentação ainda pendentes."
+    },
+    {
+      "nome": "São Estiríaco de Sebaste, mártir",
+      "identificacao": "Soldado cristão associado ao grupo de mártires de Sebaste, Arménia romana (atual Sivas), c. 320.",
+      "biografia": "O Martirológio português inclui Estiríaco entre os soldados cristãos venerados conjuntamente em Sebaste, durante o governo de Licínio. A tradição hagiográfica oriental descreve a recusa de abandonar a fé e uma condenação ao fogo. O Menológio de Basílio II apresenta uma versão ampliada, com nomes adicionais e variantes; não é seguro atribuir a Estiríaco acontecimentos ou cargos específicos para além do testemunho coletivo. As fontes não fornecem biografia pessoal independente, nascimento, família ou atos próprios. A identidade deve manter-se ligada ao grupo, sem o confundir com outros mártires homónimos.",
+      "canonizacao": "Culto antigo consignado no Martirológio Romano; sem processo moderno de canonização identificado.",
+      "milagres": "A sobrevivência ao fogo e outros sinais aparecem em tradições de martírio, não em documentação judicial contemporânea; não há milagre individual aprovado conhecido.",
+      "sepultura": "Sepultura e relíquias individualizadas não verificadas.",
+      "ensinamento": "A perseverança partilhada dos cristãos perseguidos.",
+      "referencias_biblicas": "Dn 3,16-25; Ap 2,10",
+      "fontes": [
+        "https://mail.liturgia.pt/martirologio/elogio.php?data=2026-11-02",
+        "https://www.santiebeati.it/index.php/dettaglio/93404",
+        "https://tobi.heiligenlexikon.de/ActaSanctorum/2.November.html"
+      ],
+      "revisao_iconografica": "Sem imagem principal integralmente validada. Pesquisa comparativa e testes de apresentação ainda pendentes."
+    },
+    {
+      "nome": "São Tobias de Sebaste, mártir",
+      "identificacao": "Soldado cristão associado ao grupo de mártires de Sebaste, Arménia romana (atual Sivas), c. 320.",
+      "biografia": "O Martirológio português inclui Tobias entre os soldados cristãos venerados conjuntamente em Sebaste, durante o governo de Licínio. A tradição hagiográfica oriental descreve a recusa de abandonar a fé e uma condenação ao fogo. O Menológio de Basílio II apresenta uma versão ampliada, com nomes adicionais e variantes; não é seguro atribuir a Tobias acontecimentos ou cargos específicos para além do testemunho coletivo. As fontes não fornecem biografia pessoal independente, nascimento, família ou atos próprios. A identidade deve manter-se ligada ao grupo, sem o confundir com outros mártires homónimos.",
+      "canonizacao": "Culto antigo consignado no Martirológio Romano; sem processo moderno de canonização identificado.",
+      "milagres": "A sobrevivência ao fogo e outros sinais aparecem em tradições de martírio, não em documentação judicial contemporânea; não há milagre individual aprovado conhecido.",
+      "sepultura": "Sepultura e relíquias individualizadas não verificadas.",
+      "ensinamento": "A perseverança partilhada dos cristãos perseguidos.",
+      "referencias_biblicas": "Dn 3,16-25; Ap 2,10",
+      "fontes": [
+        "https://mail.liturgia.pt/martirologio/elogio.php?data=2026-11-02",
+        "https://www.santiebeati.it/index.php/dettaglio/93404",
+        "https://tobi.heiligenlexikon.de/ActaSanctorum/2.November.html"
+      ],
+      "revisao_iconografica": "Sem imagem principal integralmente validada. Pesquisa comparativa e testes de apresentação ainda pendentes."
+    },
+    {
+      "nome": "São Eudóxio de Sebaste, mártir",
+      "identificacao": "Soldado cristão associado ao grupo de mártires de Sebaste, Arménia romana (atual Sivas), c. 320.",
+      "biografia": "O Martirológio português inclui Eudóxio entre os soldados cristãos venerados conjuntamente em Sebaste, durante o governo de Licínio. A tradição hagiográfica oriental descreve a recusa de abandonar a fé e uma condenação ao fogo. O Menológio de Basílio II apresenta uma versão ampliada, com nomes adicionais e variantes; não é seguro atribuir a Eudóxio acontecimentos ou cargos específicos para além do testemunho coletivo. As fontes não fornecem biografia pessoal independente, nascimento, família ou atos próprios. A identidade deve manter-se ligada ao grupo, sem o confundir com outros mártires homónimos.",
+      "canonizacao": "Culto antigo consignado no Martirológio Romano; sem processo moderno de canonização identificado.",
+      "milagres": "A sobrevivência ao fogo e outros sinais aparecem em tradições de martírio, não em documentação judicial contemporânea; não há milagre individual aprovado conhecido.",
+      "sepultura": "Sepultura e relíquias individualizadas não verificadas.",
+      "ensinamento": "A perseverança partilhada dos cristãos perseguidos.",
+      "referencias_biblicas": "Dn 3,16-25; Ap 2,10",
+      "fontes": [
+        "https://mail.liturgia.pt/martirologio/elogio.php?data=2026-11-02",
+        "https://www.santiebeati.it/index.php/dettaglio/93404",
+        "https://tobi.heiligenlexikon.de/ActaSanctorum/2.November.html"
+      ],
+      "revisao_iconografica": "Sem imagem principal integralmente validada. Pesquisa comparativa e testes de apresentação ainda pendentes."
+    },
+    {
+      "nome": "São Agápio de Sebaste, mártir",
+      "identificacao": "Soldado cristão associado ao grupo de mártires de Sebaste, Arménia romana (atual Sivas), c. 320.",
+      "biografia": "O Martirológio português inclui Agápio entre os soldados cristãos venerados conjuntamente em Sebaste, durante o governo de Licínio. A tradição hagiográfica oriental descreve a recusa de abandonar a fé e uma condenação ao fogo. O Menológio de Basílio II apresenta uma versão ampliada, com nomes adicionais e variantes; não é seguro atribuir a Agápio acontecimentos ou cargos específicos para além do testemunho coletivo. As fontes não fornecem biografia pessoal independente, nascimento, família ou atos próprios. A identidade deve manter-se ligada ao grupo, sem o confundir com outros mártires homónimos.",
+      "canonizacao": "Culto antigo consignado no Martirológio Romano; sem processo moderno de canonização identificado.",
+      "milagres": "A sobrevivência ao fogo e outros sinais aparecem em tradições de martírio, não em documentação judicial contemporânea; não há milagre individual aprovado conhecido.",
+      "sepultura": "Sepultura e relíquias individualizadas não verificadas.",
+      "ensinamento": "A perseverança partilhada dos cristãos perseguidos.",
+      "referencias_biblicas": "Dn 3,16-25; Ap 2,10",
+      "fontes": [
+        "https://mail.liturgia.pt/martirologio/elogio.php?data=2026-11-02",
+        "https://www.santiebeati.it/index.php/dettaglio/93404",
+        "https://tobi.heiligenlexikon.de/ActaSanctorum/2.November.html"
+      ],
+      "revisao_iconografica": "Sem imagem principal integralmente validada. Pesquisa comparativa e testes de apresentação ainda pendentes."
+    },
+    {
+      "nome": "São Acindino da Pérsia, mártir",
+      "identificacao": "Mártir do grupo venerado no contexto das perseguições persas sob Sapor II, século IV.",
+      "biografia": "O nome de Acindino integra o elogio coletivo dos mártires persas recordados a 2 de novembro. As tradições orientais descrevem cristãos ligados à corte do rei Sapor II que confessaram publicamente a fé, sofreram interrogatórios e diferentes suplícios. O relato da Igreja Ortodoxa da América associa-lhes milhares de companheiros, mas a cifra não é confirmada pelo texto português do Martirológio. O percurso individual de Acindino não pode ser separado com segurança do conjunto hagiográfico. O enquadramento da perseguição é historicamente plausível, mas os diálogos, os pormenores das torturas e as intervenções extraordinárias não são atas judiciais contemporâneas.",
+      "canonizacao": "Culto antigo consignado no Martirológio Romano; sem processo moderno de canonização identificado.",
+      "milagres": "O episódio de uma tempestade que extingue o fogo e as curas ou conversões narradas são tradições religiosas; não foram encontrados decretos modernos de milagres.",
+      "sepultura": "O local preciso da sepultura e a proveniência de relíquias individuais não foram confirmados.",
+      "ensinamento": "A coragem de professar a fé e a distinção entre história e tradição hagiográfica.",
+      "referencias_biblicas": "Dn 3,16-25; Jo 14,6",
+      "fontes": [
+        "https://mail.liturgia.pt/martirologio/elogio.php?data=2026-11-02",
+        "https://www.oca.org/saints/lives/2008/11/02/103151-martyrs-acindynus-pegasius-aphthonius-elpidephorus-anempodistus"
+      ],
+      "revisao_iconografica": "Sem imagem principal integralmente validada. Pesquisa comparativa e testes de apresentação ainda pendentes."
+    },
+    {
+      "nome": "São Pegásio da Pérsia, mártir",
+      "identificacao": "Mártir do grupo venerado no contexto das perseguições persas sob Sapor II, século IV.",
+      "biografia": "O nome de Pegásio integra o elogio coletivo dos mártires persas recordados a 2 de novembro. As tradições orientais descrevem cristãos ligados à corte do rei Sapor II que confessaram publicamente a fé, sofreram interrogatórios e diferentes suplícios. O relato da Igreja Ortodoxa da América associa-lhes milhares de companheiros, mas a cifra não é confirmada pelo texto português do Martirológio. O percurso individual de Pegásio não pode ser separado com segurança do conjunto hagiográfico. O enquadramento da perseguição é historicamente plausível, mas os diálogos, os pormenores das torturas e as intervenções extraordinárias não são atas judiciais contemporâneas.",
+      "canonizacao": "Culto antigo consignado no Martirológio Romano; sem processo moderno de canonização identificado.",
+      "milagres": "O episódio de uma tempestade que extingue o fogo e as curas ou conversões narradas são tradições religiosas; não foram encontrados decretos modernos de milagres.",
+      "sepultura": "O local preciso da sepultura e a proveniência de relíquias individuais não foram confirmados.",
+      "ensinamento": "A coragem de professar a fé e a distinção entre história e tradição hagiográfica.",
+      "referencias_biblicas": "Dn 3,16-25; Jo 14,6",
+      "fontes": [
+        "https://mail.liturgia.pt/martirologio/elogio.php?data=2026-11-02",
+        "https://www.oca.org/saints/lives/2008/11/02/103151-martyrs-acindynus-pegasius-aphthonius-elpidephorus-anempodistus"
+      ],
+      "revisao_iconografica": "Sem imagem principal integralmente validada. Pesquisa comparativa e testes de apresentação ainda pendentes."
+    },
+    {
+      "nome": "São Aftónio da Pérsia, mártir",
+      "identificacao": "Mártir do grupo venerado no contexto das perseguições persas sob Sapor II, século IV.",
+      "biografia": "O nome de Aftónio integra o elogio coletivo dos mártires persas recordados a 2 de novembro. As tradições orientais descrevem cristãos ligados à corte do rei Sapor II que confessaram publicamente a fé, sofreram interrogatórios e diferentes suplícios. O relato da Igreja Ortodoxa da América associa-lhes milhares de companheiros, mas a cifra não é confirmada pelo texto português do Martirológio. O percurso individual de Aftónio não pode ser separado com segurança do conjunto hagiográfico. O enquadramento da perseguição é historicamente plausível, mas os diálogos, os pormenores das torturas e as intervenções extraordinárias não são atas judiciais contemporâneas.",
+      "canonizacao": "Culto antigo consignado no Martirológio Romano; sem processo moderno de canonização identificado.",
+      "milagres": "O episódio de uma tempestade que extingue o fogo e as curas ou conversões narradas são tradições religiosas; não foram encontrados decretos modernos de milagres.",
+      "sepultura": "O local preciso da sepultura e a proveniência de relíquias individuais não foram confirmados.",
+      "ensinamento": "A coragem de professar a fé e a distinção entre história e tradição hagiográfica.",
+      "referencias_biblicas": "Dn 3,16-25; Jo 14,6",
+      "fontes": [
+        "https://mail.liturgia.pt/martirologio/elogio.php?data=2026-11-02",
+        "https://www.oca.org/saints/lives/2008/11/02/103151-martyrs-acindynus-pegasius-aphthonius-elpidephorus-anempodistus"
+      ],
+      "revisao_iconografica": "Sem imagem principal integralmente validada. Pesquisa comparativa e testes de apresentação ainda pendentes."
+    },
+    {
+      "nome": "São Elpidíforo da Pérsia, mártir",
+      "identificacao": "Mártir do grupo venerado no contexto das perseguições persas sob Sapor II, século IV.",
+      "biografia": "O nome de Elpidíforo integra o elogio coletivo dos mártires persas recordados a 2 de novembro. As tradições orientais descrevem cristãos ligados à corte do rei Sapor II que confessaram publicamente a fé, sofreram interrogatórios e diferentes suplícios. O relato da Igreja Ortodoxa da América associa-lhes milhares de companheiros, mas a cifra não é confirmada pelo texto português do Martirológio. O percurso individual de Elpidíforo não pode ser separado com segurança do conjunto hagiográfico. O enquadramento da perseguição é historicamente plausível, mas os diálogos, os pormenores das torturas e as intervenções extraordinárias não são atas judiciais contemporâneas.",
+      "canonizacao": "Culto antigo consignado no Martirológio Romano; sem processo moderno de canonização identificado.",
+      "milagres": "O episódio de uma tempestade que extingue o fogo e as curas ou conversões narradas são tradições religiosas; não foram encontrados decretos modernos de milagres.",
+      "sepultura": "O local preciso da sepultura e a proveniência de relíquias individuais não foram confirmados.",
+      "ensinamento": "A coragem de professar a fé e a distinção entre história e tradição hagiográfica.",
+      "referencias_biblicas": "Dn 3,16-25; Jo 14,6",
+      "fontes": [
+        "https://mail.liturgia.pt/martirologio/elogio.php?data=2026-11-02",
+        "https://www.oca.org/saints/lives/2008/11/02/103151-martyrs-acindynus-pegasius-aphthonius-elpidephorus-anempodistus"
+      ],
+      "revisao_iconografica": "Sem imagem principal integralmente validada. Pesquisa comparativa e testes de apresentação ainda pendentes."
+    },
+    {
+      "nome": "São Anempodisto da Pérsia, mártir",
+      "identificacao": "Mártir do grupo venerado no contexto das perseguições persas sob Sapor II, século IV.",
+      "biografia": "O nome de Anempodisto integra o elogio coletivo dos mártires persas recordados a 2 de novembro. As tradições orientais descrevem cristãos ligados à corte do rei Sapor II que confessaram publicamente a fé, sofreram interrogatórios e diferentes suplícios. O relato da Igreja Ortodoxa da América associa-lhes milhares de companheiros, mas a cifra não é confirmada pelo texto português do Martirológio. O percurso individual de Anempodisto não pode ser separado com segurança do conjunto hagiográfico. O enquadramento da perseguição é historicamente plausível, mas os diálogos, os pormenores das torturas e as intervenções extraordinárias não são atas judiciais contemporâneas.",
+      "canonizacao": "Culto antigo consignado no Martirológio Romano; sem processo moderno de canonização identificado.",
+      "milagres": "O episódio de uma tempestade que extingue o fogo e as curas ou conversões narradas são tradições religiosas; não foram encontrados decretos modernos de milagres.",
+      "sepultura": "O local preciso da sepultura e a proveniência de relíquias individuais não foram confirmados.",
+      "ensinamento": "A coragem de professar a fé e a distinção entre história e tradição hagiográfica.",
+      "referencias_biblicas": "Dn 3,16-25; Jo 14,6",
+      "fontes": [
+        "https://mail.liturgia.pt/martirologio/elogio.php?data=2026-11-02",
+        "https://www.oca.org/saints/lives/2008/11/02/103151-martyrs-acindynus-pegasius-aphthonius-elpidephorus-anempodistus"
+      ],
+      "revisao_iconografica": "Sem imagem principal integralmente validada. Pesquisa comparativa e testes de apresentação ainda pendentes."
+    },
+    {
+      "nome": "São Donino de Vienne, bispo",
+      "identificacao": "Bispo de Vienne na Gália, entre cerca de 533 e 536/538.",
+      "biografia": "Donino, também chamado Domnin ou Domninus, sucedeu a Juliano na sede episcopal de Vienne. A sua memória associa-se sobretudo ao resgate de cativos e à proteção de pessoas vulneráveis num período de instabilidade política dos reinos da Gália. Um epitáfio antigo, transmitido na tradição episcopal, ajuda a explicar a fama de santidade. A cronologia é aproximada e a sequência dos bispos constitui evidência mais segura do que pormenores devocionais posteriores. O Martirológio português recorda expressamente a obra de libertação dos prisioneiros.",
+      "canonizacao": "Culto antigo consignado no Martirológio Romano; sem processo moderno de canonização identificado.",
+      "milagres": "Nenhum milagre concreto reconhecido por decreto foi identificado; o resgate de cativos é obra de caridade, não milagre.",
+      "sepultura": "Tradição de igreja erguida sobre a sepultura em Vienne; localização e relíquias atuais por verificar.",
+      "ensinamento": "A libertação de prisioneiros como expressão concreta da caridade episcopal.",
+      "referencias_biblicas": "Mt 25,34-40; Is 58,6-10",
+      "fontes": [
+        "https://mail.liturgia.pt/martirologio/elogio.php?data=2026-11-02",
+        "https://www.katolsk.no/biografier/historisk/domvien"
+      ],
+      "revisao_iconografica": "Sem imagem principal integralmente validada. Pesquisa comparativa e testes de apresentação ainda pendentes."
+    },
+    {
+      "nome": "São Marciano de Ciro, eremita",
+      "identificacao": "Asceta originário de Ciro, Síria, retirado no deserto da região da Calcedónia; fim do século IV.",
+      "biografia": "Marciano viveu uma forma austera de eremitismo, numa cela estreita, com alimentação reduzida e longos períodos de oração. O relato preservado na tradição ascética insiste num traço essencial: não considerava o jejum superior à hospitalidade. Ao receber outro eremita, preferiu oferecer-lhe alimento a transformar a própria disciplina em regra imposta ao próximo. A sua figura ilustra a tensão entre ascese e caridade nos primeiros movimentos monásticos do Oriente. Os diálogos transmitidos por autores religiosos são testemunhos edificantes, não transcrições documentais verificáveis.",
+      "canonizacao": "Culto antigo consignado no Martirológio Romano; sem processo moderno de canonização identificado.",
+      "milagres": "Não se conhece milagre aprovado por decreto; os ditos ascéticos e episódios edificantes não devem ser convertidos em prodígios.",
+      "sepultura": "Sepultura e relíquias não confirmadas em fonte primária acessível.",
+      "ensinamento": "A caridade tem precedência sobre austeridades voluntárias.",
+      "referencias_biblicas": "1 Cor 13,1-7; Mt 6,16-18",
+      "fontes": [
+        "https://mail.liturgia.pt/martirologio/elogio.php?data=2026-11-02",
+        "https://anastpaul.com/2025/11/02/saint-of-the-day-2-november-saint-marcian-4th-century-confessor/"
+      ],
+      "revisao_iconografica": "Sem imagem principal integralmente validada. Pesquisa comparativa e testes de apresentação ainda pendentes."
+    },
+    {
+      "nome": "Santo Ambrósio de Agaune, abade",
+      "identificacao": "Abade de Saint-Maurice d'Agaune (Valais), após ter dirigido Île-Barbe, perto de Lião; falecido cerca de 520.",
+      "biografia": "Ambrósio pertence à geração que consolidou a comunidade monástica de Agaune, ligada à memória dos mártires da Legião Tebana. Foi superior da comunidade de Île-Barbe e chamado para Saint-Maurice, onde sucedeu ao primeiro abade Imnemodo, segundo a tradição monástica. O seu governo é associado à laus perennis, louvor contínuo assegurado por grupos alternados de monges. A cronologia de fundação da prática não é totalmente pacífica: já existiam referências à salmodia perpétua no programa da abadia anterior à sua direção. A sua vida ilustra a organização comunitária da oração e não deve ser confundida com a de Santo Ambrósio de Milão.",
+      "canonizacao": "Culto antigo consignado no Martirológio Romano; sem processo moderno de canonização identificado.",
+      "milagres": "Sem decreto moderno de milagre individual conhecido; as narrativas de virtudes provêm da tradição monástica.",
+      "sepultura": "Sepultura tradicional na igreja da abadia de Saint-Maurice; identificação de relíquias atuais não confirmada.",
+      "ensinamento": "A oração comunitária perseverante e a responsabilidade do governo monástico.",
+      "referencias_biblicas": "Sl 134(135),1-3; Cl 3,16-17",
+      "fontes": [
+        "https://mail.liturgia.pt/martirologio/elogio.php?data=2026-11-02",
+        "https://www.santiebeati.it/dettaglio/75990",
+        "https://www.santiebeati.it/index.php/dettaglio/90984"
+      ],
+      "revisao_iconografica": "Sem imagem principal integralmente validada. Pesquisa comparativa e testes de apresentação ainda pendentes."
+    },
+    {
+      "nome": "Santa Vinfreda de Holywell (Gwenffrewi), virgem",
+      "identificacao": "Religiosa galesa do século VII, ligada a Holywell e a Gwytherin.",
+      "biografia": "Vinfreda, ou Winefride/Gwenffrewi, é uma das figuras centrais da tradição cristã do País de Gales. A narrativa medieval conta que, ao resistir à violência de Caradoc, foi decapitada e milagrosamente restituída à vida por São Beuno; a nascente de Holywell teria surgido no local. Essa história deve ser explicitamente apresentada como lenda hagiográfica, não como facto histórico comprovado. A tradição afirma que prosseguiu a vida religiosa em Gwytherin, chegando a superiora da comunidade. A devoção ao poço e as peregrinações são factos historicamente documentados, e o santuário é hoje reconhecido pela Conferência Episcopal de Inglaterra e Gales.",
+      "canonizacao": "Culto antigo consignado no Martirológio Romano; sem processo moderno de canonização identificado.",
+      "milagres": "Ressurreição após decapitação e curas associadas à água: tradição hagiográfica e testemunhos devocionais. Não se identificou decreto canónico contemporâneo de milagre específico.",
+      "sepultura": "A tradição situa a sepultura em Gwytherin e a translação de relíquias para Shrewsbury no século XII; relíquias veneradas em Holywell requerem inventário.",
+      "ensinamento": "Dignidade da mulher, resistência à violência e esperança de cura.",
+      "referencias_biblicas": "Jo 4,13-14; Mt 5,6-10",
+      "fontes": [
+        "https://mail.liturgia.pt/martirologio/elogio.php?data=2026-11-02",
+        "https://www.cbcew.org.uk/home/our-work/pilgrimage/wales-national-shrine-of-st-winefride/",
+        "https://www.shrewsburyabbey.com/st-winefride-pilgrim-trail/",
+        "https://cadw.gov.wales/visit/places-to-visit/st-winefrides-chapel-and-well"
+      ],
+      "revisao_iconografica": "Candidato identificado, licença confirmada e ficheiro original aberto; publicação pendente de teste no portal e dispositivos. Não marcar verificada=true.",
+      "imagem": {
+        "fonte": "https://commons.wikimedia.org/wiki/File:Statue_of_St_Winefride,_19th_century_(cropped).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Statue_of_St_Winefride%2C_19th_century_%28cropped%29.jpg",
+        "descricao": "Estátua de Santa Vinfreda de 1886 no santuário de Holywell",
+        "autor": "Fotografia de Sojourner in the earth",
+        "licenca": "CC BY-SA 4.0",
+        "ligacao_licenca": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "dimensoes": "1787 × 2382",
+        "verificada": false,
+        "origem_verificada": true,
+        "data_verificacao": "2026-11-02",
+        "pendente": "Testes de apresentação e pesquisa comparativa alargada"
+      }
+    },
+    {
+      "nome": "São Jorge de Vienne, bispo",
+      "identificacao": "Bispo de Vienne, Gália, século VII, falecido aproximadamente em 670 segundo o Martirológio.",
+      "biografia": "Jorge é recordado na sucessão episcopal de Vienne durante o período merovíngio. As fontes acessíveis apresentam cronologias divergentes, incluindo propostas mais tardias, e algumas atribuem-lhe passagem anterior pela sede de Agde. Nenhuma dessas hipóteses pode ser tratada como definitivamente demonstrada nesta edição. O elogio português é sucinto e não oferece escritos, fundações ou episódios pessoais verificáveis. Por isso, a ficha preserva a identificação segura, a região e o culto antigo, evitando preencher lacunas com feitos de outros santos chamados Jorge.",
+      "canonizacao": "Culto antigo consignado no Martirológio Romano; sem processo moderno de canonização identificado.",
+      "milagres": "Não foi identificado milagre individual documentado nem decreto.",
+      "sepultura": "Sepultura e relíquias não confirmadas.",
+      "ensinamento": "A memória de um serviço pastoral mesmo quando a documentação biográfica é limitada.",
+      "referencias_biblicas": "1 Pd 5,1-4; Jo 21,15-17",
+      "fontes": [
+        "https://mail.liturgia.pt/martirologio/elogio.php?data=2026-11-02",
+        "https://en.wikipedia.org/wiki/George_of_Vienne"
+      ],
+      "revisao_iconografica": "Sem imagem principal integralmente validada. Pesquisa comparativa e testes de apresentação ainda pendentes."
+    },
+    {
+      "nome": "São Malaquias de Armagh, bispo",
+      "identificacao": "Bispo reformador irlandês, c. 1094–1148, morto em Claraval, França, a 2 de novembro.",
+      "biografia": "Malaquias, nascido na Irlanda e conhecido também como Máel Máedóc Ua Morgair, desempenhou um papel decisivo na renovação da vida eclesial irlandesa do século XII. Ligou-se à reforma monástica e à organização diocesana, foi bispo de Down e Connor e ocupou a sede de Armagh. Durante as viagens a Roma encontrou São Bernardo de Claraval, que escreveu a sua biografia e testemunhou a morte de Malaquias na abadia cisterciense, em 1148. A sua ação esteve ligada à introdução e fortalecimento de formas de vida regular e ao mosteiro de Mellifont. Foi canonizado em 1199 pelo Papa Clemente III. As chamadas 'profecias dos papas', impressas apenas no século XVI, não têm atribuição histórica fiável a Malaquias e não devem ser usadas como ensinamento do santo.",
+      "canonizacao": "Canonizado em 1199 por Clemente III, segundo a tradição historiográfica; culto reconhecido no Martirológio.",
+      "milagres": "São Bernardo relata curas e sinais associados ao santo, incluindo episódios junto da sua morte: testemunho hagiográfico medieval, não decretos modernos individualizados. As profecias papais tardias não são milagres comprovados.",
+      "sepultura": "Morreu e foi sepultado em Claraval; as relíquias foram objeto de veneração e translações, mas o seu paradeiro material atual não foi auditado.",
+      "ensinamento": "Reforma eclesial, unidade e prudência perante atribuições proféticas tardias.",
+      "referencias_biblicas": "Jo 17,20-23; Ef 4,1-6",
+      "fontes": [
+        "https://mail.liturgia.pt/martirologio/elogio.php?data=2026-11-02",
+        "https://www.catholic.com/encyclopedia/malachy-saint",
+        "https://www.history.co.uk/articles/st-malachy-prophecy-of-the-popes"
+      ],
+      "revisao_iconografica": "Candidato identificado, licença confirmada e ficheiro original aberto; publicação pendente de teste no portal e dispositivos. Não marcar verificada=true.",
+      "imagem": {
+        "fonte": "https://commons.wikimedia.org/wiki/File:Armagh_Roman_Catholic_Cathedral_of_St._Patrick_South_Portal_Statue_of_St._Malachy_2013_09_24.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/05/Armagh_Roman_Catholic_Cathedral_of_St._Patrick_South_Portal_Statue_of_St._Malachy_2013_09_24.jpg",
+        "descricao": "Estátua de São Malaquias no portal da catedral católica de Armagh",
+        "autor": "Fotografia de Andreas F. Borchert",
+        "licenca": "CC BY-SA 4.0",
+        "ligacao_licenca": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "dimensoes": "1500 × 2698",
+        "verificada": false,
+        "origem_verificada": true,
+        "data_verificacao": "2026-11-02",
+        "pendente": "Testes de apresentação e pesquisa comparativa alargada"
+      }
+    }
+  ],
+  "beatos": [
+    {
+      "nome": "Beata Margarida de Lorena, duquesa e clarissa",
+      "identificacao": "Nobre francesa (1463–1521), duquesa de Alençon, viúva e religiosa clarissa.",
+      "biografia": "Margarida casou com Renato de Alençon e, após a viuvez, assumiu responsabilidades de governo e de educação dos filhos. A tradição biográfica salienta a atenção aos pobres, viúvas e órfãos. Só depois de assegurar a estabilidade familiar e patrimonial entrou na vida religiosa, fundando e integrando uma comunidade de clarissas em Argentan. A passagem do governo de um ducado para a vida conventual é o elemento característico do seu percurso. Morreu em 1521. A cronologia exata da entrada no convento varia nas sínteses e requer cotejo documental.",
+      "beatificacao": "Culto confirmado/beatificação por Bento XV em 1921, segundo fontes hagiográficas; natureza jurídica do decreto original não auditada.",
+      "milagres": "Não foi identificado decreto de milagre individual; relatos de favores e veneração são tradição devocional.",
+      "sepultura": "Tradicionalmente sepultada em Argentan; a história posterior das relíquias é complexa e requer confirmação arquivística.",
+      "referencias_biblicas": "Lc 12,32-34; Mt 25,34-40",
+      "fontes": [
+        "https://mail.liturgia.pt/martirologio/elogio.php?data=2026-11-02",
+        "https://codexsanctorum.com/en/saint/321-margaret-of-lorraine",
+        "https://saintsencyclopedia.com/saints/blessed-margaret-of-lorraine/"
+      ]
+    },
+    {
+      "nome": "Beato João Bodey, leigo e mártir",
+      "identificacao": "Leigo inglês de Wells (c. 1549–1583), académico e professor, executado em Andover.",
+      "biografia": "João Bodey estudou em Winchester e Oxford e perdeu o seu lugar académico num contexto de imposição de conformidade religiosa. Frequentou Douai e regressou a Inglaterra, onde foi detido e julgado por recusar reconhecer a autoridade espiritual da rainha Isabel I sobre a Igreja. As fontes do martírio distinguem a fidelidade civil à soberana da sua objeção de consciência religiosa. Foi executado em Andover em 2 de novembro de 1583. Não deve ser apresentado como sacerdote: era leigo. A história situa-se no contexto de conflitos confessionais e de leis penais elisabetianas.",
+      "beatificacao": "Beatificado por Pio XI em 15 de dezembro de 1929, integrado nos mártires ingleses.",
+      "milagres": "O reconhecimento do martírio não exige milagre para beatificação; nenhum milagre individual confirmado foi encontrado.",
+      "sepultura": "Destino dos restos mortais após a execução não confirmado.",
+      "referencias_biblicas": "Mt 10,32-39; 1 Pd 3,14-17",
+      "fontes": [
+        "https://mail.liturgia.pt/martirologio/elogio.php?data=2026-11-02",
+        "https://www.santiebeati.it/index.php/dettaglio/76020",
+        "https://saintsencyclopedia.com/saints/blessed-john-bodey/"
+      ]
+    },
+    {
+      "nome": "Beato Pio de São Luís (Luís Campidelli), passionista",
+      "identificacao": "Religioso italiano nascido em 1868 e falecido em 2 de novembro de 1889, com 21 anos.",
+      "biografia": "Luís Campidelli nasceu numa família rural perto de Rimini e ingressou ainda adolescente na congregação passionista, tomando o nome de Pio de São Luís. A sua vida religiosa ficou marcada pela oração, simplicidade e dedicação ao estudo e à comunidade. A tuberculose interrompeu a preparação para o sacerdócio; morreu antes da ordenação. A congregação apresenta-o como exemplo de santidade quotidiana entre os jovens. João Paulo II sublinhou, na audiência posterior à beatificação, que a sua vida não se caracterizou por fenómenos extraordinários, mas pelo amor a Deus no cumprimento dos deveres.",
+      "beatificacao": "Beatificado por São João Paulo II em 17 de novembro de 1985; memória passionista celebrada em 3 de novembro, enquanto o Martirológio o recorda a 2.",
+      "milagres": "A causa de beatificação envolveu reconhecimento eclesiástico; sem consulta ao decreto clínico não se identifica aqui uma cura concreta. A vida pessoal não deve ser adornada com prodígios.",
+      "sepultura": "Veneração ligada ao santuário da Madonna di Casale, perto de Rimini; localização precisa das relíquias requer confirmação do santuário.",
+      "referencias_biblicas": "2 Cor 12,7-10; Lc 9,23-25",
+      "fontes": [
+        "https://mail.liturgia.pt/martirologio/elogio.php?data=2026-11-02",
+        "https://passionist.org/about/saints-blesseds/campidelli/",
+        "https://www.vatican.va/content/john-paul-ii/fr/speeches/1985/november/documents/hf_jp-ii_spe_19851118_pellegrini-tre-beati.html"
+      ]
+    }
+  ],
+  "reflexao": "A esperança cristã na ressurreição, expressa em Job 19 e 2 Cor 4–5, inspira a oração pelos defuntos. O testemunho dos mártires de Sebaste e da Pérsia, o trabalho bíblico de Vitorino, a caridade de Donino e a reforma de Malaquias são memórias martirológicas que não substituem a celebração litúrgica do dia. Os relatos de milagres e as tradições históricas são diferenciados de factos comprovados e de reconhecimentos canónicos.",
+  "fontes": [
+    "https://mail.liturgia.pt/martirologio/elogio.php?data=2026-11-02",
+    "https://www.paroquias.org/liturgia/2026-11-02",
+    "https://www.cbcew.org.uk/home/our-work/pilgrimage/wales-national-shrine-of-st-winefride/",
+    "https://www.catholic.com/encyclopedia/malachy-saint",
+    "https://passionist.org/about/saints-blesseds/campidelli/",
+    "https://www.oca.org/saints/lives/2008/11/02/103151-martyrs-acindynus-pegasius-aphthonius-elpidephorus-anempodistus"
+  ],
+  "auditoria": {
+    "data": "2026-11-02",
+    "inventario_elogios": 14,
+    "elogios_individuais_ou_coletivos": 13,
+    "santos": 18,
+    "beatos": 3,
+    "companheiros_nao_individualizados": true,
+    "imagens_verificadas": 0,
+    "imagens_pendentes": 18,
+    "candidatos_com_origem_e_licenca_confirmadas": 4,
+    "estado": "revisao",
+    "fontes": "Inventário confrontado diretamente com o Secretariado Nacional de Liturgia português. Leituras consultadas em Paroquias.org com indicação de alternativas. Fontes complementares católicas, monásticas, académicas e hagiográficas registadas individualmente.",
+    "pendencias": [
+      "Versão 2.0 integral das instruções não está disponível no repositório; a v2.1 remete para ela.",
+      "Pesquisa comparativa de 5–10 imagens por santo ainda não concluída; quatro ficheiros candidatos abertos na origem e com licença confirmada, mas não testados no site nem em mobile.",
+      "Sem autorização para marcar verificada=true enquanto não houver prova de carregamento real e de apresentação no portal em telemóvel e computador.",
+      "Confrontar próprios diocesanos e das ordens para exceções e memórias locais; os elogios do Martirológio não são automaticamente celebrações litúrgicas.",
+      "Biografias dos dez mártires de dois grupos têm poucos dados individuais; não inventar pormenores nem separar relatos coletivos em factos pessoais.",
+      "Verificar documentalmente sepulturas e relíquias, e os decretos de beatificação e milagres não consultados.",
+      "Verificar URL pública GitHub Pages, versão servida, acessibilidade, partilha, PDF e responsividade."
+    ],
+    "nota": "Edição editorial em revisão; o registo no GitHub não equivale a validação pública. Fontes de imagens documentadas e ficheiros abertos, sem imagem principal assinalada como verificada."
+  }
+}
