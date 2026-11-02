@@ -326,8 +326,8 @@
     {
       "nome": "São Malaquias de Armagh, bispo",
       "identificacao": "Bispo reformador irlandês, c. 1094–1148, morto em Claraval, França, a 2 de novembro.",
-      "biografia": "Malaquias, nascido na Irlanda e conhecido também como Máel Máedóc Ua Morgair, desempenhou um papel decisivo na renovação da vida eclesial irlandesa do século XII. Ligou-se à reforma monástica e à organização diocesana, foi bispo de Down e Connor e ocupou a sede de Armagh. Durante as viagens a Roma encontrou São Bernardo de Claraval, que escreveu a sua biografia e testemunhou a morte de Malaquias na abadia cisterciense, em 1148. A sua ação esteve ligada à introdução e fortalecimento de formas de vida regular e ao mosteiro de Mellifont. Foi canonizado em 1199 pelo Papa Clemente III. As chamadas 'profecias dos papas', impressas apenas no século XVI, não têm atribuição histórica fiável a Malaquias e não devem ser usadas como ensinamento do santo.",
-      "canonizacao": "Canonizado em 1199 por Clemente III, segundo a tradição historiográfica; culto reconhecido no Martirológio.",
+      "biografia": "Malaquias, nascido na Irlanda e conhecido também como Máel Máedóc Ua Morgair, desempenhou um papel decisivo na renovação da vida eclesial irlandesa do século XII. Ligou-se à reforma monástica e à organização diocesana, foi bispo de Down e Connor e ocupou a sede de Armagh. Durante as viagens a Roma encontrou São Bernardo de Claraval, que escreveu a sua biografia e testemunhou a morte de Malaquias na abadia cisterciense, em 1148. A sua ação esteve ligada à introdução e fortalecimento de formas de vida regular e ao mosteiro de Mellifont. Foi canonizado em 1190 pelo Papa Clemente III. Algumas obras enciclopédicas antigas apresentam 1199, data incompatível com o pontificado de Clemente III (1187–1191); esta discrepância foi corrigida pela cronologia papal. As chamadas 'profecias dos papas', impressas apenas no século XVI, não têm atribuição histórica fiável a Malaquias e não devem ser usadas como ensinamento do santo.",
+      "canonizacao": "Canonizado pelo Papa Clemente III em 1190. A data de 1199 encontrada em algumas enciclopédias antigas é incompatível com o pontificado desse papa; dia exato da canonização requer cotejo de fontes históricas.",
       "milagres": "São Bernardo relata curas e sinais associados ao santo, incluindo episódios junto da sua morte: testemunho hagiográfico medieval, não decretos modernos individualizados. As profecias papais tardias não são milagres comprovados.",
       "sepultura": "Morreu e foi sepultado em Claraval; as relíquias foram objeto de veneração e translações, mas o seu paradeiro material atual não foi auditado.",
       "ensinamento": "Reforma eclesial, unidade e prudência perante atribuições proféticas tardias.",
@@ -335,7 +335,8 @@
       "fontes": [
         "https://mail.liturgia.pt/martirologio/elogio.php?data=2026-11-02",
         "https://www.catholic.com/encyclopedia/malachy-saint",
-        "https://www.history.co.uk/articles/st-malachy-prophecy-of-the-popes"
+        "https://www.history.co.uk/articles/st-malachy-prophecy-of-the-popes",
+        "https://owenosullivan.ie/wp-content/uploads/2016/11/Owen-OSullivan-IMPERFECT-SAINTS-1Ed.pdf"
       ],
       "revisao_iconografica": "Candidato identificado, licença confirmada e ficheiro original aberto; publicação pendente de teste no portal e dispositivos. Não marcar verificada=true.",
       "imagem": {
@@ -425,7 +426,8 @@
       "Confrontar próprios diocesanos e das ordens para exceções e memórias locais; os elogios do Martirológio não são automaticamente celebrações litúrgicas.",
       "Biografias dos dez mártires de dois grupos têm poucos dados individuais; não inventar pormenores nem separar relatos coletivos em factos pessoais.",
       "Verificar documentalmente sepulturas e relíquias, e os decretos de beatificação e milagres não consultados.",
-      "Verificar URL pública GitHub Pages, versão servida, acessibilidade, partilha, PDF e responsividade."
+      "Verificar URL pública GitHub Pages, versão servida, acessibilidade, partilha, PDF e responsividade.",
+      "Confirmar em fonte diplomática o dia exato da canonização de São Malaquias: 1190 é compatível com Clemente III, enquanto 1199 em enciclopédia antiga é erro cronológico."
     ],
     "nota": "Edição editorial em revisão; o registo no GitHub não equivale a validação pública. Fontes de imagens documentadas e ficheiros abertos, sem imagem principal assinalada como verificada."
   }
