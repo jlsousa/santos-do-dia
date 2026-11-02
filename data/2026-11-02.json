@@ -386,15 +386,18 @@
     {
       "nome": "Beato Pio de São Luís (Luís Campidelli), passionista",
       "identificacao": "Religioso italiano nascido em 1868 e falecido em 2 de novembro de 1889, com 21 anos.",
-      "biografia": "Luís Campidelli nasceu numa família rural perto de Rimini e ingressou ainda adolescente na congregação passionista, tomando o nome de Pio de São Luís. A sua vida religiosa ficou marcada pela oração, simplicidade e dedicação ao estudo e à comunidade. A tuberculose interrompeu a preparação para o sacerdócio; morreu antes da ordenação. A congregação apresenta-o como exemplo de santidade quotidiana entre os jovens. João Paulo II sublinhou, na audiência posterior à beatificação, que a sua vida não se caracterizou por fenómenos extraordinários, mas pelo amor a Deus no cumprimento dos deveres.",
+      "biografia": "Luís Campidelli nasceu numa família rural perto de Rimini e ingressou ainda adolescente na congregação passionista, tomando o nome de Pio de São Luís. A sua vida religiosa ficou marcada pela oração, simplicidade e dedicação ao estudo e à comunidade. A tuberculose interrompeu a preparação para o sacerdócio; morreu antes da ordenação. A congregação apresenta-o como exemplo de santidade quotidiana entre os jovens. João Paulo II sublinhou, na audiência posterior à beatificação, que a sua vida não se caracterizou por fenómenos extraordinários, mas pelo amor a Deus no cumprimento dos deveres. A profissão religiosa teve lugar em 1884. A sua morte ocorreu em 2 de novembro de 1889, aos 21 anos, antes da ordenação sacerdotal. O reconhecimento das virtudes heroicas em 1983 precedeu a beatificação de 17 de novembro de 1985.",
       "beatificacao": "Beatificado por São João Paulo II em 17 de novembro de 1985; memória passionista celebrada em 3 de novembro, enquanto o Martirológio o recorda a 2.",
-      "milagres": "A causa de beatificação envolveu reconhecimento eclesiástico; sem consulta ao decreto clínico não se identifica aqui uma cura concreta. A vida pessoal não deve ser adornada com prodígios.",
-      "sepultura": "Veneração ligada ao santuário da Madonna di Casale, perto de Rimini; localização precisa das relíquias requer confirmação do santuário.",
+      "milagres": "Milagre associado à beatificação: cura atribuída à intercessão de Pio de São Luís em favor da religiosa Maria Foschi, indicada como aprovada em 6 de dezembro de 1984 nas fontes hagiográficas consultadas. Trata-se de um reconhecimento eclesial ligado à beatificação de 1985, não de uma simples tradição popular. A documentação médica original e o decreto formal não foram examinados diretamente; por isso, não se descrevem diagnóstico nem circunstâncias clínicas não confirmadas. Uma investigação diocesana distinta, relativa a alegado milagre posterior, foi encerrada em Monreale em 9 de outubro de 2019, sem que isso constitua aprovação de novo milagre.",
+      "sepultura": "Sepultado inicialmente no cemitério de San Vito (1889). Os restos mortais foram trasladados para o Santuário da Madonna di Casale em 6 de maio de 1923; após a destruição parcial do santuário na Segunda Guerra Mundial, a veneração prosseguiu no local reconstruído. As fontes hagiográficas indicam uma nova urna/relicário; inventário e autenticidade material não foram reexaminados nesta edição.",
       "referencias_biblicas": "2 Cor 12,7-10; Lc 9,23-25",
       "fontes": [
         "https://mail.liturgia.pt/martirologio/elogio.php?data=2026-11-02",
         "https://passionist.org/about/saints-blesseds/campidelli/",
-        "https://www.vatican.va/content/john-paul-ii/fr/speeches/1985/november/documents/hf_jp-ii_spe_19851118_pellegrini-tre-beati.html"
+        "https://www.vatican.va/content/john-paul-ii/fr/speeches/1985/november/documents/hf_jp-ii_spe_19851118_pellegrini-tre-beati.html",
+        "https://www.santiebeati.it/index.php/dettaglio/90635",
+        "https://www.heiligenlexikon.de/BiographienP/Pius_heiligen_Aloisius_Campidelli.html",
+        "https://www.passiochristi.org/blog/notizie-dalla-postulazione-generale/"
       ]
     }
   ],
@@ -425,10 +428,10 @@
       "Sem autorização para marcar verificada=true enquanto não houver prova de carregamento real e de apresentação no portal em telemóvel e computador.",
       "Confrontar próprios diocesanos e das ordens para exceções e memórias locais; os elogios do Martirológio não são automaticamente celebrações litúrgicas.",
       "Biografias dos dez mártires de dois grupos têm poucos dados individuais; não inventar pormenores nem separar relatos coletivos em factos pessoais.",
-      "Verificar documentalmente sepulturas e relíquias, e os decretos de beatificação e milagres não consultados.",
+      "Confrontar os decretos formais e documentação clínica: o milagre de Maria Foschi, indicado como aprovado em 1984, foi identificado em fontes hagiográficas, mas o processo original não foi consultado; outras causas e relíquias também carecem de validação documental.",
       "Verificar URL pública GitHub Pages, versão servida, acessibilidade, partilha, PDF e responsividade.",
       "Confirmar em fonte diplomática o dia exato da canonização de São Malaquias: 1190 é compatível com Clemente III, enquanto 1199 em enciclopédia antiga é erro cronológico."
     ],
-    "nota": "Edição editorial em revisão; o registo no GitHub não equivale a validação pública. Fontes de imagens documentadas e ficheiros abertos, sem imagem principal assinalada como verificada."
+    "nota": "Edição editorial em revisão; o registo no GitHub não equivale a validação pública. Fontes de imagens documentadas e ficheiros abertos, sem imagem principal assinalada como verificada. Revisão adicional do Beato Pio Campidelli: identificado o milagre de Maria Foschi referido em fontes hagiográficas, trasladado dos restos mortais em 1923 e processo distinto em investigação em 2019; mantida ressalva por falta dos decretos originais."
   }
 }
