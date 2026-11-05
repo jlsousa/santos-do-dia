@@ -1,0 +1,244 @@
+{
+  "data": "2026-11-05",
+  "estado": "EM REVISÃO — edição parcial. Inventário martirológico verificado; biografias sintéticas e iconografia não validadas; publicação pública por testar; versão 2.0 integral indisponível. NÃO VALIDADO.",
+  "liturgia": "Quinta-feira da XXXI semana do Tempo Comum, ano par (II), verde; sem memória obrigatória no calendário geral de Portugal.",
+  "introducao": "Neste dia ferial, o Martirológio Romano recorda testemunhos cristãos desde os mártires da perseguição de Diocleciano até vítimas das perseguições do século XX. As comemorações martirológicas não equivalem a memórias litúrgicas obrigatórias.",
+  "inventario_martirologio": [
+    "1. São Donino, mártir",
+    "2. Santos Teótimo, Filoteu, Timóteo e Auxêncio, mártires",
+    "3. São Marcos de Ecano, bispo",
+    "4. São Fibício de Tréveris, bispo",
+    "5. São Guetnoco",
+    "6. Santa Bertila, abadessa",
+    "7. São Geraldo de Béziers, bispo",
+    "8. Beato Gómidas Keumurgian, presbítero e mártir",
+    "9. São Domingos Mâu, presbítero e mártir",
+    "10. São Guido Maria Confórti, bispo",
+    "11. Beato João António Burró Más, religioso e mártir",
+    "12. Beata Maria do Carmo Viel Ferrando, virgem e mártir",
+    "13. Beato Bernardo Lichtenberg, presbítero e mártir",
+    "14. Beato Gregório Lakota, bispo e mártir"
+  ],
+  "santos": [
+    {
+      "nome": "São Donino",
+      "biografia": "Médico e mártir em Cesareia da Palestina (†307). Durante a perseguição de Diocleciano, foi enviado para as minas de Mísmiya e, por persistir na fé cristã, condenado à morte pelo fogo por ordem do prefeito Urbano.",
+      "canonizacao": "Culto martirológico antigo; não se identificou processo moderno.",
+      "sepultura": "Local de sepultura e relíquias não comprovados.",
+      "milagres": "Não foram identificados nem verificados nesta execução decretos de milagres individuais. Não confundir tradições hagiográficas com reconhecimento canónico.",
+      "ensinamento": "Testemunho de fidelidade à fé e ao serviço cristão, conforme o contexto histórico documentado.",
+      "referencias_biblicas": "Mt 5,1-12; Ap 7,9-17 (referências temáticas, não leituras próprias do dia).",
+      "fontes": [
+        "https://mail.liturgia.pt/martirologio/elogio.php?data=2026-11-05"
+      ],
+      "revisao_iconografica": "Pendente: sem comparação de 5–10 candidatos, confirmação visual, licenciamento e testes de apresentação. Nenhuma imagem marcada como verificada."
+    },
+    {
+      "nome": "São Teótimo",
+      "biografia": "Jovem mártir de Cesareia da Palestina (†307), comemorado com Filoteu, Timóteo e Auxêncio. O Martirológio refere a condenação aos jogos e às feras.",
+      "canonizacao": "Culto martirológico antigo.",
+      "sepultura": "Sepultura não documentada.",
+      "milagres": "Não foram identificados nem verificados nesta execução decretos de milagres individuais. Não confundir tradições hagiográficas com reconhecimento canónico.",
+      "ensinamento": "Testemunho de fidelidade à fé e ao serviço cristão, conforme o contexto histórico documentado.",
+      "referencias_biblicas": "Mt 5,1-12; Ap 7,9-17 (referências temáticas, não leituras próprias do dia).",
+      "fontes": [
+        "https://mail.liturgia.pt/martirologio/elogio.php?data=2026-11-05"
+      ],
+      "revisao_iconografica": "Pendente: sem comparação de 5–10 candidatos, confirmação visual, licenciamento e testes de apresentação. Nenhuma imagem marcada como verificada."
+    },
+    {
+      "nome": "São Filoteu",
+      "biografia": "Jovem mártir de Cesareia da Palestina (†307), associado a Teótimo, Timóteo e Auxêncio; a documentação consultada não permite reconstruir a vida individual.",
+      "canonizacao": "Culto martirológico antigo.",
+      "sepultura": "Sepultura não documentada.",
+      "milagres": "Não foram identificados nem verificados nesta execução decretos de milagres individuais. Não confundir tradições hagiográficas com reconhecimento canónico.",
+      "ensinamento": "Testemunho de fidelidade à fé e ao serviço cristão, conforme o contexto histórico documentado.",
+      "referencias_biblicas": "Mt 5,1-12; Ap 7,9-17 (referências temáticas, não leituras próprias do dia).",
+      "fontes": [
+        "https://mail.liturgia.pt/martirologio/elogio.php?data=2026-11-05"
+      ],
+      "revisao_iconografica": "Pendente: sem comparação de 5–10 candidatos, confirmação visual, licenciamento e testes de apresentação. Nenhuma imagem marcada como verificada."
+    },
+    {
+      "nome": "São Timóteo de Cesareia",
+      "biografia": "Jovem mártir de Cesareia da Palestina (†307), distinto de outros santos homónimos; morreu no contexto dos espetáculos persecutórios, segundo o Martirológio.",
+      "canonizacao": "Culto martirológico antigo.",
+      "sepultura": "Sepultura não documentada.",
+      "milagres": "Não foram identificados nem verificados nesta execução decretos de milagres individuais. Não confundir tradições hagiográficas com reconhecimento canónico.",
+      "ensinamento": "Testemunho de fidelidade à fé e ao serviço cristão, conforme o contexto histórico documentado.",
+      "referencias_biblicas": "Mt 5,1-12; Ap 7,9-17 (referências temáticas, não leituras próprias do dia).",
+      "fontes": [
+        "https://mail.liturgia.pt/martirologio/elogio.php?data=2026-11-05"
+      ],
+      "revisao_iconografica": "Pendente: sem comparação de 5–10 candidatos, confirmação visual, licenciamento e testes de apresentação. Nenhuma imagem marcada como verificada."
+    },
+    {
+      "nome": "Santo Auxêncio de Cesareia",
+      "biografia": "Mártir idoso de Cesareia da Palestina (†307), recordado com Teótimo, Filoteu e Timóteo como vítima das feras durante a perseguição.",
+      "canonizacao": "Culto martirológico antigo.",
+      "sepultura": "Sepultura não documentada.",
+      "milagres": "Não foram identificados nem verificados nesta execução decretos de milagres individuais. Não confundir tradições hagiográficas com reconhecimento canónico.",
+      "ensinamento": "Testemunho de fidelidade à fé e ao serviço cristão, conforme o contexto histórico documentado.",
+      "referencias_biblicas": "Mt 5,1-12; Ap 7,9-17 (referências temáticas, não leituras próprias do dia).",
+      "fontes": [
+        "https://mail.liturgia.pt/martirologio/elogio.php?data=2026-11-05"
+      ],
+      "revisao_iconografica": "Pendente: sem comparação de 5–10 candidatos, confirmação visual, licenciamento e testes de apresentação. Nenhuma imagem marcada como verificada."
+    },
+    {
+      "nome": "São Marcos de Ecano",
+      "biografia": "Bispo de Ecano, na Apúlia italiana (c. século IV). O elogio martirológico não fornece episódios biográficos suficientes para uma reconstrução mais extensa.",
+      "canonizacao": "Culto antigo.",
+      "sepultura": "Sepultura e relíquias não verificadas.",
+      "milagres": "Não foram identificados nem verificados nesta execução decretos de milagres individuais. Não confundir tradições hagiográficas com reconhecimento canónico.",
+      "ensinamento": "Testemunho de fidelidade à fé e ao serviço cristão, conforme o contexto histórico documentado.",
+      "referencias_biblicas": "Mt 5,1-12; Ap 7,9-17 (referências temáticas, não leituras próprias do dia).",
+      "fontes": [
+        "https://mail.liturgia.pt/martirologio/elogio.php?data=2026-11-05"
+      ],
+      "revisao_iconografica": "Pendente: sem comparação de 5–10 candidatos, confirmação visual, licenciamento e testes de apresentação. Nenhuma imagem marcada como verificada."
+    },
+    {
+      "nome": "São Fibício de Tréveris",
+      "biografia": "Bispo de Tréveris, na região renana, falecido aproximadamente em 450. A identidade episcopal e o local são atestados pelo elogio; outros detalhes permanecem por confirmar.",
+      "canonizacao": "Culto antigo.",
+      "sepultura": "Sepultura não verificada.",
+      "milagres": "Não foram identificados nem verificados nesta execução decretos de milagres individuais. Não confundir tradições hagiográficas com reconhecimento canónico.",
+      "ensinamento": "Testemunho de fidelidade à fé e ao serviço cristão, conforme o contexto histórico documentado.",
+      "referencias_biblicas": "Mt 5,1-12; Ap 7,9-17 (referências temáticas, não leituras próprias do dia).",
+      "fontes": [
+        "https://mail.liturgia.pt/martirologio/elogio.php?data=2026-11-05"
+      ],
+      "revisao_iconografica": "Pendente: sem comparação de 5–10 candidatos, confirmação visual, licenciamento e testes de apresentação. Nenhuma imagem marcada como verificada."
+    },
+    {
+      "nome": "São Guetnoco",
+      "biografia": "Santo venerado na Bretanha Menor, no século VI, tradicionalmente irmão de São Vinvaleu e São Jacuto. O parentesco é transmitido pela tradição hagiográfica.",
+      "canonizacao": "Culto local antigo.",
+      "sepultura": "Sepultura e relíquias não verificadas.",
+      "milagres": "Não foram identificados nem verificados nesta execução decretos de milagres individuais. Não confundir tradições hagiográficas com reconhecimento canónico.",
+      "ensinamento": "Testemunho de fidelidade à fé e ao serviço cristão, conforme o contexto histórico documentado.",
+      "referencias_biblicas": "Mt 5,1-12; Ap 7,9-17 (referências temáticas, não leituras próprias do dia).",
+      "fontes": [
+        "https://mail.liturgia.pt/martirologio/elogio.php?data=2026-11-05"
+      ],
+      "revisao_iconografica": "Pendente: sem comparação de 5–10 candidatos, confirmação visual, licenciamento e testes de apresentação. Nenhuma imagem marcada como verificada."
+    },
+    {
+      "nome": "Santa Bertila de Chelles",
+      "biografia": "Primeira abadessa do mosteiro de Chelles, na Gália, falecida cerca de 705. É recordada pelo governo da comunidade monástica feminina.",
+      "canonizacao": "Culto antigo.",
+      "sepultura": "Sepultura e relíquias não verificadas.",
+      "milagres": "Não foram identificados nem verificados nesta execução decretos de milagres individuais. Não confundir tradições hagiográficas com reconhecimento canónico.",
+      "ensinamento": "Testemunho de fidelidade à fé e ao serviço cristão, conforme o contexto histórico documentado.",
+      "referencias_biblicas": "Mt 5,1-12; Ap 7,9-17 (referências temáticas, não leituras próprias do dia).",
+      "fontes": [
+        "https://mail.liturgia.pt/martirologio/elogio.php?data=2026-11-05"
+      ],
+      "revisao_iconografica": "Pendente: sem comparação de 5–10 candidatos, confirmação visual, licenciamento e testes de apresentação. Nenhuma imagem marcada como verificada."
+    },
+    {
+      "nome": "São Geraldo de Béziers",
+      "biografia": "Bispo de Béziers (†1123), anteriormente cónego regular. O Martirológio salienta a resistência inicial à nomeação episcopal e a humildade do seu ministério.",
+      "canonizacao": "Culto antigo.",
+      "sepultura": "Sepultura e relíquias não verificadas.",
+      "milagres": "Não foram identificados nem verificados nesta execução decretos de milagres individuais. Não confundir tradições hagiográficas com reconhecimento canónico.",
+      "ensinamento": "Testemunho de fidelidade à fé e ao serviço cristão, conforme o contexto histórico documentado.",
+      "referencias_biblicas": "Mt 5,1-12; Ap 7,9-17 (referências temáticas, não leituras próprias do dia).",
+      "fontes": [
+        "https://mail.liturgia.pt/martirologio/elogio.php?data=2026-11-05"
+      ],
+      "revisao_iconografica": "Pendente: sem comparação de 5–10 candidatos, confirmação visual, licenciamento e testes de apresentação. Nenhuma imagem marcada como verificada."
+    },
+    {
+      "nome": "São Domingos Mâu",
+      "biografia": "Presbítero dominicano e mártir no Tonquim, atual Vietname (†1858), decapitado durante a perseguição do imperador Tự Đức. Segundo o Martirológio, exortava os fiéis à profissão da fé e mostrava o rosário.",
+      "canonizacao": "Incluído no culto dos mártires vietnamitas; detalhes do ato canónico individual por verificar.",
+      "sepultura": "Sepultura e relíquias não verificadas.",
+      "milagres": "Não foram identificados nem verificados nesta execução decretos de milagres individuais. Não confundir tradições hagiográficas com reconhecimento canónico.",
+      "ensinamento": "Testemunho de fidelidade à fé e ao serviço cristão, conforme o contexto histórico documentado.",
+      "referencias_biblicas": "Mt 5,1-12; Ap 7,9-17 (referências temáticas, não leituras próprias do dia).",
+      "fontes": [
+        "https://mail.liturgia.pt/martirologio/elogio.php?data=2026-11-05"
+      ],
+      "revisao_iconografica": "Pendente: sem comparação de 5–10 candidatos, confirmação visual, licenciamento e testes de apresentação. Nenhuma imagem marcada como verificada."
+    },
+    {
+      "nome": "São Guido Maria Confórti",
+      "biografia": "Bispo italiano (1865–1931), fundador dos Missionários Xaverianos, dedicados à evangelização dos povos. O Martirológio salienta a solicitude pastoral e missionária.",
+      "canonizacao": "Canonizado em 2011 por Bento XVI; documentação do milagre aprovado não revista nesta execução.",
+      "sepultura": "Sepultura e relíquias não verificadas.",
+      "milagres": "Não foram identificados nem verificados nesta execução decretos de milagres individuais. Não confundir tradições hagiográficas com reconhecimento canónico.",
+      "ensinamento": "Testemunho de fidelidade à fé e ao serviço cristão, conforme o contexto histórico documentado.",
+      "referencias_biblicas": "Mt 5,1-12; Ap 7,9-17 (referências temáticas, não leituras próprias do dia).",
+      "fontes": [
+        "https://mail.liturgia.pt/martirologio/elogio.php?data=2026-11-05"
+      ],
+      "revisao_iconografica": "Pendente: sem comparação de 5–10 candidatos, confirmação visual, licenciamento e testes de apresentação. Nenhuma imagem marcada como verificada."
+    }
+  ],
+  "beatos": [
+    {
+      "nome": "Beato Gómidas Keumurgian (Cosme de Carboniano)",
+      "biografia": "Presbítero arménio, pai de família e mártir em Constantinopla (†1707). Defendeu a fé católica e morreu decapitado enquanto recitava o Credo niceno.",
+      "canonizacao": "Beatificação e ato canónico específico por confirmar em fonte primária.",
+      "milagres": "Sem decreto individual de milagre verificado nesta execução; o reconhecimento de martírio não pressupõe milagre para beatificação.",
+      "sepultura": "Por verificar.",
+      "fontes": [
+        "https://mail.liturgia.pt/martirologio/elogio.php?data=2026-11-05"
+      ]
+    },
+    {
+      "nome": "Beato João António Burró Más",
+      "biografia": "Religioso da Ordem Hospitaleira de São João de Deus, morto em Madrid durante a perseguição religiosa de 1936.",
+      "canonizacao": "Beatificação e ato canónico específico por confirmar em fonte primária.",
+      "milagres": "Sem decreto individual de milagre verificado nesta execução; o reconhecimento de martírio não pressupõe milagre para beatificação.",
+      "sepultura": "Por verificar.",
+      "fontes": [
+        "https://mail.liturgia.pt/martirologio/elogio.php?data=2026-11-05"
+      ]
+    },
+    {
+      "nome": "Beata Maria do Carmo Viel Ferrando",
+      "biografia": "Virgem e mártir, morta em El Saler, perto de Valência, na perseguição religiosa de 1936.",
+      "canonizacao": "Beatificação e ato canónico específico por confirmar em fonte primária.",
+      "milagres": "Sem decreto individual de milagre verificado nesta execução; o reconhecimento de martírio não pressupõe milagre para beatificação.",
+      "sepultura": "Por verificar.",
+      "fontes": [
+        "https://mail.liturgia.pt/martirologio/elogio.php?data=2026-11-05"
+      ]
+    },
+    {
+      "nome": "Beato Bernardo Lichtenberg",
+      "biografia": "Presbítero alemão (†1943) que rezou publicamente pelos judeus perseguidos pelo regime nazi. Morreu durante o transporte para Dachau.",
+      "canonizacao": "Beatificação e ato canónico específico por confirmar em fonte primária.",
+      "milagres": "Sem decreto individual de milagre verificado nesta execução; o reconhecimento de martírio não pressupõe milagre para beatificação.",
+      "sepultura": "Por verificar.",
+      "fontes": [
+        "https://mail.liturgia.pt/martirologio/elogio.php?data=2026-11-05"
+      ]
+    },
+    {
+      "nome": "Beato Gregório Lakota",
+      "biografia": "Bispo greco-católico ucraniano, mártir falecido em 1950 no campo de Abez, na Sibéria, durante a perseguição soviética.",
+      "canonizacao": "Beatificação e ato canónico específico por confirmar em fonte primária.",
+      "milagres": "Sem decreto individual de milagre verificado nesta execução; o reconhecimento de martírio não pressupõe milagre para beatificação.",
+      "sepultura": "Por verificar.",
+      "fontes": [
+        "https://mail.liturgia.pt/martirologio/elogio.php?data=2026-11-05"
+      ]
+    }
+  ],
+  "fontes": [
+    "https://mail.liturgia.pt/martirologio/elogio.php?data=2026-11-05",
+    "https://viacrucis.pt/calendario-liturgico-2026/",
+    "https://gcatholic.org/calendar/2026/PT-pt.htm"
+  ],
+  "pendencias": [
+    "Instruções v2.0 integrais indisponíveis no repositório.",
+    "Aprofundar biografias e verificar fontes primárias, processos canónicos, milagres, sepulturas e relíquias.",
+    "Pesquisar e validar iconografia individual para os 12 santos (0 imagens validadas).",
+    "Verificar leituras feriais em fonte litúrgica oficial.",
+    "Testar site público GitHub Pages, carregamento de imagens, ligações, mobile, partilha e PDF."
+  ]
+}
