@@ -1,0 +1,298 @@
+{
+  "data": "2026-11-06",
+  "estado": "EM REVISÃO — edição parcial; iconografia e auditoria técnica incompletas. NÃO VALIDADO.",
+  "liturgia": "Sexta-feira da XXXI semana do Tempo Comum. Memória obrigatória de São Nuno de Santa Maria, religioso (branco). No Patriarcado de Lisboa, padroeiro secundário, memória obrigatória; nas Ordens Carmelita e dos Carmelitas Descalços, festa.",
+  "leituras": "Flp 3,17–4,1; Sl 121 (122); Lc 16,1–8.",
+  "introducao": "Portugal celebra hoje a memória obrigatória de São Nuno de Santa Maria, figura central da independência e da espiritualidade carmelita. O Martirológio inclui também santos de diferentes séculos e duas beatas. A celebração litúrgica nacional distingue-se das comemorações martirológicas.",
+  "inventario_martirologio": [
+    "1. São Nuno de Santa Maria",
+    "2. São Félix de Toniza",
+    "3. São Paulo de Constantinopla",
+    "4. São Melânio de Rennes",
+    "5. Santo Iltuto",
+    "6. São Leonardo de Noblac",
+    "7. Santos Calínico, Himério, dois Teodoros, Estêvão, dois Joões e companheiros não identificados",
+    "8. São Severo de Barcelona",
+    "9. São Protásio de Lausana",
+    "10. São Vinoco",
+    "11. Santo Estêvão de Apt",
+    "12. São Teobaldo de Le Dorat",
+    "13. Beata Cristina de Stommeln",
+    "14. Beato Tomás de Santo Agostinho"
+  ],
+  "santos": [
+    {
+      "nome": "São Nuno de Santa Maria",
+      "biografia": "Nuno Álvares Pereira (1360–1431), condestável de Portugal, foi decisivo na defesa da independência na crise de 1383–1385, nomeadamente em Aljubarrota. Casado com Leonor de Alvim, teve três filhos. Fundou o Convento do Carmo, em Lisboa, e aí ingressou como irmão carmelita, dedicando-se à oração, à pobreza e à assistência aos necessitados. Morreu no Domingo de Páscoa, 1 de abril de 1431. A sua vida une liderança militar, devoção mariana e renúncia aos privilégios.",
+      "canonizacao": "Reconhecimento do culto em 1918 por Bento XV; canonização por Bento XVI em 26 de abril de 2009.",
+      "milagres": "Milagre oficialmente reconhecido: caso atribuído à intercessão de Nuno ocorrido em 2000, com decreto promulgado em 3 de julho de 2008 para a canonização; identidade clínica e documentação médica não examinadas nesta execução. Tradições e testemunhos: existem narrativas devocionais de graças, não inventariadas nem equiparadas a decretos.",
+      "sepultura": "Sepultado originalmente no Convento do Carmo, Lisboa; trasladações posteriores e desaparecimento de um relicário de prata, segundo biografia oficial vaticana. Fragmentos ósseos autenticados referidos pela Santa Sé.",
+      "ensinamento": "A coragem e o serviço público devem ser acompanhados por humildade, oração e caridade.",
+      "referencias_biblicas": "Flp 3,17–4,1 (leitura oficial do dia); Mt 25,31–40 (ligação temática à caridade, não leitura do dia).",
+      "fontes": [
+        "https://mail.liturgia.pt/martirologio/elogio.php?data=2026-11-06",
+        "https://press.vatican.va/news_services/liturgy/saints/2009/ns_lit_doc_20090426_nuno_po.html",
+        "https://carmelitas.pt/sao-nuno-de-santa-maria/",
+        "https://www.vatican.va/content/benedict-xvi/en/homilies/2009/documents/hf_ben-xvi_hom_20090426_canonizzazioni.html"
+      ],
+      "revisao_iconografica": "Pendente: não foram completados pesquisa comparativa, direitos, teste de ficheiro e responsividade. Nenhuma imagem validada."
+    },
+    {
+      "nome": "São Félix de Toniza",
+      "biografia": "Mártir cristão em Toniza, na Numídia, no século III. O Martirológio associa cautelosamente o seu testemunho a uma referência de Santo Agostinho: confessou Cristo, foi sujeito a tormentos e encontrado morto na prisão. Não há elementos seguros para reconstruir a sua infância ou profissão.",
+      "canonizacao": "Culto antigo atestado pelo Martirológio; ato canónico individual moderno não documentado nesta edição.",
+      "milagres": "Não foram identificados decretos individuais de milagres nesta execução; tradições não verificadas não são apresentadas como factos.",
+      "sepultura": "Local de sepultura e autenticidade de relíquias não verificados nesta execução.",
+      "ensinamento": "Testemunho de fé contextualizado na época; interpretação pastoral, não citação histórica.",
+      "referencias_biblicas": "Mt 5,1–12 (associação temática, não leitura própria).",
+      "fontes": [
+        "https://mail.liturgia.pt/martirologio/elogio.php?data=2026-11-06"
+      ],
+      "revisao_iconografica": "Pendente: não foram completados pesquisa comparativa, direitos, teste de ficheiro e responsividade. Nenhuma imagem validada."
+    },
+    {
+      "nome": "São Paulo de Constantinopla",
+      "biografia": "Bispo de Constantinopla, defensor da fé nicena na controvérsia ariana do século IV. Sofreu repetidas deposições e exílios; morreu por volta de 351, segundo tradição que atribui o seu estrangulamento a adversários arianos. O relato da morte deve conservar a qualificação tradicional.",
+      "canonizacao": "Culto antigo atestado pelo Martirológio; ato canónico individual moderno não documentado nesta edição.",
+      "milagres": "Não foram identificados decretos individuais de milagres nesta execução; tradições não verificadas não são apresentadas como factos.",
+      "sepultura": "Local de sepultura e autenticidade de relíquias não verificados nesta execução.",
+      "ensinamento": "Testemunho de fé contextualizado na época; interpretação pastoral, não citação histórica.",
+      "referencias_biblicas": "Mt 5,1–12 (associação temática, não leitura própria).",
+      "fontes": [
+        "https://mail.liturgia.pt/martirologio/elogio.php?data=2026-11-06"
+      ],
+      "revisao_iconografica": "Pendente: não foram completados pesquisa comparativa, direitos, teste de ficheiro e responsividade. Nenhuma imagem validada."
+    },
+    {
+      "nome": "São Melânio de Rennes",
+      "biografia": "Bispo de Rennes, na Bretanha, falecido depois de 511. O elogio recorda a igreja que edificou junto ao rio Vilaine e a comunidade de monges reunida ao serviço de Deus; a documentação disponível nesta edição não permite estabelecer uma cronologia mais precisa.",
+      "canonizacao": "Culto antigo atestado pelo Martirológio; ato canónico individual moderno não documentado nesta edição.",
+      "milagres": "Não foram identificados decretos individuais de milagres nesta execução; tradições não verificadas não são apresentadas como factos.",
+      "sepultura": "Local de sepultura e autenticidade de relíquias não verificados nesta execução.",
+      "ensinamento": "Testemunho de fé contextualizado na época; interpretação pastoral, não citação histórica.",
+      "referencias_biblicas": "Mt 5,1–12 (associação temática, não leitura própria).",
+      "fontes": [
+        "https://mail.liturgia.pt/martirologio/elogio.php?data=2026-11-06"
+      ],
+      "revisao_iconografica": "Pendente: não foram completados pesquisa comparativa, direitos, teste de ficheiro e responsividade. Nenhuma imagem validada."
+    },
+    {
+      "nome": "Santo Iltuto",
+      "biografia": "Abade e fundador de Llanilltud Fawr, no atual País de Gales, por volta dos séculos V–VI. O mosteiro tornou-se conhecido pelo ensino e pela formação de discípulos; as tradições sobre a sua vida requerem distinção das fontes contemporâneas.",
+      "canonizacao": "Culto antigo atestado pelo Martirológio; ato canónico individual moderno não documentado nesta edição.",
+      "milagres": "Não foram identificados decretos individuais de milagres nesta execução; tradições não verificadas não são apresentadas como factos.",
+      "sepultura": "Local de sepultura e autenticidade de relíquias não verificados nesta execução.",
+      "ensinamento": "Testemunho de fé contextualizado na época; interpretação pastoral, não citação histórica.",
+      "referencias_biblicas": "Mt 5,1–12 (associação temática, não leitura própria).",
+      "fontes": [
+        "https://mail.liturgia.pt/martirologio/elogio.php?data=2026-11-06"
+      ],
+      "revisao_iconografica": "Pendente: não foram completados pesquisa comparativa, direitos, teste de ficheiro e responsividade. Nenhuma imagem validada."
+    },
+    {
+      "nome": "São Leonardo de Noblac",
+      "biografia": "Eremita de Noblac, perto de Limoges, venerado no século VI. O seu culto posterior associa-o à libertação de prisioneiros, frequentemente representada por correntes na iconografia; os episódios biográficos tradicionais carecem de comprovação histórica independente.",
+      "canonizacao": "Culto antigo atestado pelo Martirológio; ato canónico individual moderno não documentado nesta edição.",
+      "milagres": "Não foram identificados decretos individuais de milagres nesta execução; tradições não verificadas não são apresentadas como factos.",
+      "sepultura": "Local de sepultura e autenticidade de relíquias não verificados nesta execução.",
+      "ensinamento": "Testemunho de fé contextualizado na época; interpretação pastoral, não citação histórica.",
+      "referencias_biblicas": "Mt 5,1–12 (associação temática, não leitura própria).",
+      "fontes": [
+        "https://mail.liturgia.pt/martirologio/elogio.php?data=2026-11-06"
+      ],
+      "revisao_iconografica": "Pendente: não foram completados pesquisa comparativa, direitos, teste de ficheiro e responsividade. Nenhuma imagem validada."
+    },
+    {
+      "nome": "São Calínico",
+      "biografia": "Mártir de Jerusalém em 638, anteriormente soldado em Gaza. Foi preso após a conquista da cidade e, encorajado pelo bispo Sofrónio, permaneceu fiel à profissão cristã.",
+      "canonizacao": "Culto antigo atestado pelo Martirológio; ato canónico individual moderno não documentado nesta edição.",
+      "milagres": "Não foram identificados decretos individuais de milagres nesta execução; tradições não verificadas não são apresentadas como factos.",
+      "sepultura": "Local de sepultura e autenticidade de relíquias não verificados nesta execução.",
+      "ensinamento": "Fidelidade à consciência religiosa perante a violência.",
+      "referencias_biblicas": "Mt 5,1–12 (associação temática, não leitura própria).",
+      "fontes": [
+        "https://mail.liturgia.pt/martirologio/elogio.php?data=2026-11-06"
+      ],
+      "revisao_iconografica": "Pendente: não foram completados pesquisa comparativa, direitos, teste de ficheiro e responsividade. Nenhuma imagem validada."
+    },
+    {
+      "nome": "São Himério",
+      "biografia": "Mártir do grupo de soldados de Gaza, executado em 638 pela profissão da fé cristã, segundo o Martirológio.",
+      "canonizacao": "Culto antigo atestado pelo Martirológio; ato canónico individual moderno não documentado nesta edição.",
+      "milagres": "Não foram identificados decretos individuais de milagres nesta execução; tradições não verificadas não são apresentadas como factos.",
+      "sepultura": "Local de sepultura e autenticidade de relíquias não verificados nesta execução.",
+      "ensinamento": "Fidelidade à consciência religiosa perante a violência.",
+      "referencias_biblicas": "Mt 5,1–12 (associação temática, não leitura própria).",
+      "fontes": [
+        "https://mail.liturgia.pt/martirologio/elogio.php?data=2026-11-06"
+      ],
+      "revisao_iconografica": "Pendente: não foram completados pesquisa comparativa, direitos, teste de ficheiro e responsividade. Nenhuma imagem validada."
+    },
+    {
+      "nome": "São Teodoro (mártir de Gaza, primeiro)",
+      "biografia": "Um dos dois mártires homónimos do grupo de soldados de Gaza, recordados em Jerusalém no ano 638; a identidade individual não está suficientemente documentada.",
+      "canonizacao": "Culto antigo atestado pelo Martirológio; ato canónico individual moderno não documentado nesta edição.",
+      "milagres": "Não foram identificados decretos individuais de milagres nesta execução; tradições não verificadas não são apresentadas como factos.",
+      "sepultura": "Local de sepultura e autenticidade de relíquias não verificados nesta execução.",
+      "ensinamento": "Fidelidade à consciência religiosa perante a violência.",
+      "referencias_biblicas": "Mt 5,1–12 (associação temática, não leitura própria).",
+      "fontes": [
+        "https://mail.liturgia.pt/martirologio/elogio.php?data=2026-11-06"
+      ],
+      "revisao_iconografica": "Pendente: não foram completados pesquisa comparativa, direitos, teste de ficheiro e responsividade. Nenhuma imagem validada."
+    },
+    {
+      "nome": "Santo Estêvão (mártir de Gaza)",
+      "biografia": "Soldado cristão de Gaza, recordado entre os mártires executados em Jerusalém no ano 638.",
+      "canonizacao": "Culto antigo atestado pelo Martirológio; ato canónico individual moderno não documentado nesta edição.",
+      "milagres": "Não foram identificados decretos individuais de milagres nesta execução; tradições não verificadas não são apresentadas como factos.",
+      "sepultura": "Local de sepultura e autenticidade de relíquias não verificados nesta execução.",
+      "ensinamento": "Fidelidade à consciência religiosa perante a violência.",
+      "referencias_biblicas": "Mt 5,1–12 (associação temática, não leitura própria).",
+      "fontes": [
+        "https://mail.liturgia.pt/martirologio/elogio.php?data=2026-11-06"
+      ],
+      "revisao_iconografica": "Pendente: não foram completados pesquisa comparativa, direitos, teste de ficheiro e responsividade. Nenhuma imagem validada."
+    },
+    {
+      "nome": "São Teodoro (mártir de Gaza, segundo)",
+      "biografia": "Segundo mártir chamado Teodoro no grupo de Gaza; não confundir com o homónimo do mesmo elogio.",
+      "canonizacao": "Culto antigo atestado pelo Martirológio; ato canónico individual moderno não documentado nesta edição.",
+      "milagres": "Não foram identificados decretos individuais de milagres nesta execução; tradições não verificadas não são apresentadas como factos.",
+      "sepultura": "Local de sepultura e autenticidade de relíquias não verificados nesta execução.",
+      "ensinamento": "Fidelidade à consciência religiosa perante a violência.",
+      "referencias_biblicas": "Mt 5,1–12 (associação temática, não leitura própria).",
+      "fontes": [
+        "https://mail.liturgia.pt/martirologio/elogio.php?data=2026-11-06"
+      ],
+      "revisao_iconografica": "Pendente: não foram completados pesquisa comparativa, direitos, teste de ficheiro e responsividade. Nenhuma imagem validada."
+    },
+    {
+      "nome": "São João (mártir de Gaza, primeiro)",
+      "biografia": "Um dos dois mártires chamados João no grupo de Gaza, em 638; faltam dados biográficos individuais.",
+      "canonizacao": "Culto antigo atestado pelo Martirológio; ato canónico individual moderno não documentado nesta edição.",
+      "milagres": "Não foram identificados decretos individuais de milagres nesta execução; tradições não verificadas não são apresentadas como factos.",
+      "sepultura": "Local de sepultura e autenticidade de relíquias não verificados nesta execução.",
+      "ensinamento": "Fidelidade à consciência religiosa perante a violência.",
+      "referencias_biblicas": "Mt 5,1–12 (associação temática, não leitura própria).",
+      "fontes": [
+        "https://mail.liturgia.pt/martirologio/elogio.php?data=2026-11-06"
+      ],
+      "revisao_iconografica": "Pendente: não foram completados pesquisa comparativa, direitos, teste de ficheiro e responsividade. Nenhuma imagem validada."
+    },
+    {
+      "nome": "São João (mártir de Gaza, segundo)",
+      "biografia": "Segundo mártir chamado João no grupo de Gaza, em 638; não é possível distingui-lo biograficamente com segurança.",
+      "canonizacao": "Culto antigo atestado pelo Martirológio; ato canónico individual moderno não documentado nesta edição.",
+      "milagres": "Não foram identificados decretos individuais de milagres nesta execução; tradições não verificadas não são apresentadas como factos.",
+      "sepultura": "Local de sepultura e autenticidade de relíquias não verificados nesta execução.",
+      "ensinamento": "Fidelidade à consciência religiosa perante a violência.",
+      "referencias_biblicas": "Mt 5,1–12 (associação temática, não leitura própria).",
+      "fontes": [
+        "https://mail.liturgia.pt/martirologio/elogio.php?data=2026-11-06"
+      ],
+      "revisao_iconografica": "Pendente: não foram completados pesquisa comparativa, direitos, teste de ficheiro e responsividade. Nenhuma imagem validada."
+    },
+    {
+      "nome": "São Severo de Barcelona",
+      "biografia": "Santo venerado em Barcelona; a atribuição do martírio é expressamente apresentada como tradição no Martirológio. Data aproximada: século VII.",
+      "canonizacao": "Culto antigo atestado pelo Martirológio; ato canónico individual moderno não documentado nesta edição.",
+      "milagres": "Não foram identificados decretos individuais de milagres nesta execução; tradições não verificadas não são apresentadas como factos.",
+      "sepultura": "Local de sepultura e autenticidade de relíquias não verificados nesta execução.",
+      "ensinamento": "Testemunho de fé contextualizado na época; interpretação pastoral, não citação histórica.",
+      "referencias_biblicas": "Mt 5,1–12 (associação temática, não leitura própria).",
+      "fontes": [
+        "https://mail.liturgia.pt/martirologio/elogio.php?data=2026-11-06"
+      ],
+      "revisao_iconografica": "Pendente: não foram completados pesquisa comparativa, direitos, teste de ficheiro e responsividade. Nenhuma imagem validada."
+    },
+    {
+      "nome": "São Protásio de Lausana",
+      "biografia": "Venerado como bispo de Lausana, na atual Suíça, durante o século VII. A informação biográfica independente permanece limitada.",
+      "canonizacao": "Culto antigo atestado pelo Martirológio; ato canónico individual moderno não documentado nesta edição.",
+      "milagres": "Não foram identificados decretos individuais de milagres nesta execução; tradições não verificadas não são apresentadas como factos.",
+      "sepultura": "Local de sepultura e autenticidade de relíquias não verificados nesta execução.",
+      "ensinamento": "Testemunho de fé contextualizado na época; interpretação pastoral, não citação histórica.",
+      "referencias_biblicas": "Mt 5,1–12 (associação temática, não leitura própria).",
+      "fontes": [
+        "https://mail.liturgia.pt/martirologio/elogio.php?data=2026-11-06"
+      ],
+      "revisao_iconografica": "Pendente: não foram completados pesquisa comparativa, direitos, teste de ficheiro e responsividade. Nenhuma imagem validada."
+    },
+    {
+      "nome": "São Vinoco",
+      "biografia": "Abade de origem bretã, acolhido por São Bertino em Sithieu; fundou e dirigiu a comunidade de Wormhoudt. O Martirológio salienta o seu trabalho manual e governo monástico. Morreu em 716.",
+      "canonizacao": "Culto antigo atestado pelo Martirológio; ato canónico individual moderno não documentado nesta edição.",
+      "milagres": "Não foram identificados decretos individuais de milagres nesta execução; tradições não verificadas não são apresentadas como factos.",
+      "sepultura": "Local de sepultura e autenticidade de relíquias não verificados nesta execução.",
+      "ensinamento": "Testemunho de fé contextualizado na época; interpretação pastoral, não citação histórica.",
+      "referencias_biblicas": "Mt 5,1–12 (associação temática, não leitura própria).",
+      "fontes": [
+        "https://mail.liturgia.pt/martirologio/elogio.php?data=2026-11-06"
+      ],
+      "revisao_iconografica": "Pendente: não foram completados pesquisa comparativa, direitos, teste de ficheiro e responsividade. Nenhuma imagem validada."
+    },
+    {
+      "nome": "Santo Estêvão de Apt",
+      "biografia": "Bispo de Apt, na Provença, falecido em 1046. O Martirológio destaca a mansidão, duas peregrinações a Jerusalém e a restauração da catedral.",
+      "canonizacao": "Culto antigo atestado pelo Martirológio; ato canónico individual moderno não documentado nesta edição.",
+      "milagres": "Não foram identificados decretos individuais de milagres nesta execução; tradições não verificadas não são apresentadas como factos.",
+      "sepultura": "Local de sepultura e autenticidade de relíquias não verificados nesta execução.",
+      "ensinamento": "Testemunho de fé contextualizado na época; interpretação pastoral, não citação histórica.",
+      "referencias_biblicas": "Mt 5,1–12 (associação temática, não leitura própria).",
+      "fontes": [
+        "https://mail.liturgia.pt/martirologio/elogio.php?data=2026-11-06"
+      ],
+      "revisao_iconografica": "Pendente: não foram completados pesquisa comparativa, direitos, teste de ficheiro e responsividade. Nenhuma imagem validada."
+    },
+    {
+      "nome": "São Teobaldo de Le Dorat",
+      "biografia": "Presbítero e cónego regular em Le Dorat, falecido em 1070. Exercia a função de porteiro da igreja e saía da comunidade para prestar assistência aos enfermos.",
+      "canonizacao": "Culto antigo atestado pelo Martirológio; ato canónico individual moderno não documentado nesta edição.",
+      "milagres": "Não foram identificados decretos individuais de milagres nesta execução; tradições não verificadas não são apresentadas como factos.",
+      "sepultura": "Local de sepultura e autenticidade de relíquias não verificados nesta execução.",
+      "ensinamento": "Testemunho de fé contextualizado na época; interpretação pastoral, não citação histórica.",
+      "referencias_biblicas": "Mt 5,1–12 (associação temática, não leitura própria).",
+      "fontes": [
+        "https://mail.liturgia.pt/martirologio/elogio.php?data=2026-11-06"
+      ],
+      "revisao_iconografica": "Pendente: não foram completados pesquisa comparativa, direitos, teste de ficheiro e responsividade. Nenhuma imagem validada."
+    }
+  ],
+  "beatos": [
+    {
+      "nome": "Beata Cristina de Stommeln",
+      "biografia": "Virgem de Stommeln, perto de Colónia, falecida em 1312. O Martirológio destaca a sua união espiritual à paixão de Cristo e a resistência às tentações; relatos místicos específicos carecem de análise crítica.",
+      "canonizacao": "Culto de beata reconhecido; data e decreto por verificar.",
+      "milagres": "Nenhum milagre individual validado nesta execução.",
+      "sepultura": "Por verificar.",
+      "fontes": [
+        "https://mail.liturgia.pt/martirologio/elogio.php?data=2026-11-06"
+      ]
+    },
+    {
+      "nome": "Beato Tomás de Santo Agostinho (Tomás Ochia Jihyoe, «Kintsuba»)",
+      "biografia": "Presbítero agostiniano, martirizado em Nishizaka, Japão, em 1637. A sua vida insere-se na perseguição anticristã do período Tokugawa.",
+      "canonizacao": "Beatificação e decreto específico por confirmar.",
+      "milagres": "Sem decreto individual de milagre verificado; causas de martírio não exigem milagre para beatificação.",
+      "sepultura": "Por verificar.",
+      "fontes": [
+        "https://mail.liturgia.pt/martirologio/elogio.php?data=2026-11-06"
+      ]
+    }
+  ],
+  "fontes": [
+    "https://mail.liturgia.pt/martirologio/elogio.php?data=2026-11-06",
+    "https://mail.liturgia.pt/liturgiadiaria/dia.php?data=2026-11-6",
+    "https://press.vatican.va/news_services/liturgy/saints/2009/ns_lit_doc_20090426_nuno_po.html",
+    "https://carmelitas.pt/sao-nuno-de-santa-maria/",
+    "https://www.vatican.va/content/benedict-xvi/en/homilies/2009/documents/hf_ben-xvi_hom_20090426_canonizzazioni.html"
+  ],
+  "pendencias": [
+    "Instruções integrais v2.0 de 25/10/2026 não localizadas em fonte persistente.",
+    "O elenco martirológico inclui companheiros mártires não identificados; contagem de santos refere apenas 18 nomes expressos.",
+    "Aprofundar documentação histórica, processos, milagres, relíquias e sepulturas, sobretudo dos santos não portugueses.",
+    "Pesquisar 5–10 imagens por santo, confirmar identificação, proveniência, licença e apresentação. 0/18 verificadas.",
+    "Confirmar GitHub Pages, carregamento de links, imagens, dispositivos móveis, partilha e PDF."
+  ]
+}
