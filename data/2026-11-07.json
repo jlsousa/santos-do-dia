@@ -226,7 +226,7 @@
       "nome": "Beato António Baldinúcci",
       "biografia": "Jesuíta italiano, pregador de missões populares, falecido em Pófi em 1717.",
       "canonizacao": "Beatificação e respetiva documentação primária por verificar nesta execução.",
-      "milagres": "Não verificados; a beatificação por martírio não exige milagre.",
+      "milagres": "Não foram confirmados nesta revisão os decretos de milagres associados à beatificação. Não se aplica a este beato a dispensa de milagre própria da beatificação por martírio: o Martirológio identifica-o como presbítero e missionário, não como mártir.",
       "sepultura": "Por verificar.",
       "fontes": [
         "https://mail.liturgia.pt/martirologio/elogio.php?data=2026-11-07"
@@ -323,6 +323,7 @@
     "Aprofundar 15 biografias e processos de canonização, milagres, relíquias e ligações portuguesas.",
     "Pesquisar 5–10 imagens por santo e validar licenças, originais e apresentação: 0/15 verificadas.",
     "Confirmar calendários próprios e precedência local em fonte oficial adicional.",
-    "Testar site GitHub Pages, carregamento, ligações, responsividade, acessibilidade, partilha e PDF."
+    "Testar site GitHub Pages, carregamento, ligações, responsividade, acessibilidade, partilha e PDF.",
+    "Corrigir e documentar individualmente os processos de beatificação: António Baldinúcci não é identificado como mártir pelo Martirológio; verificar decreto e eventual milagre em fontes primárias."
   ]
 }
