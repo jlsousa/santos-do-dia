@@ -1,0 +1,270 @@
+{
+  "data": "2026-11-11",
+  "estado": "revisao",
+  "titulo": "São Martinho de Tours, bispo",
+  "liturgia": "Quarta-feira da XXXII semana do Tempo Comum; memória obrigatória de São Martinho de Tours em Portugal. Festa nos calendários beneditino e cisterciense; memória facultativa do Beato Mariano da Mata Aparício na Ordem Agostiniana.",
+  "leituras": "Tt 3,1-7; Sl 22(23); Lc 17,11-19 (leituras feriais de 2026).",
+  "introducao": "A memória de São Martinho recorda a caridade concreta e o cuidado pastoral. Os demais nomes são comemorações martirológicas, não memórias obrigatórias no calendário nacional.",
+  "inventario_martirologio": [
+    "São Martinho de Tours",
+    "São Menas do Egipto",
+    "São Verão de Vence",
+    "São Menas do Sâmnio",
+    "São João o Esmoler",
+    "São Bertuíno de Malonne",
+    "São Teodoro Estudita",
+    "São Bartolomeu de Grottaferrata",
+    "Santa Marina de Omura",
+    "Beata Vicenta Maria (Luísa Polóni)",
+    "Beata Alice Kotowska (Maria Jadwiga)",
+    "Beato Vicente Eugénio Bossilkov"
+  ],
+  "santos": [
+    {
+      "nome": "São Martinho de Tours",
+      "cronologia": "c. 316–397",
+      "biografia": "Bispo de Tours; nasceu na Panónia, foi militar na Gália e, ainda catecúmeno, repartiu o manto com um pobre. Depois do batismo viveu em Ligugé sob influência de Santo Hilário; eleito bispo, evangelizou comunidades rurais e fundou mosteiros.",
+      "milagres": {
+        "oficialmente_reconhecidos": "Nenhum decreto individual verificado nesta execução.",
+        "tradicao": "A partilha do manto e a visão de Cristo pertencem à tradição hagiográfica transmitida por Sulpício Severo; os prodígios da Vita Martini não são decretos modernos de reconhecimento canónico.",
+        "testemunhos": "Não documentados."
+      },
+      "canonizacao": "Culto antigo, anterior aos processos modernos de canonização; morreu em Candes, sepultado em Tours.",
+      "sepultura": "Verificar localização e proveniência das relíquias em fonte primária.",
+      "ligacao_portugal": "Deu nome a numerosas igrejas e localidades portuguesas; associação popular ao magusto e ao verão de São Martinho.",
+      "referencias_biblicas": "Mt 25,35-40 (caridade cristã); ligação temática, não leitura própria do santo.",
+      "imagem": {
+        "verificada": false,
+        "estado": "Pendente de pesquisa comparativa, licença, identidade e testes mobile/desktop."
+      },
+      "fontes": [
+        "https://liturgia.pt/liturgiadiaria/dia.php?data=2026-11-11",
+        "https://www.liturgia.pt/liturgiadiaria/dia.php?data=2024-11-11"
+      ]
+    },
+    {
+      "nome": "São Menas do Egipto",
+      "cronologia": "séculos III–IV (cronologia por confirmar)",
+      "biografia": "Mártir venerado junto do lago Mareótis, no Egipto; não confundir com o homónimo eremita italiano.",
+      "milagres": {
+        "oficialmente_reconhecidos": "Nenhum decreto individual verificado nesta execução.",
+        "tradicao": "Milagres atribuídos à sua intercessão na tradição do santuário egípcio, sem verificação individual nesta edição.",
+        "testemunhos": "Não documentados."
+      },
+      "canonizacao": "Culto antigo; localização e autenticidade das relíquias por confirmar.",
+      "sepultura": "Verificar localização e proveniência das relíquias em fonte primária.",
+      "ligacao_portugal": "Ligação específica a Portugal não documentada.",
+      "referencias_biblicas": "Mt 25,35-40 (caridade cristã); ligação temática, não leitura própria do santo.",
+      "imagem": {
+        "verificada": false,
+        "estado": "Pendente de pesquisa comparativa, licença, identidade e testes mobile/desktop."
+      },
+      "fontes": [
+        "https://liturgia.pt/liturgiadiaria/dia.php?data=2026-11-11",
+        "https://www.liturgia.pt/liturgiadiaria/dia.php?data=2024-11-11"
+      ]
+    },
+    {
+      "nome": "São Verão de Vence",
+      "cronologia": "século V",
+      "biografia": "Bispo de Vence, filho de Santo Euquério de Lião; educado em Lérins. Escreveu ao papa Leão Magno agradecendo a doutrina cristológica da carta a Flaviano.",
+      "milagres": {
+        "oficialmente_reconhecidos": "Nenhum decreto individual verificado nesta execução.",
+        "tradicao": "Não documentados nesta revisão.",
+        "testemunhos": "Não documentados."
+      },
+      "canonizacao": "Culto antigo; sepultura por confirmar.",
+      "sepultura": "Verificar localização e proveniência das relíquias em fonte primária.",
+      "ligacao_portugal": "Ligação específica a Portugal não documentada.",
+      "referencias_biblicas": "Mt 25,35-40 (caridade cristã); ligação temática, não leitura própria do santo.",
+      "imagem": {
+        "verificada": false,
+        "estado": "Pendente de pesquisa comparativa, licença, identidade e testes mobile/desktop."
+      },
+      "fontes": [
+        "https://liturgia.pt/liturgiadiaria/dia.php?data=2026-11-11",
+        "https://www.liturgia.pt/liturgiadiaria/dia.php?data=2024-11-11"
+      ]
+    },
+    {
+      "nome": "São Menas do Sâmnio",
+      "cronologia": "século VI (a confirmar)",
+      "biografia": "Solitário no Sâmnio, Itália, cujas virtudes foram recordadas por São Gregório Magno; distinto de São Menas mártir do Egipto.",
+      "milagres": {
+        "oficialmente_reconhecidos": "Nenhum decreto individual verificado nesta execução.",
+        "tradicao": "Não documentados nesta revisão.",
+        "testemunhos": "Não documentados."
+      },
+      "canonizacao": "Culto antigo; sepultura por confirmar.",
+      "sepultura": "Verificar localização e proveniência das relíquias em fonte primária.",
+      "ligacao_portugal": "Ligação específica a Portugal não documentada.",
+      "referencias_biblicas": "Mt 25,35-40 (caridade cristã); ligação temática, não leitura própria do santo.",
+      "imagem": {
+        "verificada": false,
+        "estado": "Pendente de pesquisa comparativa, licença, identidade e testes mobile/desktop."
+      },
+      "fontes": [
+        "https://liturgia.pt/liturgiadiaria/dia.php?data=2026-11-11",
+        "https://www.liturgia.pt/liturgiadiaria/dia.php?data=2024-11-11"
+      ]
+    },
+    {
+      "nome": "São João o Esmoler",
+      "cronologia": "séculos VI–VII",
+      "biografia": "Patriarca de Alexandria, conhecido pela assistência aos pobres e pela utilização dos recursos eclesiásticos em hospitais e obras de misericórdia.",
+      "milagres": {
+        "oficialmente_reconhecidos": "Nenhum decreto individual verificado nesta execução.",
+        "tradicao": "Relatos hagiográficos de prodígios carecem de verificação específica.",
+        "testemunhos": "Não documentados."
+      },
+      "canonizacao": "Culto antigo; percurso das relíquias por confirmar.",
+      "sepultura": "Verificar localização e proveniência das relíquias em fonte primária.",
+      "ligacao_portugal": "A devoção ao santo e as instituições portuguesas homónimas requerem estudo histórico sem presumir ligação direta.",
+      "referencias_biblicas": "Mt 25,35-40 (caridade cristã); ligação temática, não leitura própria do santo.",
+      "imagem": {
+        "verificada": false,
+        "estado": "Pendente de pesquisa comparativa, licença, identidade e testes mobile/desktop."
+      },
+      "fontes": [
+        "https://liturgia.pt/liturgiadiaria/dia.php?data=2026-11-11",
+        "https://www.liturgia.pt/liturgiadiaria/dia.php?data=2024-11-11"
+      ]
+    },
+    {
+      "nome": "São Bertuíno de Malonne",
+      "cronologia": "século VII (a confirmar)",
+      "biografia": "Venerado como bispo e abade no mosteiro de Malonne, no atual território belga.",
+      "milagres": {
+        "oficialmente_reconhecidos": "Nenhum decreto individual verificado nesta execução.",
+        "tradicao": "Não documentados nesta revisão.",
+        "testemunhos": "Não documentados."
+      },
+      "canonizacao": "Culto antigo; sepultura por confirmar.",
+      "sepultura": "Verificar localização e proveniência das relíquias em fonte primária.",
+      "ligacao_portugal": "Ligação específica a Portugal não documentada.",
+      "referencias_biblicas": "Mt 25,35-40 (caridade cristã); ligação temática, não leitura própria do santo.",
+      "imagem": {
+        "verificada": false,
+        "estado": "Pendente de pesquisa comparativa, licença, identidade e testes mobile/desktop."
+      },
+      "fontes": [
+        "https://liturgia.pt/liturgiadiaria/dia.php?data=2026-11-11",
+        "https://www.liturgia.pt/liturgiadiaria/dia.php?data=2024-11-11"
+      ]
+    },
+    {
+      "nome": "São Teodoro Estudita",
+      "cronologia": "759–826",
+      "biografia": "Abade de Constantinopla, reformador monástico e defensor da veneração das imagens durante a controvérsia iconoclasta; sofreu exílios e deixou escritos teológicos e ascéticos.",
+      "milagres": {
+        "oficialmente_reconhecidos": "Nenhum decreto individual verificado nesta execução.",
+        "tradicao": "Não documentados nesta revisão.",
+        "testemunhos": "Não documentados."
+      },
+      "canonizacao": "Culto antigo; sepultura e relíquias por confirmar.",
+      "sepultura": "Verificar localização e proveniência das relíquias em fonte primária.",
+      "ligacao_portugal": "Ligação específica a Portugal não documentada.",
+      "referencias_biblicas": "Mt 25,35-40 (caridade cristã); ligação temática, não leitura própria do santo.",
+      "imagem": {
+        "verificada": false,
+        "estado": "Pendente de pesquisa comparativa, licença, identidade e testes mobile/desktop."
+      },
+      "fontes": [
+        "https://liturgia.pt/liturgiadiaria/dia.php?data=2026-11-11",
+        "https://www.liturgia.pt/liturgiadiaria/dia.php?data=2024-11-11"
+      ]
+    },
+    {
+      "nome": "São Bartolomeu de Grottaferrata",
+      "cronologia": "séculos X–XI",
+      "biografia": "Monge e abade de Grottaferrata, companheiro e biógrafo de São Nilo, continuador da tradição monástica ítalo-grega.",
+      "milagres": {
+        "oficialmente_reconhecidos": "Nenhum decreto individual verificado nesta execução.",
+        "tradicao": "Não documentados nesta revisão.",
+        "testemunhos": "Não documentados."
+      },
+      "canonizacao": "Culto antigo; sepultura por confirmar.",
+      "sepultura": "Verificar localização e proveniência das relíquias em fonte primária.",
+      "ligacao_portugal": "Ligação específica a Portugal não documentada.",
+      "referencias_biblicas": "Mt 25,35-40 (caridade cristã); ligação temática, não leitura própria do santo.",
+      "imagem": {
+        "verificada": false,
+        "estado": "Pendente de pesquisa comparativa, licença, identidade e testes mobile/desktop."
+      },
+      "fontes": [
+        "https://liturgia.pt/liturgiadiaria/dia.php?data=2026-11-11",
+        "https://www.liturgia.pt/liturgiadiaria/dia.php?data=2024-11-11"
+      ]
+    },
+    {
+      "nome": "Santa Marina de Omura",
+      "cronologia": "m. 1634 (data a confirmar)",
+      "biografia": "Cristã japonesa de Omura, perseguida pela fé e morta pelo fogo em Nagasáqui; a tradição martirológica recorda a violência sofrida e a perseverança.",
+      "milagres": {
+        "oficialmente_reconhecidos": "Nenhum decreto individual verificado nesta execução.",
+        "tradicao": "Não atribuir milagres sem fonte.",
+        "testemunhos": "Não documentados."
+      },
+      "canonizacao": "Veneração martirial; dados do processo canónico e relíquias por confirmar.",
+      "sepultura": "Verificar localização e proveniência das relíquias em fonte primária.",
+      "ligacao_portugal": "Contextualizar com a história das missões portuguesas no Japão, sem afirmar contacto pessoal.",
+      "referencias_biblicas": "Mt 25,35-40 (caridade cristã); ligação temática, não leitura própria do santo.",
+      "imagem": {
+        "verificada": false,
+        "estado": "Pendente de pesquisa comparativa, licença, identidade e testes mobile/desktop."
+      },
+      "fontes": [
+        "https://liturgia.pt/liturgiadiaria/dia.php?data=2026-11-11",
+        "https://www.liturgia.pt/liturgiadiaria/dia.php?data=2024-11-11"
+      ]
+    }
+  ],
+  "beatos": [
+    {
+      "nome": "Beata Vicenta Maria (Luísa Polóni)",
+      "biografia": "Fundadora com Carlos Steeb das Irmãs da Misericórdia de Verona, dedicadas aos doentes e pobres; processo e milagre por documentar.",
+      "imagem": {
+        "verificada": false,
+        "estado": "Por regra sem imagem; documentação iconográfica não avaliada."
+      },
+      "fontes": [
+        "https://liturgia.pt/liturgiadiaria/dia.php?data=2026-11-11"
+      ]
+    },
+    {
+      "nome": "Beata Alice Kotowska (Maria Jadwiga)",
+      "biografia": "Religiosa polaca da Congregação da Ressurreição, morta em 1939 na perseguição nazi; beatificação por martírio, não pressupor milagre.",
+      "imagem": {
+        "verificada": false,
+        "estado": "Por regra sem imagem; documentação iconográfica não avaliada."
+      },
+      "fontes": [
+        "https://liturgia.pt/liturgiadiaria/dia.php?data=2026-11-11"
+      ]
+    },
+    {
+      "nome": "Beato Vicente Eugénio Bossilkov",
+      "biografia": "Bispo passionista de Nicópolis, executado em Sófia em 1952 após perseguição comunista; beatificação por martírio, não pressupor milagre.",
+      "imagem": {
+        "verificada": false,
+        "estado": "Por regra sem imagem; documentação iconográfica não avaliada."
+      },
+      "fontes": [
+        "https://liturgia.pt/liturgiadiaria/dia.php?data=2026-11-11"
+      ]
+    }
+  ],
+  "fontes": [
+    "https://liturgia.pt/liturgiadiaria/dia.php?data=2026-11-11",
+    "https://www.liturgia.pt/santos/santo_v.php?cod_santo=192",
+    "https://www.liturgia.pt/liturgiadiaria/dia.php?data=2024-11-11",
+    "https://liturgia.pt/leccionarios/santoral/7_11_Nov.pdf"
+  ],
+  "pendencias": [
+    "Inventário de 12 elogios reconstruído a partir do Martirológio apresentado na liturgia de 2024; confrontação integral com edição 2026 bloqueada por HTTP 403.",
+    "Versão integral das regras v2.0 de 25-10-2026 indisponível; apenas INSTRUCOES.md v2.1 integral lido.",
+    "Nove imagens de santos sem verificação de licença, ficheiro, identificação ou apresentação.",
+    "Fichas ainda resumidas; milagres, datas, processos, relíquias e ligações portuguesas requerem documentação adicional.",
+    "Testes do GitHub Pages, responsividade, acessibilidade, partilha e PDF por concluir."
+  ]
+}
