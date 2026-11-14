@@ -1,0 +1,322 @@
+{
+  "data": "2026-11-14",
+  "estado": "revisao",
+  "titulo": "Santos Nicolau Tavelić e companheiros, mártires",
+  "liturgia": "Sábado da XXXII semana do Tempo Comum (verde); Santa Maria no Sábado como memória facultativa. Os santos do Martirológio não são, por isso, celebrações obrigatórias no calendário nacional.",
+  "leituras": "3 Jo 5-8; Sl 111(112); Lc 18,1-8.",
+  "introducao": "Inventário preliminar de 16 elogios do Martirológio, distinguindo 13 santos individualmente nomeados (10 fichas, uma coletiva) e 8 beatos (6 fichas, uma coletiva). A contagem não equivale a 16 pessoas.",
+  "inventario_martirologio": [
+    "São Teódoto",
+    "Santo Hipácio",
+    "São Rufo",
+    "São Dubrício",
+    "São João de Traú",
+    "São Lourenço O'Toole",
+    "Beato João de Tufara",
+    "São Siardo",
+    "São Serapião",
+    "Santos Nicolau Tavelić, Deusdado, Estêvão e Pedro",
+    "Beato João Líccio",
+    "Beatos Gaspar, Úrsula e João Nishi",
+    "Santo Estêvão Teodoro Cuénot",
+    "Beata Maria Luísa Merkert",
+    "Beata Maria Teresa de Jesus",
+    "Beato Moisés Tovini"
+  ],
+  "santos": [
+    {
+      "nome": "São Teódoto de Heracleia",
+      "biografia": "Mártir em Heracleia, na região da atual Turquia; datação aproximada do século III.",
+      "cronologia": "século III (aprox.)",
+      "canonizacao": "Reconhecimento do culto e eventual processo formal por documentar em fontes primárias.",
+      "milagres": {
+        "oficialmente_reconhecidos": "Nenhum decreto individual comprovado nesta execução.",
+        "tradicao": "Não foram confirmados relatos concretos que possam ser atribuídos com segurança.",
+        "testemunhos": "Não documentados nesta execução."
+      },
+      "sepultura": "Localização das relíquias e sepultura por confirmar.",
+      "ligacao_portugal": "Ligação específica a Portugal não documentada.",
+      "referencias_biblicas": "Lc 18,1-8: perseverança na oração; reflexão temática, não dado biográfico.",
+      "imagem": {
+        "verificada": false,
+        "estado": "Pendente de pesquisa comparativa, identificação, licença e testes."
+      },
+      "fontes": [
+        "https://fatima.org.br/sao-serapiao-martir-14-de-novembro/"
+      ]
+    },
+    {
+      "nome": "Santo Hipácio de Gangra",
+      "biografia": "Bispo de Gangra, venerado como mártir; fontes tradicionais atribuem a morte a agressores de uma corrente cismática.",
+      "cronologia": "século IV",
+      "canonizacao": "Reconhecimento do culto e eventual processo formal por documentar em fontes primárias.",
+      "milagres": {
+        "oficialmente_reconhecidos": "Nenhum decreto individual comprovado nesta execução.",
+        "tradicao": "Não foram confirmados relatos concretos que possam ser atribuídos com segurança.",
+        "testemunhos": "Não documentados nesta execução."
+      },
+      "sepultura": "Localização das relíquias e sepultura por confirmar.",
+      "ligacao_portugal": "Ligação específica a Portugal não documentada.",
+      "referencias_biblicas": "Lc 18,1-8: perseverança na oração; reflexão temática, não dado biográfico.",
+      "imagem": {
+        "verificada": false,
+        "estado": "Pendente de pesquisa comparativa, identificação, licença e testes."
+      },
+      "fontes": [
+        "https://fatima.org.br/sao-serapiao-martir-14-de-novembro/"
+      ]
+    },
+    {
+      "nome": "São Rufo de Avinhão",
+      "biografia": "Bispo ligado às origens da comunidade cristã de Avinhão; dados históricos individuais escassos.",
+      "cronologia": "século IV",
+      "canonizacao": "Reconhecimento do culto e eventual processo formal por documentar em fontes primárias.",
+      "milagres": {
+        "oficialmente_reconhecidos": "Nenhum decreto individual comprovado nesta execução.",
+        "tradicao": "Não foram confirmados relatos concretos que possam ser atribuídos com segurança.",
+        "testemunhos": "Não documentados nesta execução."
+      },
+      "sepultura": "Localização das relíquias e sepultura por confirmar.",
+      "ligacao_portugal": "Ligação específica a Portugal não documentada.",
+      "referencias_biblicas": "Lc 18,1-8: perseverança na oração; reflexão temática, não dado biográfico.",
+      "imagem": {
+        "verificada": false,
+        "estado": "Pendente de pesquisa comparativa, identificação, licença e testes."
+      },
+      "fontes": [
+        "https://fatima.org.br/sao-serapiao-martir-14-de-novembro/"
+      ]
+    },
+    {
+      "nome": "São Dubrício de Gales",
+      "biografia": "Bispo e abade galês associado à ilha de Bardsey; elementos da biografia confundem-se com tradições hagiográficas medievais.",
+      "cronologia": "século VI",
+      "canonizacao": "Reconhecimento do culto e eventual processo formal por documentar em fontes primárias.",
+      "milagres": {
+        "oficialmente_reconhecidos": "Nenhum decreto individual comprovado nesta execução.",
+        "tradicao": "Não foram confirmados relatos concretos que possam ser atribuídos com segurança.",
+        "testemunhos": "Não documentados nesta execução."
+      },
+      "sepultura": "Localização das relíquias e sepultura por confirmar.",
+      "ligacao_portugal": "Ligação específica a Portugal não documentada.",
+      "referencias_biblicas": "Lc 18,1-8: perseverança na oração; reflexão temática, não dado biográfico.",
+      "imagem": {
+        "verificada": false,
+        "estado": "Pendente de pesquisa comparativa, identificação, licença e testes."
+      },
+      "fontes": [
+        "https://fatima.org.br/sao-serapiao-martir-14-de-novembro/"
+      ]
+    },
+    {
+      "nome": "São João de Traú",
+      "biografia": "Bispo de Traú (Trogir), na Dalmácia, lembrado pela defesa da cidade em tempos do rei Colomano.",
+      "cronologia": "m. c. 1111",
+      "canonizacao": "Reconhecimento do culto e eventual processo formal por documentar em fontes primárias.",
+      "milagres": {
+        "oficialmente_reconhecidos": "Nenhum decreto individual comprovado nesta execução.",
+        "tradicao": "Não foram confirmados relatos concretos que possam ser atribuídos com segurança.",
+        "testemunhos": "Não documentados nesta execução."
+      },
+      "sepultura": "Localização das relíquias e sepultura por confirmar.",
+      "ligacao_portugal": "Ligação específica a Portugal não documentada.",
+      "referencias_biblicas": "Lc 18,1-8: perseverança na oração; reflexão temática, não dado biográfico.",
+      "imagem": {
+        "verificada": false,
+        "estado": "Pendente de pesquisa comparativa, identificação, licença e testes."
+      },
+      "fontes": [
+        "https://fatima.org.br/sao-serapiao-martir-14-de-novembro/"
+      ]
+    },
+    {
+      "nome": "São Lourenço O'Toole",
+      "biografia": "Arcebispo de Dublin, também chamado Lorcán Ua Tuathail; morreu em Eu, França, em 1180.",
+      "cronologia": "m. 1180",
+      "canonizacao": "Reconhecimento do culto e eventual processo formal por documentar em fontes primárias.",
+      "milagres": {
+        "oficialmente_reconhecidos": "Nenhum decreto individual comprovado nesta execução.",
+        "tradicao": "Não foram confirmados relatos concretos que possam ser atribuídos com segurança.",
+        "testemunhos": "Não documentados nesta execução."
+      },
+      "sepultura": "Localização das relíquias e sepultura por confirmar.",
+      "ligacao_portugal": "Ligação específica a Portugal não documentada.",
+      "referencias_biblicas": "Lc 18,1-8: perseverança na oração; reflexão temática, não dado biográfico.",
+      "imagem": {
+        "verificada": false,
+        "estado": "Pendente de pesquisa comparativa, identificação, licença e testes."
+      },
+      "fontes": [
+        "https://fatima.org.br/sao-serapiao-martir-14-de-novembro/"
+      ]
+    },
+    {
+      "nome": "São Siardo",
+      "biografia": "Abade premonstratense de Mariëngaarde, na Frísia, recordado pela vida monástica e serviço da comunidade.",
+      "cronologia": "m. 1230",
+      "canonizacao": "Reconhecimento do culto e eventual processo formal por documentar em fontes primárias.",
+      "milagres": {
+        "oficialmente_reconhecidos": "Nenhum decreto individual comprovado nesta execução.",
+        "tradicao": "Não foram confirmados relatos concretos que possam ser atribuídos com segurança.",
+        "testemunhos": "Não documentados nesta execução."
+      },
+      "sepultura": "Localização das relíquias e sepultura por confirmar.",
+      "ligacao_portugal": "Ligação específica a Portugal não documentada.",
+      "referencias_biblicas": "Lc 18,1-8: perseverança na oração; reflexão temática, não dado biográfico.",
+      "imagem": {
+        "verificada": false,
+        "estado": "Pendente de pesquisa comparativa, identificação, licença e testes."
+      },
+      "fontes": [
+        "https://fatima.org.br/sao-serapiao-martir-14-de-novembro/"
+      ]
+    },
+    {
+      "nome": "São Serapião de Argel",
+      "biografia": "Religioso mercedário associado à redenção de cativos cristãos, martirizado em Argel. A cronologia da juventude deriva sobretudo de tradição.",
+      "cronologia": "m. 1240",
+      "canonizacao": "Reconhecimento do culto e eventual processo formal por documentar em fontes primárias.",
+      "milagres": {
+        "oficialmente_reconhecidos": "Nenhum decreto individual comprovado nesta execução.",
+        "tradicao": "Não foram confirmados relatos concretos que possam ser atribuídos com segurança.",
+        "testemunhos": "Não documentados nesta execução."
+      },
+      "sepultura": "Localização das relíquias e sepultura por confirmar.",
+      "ligacao_portugal": "Ligação específica a Portugal não documentada.",
+      "referencias_biblicas": "Lc 18,1-8: perseverança na oração; reflexão temática, não dado biográfico.",
+      "imagem": {
+        "verificada": false,
+        "estado": "Pendente de pesquisa comparativa, identificação, licença e testes."
+      },
+      "fontes": [
+        "https://fatima.org.br/sao-serapiao-martir-14-de-novembro/"
+      ]
+    },
+    {
+      "nome": "São Nicolau Tavelić, São Deusdado de Rodez, Santo Estêvão de Cúneo e São Pedro de Narbona",
+      "biografia": "Quatro franciscanos martirizados em Jerusalém em 1391, após pregação pública às autoridades muçulmanas; canonizados por Paulo VI em 21 de junho de 1970.",
+      "cronologia": "m. 1391",
+      "canonizacao": "Canonizados por Paulo VI em 21-06-1970; culto anterior confirmado em fases distintas.",
+      "milagres": {
+        "oficialmente_reconhecidos": "Nenhum decreto individual comprovado nesta execução.",
+        "tradicao": "Não foram confirmados relatos concretos que possam ser atribuídos com segurança.",
+        "testemunhos": "Não documentados nesta execução."
+      },
+      "sepultura": "Fontes do Dicastério referem destruição dos restos mortais; não atribuir relíquias sem prova.",
+      "ligacao_portugal": "Ligação específica a Portugal não documentada.",
+      "referencias_biblicas": "Mt 5,10-12: bem-aventurança dos perseguidos; associação temática, não citação biográfica.",
+      "imagem": {
+        "verificada": false,
+        "estado": "Pendente de pesquisa comparativa, identificação, licença e testes."
+      },
+      "fontes": [
+        "https://fatima.org.br/sao-serapiao-martir-14-de-novembro/",
+        "https://www.causesanti.va/it/santi-e-beati/nicola-tavelic-stefano-da-cuneo-deodato-da-ruticinio-e-pietro-da.html"
+      ]
+    },
+    {
+      "nome": "Santo Estêvão Teodoro Cuénot",
+      "biografia": "Bispo missionário no Vietname, morto em cativeiro em 1861, no contexto das perseguições aos cristãos.",
+      "cronologia": "m. 1861",
+      "canonizacao": "Reconhecimento do culto e eventual processo formal por documentar em fontes primárias.",
+      "milagres": {
+        "oficialmente_reconhecidos": "Nenhum decreto individual comprovado nesta execução.",
+        "tradicao": "Não foram confirmados relatos concretos que possam ser atribuídos com segurança.",
+        "testemunhos": "Não documentados nesta execução."
+      },
+      "sepultura": "Localização das relíquias e sepultura por confirmar.",
+      "ligacao_portugal": "Ligação específica a Portugal não documentada.",
+      "referencias_biblicas": "Lc 18,1-8: perseverança na oração; reflexão temática, não dado biográfico.",
+      "imagem": {
+        "verificada": false,
+        "estado": "Pendente de pesquisa comparativa, identificação, licença e testes."
+      },
+      "fontes": [
+        "https://fatima.org.br/sao-serapiao-martir-14-de-novembro/"
+      ]
+    }
+  ],
+  "beatos": [
+    {
+      "nome": "Beato João de Tufara",
+      "biografia": "Eremita italiano ligado a Santa Maria de Gualdo Mazocca; morreu em 1170.",
+      "imagem": {
+        "verificada": false,
+        "estado": "Sem imagem por regra editorial."
+      },
+      "fontes": [
+        "https://fatima.org.br/sao-serapiao-martir-14-de-novembro/"
+      ]
+    },
+    {
+      "nome": "Beato João Líccio",
+      "biografia": "Presbítero dominicano de Cáccamo, na Sicília; morreu em 1511.",
+      "imagem": {
+        "verificada": false,
+        "estado": "Sem imagem por regra editorial."
+      },
+      "fontes": [
+        "https://fatima.org.br/sao-serapiao-martir-14-de-novembro/"
+      ]
+    },
+    {
+      "nome": "Beatos Gaspar Nishi Genka, Úrsula Nishi e João Nishi Mataishi",
+      "biografia": "Família cristã japonesa martirizada em Ikitsuki em 1609.",
+      "imagem": {
+        "verificada": false,
+        "estado": "Sem imagem por regra editorial."
+      },
+      "fontes": [
+        "https://fatima.org.br/sao-serapiao-martir-14-de-novembro/"
+      ]
+    },
+    {
+      "nome": "Beata Maria Luísa Merkert",
+      "biografia": "Religiosa polaca, cofundadora de comunidade dedicada ao cuidado dos doentes; morreu em 1872.",
+      "imagem": {
+        "verificada": false,
+        "estado": "Sem imagem por regra editorial."
+      },
+      "fontes": [
+        "https://fatima.org.br/sao-serapiao-martir-14-de-novembro/"
+      ]
+    },
+    {
+      "nome": "Beata Maria Teresa de Jesus (Maria Scrilli)",
+      "biografia": "Religiosa italiana fundadora de congregação carmelita; morreu em 1889.",
+      "imagem": {
+        "verificada": false,
+        "estado": "Sem imagem por regra editorial."
+      },
+      "fontes": [
+        "https://fatima.org.br/sao-serapiao-martir-14-de-novembro/"
+      ]
+    },
+    {
+      "nome": "Beato Moisés Tovini",
+      "biografia": "Sacerdote italiano de Bréscia; morreu em 1930 segundo fontes biográficas, divergindo da data de 1889 indicada no inventário secundário, que requer correção documental.",
+      "imagem": {
+        "verificada": false,
+        "estado": "Sem imagem por regra editorial."
+      },
+      "fontes": [
+        "https://fatima.org.br/sao-serapiao-martir-14-de-novembro/"
+      ]
+    }
+  ],
+  "fontes": [
+    "https://fatima.org.br/sao-serapiao-martir-14-de-novembro/",
+    "https://gcatholic.org/calendar/2026/PT-pt.htm",
+    "https://www.paroquias.org/capela/calendario/2026/11",
+    "https://www.causesanti.va/it/santi-e-beati/nicola-tavelic-stefano-da-cuneo-deodato-da-ruticinio-e-pietro-da.html"
+  ],
+  "pendencias": [
+    "Inventário baseado numa transcrição secundária atribuída ao Secretariado Nacional de Liturgia; confronto direto com edição integral oficial do Martirológio ainda pendente.",
+    "Versão integral das regras v2.0 de 25-10-2026 não localizada; INSTRUCOES.md v2.1 integral lido.",
+    "Dez fichas de santos, correspondentes a 13 pessoas, sem imagens verificadas; não foi efetuada comparação de 5–10 candidatos por santo.",
+    "Biografias e fontes primárias insuficientes; milagres, processos canónicos, relíquias e ligações a Portugal não integralmente documentados.",
+    "Data de falecimento do beato Moisés Tovini apresenta divergência em fonte secundária e exige conferência.",
+    "Testes de apresentação mobile/desktop, acessibilidade, partilha, PDF e imagens pendentes.",
+    "Publicação pública requer verificação independente do ficheiro servido pelo GitHub Pages."
+  ]
+}
