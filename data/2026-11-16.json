@@ -1,0 +1,159 @@
+{
+  "data": "2026-11-16",
+  "estado": "rascunho",
+  "titulo": "Segunda-feira da XXXIII semana do Tempo Comum — Santos do dia",
+  "liturgia": "Segunda-feira da XXXIII semana do Tempo Comum, ano par (II); verde. Memórias facultativas de Santa Margarida da Escócia e Santa Gertrudes, virgem. Calendários próprios locais por conferir.",
+  "leituras": "Ap 1,1-4; 2,1-5a; Sl 1,1-2.3.4 e 6; Lc 18,35-43",
+  "fontes_liturgia": [
+    "https://www.paroquias.org/liturgia/2026-11-16",
+    "https://www.liturgia.pt/lh/pdf/000LH_Abrev.pdf",
+    "https://www.vaticannews.va/pt/santo-do-dia/11/16.html"
+  ],
+  "aviso_inventario": "Inventário parcial proveniente de fontes secundárias; não confrontado integralmente com o Martirológio Romano português. Não declarar exaustividade.",
+  "inventario_martirologio_preliminar": [
+    "Santa Margarida da Escócia",
+    "Santa Gertrudes a Grande",
+    "Santa Inês de Assis",
+    "Santo Edmundo de Abingdon",
+    "Santo Otmaro de São Galo",
+    "Santo Eucério de Lyon",
+    "Santos Agostinho e Felicidade de Cápua",
+    "Beato Eduardo Osbaldeston",
+    "Beato Simeão de Cava"
+  ],
+  "santos": [
+    {
+      "nome": "Santa Margarida da Escócia",
+      "memoria": "facultativa",
+      "biografia": "Rainha da Escócia, nascida cerca de 1046 durante o exílio da família na Hungria. Casou com Malcolm III, teve oito filhos e distinguiu-se pelo cuidado dos pobres e pela renovação da vida religiosa. Morreu em Edimburgo em 1093.",
+      "cronologia": "c. 1046–16 de novembro de 1093",
+      "canonizacao": "Canonização atribuída a Inocêncio IV em 1250; confirmar documentação primária.",
+      "milagres": {
+        "oficialmente_reconhecidos": "Decretos e documentação por conferir.",
+        "tradicao": "Por investigar.",
+        "testemunhos": "Por investigar."
+      },
+      "sepultura": "Dunfermline, Escócia; história e localização atual das relíquias por verificar.",
+      "ligacao_portugal": "Sem ligação direta documentada nesta execução.",
+      "referencias_biblicas": "Lc 18,35-43: fé e misericórdia; relação temática, não episódio biográfico.",
+      "imagem": {
+        "verificada": false,
+        "estado": "Pendente de identificação, licença, comparação de candidatos e testes."
+      },
+      "fontes": [
+        "https://www.vaticannews.va/pt/santo-do-dia/11/16.html",
+        "https://www.liturgia.pt/lh/pdf/0911Nov.pdf"
+      ]
+    },
+    {
+      "nome": "Santa Gertrudes a Grande",
+      "memoria": "facultativa",
+      "biografia": "Monja de Helfta, nascida em 1256; dedicou-se ao estudo, à oração litúrgica e à contemplação da humanidade de Cristo. A sua obra mística influenciou a espiritualidade cristã.",
+      "cronologia": "1256–c. 1302",
+      "canonizacao": "História do reconhecimento litúrgico e eventual processo canónico por verificar; não presumir decreto formal.",
+      "milagres": {
+        "oficialmente_reconhecidos": "Por documentar.",
+        "tradicao": "Por investigar.",
+        "testemunhos": "Por investigar."
+      },
+      "sepultura": "Por confirmar.",
+      "ligacao_portugal": "Receção das suas obras em Portugal por investigar.",
+      "referencias_biblicas": "Ap 2,1-5a: recuperar o primeiro amor; relação espiritual, não histórica.",
+      "imagem": {
+        "verificada": false,
+        "estado": "Pendente de validação."
+      },
+      "fontes": [
+        "https://www.vaticannews.va/pt/santo-do-dia/11/16.html",
+        "https://www.liturgia.pt/lh/pdf/0911Nov.pdf"
+      ]
+    },
+    {
+      "nome": "Santa Inês de Assis",
+      "biografia": "Ficha pendente de investigação documental individualizada.",
+      "imagem": {
+        "verificada": false,
+        "estado": "Pendente de pesquisa e validação."
+      },
+      "fontes": [
+        "https://relicariocatolico.com.br/santo-do-dia/16-de-novembro/"
+      ]
+    },
+    {
+      "nome": "Santo Edmundo de Abingdon",
+      "biografia": "Ficha pendente de investigação documental individualizada.",
+      "imagem": {
+        "verificada": false,
+        "estado": "Pendente de pesquisa e validação."
+      },
+      "fontes": [
+        "https://relicariocatolico.com.br/santo-do-dia/16-de-novembro/"
+      ]
+    },
+    {
+      "nome": "Santo Otmaro de São Galo",
+      "biografia": "Ficha pendente de investigação documental individualizada.",
+      "imagem": {
+        "verificada": false,
+        "estado": "Pendente de pesquisa e validação."
+      },
+      "fontes": [
+        "https://relicariocatolico.com.br/santo-do-dia/16-de-novembro/"
+      ]
+    },
+    {
+      "nome": "Santo Eucério de Lyon",
+      "biografia": "Ficha pendente de investigação documental individualizada.",
+      "imagem": {
+        "verificada": false,
+        "estado": "Pendente de pesquisa e validação."
+      },
+      "fontes": [
+        "https://relicariocatolico.com.br/santo-do-dia/16-de-novembro/"
+      ]
+    },
+    {
+      "nome": "Santos Agostinho e Felicidade de Cápua",
+      "biografia": "Ficha pendente de investigação documental individualizada.",
+      "imagem": {
+        "verificada": false,
+        "estado": "Pendente de pesquisa e validação."
+      },
+      "fontes": [
+        "https://relicariocatolico.com.br/santo-do-dia/16-de-novembro/"
+      ]
+    }
+  ],
+  "beatos": [
+    {
+      "nome": "Beato Eduardo Osbaldeston",
+      "biografia": "Pendente de confirmação documental e aprofundamento.",
+      "imagem": {
+        "verificada": false,
+        "estado": "Sem imagem por regra editorial."
+      },
+      "fontes": [
+        "https://relicariocatolico.com.br/santo-do-dia/16-de-novembro/"
+      ]
+    },
+    {
+      "nome": "Beato Simeão de Cava",
+      "biografia": "Pendente de confirmação documental e aprofundamento.",
+      "imagem": {
+        "verificada": false,
+        "estado": "Sem imagem por regra editorial."
+      },
+      "fontes": [
+        "https://relicariocatolico.com.br/santo-do-dia/16-de-novembro/"
+      ]
+    }
+  ],
+  "pendencias": [
+    "Versão integral das regras v2.0 de 25-10-2026 não localizada.",
+    "Confrontar inventário completo e elogios com Martirológio Romano português.",
+    "Conferir calendários próprios e precedências locais.",
+    "Aprofundar todas as biografias, processos canónicos, milagres e relíquias.",
+    "Pesquisar 5–10 imagens candidatas por santo e validar licença, identidade e carregamento.",
+    "Testar apresentação móvel, acessibilidade, partilha, PDF e site público."
+  ]
+}
