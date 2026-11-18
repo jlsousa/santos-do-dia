@@ -1,0 +1,538 @@
+{
+  "data": "2026-11-18",
+  "estado": "rascunho",
+  "titulo": "Dedicação das Basílicas de São Pedro e São Paulo — Santos do Dia",
+  "liturgia": "Quarta-feira da XXXIII semana do Tempo Comum; em Portugal memória facultativa da Dedicação das Basílicas dos Santos Pedro e Paulo. Féria ou memória, conforme opção litúrgica e calendários próprios.",
+  "leituras": "Féria: Ap 4,1-11; Sl 150; Lc 19,11-28. Na memória: consultar lecionário próprio/comum dos Apóstolos; Mt 14,22-33 é apresentado por fonte litúrgica devocional, não presumir obrigatório.",
+  "comemoracao_liturgica": {
+    "nome": "Dedicação das Basílicas dos Santos Pedro e Paulo, Apóstolos",
+    "tipo": "memória facultativa; não contar como santo",
+    "contexto": "Comemoração das basílicas romanas relacionadas com os túmulos dos dois apóstolos.",
+    "fontes": [
+      "https://www.liturgia.pt/lh/pdf/0911Nov.pdf",
+      "https://paroquiadematosinhos.pt/calendar/liturgia-diaria/"
+    ]
+  },
+  "fontes_liturgia": [
+    "https://paroquiadematosinhos.pt/calendar/liturgia-diaria/",
+    "https://www.liturgia.pt/lh/pdf/0911Nov.pdf",
+    "https://universalis.com/europe.portugal/20261118/readings.1.htm"
+  ],
+  "aviso_inventario": "14 elogios (incluindo comemoração inicial) identificados numa transcrição secundária de 2019; NÃO confrontados com edição integral oficial portuguesa atualizada; não declarar inventário exaustivo.",
+  "inventario_martirologio_preliminar": [
+    "Dedicação das Basílicas de São Pedro e São Paulo",
+    "São Romão de Antioquia",
+    "São Pátroclo",
+    "São Maudeto",
+    "São Romacário",
+    "São Teofredo",
+    "Santo Odão de Cluny",
+    "Santa Rosa Filipina Duchesne",
+    "Beato Leonardo Kimura",
+    "Beato André Murayama Tokuan",
+    "Beato Cosme Takeya",
+    "Beato João Yoshida Shoun",
+    "Beato Domingos Jorge",
+    "Beato Grimoaldo da Purificação",
+    "Beata Carolina Koska",
+    "Beata Maria do Amparo Hinojosa y Naveros",
+    "Beata Teresa Maria Cavestany y Anduaga",
+    "Beata Josefa Maria Barrera e Izaguirre",
+    "Beata Maria Inês Zudaire y Galdeano",
+    "Beata Maria Ângela Olaizola y Garagarza",
+    "Beata Maria Engrácia Lecuona y Aramburu",
+    "Beato José Maria Cánovas Martínez",
+    "Beato Ovídio Bertrão Anuncibay Letona",
+    "Beato Hermenegildo Lourenço Sáez Manzanares",
+    "Beato Luciano Paulo García García",
+    "Beato Estanislau Vitor Cordero Fernández",
+    "Beato Lourenço Tiago Martínez de la Pera",
+    "Beato Vidal Luís Gómara"
+  ],
+  "santos": [
+    {
+      "nome": "São Romão de Antioquia",
+      "ordem_martirologio": 2,
+      "biografia": "Diácono de Cesareia, mártir em Antioquia na perseguição de Diocleciano; tradição refere torturas e morte no cárcere.",
+      "estatuto": "santo — memória martirológica",
+      "cronologia": "Aprofundamento e confronto de fontes primárias pendentes.",
+      "canonizacao": "Reconhecimento histórico do culto; documentação processual por verificar.",
+      "milagres": {
+        "oficialmente_reconhecidos": "Não documentados nesta edição.",
+        "tradicao": "Por investigar criticamente.",
+        "testemunhos": "Não verificados."
+      },
+      "reliquias_sepultura": "Por documentar.",
+      "ligacao_portugal": "Por investigar.",
+      "referencias_biblicas": "1 Pd 2,4-9: edificação espiritual da Igreja, associação temática.",
+      "imagem": {
+        "verificada": false,
+        "estado": "Pendente de investigação, licença e teste."
+      },
+      "fontes": [
+        "https://www.cruxsacra.net/2019/11/martirologio-romano-18-de-novembro-de.html"
+      ]
+    },
+    {
+      "nome": "São Pátroclo",
+      "ordem_martirologio": 3,
+      "biografia": "Presbítero, eremita e missionário na região de Bourges; documentação cronológica por confrontar.",
+      "estatuto": "santo — memória martirológica",
+      "cronologia": "Aprofundamento e confronto de fontes primárias pendentes.",
+      "canonizacao": "Reconhecimento histórico do culto; documentação processual por verificar.",
+      "milagres": {
+        "oficialmente_reconhecidos": "Não documentados nesta edição.",
+        "tradicao": "Por investigar criticamente.",
+        "testemunhos": "Não verificados."
+      },
+      "reliquias_sepultura": "Por documentar.",
+      "ligacao_portugal": "Por investigar.",
+      "referencias_biblicas": "1 Pd 2,4-9: edificação espiritual da Igreja, associação temática.",
+      "imagem": {
+        "verificada": false,
+        "estado": "Pendente de investigação, licença e teste."
+      },
+      "fontes": [
+        "https://www.cruxsacra.net/2019/11/martirologio-romano-18-de-novembro-de.html"
+      ]
+    },
+    {
+      "nome": "São Maudeto",
+      "ordem_martirologio": 4,
+      "biografia": "Abade na Bretanha Menor, ligado à formação de discípulos numa comunidade insular.",
+      "estatuto": "santo — memória martirológica",
+      "cronologia": "Aprofundamento e confronto de fontes primárias pendentes.",
+      "canonizacao": "Reconhecimento histórico do culto; documentação processual por verificar.",
+      "milagres": {
+        "oficialmente_reconhecidos": "Não documentados nesta edição.",
+        "tradicao": "Por investigar criticamente.",
+        "testemunhos": "Não verificados."
+      },
+      "reliquias_sepultura": "Por documentar.",
+      "ligacao_portugal": "Por investigar.",
+      "referencias_biblicas": "1 Pd 2,4-9: edificação espiritual da Igreja, associação temática.",
+      "imagem": {
+        "verificada": false,
+        "estado": "Pendente de investigação, licença e teste."
+      },
+      "fontes": [
+        "https://www.cruxsacra.net/2019/11/martirologio-romano-18-de-novembro-de.html"
+      ]
+    },
+    {
+      "nome": "São Romacário",
+      "ordem_martirologio": 5,
+      "biografia": "Bispo de Coutances na Nêustria; dados cronológicos carecem de investigação.",
+      "estatuto": "santo — memória martirológica",
+      "cronologia": "Aprofundamento e confronto de fontes primárias pendentes.",
+      "canonizacao": "Reconhecimento histórico do culto; documentação processual por verificar.",
+      "milagres": {
+        "oficialmente_reconhecidos": "Não documentados nesta edição.",
+        "tradicao": "Por investigar criticamente.",
+        "testemunhos": "Não verificados."
+      },
+      "reliquias_sepultura": "Por documentar.",
+      "ligacao_portugal": "Por investigar.",
+      "referencias_biblicas": "1 Pd 2,4-9: edificação espiritual da Igreja, associação temática.",
+      "imagem": {
+        "verificada": false,
+        "estado": "Pendente de investigação, licença e teste."
+      },
+      "fontes": [
+        "https://www.cruxsacra.net/2019/11/martirologio-romano-18-de-novembro-de.html"
+      ]
+    },
+    {
+      "nome": "São Teofredo",
+      "ordem_martirologio": 6,
+      "biografia": "Abade e mártir na região de Velay, Aquitânia; circunstâncias do martírio por documentar.",
+      "estatuto": "santo — memória martirológica",
+      "cronologia": "Aprofundamento e confronto de fontes primárias pendentes.",
+      "canonizacao": "Reconhecimento histórico do culto; documentação processual por verificar.",
+      "milagres": {
+        "oficialmente_reconhecidos": "Não documentados nesta edição.",
+        "tradicao": "Por investigar criticamente.",
+        "testemunhos": "Não verificados."
+      },
+      "reliquias_sepultura": "Por documentar.",
+      "ligacao_portugal": "Por investigar.",
+      "referencias_biblicas": "1 Pd 2,4-9: edificação espiritual da Igreja, associação temática.",
+      "imagem": {
+        "verificada": false,
+        "estado": "Pendente de investigação, licença e teste."
+      },
+      "fontes": [
+        "https://www.cruxsacra.net/2019/11/martirologio-romano-18-de-novembro-de.html"
+      ]
+    },
+    {
+      "nome": "Santo Odão de Cluny",
+      "ordem_martirologio": 7,
+      "biografia": "Abade de Cluny (c. 878–942), impulsionador da reforma beneditina e da vida monástica ocidental.",
+      "estatuto": "santo — memória martirológica",
+      "cronologia": "Aprofundamento e confronto de fontes primárias pendentes.",
+      "canonizacao": "Reconhecimento histórico do culto; documentação processual por verificar.",
+      "milagres": {
+        "oficialmente_reconhecidos": "Não documentados nesta edição.",
+        "tradicao": "Por investigar criticamente.",
+        "testemunhos": "Não verificados."
+      },
+      "reliquias_sepultura": "Por documentar.",
+      "ligacao_portugal": "Por investigar.",
+      "referencias_biblicas": "1 Pd 2,4-9: edificação espiritual da Igreja, associação temática.",
+      "imagem": {
+        "verificada": false,
+        "estado": "Pendente de investigação, licença e teste."
+      },
+      "fontes": [
+        "https://www.cruxsacra.net/2019/11/martirologio-romano-18-de-novembro-de.html"
+      ]
+    },
+    {
+      "nome": "Santa Rosa Filipina Duchesne",
+      "ordem_martirologio": 8,
+      "biografia": "Religiosa do Sagrado Coração (1769–1852), nascida em França; fundou escolas e trabalhou como missionária nos Estados Unidos; canonizada em 1988.",
+      "estatuto": "santo — memória martirológica",
+      "cronologia": "Aprofundamento e confronto de fontes primárias pendentes.",
+      "canonizacao": "Reconhecimento histórico do culto; documentação processual por verificar.",
+      "milagres": {
+        "oficialmente_reconhecidos": "Não documentados nesta edição.",
+        "tradicao": "Por investigar criticamente.",
+        "testemunhos": "Não verificados."
+      },
+      "reliquias_sepultura": "Por documentar.",
+      "ligacao_portugal": "Por investigar.",
+      "referencias_biblicas": "1 Pd 2,4-9: edificação espiritual da Igreja, associação temática.",
+      "imagem": {
+        "verificada": false,
+        "estado": "Pendente de investigação, licença e teste."
+      },
+      "fontes": [
+        "https://www.cruxsacra.net/2019/11/martirologio-romano-18-de-novembro-de.html"
+      ]
+    }
+  ],
+  "beatos": [
+    {
+      "nome": "Beato Leonardo Kimura",
+      "grupo": 1,
+      "estatuto": "beato — memória martirológica",
+      "biografia": "Mártir cristão no Japão, em Nagasáqui, condenado à morte pelo fogo por causa da fé.",
+      "beatificacao": "Data e decreto por verificar em fonte oficial.",
+      "milagres": {
+        "oficialmente_reconhecidos": "Não documentados.",
+        "tradicao": "Por investigar.",
+        "testemunhos": "Não verificados."
+      },
+      "fontes": [
+        "https://www.cruxsacra.net/2019/11/martirologio-romano-18-de-novembro-de.html"
+      ]
+    },
+    {
+      "nome": "Beato André Murayama Tokuan",
+      "grupo": 1,
+      "estatuto": "beato — memória martirológica",
+      "biografia": "Mártir cristão no Japão, em Nagasáqui, condenado à morte pelo fogo por causa da fé.",
+      "beatificacao": "Data e decreto por verificar em fonte oficial.",
+      "milagres": {
+        "oficialmente_reconhecidos": "Não documentados.",
+        "tradicao": "Por investigar.",
+        "testemunhos": "Não verificados."
+      },
+      "fontes": [
+        "https://www.cruxsacra.net/2019/11/martirologio-romano-18-de-novembro-de.html"
+      ]
+    },
+    {
+      "nome": "Beato Cosme Takeya",
+      "grupo": 1,
+      "estatuto": "beato — memória martirológica",
+      "biografia": "Mártir cristão no Japão, em Nagasáqui, condenado à morte pelo fogo por causa da fé.",
+      "beatificacao": "Data e decreto por verificar em fonte oficial.",
+      "milagres": {
+        "oficialmente_reconhecidos": "Não documentados.",
+        "tradicao": "Por investigar.",
+        "testemunhos": "Não verificados."
+      },
+      "fontes": [
+        "https://www.cruxsacra.net/2019/11/martirologio-romano-18-de-novembro-de.html"
+      ]
+    },
+    {
+      "nome": "Beato João Yoshida Shoun",
+      "grupo": 1,
+      "estatuto": "beato — memória martirológica",
+      "biografia": "Mártir cristão no Japão, em Nagasáqui, condenado à morte pelo fogo por causa da fé.",
+      "beatificacao": "Data e decreto por verificar em fonte oficial.",
+      "milagres": {
+        "oficialmente_reconhecidos": "Não documentados.",
+        "tradicao": "Por investigar.",
+        "testemunhos": "Não verificados."
+      },
+      "fontes": [
+        "https://www.cruxsacra.net/2019/11/martirologio-romano-18-de-novembro-de.html"
+      ]
+    },
+    {
+      "nome": "Beato Domingos Jorge",
+      "grupo": 1,
+      "estatuto": "beato — memória martirológica",
+      "biografia": "Mártir cristão no Japão, em Nagasáqui, condenado à morte pelo fogo por causa da fé.",
+      "beatificacao": "Data e decreto por verificar em fonte oficial.",
+      "milagres": {
+        "oficialmente_reconhecidos": "Não documentados.",
+        "tradicao": "Por investigar.",
+        "testemunhos": "Não verificados."
+      },
+      "fontes": [
+        "https://www.cruxsacra.net/2019/11/martirologio-romano-18-de-novembro-de.html"
+      ]
+    },
+    {
+      "nome": "Beato Grimoaldo da Purificação",
+      "grupo": 2,
+      "estatuto": "beato — memória martirológica",
+      "biografia": "Religioso passionista, falecido durante a preparação para o sacerdócio.",
+      "beatificacao": "Data e decreto por verificar em fonte oficial.",
+      "milagres": {
+        "oficialmente_reconhecidos": "Não documentados.",
+        "tradicao": "Por investigar.",
+        "testemunhos": "Não verificados."
+      },
+      "fontes": [
+        "https://www.cruxsacra.net/2019/11/martirologio-romano-18-de-novembro-de.html"
+      ]
+    },
+    {
+      "nome": "Beata Carolina Koska",
+      "grupo": 3,
+      "estatuto": "beato — memória martirológica",
+      "biografia": "Jovem polaca morta durante a Primeira Guerra Mundial, venerada como mártir.",
+      "beatificacao": "Data e decreto por verificar em fonte oficial.",
+      "milagres": {
+        "oficialmente_reconhecidos": "Não documentados.",
+        "tradicao": "Por investigar.",
+        "testemunhos": "Não verificados."
+      },
+      "fontes": [
+        "https://www.cruxsacra.net/2019/11/martirologio-romano-18-de-novembro-de.html"
+      ]
+    },
+    {
+      "nome": "Beata Maria do Amparo Hinojosa y Naveros",
+      "grupo": 4,
+      "estatuto": "beato — memória martirológica",
+      "biografia": "Religiosa visitandina, mártir da perseguição religiosa em Espanha.",
+      "beatificacao": "Data e decreto por verificar em fonte oficial.",
+      "milagres": {
+        "oficialmente_reconhecidos": "Não documentados.",
+        "tradicao": "Por investigar.",
+        "testemunhos": "Não verificados."
+      },
+      "fontes": [
+        "https://www.cruxsacra.net/2019/11/martirologio-romano-18-de-novembro-de.html"
+      ]
+    },
+    {
+      "nome": "Beata Teresa Maria Cavestany y Anduaga",
+      "grupo": 4,
+      "estatuto": "beato — memória martirológica",
+      "biografia": "Religiosa visitandina, mártir da perseguição religiosa em Espanha.",
+      "beatificacao": "Data e decreto por verificar em fonte oficial.",
+      "milagres": {
+        "oficialmente_reconhecidos": "Não documentados.",
+        "tradicao": "Por investigar.",
+        "testemunhos": "Não verificados."
+      },
+      "fontes": [
+        "https://www.cruxsacra.net/2019/11/martirologio-romano-18-de-novembro-de.html"
+      ]
+    },
+    {
+      "nome": "Beata Josefa Maria Barrera e Izaguirre",
+      "grupo": 4,
+      "estatuto": "beato — memória martirológica",
+      "biografia": "Religiosa visitandina, mártir da perseguição religiosa em Espanha.",
+      "beatificacao": "Data e decreto por verificar em fonte oficial.",
+      "milagres": {
+        "oficialmente_reconhecidos": "Não documentados.",
+        "tradicao": "Por investigar.",
+        "testemunhos": "Não verificados."
+      },
+      "fontes": [
+        "https://www.cruxsacra.net/2019/11/martirologio-romano-18-de-novembro-de.html"
+      ]
+    },
+    {
+      "nome": "Beata Maria Inês Zudaire y Galdeano",
+      "grupo": 4,
+      "estatuto": "beato — memória martirológica",
+      "biografia": "Religiosa visitandina, mártir da perseguição religiosa em Espanha.",
+      "beatificacao": "Data e decreto por verificar em fonte oficial.",
+      "milagres": {
+        "oficialmente_reconhecidos": "Não documentados.",
+        "tradicao": "Por investigar.",
+        "testemunhos": "Não verificados."
+      },
+      "fontes": [
+        "https://www.cruxsacra.net/2019/11/martirologio-romano-18-de-novembro-de.html"
+      ]
+    },
+    {
+      "nome": "Beata Maria Ângela Olaizola y Garagarza",
+      "grupo": 4,
+      "estatuto": "beato — memória martirológica",
+      "biografia": "Religiosa visitandina, mártir da perseguição religiosa em Espanha.",
+      "beatificacao": "Data e decreto por verificar em fonte oficial.",
+      "milagres": {
+        "oficialmente_reconhecidos": "Não documentados.",
+        "tradicao": "Por investigar.",
+        "testemunhos": "Não verificados."
+      },
+      "fontes": [
+        "https://www.cruxsacra.net/2019/11/martirologio-romano-18-de-novembro-de.html"
+      ]
+    },
+    {
+      "nome": "Beata Maria Engrácia Lecuona y Aramburu",
+      "grupo": 4,
+      "estatuto": "beato — memória martirológica",
+      "biografia": "Religiosa visitandina, mártir da perseguição religiosa em Espanha.",
+      "beatificacao": "Data e decreto por verificar em fonte oficial.",
+      "milagres": {
+        "oficialmente_reconhecidos": "Não documentados.",
+        "tradicao": "Por investigar.",
+        "testemunhos": "Não verificados."
+      },
+      "fontes": [
+        "https://www.cruxsacra.net/2019/11/martirologio-romano-18-de-novembro-de.html"
+      ]
+    },
+    {
+      "nome": "Beato José Maria Cánovas Martínez",
+      "grupo": 5,
+      "estatuto": "beato — memória martirológica",
+      "biografia": "Mártir da perseguição religiosa em Espanha; grupo de Lorca.",
+      "beatificacao": "Data e decreto por verificar em fonte oficial.",
+      "milagres": {
+        "oficialmente_reconhecidos": "Não documentados.",
+        "tradicao": "Por investigar.",
+        "testemunhos": "Não verificados."
+      },
+      "fontes": [
+        "https://www.cruxsacra.net/2019/11/martirologio-romano-18-de-novembro-de.html"
+      ]
+    },
+    {
+      "nome": "Beato Ovídio Bertrão Anuncibay Letona",
+      "grupo": 5,
+      "estatuto": "beato — memória martirológica",
+      "biografia": "Mártir da perseguição religiosa em Espanha; grupo de Lorca.",
+      "beatificacao": "Data e decreto por verificar em fonte oficial.",
+      "milagres": {
+        "oficialmente_reconhecidos": "Não documentados.",
+        "tradicao": "Por investigar.",
+        "testemunhos": "Não verificados."
+      },
+      "fontes": [
+        "https://www.cruxsacra.net/2019/11/martirologio-romano-18-de-novembro-de.html"
+      ]
+    },
+    {
+      "nome": "Beato Hermenegildo Lourenço Sáez Manzanares",
+      "grupo": 5,
+      "estatuto": "beato — memória martirológica",
+      "biografia": "Mártir da perseguição religiosa em Espanha; grupo de Lorca.",
+      "beatificacao": "Data e decreto por verificar em fonte oficial.",
+      "milagres": {
+        "oficialmente_reconhecidos": "Não documentados.",
+        "tradicao": "Por investigar.",
+        "testemunhos": "Não verificados."
+      },
+      "fontes": [
+        "https://www.cruxsacra.net/2019/11/martirologio-romano-18-de-novembro-de.html"
+      ]
+    },
+    {
+      "nome": "Beato Luciano Paulo García García",
+      "grupo": 5,
+      "estatuto": "beato — memória martirológica",
+      "biografia": "Mártir da perseguição religiosa em Espanha; grupo de Lorca.",
+      "beatificacao": "Data e decreto por verificar em fonte oficial.",
+      "milagres": {
+        "oficialmente_reconhecidos": "Não documentados.",
+        "tradicao": "Por investigar.",
+        "testemunhos": "Não verificados."
+      },
+      "fontes": [
+        "https://www.cruxsacra.net/2019/11/martirologio-romano-18-de-novembro-de.html"
+      ]
+    },
+    {
+      "nome": "Beato Estanislau Vitor Cordero Fernández",
+      "grupo": 5,
+      "estatuto": "beato — memória martirológica",
+      "biografia": "Mártir da perseguição religiosa em Espanha; grupo de Lorca.",
+      "beatificacao": "Data e decreto por verificar em fonte oficial.",
+      "milagres": {
+        "oficialmente_reconhecidos": "Não documentados.",
+        "tradicao": "Por investigar.",
+        "testemunhos": "Não verificados."
+      },
+      "fontes": [
+        "https://www.cruxsacra.net/2019/11/martirologio-romano-18-de-novembro-de.html"
+      ]
+    },
+    {
+      "nome": "Beato Lourenço Tiago Martínez de la Pera",
+      "grupo": 5,
+      "estatuto": "beato — memória martirológica",
+      "biografia": "Mártir da perseguição religiosa em Espanha; grupo de Lorca.",
+      "beatificacao": "Data e decreto por verificar em fonte oficial.",
+      "milagres": {
+        "oficialmente_reconhecidos": "Não documentados.",
+        "tradicao": "Por investigar.",
+        "testemunhos": "Não verificados."
+      },
+      "fontes": [
+        "https://www.cruxsacra.net/2019/11/martirologio-romano-18-de-novembro-de.html"
+      ]
+    },
+    {
+      "nome": "Beato Vidal Luís Gómara",
+      "grupo": 6,
+      "estatuto": "beato — memória martirológica",
+      "biografia": "Presbítero dominicano, mártir em Paracuellos de Jarama.",
+      "beatificacao": "Data e decreto por verificar em fonte oficial.",
+      "milagres": {
+        "oficialmente_reconhecidos": "Não documentados.",
+        "tradicao": "Por investigar.",
+        "testemunhos": "Não verificados."
+      },
+      "fontes": [
+        "https://www.cruxsacra.net/2019/11/martirologio-romano-18-de-novembro-de.html"
+      ]
+    }
+  ],
+  "imagens_verificadas": 0,
+  "imagens_pendentes": 7,
+  "pendencias": [
+    "Versão integral v2.0 de 25/10/2026 não localizada em fonte persistente.",
+    "Confrontar todos os elogios com Martirológio Romano oficial e calendários próprios portugueses.",
+    "Aprofundar biografias, cronologia, canonizações, milagres, relíquias e ligações a Portugal com fontes primárias.",
+    "Pesquisar 5–10 imagens por santo, confirmar identidade, licença, ficheiro e apresentação; nenhuma validada.",
+    "Testar publicação pública, responsividade, acessibilidade, partilha e PDF.",
+    "Rever ortografia, grafias próprias e datas dos beatos em fontes institucionais."
+  ],
+  "fontes": [
+    "https://www.cruxsacra.net/2019/11/martirologio-romano-18-de-novembro-de.html",
+    "https://www.liturgia.pt/lh/pdf/0911Nov.pdf",
+    "https://paroquiadematosinhos.pt/calendar/liturgia-diaria/"
+  ],
+  "auditoria": {
+    "editorial": "incompleta",
+    "iconografia": "não validada",
+    "tecnica": "pendente",
+    "arquivo_anterior": "sem alterações"
+  }
+}
