@@ -1,0 +1,453 @@
+{
+  "data": "2026-11-20",
+  "estado": "rascunho",
+  "titulo": "Santos do Dia — 20 de novembro",
+  "liturgia": "Sexta-feira da XXXIII semana do Tempo Comum; féria no calendário português consultado, ressalvados calendários próprios.",
+  "leituras": "Ap 10,8-11; Sl 118(119); Lc 19,45-48",
+  "fontes_liturgia": [
+    "https://www.paroquias.org/capela/calendario/2026/11",
+    "https://liturgiadashoras.online/calendario-2026/"
+  ],
+  "aviso_inventario": "16 elogios consultados diretamente no Secretariado Nacional de Liturgia: 13 elogios de santos (15 pessoas, incluindo trio) e 3 elogios de beatos (17 pessoas, incluindo grupo de 15). Não confundir comemoração martirológica com celebração litúrgica.",
+  "inventario_martirologio_preliminar": [
+    "São Basílio, mártir",
+    "São Crispim, bispo e mártir",
+    "São Dásio, mártir",
+    "Santos Octávio, Solutor e Adventor, mártires",
+    "São Teonesto, mártir",
+    "São Doro, bispo",
+    "São Silvestre, bispo",
+    "Santo Hipólito, abade e bispo",
+    "São Gregório Decapolita, monge",
+    "Santo Edmundo, rei e mártir",
+    "São Bernuardo, bispo",
+    "São Cipriano, abade de Calamízzi",
+    "São Francisco Xavier Can, catequista e mártir",
+    "Beata Maria Fortunata (Ana Félix Víti)",
+    "Beata Ângela de São José (Francisca Lloret Martí) e catorze companheiras",
+    "Beata Maria dos Milagres Ortells Gimeno"
+  ],
+  "santos": [
+    {
+      "nome": "São Basílio, mártir",
+      "ordem_martirologio": 1,
+      "estatuto": "santo — memória martirológica",
+      "local": "Antioquia (atual Antakya, Turquia)",
+      "cronologia": "século III",
+      "biografia": "Testemunho martirial em Antioquia; circunstâncias individuais não detalhadas no elogio.",
+      "contexto_historico": "Aprofundamento histórico e confronto de fontes primárias pendentes.",
+      "virtudes_testemunho": "A aprofundar, sem extrapolar do elogio.",
+      "canonizacao": "Estatuto de culto no Martirológio; processo formal e grau de certeza por investigar.",
+      "milagres": {
+        "oficialmente_reconhecidos": "Nenhum decreto confirmado nesta investigação.",
+        "tradicao": "Não verificada.",
+        "testemunhos": "Não verificados."
+      },
+      "reliquias_sepultura": "Por documentar.",
+      "legado": "Por aprofundar.",
+      "ligacao_portugal": "Não documentada nesta edição.",
+      "referencias_biblicas": "Mt 5,1-12: referência temática à santidade, não episódio biográfico.",
+      "imagem": {
+        "verificada": false,
+        "estado": "Pendente de identificação, licença, avaliação de candidatos e teste do ficheiro."
+      },
+      "fontes": [
+        "https://mail.liturgia.pt/martirologio/elogio.php?data=2026-11-20"
+      ]
+    },
+    {
+      "nome": "São Crispim, bispo e mártir",
+      "ordem_martirologio": 2,
+      "estatuto": "santo — memória martirológica",
+      "local": "Ástigi (Écija, Espanha)",
+      "cronologia": "século III",
+      "biografia": "Bispo e mártir da Hispânia Bética; pormenores biográficos por documentar.",
+      "contexto_historico": "Aprofundamento histórico e confronto de fontes primárias pendentes.",
+      "virtudes_testemunho": "A aprofundar, sem extrapolar do elogio.",
+      "canonizacao": "Estatuto de culto no Martirológio; processo formal e grau de certeza por investigar.",
+      "milagres": {
+        "oficialmente_reconhecidos": "Nenhum decreto confirmado nesta investigação.",
+        "tradicao": "Não verificada.",
+        "testemunhos": "Não verificados."
+      },
+      "reliquias_sepultura": "Por documentar.",
+      "legado": "Por aprofundar.",
+      "ligacao_portugal": "Não documentada nesta edição.",
+      "referencias_biblicas": "Mt 5,1-12: referência temática à santidade, não episódio biográfico.",
+      "imagem": {
+        "verificada": false,
+        "estado": "Pendente de identificação, licença, avaliação de candidatos e teste do ficheiro."
+      },
+      "fontes": [
+        "https://mail.liturgia.pt/martirologio/elogio.php?data=2026-11-20"
+      ]
+    },
+    {
+      "nome": "São Dásio, mártir",
+      "ordem_martirologio": 3,
+      "estatuto": "santo — memória martirológica",
+      "local": "Doróstoro (Silistra, Bulgária)",
+      "cronologia": "cerca do século IV",
+      "biografia": "Mártir da Mésia; narrativa e cronologia exata carecem de confronto crítico.",
+      "contexto_historico": "Aprofundamento histórico e confronto de fontes primárias pendentes.",
+      "virtudes_testemunho": "A aprofundar, sem extrapolar do elogio.",
+      "canonizacao": "Estatuto de culto no Martirológio; processo formal e grau de certeza por investigar.",
+      "milagres": {
+        "oficialmente_reconhecidos": "Nenhum decreto confirmado nesta investigação.",
+        "tradicao": "Não verificada.",
+        "testemunhos": "Não verificados."
+      },
+      "reliquias_sepultura": "Por documentar.",
+      "legado": "Por aprofundar.",
+      "ligacao_portugal": "Não documentada nesta edição.",
+      "referencias_biblicas": "Mt 5,1-12: referência temática à santidade, não episódio biográfico.",
+      "imagem": {
+        "verificada": false,
+        "estado": "Pendente de identificação, licença, avaliação de candidatos e teste do ficheiro."
+      },
+      "fontes": [
+        "https://mail.liturgia.pt/martirologio/elogio.php?data=2026-11-20"
+      ]
+    },
+    {
+      "nome": "Santos Octávio, Solutor e Adventor, mártires",
+      "ordem_martirologio": 4,
+      "estatuto": "santo — memória martirológica",
+      "local": "Turim (Itália)",
+      "cronologia": "século IV",
+      "biografia": "Três mártires venerados conjuntamente em Turim; individualização histórica pendente.",
+      "contexto_historico": "Aprofundamento histórico e confronto de fontes primárias pendentes.",
+      "virtudes_testemunho": "A aprofundar, sem extrapolar do elogio.",
+      "canonizacao": "Estatuto de culto no Martirológio; processo formal e grau de certeza por investigar.",
+      "milagres": {
+        "oficialmente_reconhecidos": "Nenhum decreto confirmado nesta investigação.",
+        "tradicao": "Não verificada.",
+        "testemunhos": "Não verificados."
+      },
+      "reliquias_sepultura": "Por documentar.",
+      "legado": "Por aprofundar.",
+      "ligacao_portugal": "Não documentada nesta edição.",
+      "referencias_biblicas": "Mt 5,1-12: referência temática à santidade, não episódio biográfico.",
+      "imagem": {
+        "verificada": false,
+        "estado": "Pendente de identificação, licença, avaliação de candidatos e teste do ficheiro."
+      },
+      "fontes": [
+        "https://mail.liturgia.pt/martirologio/elogio.php?data=2026-11-20"
+      ]
+    },
+    {
+      "nome": "São Teonesto, mártir",
+      "ordem_martirologio": 5,
+      "estatuto": "santo — memória martirológica",
+      "local": "Vercelas (Itália)",
+      "cronologia": "antes de 313",
+      "biografia": "Santo Eusébio edificou uma basílica em sua honra, segundo o elogio.",
+      "contexto_historico": "Aprofundamento histórico e confronto de fontes primárias pendentes.",
+      "virtudes_testemunho": "A aprofundar, sem extrapolar do elogio.",
+      "canonizacao": "Estatuto de culto no Martirológio; processo formal e grau de certeza por investigar.",
+      "milagres": {
+        "oficialmente_reconhecidos": "Nenhum decreto confirmado nesta investigação.",
+        "tradicao": "Não verificada.",
+        "testemunhos": "Não verificados."
+      },
+      "reliquias_sepultura": "Por documentar.",
+      "legado": "Por aprofundar.",
+      "ligacao_portugal": "Não documentada nesta edição.",
+      "referencias_biblicas": "Mt 5,1-12: referência temática à santidade, não episódio biográfico.",
+      "imagem": {
+        "verificada": false,
+        "estado": "Pendente de identificação, licença, avaliação de candidatos e teste do ficheiro."
+      },
+      "fontes": [
+        "https://mail.liturgia.pt/martirologio/elogio.php?data=2026-11-20"
+      ]
+    },
+    {
+      "nome": "São Doro, bispo",
+      "ordem_martirologio": 6,
+      "estatuto": "santo — memória martirológica",
+      "local": "Benevento (Itália)",
+      "cronologia": "século V",
+      "biografia": "Bispo de Benevento; fontes biográficas adicionais pendentes.",
+      "contexto_historico": "Aprofundamento histórico e confronto de fontes primárias pendentes.",
+      "virtudes_testemunho": "A aprofundar, sem extrapolar do elogio.",
+      "canonizacao": "Estatuto de culto no Martirológio; processo formal e grau de certeza por investigar.",
+      "milagres": {
+        "oficialmente_reconhecidos": "Nenhum decreto confirmado nesta investigação.",
+        "tradicao": "Não verificada.",
+        "testemunhos": "Não verificados."
+      },
+      "reliquias_sepultura": "Por documentar.",
+      "legado": "Por aprofundar.",
+      "ligacao_portugal": "Não documentada nesta edição.",
+      "referencias_biblicas": "Mt 5,1-12: referência temática à santidade, não episódio biográfico.",
+      "imagem": {
+        "verificada": false,
+        "estado": "Pendente de identificação, licença, avaliação de candidatos e teste do ficheiro."
+      },
+      "fontes": [
+        "https://mail.liturgia.pt/martirologio/elogio.php?data=2026-11-20"
+      ]
+    },
+    {
+      "nome": "São Silvestre, bispo",
+      "ordem_martirologio": 7,
+      "estatuto": "santo — memória martirológica",
+      "local": "Chalon-sur-Saône (França)",
+      "cronologia": "c. 520–530",
+      "biografia": "Bispo recordado após quarenta anos de sacerdócio.",
+      "contexto_historico": "Aprofundamento histórico e confronto de fontes primárias pendentes.",
+      "virtudes_testemunho": "A aprofundar, sem extrapolar do elogio.",
+      "canonizacao": "Estatuto de culto no Martirológio; processo formal e grau de certeza por investigar.",
+      "milagres": {
+        "oficialmente_reconhecidos": "Nenhum decreto confirmado nesta investigação.",
+        "tradicao": "Não verificada.",
+        "testemunhos": "Não verificados."
+      },
+      "reliquias_sepultura": "Por documentar.",
+      "legado": "Por aprofundar.",
+      "ligacao_portugal": "Não documentada nesta edição.",
+      "referencias_biblicas": "Mt 5,1-12: referência temática à santidade, não episódio biográfico.",
+      "imagem": {
+        "verificada": false,
+        "estado": "Pendente de identificação, licença, avaliação de candidatos e teste do ficheiro."
+      },
+      "fontes": [
+        "https://mail.liturgia.pt/martirologio/elogio.php?data=2026-11-20"
+      ]
+    },
+    {
+      "nome": "Santo Hipólito, abade e bispo",
+      "ordem_martirologio": 8,
+      "estatuto": "santo — memória martirológica",
+      "local": "Monte Jura, região de Lião (França)",
+      "cronologia": "c. 770",
+      "biografia": "Abade e bispo; identificação de mosteiro e fontes pendente.",
+      "contexto_historico": "Aprofundamento histórico e confronto de fontes primárias pendentes.",
+      "virtudes_testemunho": "A aprofundar, sem extrapolar do elogio.",
+      "canonizacao": "Estatuto de culto no Martirológio; processo formal e grau de certeza por investigar.",
+      "milagres": {
+        "oficialmente_reconhecidos": "Nenhum decreto confirmado nesta investigação.",
+        "tradicao": "Não verificada.",
+        "testemunhos": "Não verificados."
+      },
+      "reliquias_sepultura": "Por documentar.",
+      "legado": "Por aprofundar.",
+      "ligacao_portugal": "Não documentada nesta edição.",
+      "referencias_biblicas": "Mt 5,1-12: referência temática à santidade, não episódio biográfico.",
+      "imagem": {
+        "verificada": false,
+        "estado": "Pendente de identificação, licença, avaliação de candidatos e teste do ficheiro."
+      },
+      "fontes": [
+        "https://mail.liturgia.pt/martirologio/elogio.php?data=2026-11-20"
+      ]
+    },
+    {
+      "nome": "São Gregório Decapolita, monge",
+      "ordem_martirologio": 9,
+      "estatuto": "santo — memória martirológica",
+      "local": "Tessalónica e Constantinopla",
+      "cronologia": "842",
+      "biografia": "Monge e anacoreta, peregrino e defensor da veneração das imagens durante a controvérsia iconoclasta.",
+      "contexto_historico": "Aprofundamento histórico e confronto de fontes primárias pendentes.",
+      "virtudes_testemunho": "A aprofundar, sem extrapolar do elogio.",
+      "canonizacao": "Estatuto de culto no Martirológio; processo formal e grau de certeza por investigar.",
+      "milagres": {
+        "oficialmente_reconhecidos": "Nenhum decreto confirmado nesta investigação.",
+        "tradicao": "Não verificada.",
+        "testemunhos": "Não verificados."
+      },
+      "reliquias_sepultura": "Por documentar.",
+      "legado": "Por aprofundar.",
+      "ligacao_portugal": "Não documentada nesta edição.",
+      "referencias_biblicas": "Mt 5,1-12: referência temática à santidade, não episódio biográfico.",
+      "imagem": {
+        "verificada": false,
+        "estado": "Pendente de identificação, licença, avaliação de candidatos e teste do ficheiro."
+      },
+      "fontes": [
+        "https://mail.liturgia.pt/martirologio/elogio.php?data=2026-11-20"
+      ]
+    },
+    {
+      "nome": "Santo Edmundo, rei e mártir",
+      "ordem_martirologio": 10,
+      "estatuto": "santo — memória martirológica",
+      "local": "Ânglia Oriental (Inglaterra)",
+      "cronologia": "869",
+      "biografia": "Rei dos Anglos orientais, morto após captura no contexto de invasões; o elogio associa o martírio à profissão da fé.",
+      "contexto_historico": "Aprofundamento histórico e confronto de fontes primárias pendentes.",
+      "virtudes_testemunho": "A aprofundar, sem extrapolar do elogio.",
+      "canonizacao": "Estatuto de culto no Martirológio; processo formal e grau de certeza por investigar.",
+      "milagres": {
+        "oficialmente_reconhecidos": "Nenhum decreto confirmado nesta investigação.",
+        "tradicao": "Não verificada.",
+        "testemunhos": "Não verificados."
+      },
+      "reliquias_sepultura": "Por documentar.",
+      "legado": "Por aprofundar.",
+      "ligacao_portugal": "Não documentada nesta edição.",
+      "referencias_biblicas": "Mt 5,1-12: referência temática à santidade, não episódio biográfico.",
+      "imagem": {
+        "verificada": false,
+        "estado": "Pendente de identificação, licença, avaliação de candidatos e teste do ficheiro."
+      },
+      "fontes": [
+        "https://mail.liturgia.pt/martirologio/elogio.php?data=2026-11-20"
+      ]
+    },
+    {
+      "nome": "São Bernuardo, bispo",
+      "ordem_martirologio": 11,
+      "estatuto": "santo — memória martirológica",
+      "local": "Hildesheim (Alemanha)",
+      "cronologia": "1022",
+      "biografia": "Bispo que promoveu reformas clericais, sínodos e vida monástica e defendeu a comunidade.",
+      "contexto_historico": "Aprofundamento histórico e confronto de fontes primárias pendentes.",
+      "virtudes_testemunho": "A aprofundar, sem extrapolar do elogio.",
+      "canonizacao": "Estatuto de culto no Martirológio; processo formal e grau de certeza por investigar.",
+      "milagres": {
+        "oficialmente_reconhecidos": "Nenhum decreto confirmado nesta investigação.",
+        "tradicao": "Não verificada.",
+        "testemunhos": "Não verificados."
+      },
+      "reliquias_sepultura": "Por documentar.",
+      "legado": "Por aprofundar.",
+      "ligacao_portugal": "Não documentada nesta edição.",
+      "referencias_biblicas": "Mt 5,1-12: referência temática à santidade, não episódio biográfico.",
+      "imagem": {
+        "verificada": false,
+        "estado": "Pendente de identificação, licença, avaliação de candidatos e teste do ficheiro."
+      },
+      "fontes": [
+        "https://mail.liturgia.pt/martirologio/elogio.php?data=2026-11-20"
+      ]
+    },
+    {
+      "nome": "São Cipriano, abade de Calamízzi",
+      "ordem_martirologio": 12,
+      "estatuto": "santo — memória martirológica",
+      "local": "Calábria (Itália)",
+      "cronologia": "c. 1190",
+      "biografia": "Abade fiel à tradição monástica oriental, conhecido pela austeridade e generosidade com os pobres.",
+      "contexto_historico": "Aprofundamento histórico e confronto de fontes primárias pendentes.",
+      "virtudes_testemunho": "A aprofundar, sem extrapolar do elogio.",
+      "canonizacao": "Estatuto de culto no Martirológio; processo formal e grau de certeza por investigar.",
+      "milagres": {
+        "oficialmente_reconhecidos": "Nenhum decreto confirmado nesta investigação.",
+        "tradicao": "Não verificada.",
+        "testemunhos": "Não verificados."
+      },
+      "reliquias_sepultura": "Por documentar.",
+      "legado": "Por aprofundar.",
+      "ligacao_portugal": "Não documentada nesta edição.",
+      "referencias_biblicas": "Mt 5,1-12: referência temática à santidade, não episódio biográfico.",
+      "imagem": {
+        "verificada": false,
+        "estado": "Pendente de identificação, licença, avaliação de candidatos e teste do ficheiro."
+      },
+      "fontes": [
+        "https://mail.liturgia.pt/martirologio/elogio.php?data=2026-11-20"
+      ]
+    },
+    {
+      "nome": "São Francisco Xavier Can, catequista e mártir",
+      "ordem_martirologio": 13,
+      "estatuto": "santo — memória martirológica",
+      "local": "Hanói (Vietname)",
+      "cronologia": "1837",
+      "biografia": "Catequista morto pela fé no reinado de Minh Mang.",
+      "contexto_historico": "Aprofundamento histórico e confronto de fontes primárias pendentes.",
+      "virtudes_testemunho": "A aprofundar, sem extrapolar do elogio.",
+      "canonizacao": "Estatuto de culto no Martirológio; processo formal e grau de certeza por investigar.",
+      "milagres": {
+        "oficialmente_reconhecidos": "Nenhum decreto confirmado nesta investigação.",
+        "tradicao": "Não verificada.",
+        "testemunhos": "Não verificados."
+      },
+      "reliquias_sepultura": "Por documentar.",
+      "legado": "Por aprofundar.",
+      "ligacao_portugal": "Não documentada nesta edição.",
+      "referencias_biblicas": "Mt 5,1-12: referência temática à santidade, não episódio biográfico.",
+      "imagem": {
+        "verificada": false,
+        "estado": "Pendente de identificação, licença, avaliação de candidatos e teste do ficheiro."
+      },
+      "fontes": [
+        "https://mail.liturgia.pt/martirologio/elogio.php?data=2026-11-20"
+      ]
+    }
+  ],
+  "beatos": [
+    {
+      "nome": "Beata Maria Fortunata (Ana Félix Víti)",
+      "ordem_martirologio": 14,
+      "estatuto": "beato — memória martirológica",
+      "cronologia": "1922",
+      "biografia": "Beneditina, serviu como roupeira e viveu a Regra com fidelidade.",
+      "beatificacao": "Decreto e data ainda por confirmar em fonte oficial.",
+      "milagres": {
+        "oficialmente_reconhecidos": "Não documentados nesta edição.",
+        "tradicao": "Não apurada.",
+        "testemunhos": "Não verificados."
+      },
+      "fontes": [
+        "https://mail.liturgia.pt/martirologio/elogio.php?data=2026-11-20"
+      ]
+    },
+    {
+      "nome": "Beata Ângela de São José (Francisca Lloret Martí) e catorze companheiras",
+      "ordem_martirologio": 15,
+      "estatuto": "beato — memória martirológica",
+      "cronologia": "1936",
+      "biografia": "Quinze religiosas da Congregação da Doutrina Cristã, mártires na perseguição da Guerra Civil espanhola.",
+      "beatificacao": "Decreto e data ainda por confirmar em fonte oficial.",
+      "milagres": {
+        "oficialmente_reconhecidos": "Não documentados nesta edição.",
+        "tradicao": "Não apurada.",
+        "testemunhos": "Não verificados."
+      },
+      "fontes": [
+        "https://mail.liturgia.pt/martirologio/elogio.php?data=2026-11-20"
+      ]
+    },
+    {
+      "nome": "Beata Maria dos Milagres Ortells Gimeno",
+      "ordem_martirologio": 16,
+      "estatuto": "beato — memória martirológica",
+      "cronologia": "1936",
+      "biografia": "Clarissa capuchinha, mártir perto de Valência.",
+      "beatificacao": "Decreto e data ainda por confirmar em fonte oficial.",
+      "milagres": {
+        "oficialmente_reconhecidos": "Não documentados nesta edição.",
+        "tradicao": "Não apurada.",
+        "testemunhos": "Não verificados."
+      },
+      "fontes": [
+        "https://mail.liturgia.pt/martirologio/elogio.php?data=2026-11-20"
+      ]
+    }
+  ],
+  "imagens_verificadas": 0,
+  "imagens_pendentes": 13,
+  "pendencias": [
+    "Versão integral v2.0 de 25/10/2026 indisponível em fonte persistente.",
+    "Investigar individualmente todos os santos e os 17 beatos; completar biografias, milagres, relíquias e processos canónicos.",
+    "Pesquisar e validar 5–10 candidatos iconográficos por cada uma das 13 fichas de santos; nenhuma imagem foi verificada.",
+    "Confirmar calendários diocesanos e outros aditamentos locais.",
+    "Verificar nomes e variantes das 14 companheiras da beata Ângela, explicitados na nota do Martirológio.",
+    "Testar site público, mobile/desktop, acessibilidade, links, partilha e PDF."
+  ],
+  "fontes": [
+    "https://mail.liturgia.pt/martirologio/elogio.php?data=2026-11-20",
+    "https://www.paroquias.org/capela/calendario/2026/11"
+  ],
+  "auditoria": {
+    "editorial": "parcial; inventário de 16 elogios conferido no SNL; fichas ainda sumárias",
+    "iconografia": "não validada",
+    "tecnica": "pendente",
+    "arquivo_anterior": "preservado"
+  }
+}
