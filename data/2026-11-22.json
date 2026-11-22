@@ -1,0 +1,317 @@
+{
+  "data": "2026-11-22",
+  "estado": "rascunho",
+  "titulo": "Santos do Dia — 22 de novembro",
+  "liturgia": "Solenidade de Nosso Senhor Jesus Cristo, Rei do Universo, XXXIV domingo do Tempo Comum, ano A; precede a memória de Santa Cecília.",
+  "leituras": "Ez 34,11-12.15-17; Sl 22(23); 1 Cor 15,20-26.28; Mt 25,31-46",
+  "fontes_liturgia": [
+    "https://www.vaticannews.va/pt/palavra-do-dia/2026/11/22.html",
+    "https://www.ordem-do-carmo.pt/index.php/lectio-divina/lectio-divina/1473-solenidade-de-nosso-senhor-jesus-cristo-rei-do-universo-22-de-novembro-de-2026"
+  ],
+  "aviso_inventario": "Martirológio do Secretariado Nacional de Liturgia consultado integralmente: elogio inicial de Santa Cecília e 9 elogios numerados, incluindo São Filémon com Santa Ápia e grupos de beatos. 7 santos e 12 beatos individualizados; 7 fichas de santos e 4 coletivas/individuais de beatos. Não confundir memória martirológica com celebração litúrgica.",
+  "inventario_martirologio_preliminar": [
+    "Santa Cecília",
+    "São Filémon e Santa Ápia",
+    "Santo Ananias",
+    "São Benigno",
+    "São Pragmácio",
+    "Beato Salvador Lillo e sete companheiros",
+    "Beato Tomás Réggio",
+    "São Pedro Esqueda Ramírez",
+    "Beatos Elias e Beltrão Francisco",
+    "Beato Fernando Maria"
+  ],
+  "santos": [
+    {
+      "nome": "Santa Cecília, virgem e mártir",
+      "ordem_martirologio": 1,
+      "estatuto": "santo — memória martirológica; celebração litúrgica impedida pela solenidade de Cristo Rei",
+      "local": "Roma, Itália",
+      "cronologia": "Data da morte incerta",
+      "biografia": "Venerada desde a Antiguidade como virgem e mártir romana. O relato pormenorizado da sua vida, incluindo a história do matrimónio e do martírio, procede de uma tradição hagiográfica tardia e não pode ser tomado integralmente como facto histórico.",
+      "contexto_historico": "A memória está associada ao cemitério de Calisto, na Via Ápia, e à basílica de Santa Cecília no Trastevere. A cronologia do martírio não é segura.",
+      "virtudes_testemunho": "A tradição realça a fidelidade a Cristo e a castidade; a associação à música sacra pertence à história posterior da devoção.",
+      "canonizacao": "Culto reconhecido no Martirológio; não foi comprovado processo moderno de canonização nesta investigação.",
+      "milagres": {
+        "oficialmente_reconhecidos": "Nenhum decreto de milagre comprovado nesta investigação.",
+        "tradicao": "Sem narrativa de milagre validada nesta edição.",
+        "testemunhos": "Sem testemunhos independentes verificados."
+      },
+      "reliquias_sepultura": "Localização e autenticidade por verificar documentalmente.",
+      "legado": "Investigação complementar pendente.",
+      "ligacao_portugal": "Não foi documentada ligação direta a Portugal nesta investigação.",
+      "referencias_biblicas": "Mt 25,31-46: serviço a Cristo nos mais frágeis, leitura da solenidade, não episódio da vida de Cecília.",
+      "imagem": {
+        "verificada": false,
+        "estado": "Pendente: não foram confirmados ficheiro, identidade, licença e apresentação."
+      },
+      "fontes": [
+        "https://mail.liturgia.pt/martirologio/elogio.php?data=2026-11-22"
+      ]
+    },
+    {
+      "nome": "São Filémon de Colossos",
+      "ordem_martirologio": 2,
+      "estatuto": "santo — memória martirológica; celebração litúrgica impedida pela solenidade de Cristo Rei",
+      "local": "Colossos, atual Turquia",
+      "cronologia": "Século I",
+      "biografia": "Cristão destinatário da carta de São Paulo a Filémon, elogiado pela sua fé e caridade. A carta trata do acolhimento de Onésimo como irmão em Cristo; não fornece uma biografia completa de Filémon.",
+      "contexto_historico": "Comunidades cristãs domésticas na Ásia Menor romana; o contexto social inclui a escravatura antiga.",
+      "virtudes_testemunho": "Hospitalidade, comunhão e reconciliação testemunhadas na epístola paulina.",
+      "canonizacao": "Culto reconhecido no Martirológio; não foi comprovado processo moderno de canonização nesta investigação.",
+      "milagres": {
+        "oficialmente_reconhecidos": "Nenhum decreto de milagre comprovado nesta investigação.",
+        "tradicao": "Sem narrativa de milagre validada nesta edição.",
+        "testemunhos": "Sem testemunhos independentes verificados."
+      },
+      "reliquias_sepultura": "Localização e autenticidade por verificar documentalmente.",
+      "legado": "Investigação complementar pendente.",
+      "ligacao_portugal": "Não foi documentada ligação direta a Portugal nesta investigação.",
+      "referencias_biblicas": "Flm 4-7 e 15-17: referências diretas a Filémon e ao acolhimento de Onésimo.",
+      "imagem": {
+        "verificada": false,
+        "estado": "Pendente: não foram confirmados ficheiro, identidade, licença e apresentação."
+      },
+      "fontes": [
+        "https://mail.liturgia.pt/martirologio/elogio.php?data=2026-11-22"
+      ]
+    },
+    {
+      "nome": "Santa Ápia",
+      "ordem_martirologio": 2,
+      "estatuto": "santo — memória martirológica; celebração litúrgica impedida pela solenidade de Cristo Rei",
+      "local": "Colossos, atual Turquia",
+      "cronologia": "Século I",
+      "biografia": "Venerada juntamente com Filémon; a tradição martirológica identifica-a como sua esposa. Ápia é mencionada na saudação da Carta a Filémon, mas o texto bíblico não explicita o parentesco.",
+      "contexto_historico": "Cristianismo doméstico da Ásia Menor no século I.",
+      "virtudes_testemunho": "Participação na comunidade cristã; pormenores individuais não demonstrados.",
+      "canonizacao": "Culto reconhecido no Martirológio; não foi comprovado processo moderno de canonização nesta investigação.",
+      "milagres": {
+        "oficialmente_reconhecidos": "Nenhum decreto de milagre comprovado nesta investigação.",
+        "tradicao": "Sem narrativa de milagre validada nesta edição.",
+        "testemunhos": "Sem testemunhos independentes verificados."
+      },
+      "reliquias_sepultura": "Localização e autenticidade por verificar documentalmente.",
+      "legado": "Investigação complementar pendente.",
+      "ligacao_portugal": "Não foi documentada ligação direta a Portugal nesta investigação.",
+      "referencias_biblicas": "Flm 1-3: Ápia é nomeada na saudação.",
+      "imagem": {
+        "verificada": false,
+        "estado": "Pendente: não foram confirmados ficheiro, identidade, licença e apresentação."
+      },
+      "fontes": [
+        "https://mail.liturgia.pt/martirologio/elogio.php?data=2026-11-22"
+      ]
+    },
+    {
+      "nome": "Santo Ananias, mártir",
+      "ordem_martirologio": 3,
+      "estatuto": "santo — memória martirológica; celebração litúrgica impedida pela solenidade de Cristo Rei",
+      "local": "Arbela, Pérsia (atual Erbil, Iraque)",
+      "cronologia": "Morreu em 345, segundo o Martirológio",
+      "biografia": "Preso e espancado três vezes por ordem do arquimago Ardisag durante o reinado de Sapor II. Segundo o elogio, cristãos levaram-no para casa, onde morreu.",
+      "contexto_historico": "Perseguições contra comunidades cristãs no Império Sassânida durante o século IV.",
+      "virtudes_testemunho": "Perseverança na fé sob violência, conforme o testemunho martirológico.",
+      "canonizacao": "Culto reconhecido no Martirológio; não foi comprovado processo moderno de canonização nesta investigação.",
+      "milagres": {
+        "oficialmente_reconhecidos": "Nenhum decreto de milagre comprovado nesta investigação.",
+        "tradicao": "Sem narrativa de milagre validada nesta edição.",
+        "testemunhos": "Sem testemunhos independentes verificados."
+      },
+      "reliquias_sepultura": "Localização e autenticidade por verificar documentalmente.",
+      "legado": "Investigação complementar pendente.",
+      "ligacao_portugal": "Não foi documentada ligação direta a Portugal nesta investigação.",
+      "referencias_biblicas": "Rm 8,35-39: perseverança perante tribulações, aplicação temática.",
+      "imagem": {
+        "verificada": false,
+        "estado": "Pendente: não foram confirmados ficheiro, identidade, licença e apresentação."
+      },
+      "fontes": [
+        "https://mail.liturgia.pt/martirologio/elogio.php?data=2026-11-22"
+      ]
+    },
+    {
+      "nome": "São Benigno, bispo de Milão",
+      "ordem_martirologio": 4,
+      "estatuto": "santo — memória martirológica; celebração litúrgica impedida pela solenidade de Cristo Rei",
+      "local": "Milão, Itália",
+      "cronologia": "Cerca de 470",
+      "biografia": "Bispo que, segundo o Martirológio, governou a Igreja de Milão com zelo e piedade num período de perturbações por invasões.",
+      "contexto_historico": "Transformações políticas no Ocidente romano do século V.",
+      "virtudes_testemunho": "Cuidado pastoral em contexto de instabilidade.",
+      "canonizacao": "Culto reconhecido no Martirológio; não foi comprovado processo moderno de canonização nesta investigação.",
+      "milagres": {
+        "oficialmente_reconhecidos": "Nenhum decreto de milagre comprovado nesta investigação.",
+        "tradicao": "Sem narrativa de milagre validada nesta edição.",
+        "testemunhos": "Sem testemunhos independentes verificados."
+      },
+      "reliquias_sepultura": "Localização e autenticidade por verificar documentalmente.",
+      "legado": "Investigação complementar pendente.",
+      "ligacao_portugal": "Não foi documentada ligação direta a Portugal nesta investigação.",
+      "referencias_biblicas": "1 Pe 5,2-4: solicitude pastoral, aplicação temática.",
+      "imagem": {
+        "verificada": false,
+        "estado": "Pendente: não foram confirmados ficheiro, identidade, licença e apresentação."
+      },
+      "fontes": [
+        "https://mail.liturgia.pt/martirologio/elogio.php?data=2026-11-22"
+      ]
+    },
+    {
+      "nome": "São Pragmácio, bispo de Autun",
+      "ordem_martirologio": 5,
+      "estatuto": "santo — memória martirológica; celebração litúrgica impedida pela solenidade de Cristo Rei",
+      "local": "Autun, França",
+      "cronologia": "Cerca de 517",
+      "biografia": "Bispo de Autun, recordado no Martirológio; os pormenores da sua vida e episcopado não foram corroborados nesta investigação.",
+      "contexto_historico": "Gália pós-romana, início do século VI.",
+      "virtudes_testemunho": "Testemunho episcopal; não atribuir virtudes específicas sem fonte adicional.",
+      "canonizacao": "Culto reconhecido no Martirológio; não foi comprovado processo moderno de canonização nesta investigação.",
+      "milagres": {
+        "oficialmente_reconhecidos": "Nenhum decreto de milagre comprovado nesta investigação.",
+        "tradicao": "Sem narrativa de milagre validada nesta edição.",
+        "testemunhos": "Sem testemunhos independentes verificados."
+      },
+      "reliquias_sepultura": "Localização e autenticidade por verificar documentalmente.",
+      "legado": "Investigação complementar pendente.",
+      "ligacao_portugal": "Não foi documentada ligação direta a Portugal nesta investigação.",
+      "referencias_biblicas": "1 Tm 3,1-7: exigências do ministério episcopal, aplicação temática.",
+      "imagem": {
+        "verificada": false,
+        "estado": "Pendente: não foram confirmados ficheiro, identidade, licença e apresentação."
+      },
+      "fontes": [
+        "https://mail.liturgia.pt/martirologio/elogio.php?data=2026-11-22"
+      ]
+    },
+    {
+      "nome": "São Pedro Esqueda Ramírez, presbítero e mártir",
+      "ordem_martirologio": 8,
+      "estatuto": "santo — memória martirológica; celebração litúrgica impedida pela solenidade de Cristo Rei",
+      "local": "Teocaltitlán, México",
+      "cronologia": "Morreu em 1927",
+      "biografia": "Sacerdote católico encarcerado e fuzilado durante a perseguição religiosa no México, conforme o Martirológio.",
+      "contexto_historico": "Conflitos anticlericais e perseguição religiosa mexicana da década de 1920.",
+      "virtudes_testemunho": "Fidelidade ao ministério sacerdotal perante a ameaça de morte.",
+      "canonizacao": "Culto reconhecido no Martirológio; não foi comprovado processo moderno de canonização nesta investigação.",
+      "milagres": {
+        "oficialmente_reconhecidos": "Nenhum decreto de milagre comprovado nesta investigação.",
+        "tradicao": "Sem narrativa de milagre validada nesta edição.",
+        "testemunhos": "Sem testemunhos independentes verificados."
+      },
+      "reliquias_sepultura": "Localização e autenticidade por verificar documentalmente.",
+      "legado": "Investigação complementar pendente.",
+      "ligacao_portugal": "Não foi documentada ligação direta a Portugal nesta investigação.",
+      "referencias_biblicas": "Jo 15,18-21: perseguição por causa de Cristo, aplicação temática.",
+      "imagem": {
+        "verificada": false,
+        "estado": "Pendente: não foram confirmados ficheiro, identidade, licença e apresentação."
+      },
+      "fontes": [
+        "https://mail.liturgia.pt/martirologio/elogio.php?data=2026-11-22"
+      ]
+    }
+  ],
+  "beatos": [
+    {
+      "nome": "Beato Salvador Lillo (Salvador Lilli), presbítero franciscano, e sete companheiros mártires",
+      "pessoas": 8,
+      "ordem_martirologio": 6,
+      "nomes": [
+        "Salvador Lillo",
+        "João, filho de Balzi",
+        "K'adir, filho de Xodianin",
+        "Cerun, filho de K'urazi",
+        "Vardavar, filho de Dimbalac",
+        "Paulo, filho de Jeremias",
+        "David, filho de David",
+        "Teodoro, filho de David"
+      ],
+      "biografia": "Mortos em 1895 junto do rio Zihun, na Cilícia, após recusarem renegar a fé cristã, segundo o elogio. Identificação individual e fontes do processo de beatificação por aprofundar.",
+      "estatuto": "beato — memória martirológica, não celebração da solenidade",
+      "fontes": [
+        "https://mail.liturgia.pt/martirologio/elogio.php?data=2026-11-22"
+      ],
+      "imagem": {
+        "verificada": false,
+        "estado": "Sem imagem por regra editorial"
+      },
+      "milagres": {
+        "oficiais": "Não investigados",
+        "tradicao": "Não investigada"
+      }
+    },
+    {
+      "nome": "Beato Tomás Réggio, arcebispo de Génova",
+      "pessoas": 1,
+      "ordem_martirologio": 7,
+      "biografia": "Bispo recordado pela austeridade, afabilidade, promoção da concórdia e auxílio aos pobres; morreu em 1901. Processo canónico por documentar nesta edição.",
+      "estatuto": "beato — memória martirológica, não celebração da solenidade",
+      "fontes": [
+        "https://mail.liturgia.pt/martirologio/elogio.php?data=2026-11-22"
+      ],
+      "imagem": {
+        "verificada": false,
+        "estado": "Sem imagem por regra editorial"
+      },
+      "milagres": {
+        "oficiais": "Não investigados",
+        "tradicao": "Não investigada"
+      }
+    },
+    {
+      "nome": "Beatos Elias (Julião Torrijo Sánchez) e Beltrão Francisco (Francisco Lahoz Moliner)",
+      "pessoas": 2,
+      "ordem_martirologio": 9,
+      "biografia": "Religiosos dos Irmãos das Escolas Cristãs, mortos em 1936 durante a perseguição religiosa em Espanha; documentação biográfica individual pendente.",
+      "estatuto": "beato — memória martirológica, não celebração da solenidade",
+      "fontes": [
+        "https://mail.liturgia.pt/martirologio/elogio.php?data=2026-11-22"
+      ],
+      "imagem": {
+        "verificada": false,
+        "estado": "Sem imagem por regra editorial"
+      },
+      "milagres": {
+        "oficiais": "Não investigados",
+        "tradicao": "Não investigada"
+      }
+    },
+    {
+      "nome": "Beato Fernando Maria (Fernando Maria Llovera Puigsech)",
+      "pessoas": 1,
+      "ordem_martirologio": 10,
+      "biografia": "Presbítero carmelita, mártir em 1936 na região de Girona; informação biográfica e processo canónico por aprofundar.",
+      "estatuto": "beato — memória martirológica, não celebração da solenidade",
+      "fontes": [
+        "https://mail.liturgia.pt/martirologio/elogio.php?data=2026-11-22"
+      ],
+      "imagem": {
+        "verificada": false,
+        "estado": "Sem imagem por regra editorial"
+      },
+      "milagres": {
+        "oficiais": "Não investigados",
+        "tradicao": "Não investigada"
+      }
+    }
+  ],
+  "pendencias": [
+    "Versão integral das regras v2.0 de 25/10/2026 não localizada em fonte persistente; não é possível afirmar conformidade integral.",
+    "Completar investigação histórica e processos canónicos de cada pessoa; conferir calendários próprios de Portugal.",
+    "Sete fichas sem iconografia comprovada: pesquisar candidatos, licenças, dimensões e testar ficheiros reais.",
+    "Aprofundar milagres, relíquias, sepulturas, ligações a Portugal e legado sem especulação.",
+    "Testar site público, carregamento de imagens, responsividade, acessibilidade, indexação, partilha e PDF.",
+    "Confrontar conteúdo final com fontes críticas e revisão editorial antes de mudar estado."
+  ],
+  "auditoria": {
+    "inventario": "Confrontado com 10 elogios na fonte portuguesa, sujeito a revisão crítica.",
+    "imagens_verificadas": 0,
+    "imagens_pendentes": 7,
+    "validacao_editorial": false,
+    "publicacao_publica_confirmada": false
+  },
+  "fontes": [
+    "https://mail.liturgia.pt/martirologio/elogio.php?data=2026-11-22"
+  ]
+}
