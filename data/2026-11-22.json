@@ -43,7 +43,31 @@
       "referencias_biblicas": "Mt 25,31-46: serviço a Cristo nos mais frágeis, leitura da solenidade, não episódio da vida de Cecília.",
       "imagem": {
         "verificada": false,
-        "estado": "Pendente: não foram confirmados ficheiro, identidade, licença e apresentação."
+        "estado": "Pesquisa retroativa iniciada: 2 candidatos documentados; nenhum aprovado para publicação.",
+        "candidatos_em_analise": [
+          {
+            "titulo": "Santa Cecilia in Trastevere Maderno Sculpture",
+            "autor_fotografia": "NateBergin",
+            "data_fotografia": "2026-01-06",
+            "obra_retratada": "Escultura de Santa Cecília, Stefano Maderno, c. 1600",
+            "pagina_origem": "https://commons.wikimedia.org/wiki/File:Santa_Cecilia_in_Trastevere_Maderno_Sculpture.jpg",
+            "licenca_declarada": "CC BY 4.0",
+            "licenca_url": "https://creativecommons.org/licenses/by/4.0/",
+            "dimensoes_declaradas": "6000 × 3300",
+            "estado": "Página de origem e licença consultadas; ficheiro original, identidade visual, integração e apresentação ainda por testar"
+          },
+          {
+            "titulo": "Stefano Maderno - Martyrdom of Saint Cecilia",
+            "autor_fotografia": "Jacek Durski",
+            "data_fotografia": "2025-07-14",
+            "obra_retratada": "Escultura de Santa Cecília, Stefano Maderno, c. 1600",
+            "pagina_origem": "https://commons.wikimedia.org/wiki/File:Stefano_Maderno_-_Martyrdom_of_Saint_Cecilia_-_Church_of_St._Cecilia_-_Rome.jpg",
+            "licenca_declarada": "CC BY-SA 4.0",
+            "licenca_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+            "dimensoes_declaradas": "6499 × 4434",
+            "estado": "Página de origem e licença consultadas; ficheiro original, identidade visual, integração e apresentação ainda por testar"
+          }
+        ]
       },
       "fontes": [
         "https://mail.liturgia.pt/martirologio/elogio.php?data=2026-11-22"
@@ -302,7 +326,8 @@
     "Sete fichas sem iconografia comprovada: pesquisar candidatos, licenças, dimensões e testar ficheiros reais.",
     "Aprofundar milagres, relíquias, sepulturas, ligações a Portugal e legado sem especulação.",
     "Testar site público, carregamento de imagens, responsividade, acessibilidade, indexação, partilha e PDF.",
-    "Confrontar conteúdo final com fontes críticas e revisão editorial antes de mudar estado."
+    "Confrontar conteúdo final com fontes críticas e revisão editorial antes de mudar estado.",
+    "Iconografia Santa Cecília: comparar candidatos, testar ficheiros reais e publicar apenas após validação visual, legal e técnica."
   ],
   "auditoria": {
     "inventario": "Confrontado com 10 elogios na fonte portuguesa, sujeito a revisão crítica.",
