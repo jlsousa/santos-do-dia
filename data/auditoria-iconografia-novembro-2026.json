@@ -1,0 +1,25 @@
+{
+  "atualizado_em": "2026-11-23",
+  "intervalo": "2026-11-01 a 2026-11-22",
+  "estado": "em_curso",
+  "datas_com_json": 17,
+  "datas_sem_json": [
+    "2026-11-03",
+    "2026-11-08",
+    "2026-11-10",
+    "2026-11-13",
+    "2026-11-21"
+  ],
+  "fichas_santos_auditadas": 196,
+  "imagens_marcadas_verificadas": 0,
+  "imagens_pendentes": 196,
+  "observacao": "Auditoria de campos imagem.verificada no ramo main; não comprova ausência de ficheiros físicos, nem é auditoria visual de todos os recursos. Falta verificar efetivamente todos os ficheiros, direitos e apresentação. A edição de 22/11 contém dois candidatos documentados para Santa Cecília, não verificados.",
+  "proximos_passos": [
+    "Investigar e validar candidatos para cada santo, começando pelas edições mais antigas",
+    "Criar as cinco edições inexistentes com inventário e fontes",
+    "Integrar apenas imagens com identificação e licença demonstradas",
+    "Testar ficheiros reais e GitHub Pages",
+    "Atualizar este registo após cada lote"
+  ],
+  "regra": "Nunca marcar verificada=true sem testes de identidade, direitos, ficheiro real e apresentação."
+}
