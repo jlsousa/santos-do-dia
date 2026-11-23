@@ -1,0 +1,300 @@
+{
+  "data": "2026-11-23",
+  "estado": "rascunho",
+  "titulo": "Santos do Dia — 23 de novembro",
+  "liturgia": "Segunda-feira da XXXIV semana do Tempo Comum; memórias facultativas de São Clemente I e São Columbano no calendário português.",
+  "leituras": "Ap 14,1-3.4b-5; Sl 23(24); Lc 21,1-4",
+  "fontes_liturgia": [
+    "https://paroquiadematosinhos.pt/calendar/liturgia-diaria/",
+    "https://www.liturgia.pt/lh/pdf/0911Nov.pdf"
+  ],
+  "aviso_inventario": "16 elogios (incluindo dois iniciais sem número); 12 santos e 4 beatos. Asteriscos e losango conservados como marcas da fonte, sem extrapolar significado. Inventário transcrito em nomes e ordem; biografias e imagens ainda não validadas.",
+  "inventario_martirologio_preliminar": [
+    "São Clemente I",
+    "São Columbano",
+    "Santa Felicidade",
+    "Santa Mustíola",
+    "São Sisínio",
+    "São Clemente de Metz",
+    "Santa Lucrécia",
+    "Santo Anfilóquio",
+    "São Severino de Paris",
+    "São Gregório de Agrigento",
+    "São Trudão",
+    "Santa Cecília Yu So-sa",
+    "Beata Margarida de Sabóia",
+    "Beato Miguel Agostinho Pró",
+    "Beata Maria Felicidade Cendoya y Araquistain",
+    "Beata Henriqueta Alfiéri"
+  ],
+  "santos": [
+    {
+      "nome": "São Clemente I",
+      "estatuto": "santo — memória facultativa e elogio martirológico",
+      "biografia": "Ficha histórica aprofundada pendente; não inferir factos a partir de dados insuficientes.",
+      "milagres": {
+        "oficialmente_reconhecidos": "Não investigado",
+        "tradicao": "Não investigado",
+        "testemunhos": "Não investigado"
+      },
+      "imagem": {
+        "verificada": false,
+        "estado": "Pendente de identificação, licença, ficheiro real e teste de apresentação"
+      },
+      "fontes": [
+        "https://mail.liturgia.pt/martirologio/elogio.php?data=2026-11-23"
+      ]
+    },
+    {
+      "nome": "São Columbano",
+      "estatuto": "santo — memória facultativa e elogio martirológico",
+      "biografia": "Ficha histórica aprofundada pendente; não inferir factos a partir de dados insuficientes.",
+      "milagres": {
+        "oficialmente_reconhecidos": "Não investigado",
+        "tradicao": "Não investigado",
+        "testemunhos": "Não investigado"
+      },
+      "imagem": {
+        "verificada": false,
+        "estado": "Pendente de identificação, licença, ficheiro real e teste de apresentação"
+      },
+      "fontes": [
+        "https://mail.liturgia.pt/martirologio/elogio.php?data=2026-11-23"
+      ]
+    },
+    {
+      "nome": "Santa Felicidade",
+      "estatuto": "santo — elogio martirológico",
+      "biografia": "Ficha histórica aprofundada pendente; não inferir factos a partir de dados insuficientes.",
+      "milagres": {
+        "oficialmente_reconhecidos": "Não investigado",
+        "tradicao": "Não investigado",
+        "testemunhos": "Não investigado"
+      },
+      "imagem": {
+        "verificada": false,
+        "estado": "Pendente de identificação, licença, ficheiro real e teste de apresentação"
+      },
+      "fontes": [
+        "https://mail.liturgia.pt/martirologio/elogio.php?data=2026-11-23"
+      ]
+    },
+    {
+      "nome": "Santa Mustíola",
+      "estatuto": "santo — elogio martirológico",
+      "biografia": "Ficha histórica aprofundada pendente; não inferir factos a partir de dados insuficientes.",
+      "milagres": {
+        "oficialmente_reconhecidos": "Não investigado",
+        "tradicao": "Não investigado",
+        "testemunhos": "Não investigado"
+      },
+      "imagem": {
+        "verificada": false,
+        "estado": "Pendente de identificação, licença, ficheiro real e teste de apresentação"
+      },
+      "fontes": [
+        "https://mail.liturgia.pt/martirologio/elogio.php?data=2026-11-23"
+      ]
+    },
+    {
+      "nome": "São Sisínio",
+      "estatuto": "santo — elogio martirológico",
+      "biografia": "Ficha histórica aprofundada pendente; não inferir factos a partir de dados insuficientes.",
+      "milagres": {
+        "oficialmente_reconhecidos": "Não investigado",
+        "tradicao": "Não investigado",
+        "testemunhos": "Não investigado"
+      },
+      "imagem": {
+        "verificada": false,
+        "estado": "Pendente de identificação, licença, ficheiro real e teste de apresentação"
+      },
+      "fontes": [
+        "https://mail.liturgia.pt/martirologio/elogio.php?data=2026-11-23"
+      ]
+    },
+    {
+      "nome": "São Clemente de Metz",
+      "estatuto": "santo — elogio martirológico",
+      "biografia": "Ficha histórica aprofundada pendente; não inferir factos a partir de dados insuficientes.",
+      "milagres": {
+        "oficialmente_reconhecidos": "Não investigado",
+        "tradicao": "Não investigado",
+        "testemunhos": "Não investigado"
+      },
+      "imagem": {
+        "verificada": false,
+        "estado": "Pendente de identificação, licença, ficheiro real e teste de apresentação"
+      },
+      "fontes": [
+        "https://mail.liturgia.pt/martirologio/elogio.php?data=2026-11-23"
+      ]
+    },
+    {
+      "nome": "Santa Lucrécia",
+      "estatuto": "santo — elogio martirológico",
+      "biografia": "Ficha histórica aprofundada pendente; não inferir factos a partir de dados insuficientes.",
+      "milagres": {
+        "oficialmente_reconhecidos": "Não investigado",
+        "tradicao": "Não investigado",
+        "testemunhos": "Não investigado"
+      },
+      "imagem": {
+        "verificada": false,
+        "estado": "Pendente de identificação, licença, ficheiro real e teste de apresentação"
+      },
+      "fontes": [
+        "https://mail.liturgia.pt/martirologio/elogio.php?data=2026-11-23"
+      ]
+    },
+    {
+      "nome": "Santo Anfilóquio",
+      "estatuto": "santo — elogio martirológico",
+      "biografia": "Ficha histórica aprofundada pendente; não inferir factos a partir de dados insuficientes.",
+      "milagres": {
+        "oficialmente_reconhecidos": "Não investigado",
+        "tradicao": "Não investigado",
+        "testemunhos": "Não investigado"
+      },
+      "imagem": {
+        "verificada": false,
+        "estado": "Pendente de identificação, licença, ficheiro real e teste de apresentação"
+      },
+      "fontes": [
+        "https://mail.liturgia.pt/martirologio/elogio.php?data=2026-11-23"
+      ]
+    },
+    {
+      "nome": "São Severino de Paris",
+      "estatuto": "santo — elogio martirológico",
+      "biografia": "Ficha histórica aprofundada pendente; não inferir factos a partir de dados insuficientes.",
+      "milagres": {
+        "oficialmente_reconhecidos": "Não investigado",
+        "tradicao": "Não investigado",
+        "testemunhos": "Não investigado"
+      },
+      "imagem": {
+        "verificada": false,
+        "estado": "Pendente de identificação, licença, ficheiro real e teste de apresentação"
+      },
+      "fontes": [
+        "https://mail.liturgia.pt/martirologio/elogio.php?data=2026-11-23"
+      ]
+    },
+    {
+      "nome": "São Gregório de Agrigento",
+      "estatuto": "santo — elogio martirológico",
+      "biografia": "Ficha histórica aprofundada pendente; não inferir factos a partir de dados insuficientes.",
+      "milagres": {
+        "oficialmente_reconhecidos": "Não investigado",
+        "tradicao": "Não investigado",
+        "testemunhos": "Não investigado"
+      },
+      "imagem": {
+        "verificada": false,
+        "estado": "Pendente de identificação, licença, ficheiro real e teste de apresentação"
+      },
+      "fontes": [
+        "https://mail.liturgia.pt/martirologio/elogio.php?data=2026-11-23"
+      ]
+    },
+    {
+      "nome": "São Trudão",
+      "estatuto": "santo — elogio martirológico",
+      "biografia": "Ficha histórica aprofundada pendente; não inferir factos a partir de dados insuficientes.",
+      "milagres": {
+        "oficialmente_reconhecidos": "Não investigado",
+        "tradicao": "Não investigado",
+        "testemunhos": "Não investigado"
+      },
+      "imagem": {
+        "verificada": false,
+        "estado": "Pendente de identificação, licença, ficheiro real e teste de apresentação"
+      },
+      "fontes": [
+        "https://mail.liturgia.pt/martirologio/elogio.php?data=2026-11-23"
+      ]
+    },
+    {
+      "nome": "Santa Cecília Yu So-sa",
+      "estatuto": "santo — elogio martirológico",
+      "biografia": "Ficha histórica aprofundada pendente; não inferir factos a partir de dados insuficientes.",
+      "milagres": {
+        "oficialmente_reconhecidos": "Não investigado",
+        "tradicao": "Não investigado",
+        "testemunhos": "Não investigado"
+      },
+      "imagem": {
+        "verificada": false,
+        "estado": "Pendente de identificação, licença, ficheiro real e teste de apresentação"
+      },
+      "fontes": [
+        "https://mail.liturgia.pt/martirologio/elogio.php?data=2026-11-23"
+      ]
+    }
+  ],
+  "beatos": [
+    {
+      "nome": "Beata Margarida de Sabóia",
+      "estatuto": "beato — memória martirológica",
+      "imagem": {
+        "verificada": false,
+        "estado": "Sem imagem, conforme regra editorial para beatos"
+      },
+      "fontes": [
+        "https://mail.liturgia.pt/martirologio/elogio.php?data=2026-11-23"
+      ]
+    },
+    {
+      "nome": "Beato Miguel Agostinho Pró",
+      "estatuto": "beato — memória martirológica",
+      "imagem": {
+        "verificada": false,
+        "estado": "Sem imagem, conforme regra editorial para beatos"
+      },
+      "fontes": [
+        "https://mail.liturgia.pt/martirologio/elogio.php?data=2026-11-23"
+      ]
+    },
+    {
+      "nome": "Beata Maria Felicidade Cendoya y Araquistain",
+      "estatuto": "beato — memória martirológica",
+      "imagem": {
+        "verificada": false,
+        "estado": "Sem imagem, conforme regra editorial para beatos"
+      },
+      "fontes": [
+        "https://mail.liturgia.pt/martirologio/elogio.php?data=2026-11-23"
+      ]
+    },
+    {
+      "nome": "Beata Henriqueta Alfiéri",
+      "estatuto": "beato — memória martirológica",
+      "imagem": {
+        "verificada": false,
+        "estado": "Sem imagem, conforme regra editorial para beatos"
+      },
+      "fontes": [
+        "https://mail.liturgia.pt/martirologio/elogio.php?data=2026-11-23"
+      ]
+    }
+  ],
+  "pendencias": [
+    "Aprofundar individualmente 12 fichas e 4 beatos",
+    "Investigar e validar imagens de todos os santos",
+    "Rever precedência e calendários particulares",
+    "Testar mobile, desktop, acessibilidade, links, PDF e publicação pública",
+    "Localizar regras integrais v2.0"
+  ],
+  "auditoria": {
+    "inventario": "16 elogios confrontados com Martirológio do SNL; restantes requisitos por rever",
+    "imagens_verificadas": 0,
+    "imagens_pendentes": 12,
+    "validacao_editorial": false,
+    "publicacao_publica_confirmada": false
+  },
+  "fontes": [
+    "https://mail.liturgia.pt/martirologio/elogio.php?data=2026-11-23",
+    "https://www.liturgia.pt/lh/pdf/0911Nov.pdf"
+  ]
+}
