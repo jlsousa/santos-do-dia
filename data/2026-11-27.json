@@ -1,0 +1,264 @@
+{
+  "data": "2026-11-27",
+  "estado": "rascunho",
+  "titulo": "Santos do Dia — 27 de novembro",
+  "liturgia": "Sexta-feira da XXXIV semana do Tempo Comum, féria",
+  "leituras": "Ap 20,1-4.11–21,2; Sl 83(84); Lc 21,29-33",
+  "fontes_liturgia": [
+    "https://paroquiadematosinhos.pt/calendar/liturgia-diaria/"
+  ],
+  "aviso_inventario": "15 elogios: 12 de santos (13 pessoas) e 3 de beatos (13 pessoas).",
+  "inventario_martirologio_preliminar": [
+    "Santos Facundo e Primitivo",
+    "São Lavério",
+    "São Valeriano",
+    "São Tiago Interciso",
+    "São Máximo",
+    "Santo Eusício",
+    "São Sifrido",
+    "Santo Acário",
+    "Santa Bililde",
+    "São Fergusto",
+    "São Virgílio",
+    "São Gulstano",
+    "Beato Bernardino de Fossa (João Amíci)",
+    "Beatos Tomás Koteda Kiuni e dez companheiros",
+    "Beato Bronislau Kostowski"
+  ],
+  "santos": [
+    {
+      "nome": "Santos Facundo e Primitivo",
+      "ordem_martirologio": 1,
+      "local": "Galécia, Espanha",
+      "cronologia": "século IV",
+      "biografia": "Mártires venerados na região do rio Cea.",
+      "estatuto": "santo — memória martirológica",
+      "imagem": {
+        "verificada": false,
+        "estado": "Pendente de investigação iconográfica"
+      },
+      "fontes": [
+        "https://mail.liturgia.pt/martirologio/elogio.php?data=2026-11-27"
+      ]
+    },
+    {
+      "nome": "São Lavério",
+      "ordem_martirologio": 2,
+      "local": "Grumento, Itália",
+      "cronologia": "século IV",
+      "biografia": "Mártir associado à antiga Lucânia.",
+      "estatuto": "santo — memória martirológica",
+      "imagem": {
+        "verificada": false,
+        "estado": "Pendente de investigação iconográfica"
+      },
+      "fontes": [
+        "https://mail.liturgia.pt/martirologio/elogio.php?data=2026-11-27"
+      ]
+    },
+    {
+      "nome": "São Valeriano",
+      "ordem_martirologio": 3,
+      "local": "Aquileia, Itália",
+      "cronologia": "388",
+      "biografia": "Bispo que combateu o arianismo e promoveu a vida comunitária de clérigos e leigos.",
+      "estatuto": "santo — memória martirológica",
+      "imagem": {
+        "verificada": false,
+        "estado": "Pendente de investigação iconográfica"
+      },
+      "fontes": [
+        "https://mail.liturgia.pt/martirologio/elogio.php?data=2026-11-27"
+      ]
+    },
+    {
+      "nome": "São Tiago Interciso",
+      "ordem_martirologio": 4,
+      "local": "Pérsia",
+      "cronologia": "c. 420",
+      "biografia": "Segundo o relato martirológico, retomou a profissão cristã após ter renegado a fé e sofreu o martírio.",
+      "estatuto": "santo — memória martirológica",
+      "imagem": {
+        "verificada": false,
+        "estado": "Pendente de investigação iconográfica"
+      },
+      "fontes": [
+        "https://mail.liturgia.pt/martirologio/elogio.php?data=2026-11-27"
+      ]
+    },
+    {
+      "nome": "São Máximo",
+      "ordem_martirologio": 5,
+      "local": "Riez, França",
+      "cronologia": "depois de 455",
+      "biografia": "Sucedeu a Honorato na direção de Lérins e tornou-se bispo de Riez.",
+      "estatuto": "santo — memória martirológica",
+      "imagem": {
+        "verificada": false,
+        "estado": "Pendente de investigação iconográfica"
+      },
+      "fontes": [
+        "https://mail.liturgia.pt/martirologio/elogio.php?data=2026-11-27"
+      ]
+    },
+    {
+      "nome": "Santo Eusício",
+      "ordem_martirologio": 6,
+      "local": "Blois, França",
+      "cronologia": "542",
+      "biografia": "Eremita associado à região do Cher.",
+      "estatuto": "santo — memória martirológica",
+      "imagem": {
+        "verificada": false,
+        "estado": "Pendente de investigação iconográfica"
+      },
+      "fontes": [
+        "https://mail.liturgia.pt/martirologio/elogio.php?data=2026-11-27"
+      ]
+    },
+    {
+      "nome": "São Sifrido",
+      "ordem_martirologio": 7,
+      "local": "Carpentras, França",
+      "cronologia": "século VI",
+      "biografia": "Bispo venerado na Provença.",
+      "estatuto": "santo — memória martirológica",
+      "imagem": {
+        "verificada": false,
+        "estado": "Pendente de investigação iconográfica"
+      },
+      "fontes": [
+        "https://mail.liturgia.pt/martirologio/elogio.php?data=2026-11-27"
+      ]
+    },
+    {
+      "nome": "Santo Acário",
+      "ordem_martirologio": 8,
+      "local": "Noyon e Tournai",
+      "cronologia": "640",
+      "biografia": "Monge de Luxeuil e bispo dedicado à evangelização.",
+      "estatuto": "santo — memória martirológica",
+      "imagem": {
+        "verificada": false,
+        "estado": "Pendente de investigação iconográfica"
+      },
+      "fontes": [
+        "https://mail.liturgia.pt/martirologio/elogio.php?data=2026-11-27"
+      ]
+    },
+    {
+      "nome": "Santa Bililde",
+      "ordem_martirologio": 9,
+      "local": "Mogúncia, Alemanha",
+      "cronologia": "início do século VIII",
+      "biografia": "Fundadora de uma comunidade monástica feminina.",
+      "estatuto": "santo — memória martirológica",
+      "imagem": {
+        "verificada": false,
+        "estado": "Pendente de investigação iconográfica"
+      },
+      "fontes": [
+        "https://mail.liturgia.pt/martirologio/elogio.php?data=2026-11-27"
+      ]
+    },
+    {
+      "nome": "São Fergusto",
+      "ordem_martirologio": 10,
+      "local": "Escócia",
+      "cronologia": "antes de 721",
+      "biografia": "Bispo ligado pela tradição à evangelização dos Pictos.",
+      "estatuto": "santo — memória martirológica",
+      "imagem": {
+        "verificada": false,
+        "estado": "Pendente de investigação iconográfica"
+      },
+      "fontes": [
+        "https://mail.liturgia.pt/martirologio/elogio.php?data=2026-11-27"
+      ]
+    },
+    {
+      "nome": "São Virgílio",
+      "ordem_martirologio": 11,
+      "local": "Salzburgo, Áustria",
+      "cronologia": "784",
+      "biografia": "Bispo de origem irlandesa, promoveu a catedral e a evangelização da Caríntia.",
+      "estatuto": "santo — memória martirológica",
+      "imagem": {
+        "verificada": false,
+        "estado": "Pendente de investigação iconográfica"
+      },
+      "fontes": [
+        "https://mail.liturgia.pt/martirologio/elogio.php?data=2026-11-27"
+      ]
+    },
+    {
+      "nome": "São Gulstano",
+      "ordem_martirologio": 12,
+      "local": "Bretanha, França",
+      "cronologia": "c. 1040",
+      "biografia": "Monge de Rhuys, conhecido pela oração e auxílio aos navegantes.",
+      "estatuto": "santo — memória martirológica",
+      "imagem": {
+        "verificada": false,
+        "estado": "Pendente de investigação iconográfica"
+      },
+      "fontes": [
+        "https://mail.liturgia.pt/martirologio/elogio.php?data=2026-11-27"
+      ]
+    }
+  ],
+  "beatos": [
+    {
+      "nome": "Beato Bernardino de Fossa (João Amíci)",
+      "biografia": "Franciscano dedicado à pregação em Itália.",
+      "cronologia": "1503",
+      "ordem_martirologio": 13,
+      "fontes": [
+        "https://mail.liturgia.pt/martirologio/elogio.php?data=2026-11-27"
+      ]
+    },
+    {
+      "nome": "Beatos Tomás Koteda Kiuni e dez companheiros",
+      "companheiros": [
+        "Bartolomeu Seki",
+        "António Kimura",
+        "João Iwanaga",
+        "Aleixo Nakamura",
+        "Leão Nakanishi",
+        "Miguel Takeshita",
+        "Matias Kozasa",
+        "Romão Matsuoka Miota",
+        "Matias Nakano Miota",
+        "João Motoyama"
+      ],
+      "biografia": "Mártires de Nagasáqui.",
+      "cronologia": "1619",
+      "ordem_martirologio": 14,
+      "fontes": [
+        "https://mail.liturgia.pt/martirologio/elogio.php?data=2026-11-27"
+      ]
+    },
+    {
+      "nome": "Beato Bronislau Kostowski",
+      "biografia": "Mártir polaco deportado para Dachau durante a ocupação alemã.",
+      "cronologia": "1942",
+      "ordem_martirologio": 15,
+      "fontes": [
+        "https://mail.liturgia.pt/martirologio/elogio.php?data=2026-11-27"
+      ]
+    }
+  ],
+  "pendencias": [
+    "Aprofundamento biográfico e canónico, milagres, relíquias, ligação a Portugal, iconografia e testes públicos.",
+    "Versão integral v2.0 não localizada."
+  ],
+  "auditoria": {
+    "imagens_verificadas": 0,
+    "imagens_pendentes": 12,
+    "validacao_editorial": false,
+    "publicacao_publica_confirmada": false
+  },
+  "fontes": [
+    "https://mail.liturgia.pt/martirologio/elogio.php?data=2026-11-27"
+  ]
+}
